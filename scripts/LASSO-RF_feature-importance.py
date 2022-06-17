@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-import os
-import shap
+import os, sys
+#import shap
 
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -76,7 +76,7 @@ def perform_SMOTE(X, y, k_neighbors=2, random_state=1982):
 
 #--------------------------------------------------------------------------------------------------#
 
-def preload_GEM(include_metadata=True):
+def preload_GEM(include_metadata=True, features_type='both'):
     curr_dir = os.getcwd()
 
     meta_file = curr_dir+'/data/GEM_data/GEM_metadata.tsv'
@@ -84,13 +84,23 @@ def preload_GEM(include_metadata=True):
     path_file = curr_dir+'/data/GEM_data/pathway_features_counts_wide.tsv'
 
     metadata = pd.read_csv(meta_file, sep='\t', header=0, encoding=detect_encoding(meta_file))
-    annot_features = pd.read_csv(annot_file, sep='\t', header=0, encoding=detect_encoding(annot_file))
-    annot_features = normalize_abundances(annot_features)
-    path_features = pd.read_csv(path_file, sep='\t', header=0, encoding=detect_encoding(path_file))
-    path_features = normalize_abundances(path_features)
 
-    data = pd.merge(metadata, path_features, on='genome_id', how='inner')
-    data = pd.merge(data, annot_features, on='genome_id', how='inner')
+    if features_type == 'both':
+        annot_features = pd.read_csv(annot_file, sep='\t', header=0, encoding=detect_encoding(annot_file))
+        annot_features = normalize_abundances(annot_features)
+        path_features = pd.read_csv(path_file, sep='\t', header=0, encoding=detect_encoding(path_file))
+        path_features = normalize_abundances(path_features)
+        data = pd.merge(metadata, path_features, on='genome_id', how='inner')
+        data = pd.merge(data, annot_features, on='genome_id', how='inner')
+
+    elif features_type == 'pathway':
+        path_features = pd.read_csv(path_file, sep='\t', header=0, encoding=detect_encoding(path_file))
+        path_features = normalize_abundances(path_features)
+        data = pd.merge(metadata, path_features, on='genome_id', how='inner')
+    elif features_type == 'annotation':
+        annot_features = pd.read_csv(annot_file, sep='\t', header=0, encoding=detect_encoding(annot_file))
+        annot_features = normalize_abundances(annot_features)
+        data = pd.merge(metadata, annot_features, on='genome_id', how='inner')
 
     label_strings = data['cultured.status']
 
@@ -111,6 +121,7 @@ def preload_GEM(include_metadata=True):
 
     features = pd.get_dummies(features)
     labels = pd.get_dummies(label_strings)['cultured']
+    #print(labels)
 
     return features, labels
 
@@ -118,7 +129,7 @@ def preload_GEM(include_metadata=True):
 
 def run_LASSO(X_train_scaled, X_test_scaled, y_train, param_grid = None):
     if param_grid == None:
-        param_grid = {'alpha':np.arange(0.01, 2, 0.05)}
+        param_grid = {'alpha':np.arange(0.01, 3, 0.05)}
 
     search = GridSearchCV(estimator = Lasso(),
                           param_grid = param_grid,
@@ -132,13 +143,11 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, param_grid = None):
     importance = np.abs(coefficients)
     remove = np.array(X_train_scaled.columns)[importance == 0]
 
-    print('Features being removed:')
-    print(remove)
-
-    if len(remove) != len(X_train_scaled.columns):
+    if len(remove) < len(X_train_scaled.columns):
         LASSO_train = X_train_scaled.loc[:, ~X_train_scaled.columns.isin(remove)]
         LASSO_test = X_test_scaled.loc[:, ~X_test_scaled.columns.isin(remove)]
     else:
+        print('LASSO COULDNT DECIDE')
         LASSO_train = X_train_scaled
         LASSO_test = X_test_scaled
 
@@ -146,7 +155,7 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, param_grid = None):
 
 #--------------------------------------------------------------------------------------------------#
 
-def plot_confusion_matrix(y_pred, y_actual, title, path, color):
+def plot_confusion_matrix(y_pred, y_actual, title, path, color=None):
     if color == None:
         color = 'Oranges'
 
@@ -186,6 +195,62 @@ def plot_auc(y_pred, y_actual, title, path):
 
 #--------------------------------------------------------------------------------------------------#
 
+def plot_feature_importance(columns, importances, path):
+    plt.figure(figsize=(16,8))
+    sorted_idx = importances.argsort()
+    sorted_idx = [i for i in sorted_idx if importances[i] > 0.01]
+    plt.barh(columns[sorted_idx], importances[sorted_idx])
+    plt.xlabel('Gini Values')
+    plt.title('Random Forest Feature Importance')
+    plt.tight_layout()
+    plt.savefig(path)
+    plt.close()
+
+#--------------------------------------------------------------------------------------------------#
+
+#taken from here: https://stats.stackexchange.com/questions/288736/random-forest-positive-negative-feature-importance
+def calculate_pseudo_coefficients(X, y, thr, probs, importances, nfeatures, path):
+    dec = list(map(lambda x: (x> thr)*1, probs))
+    val_c = X.copy()
+
+    #scale features for visualization
+    val_c = pd.DataFrame(StandardScaler().fit_transform(val_c), columns=X.columns)
+
+    val_c = val_c[importances.sort_values('importance', ascending=False).index[0:nfeatures]]
+    val_c['t']=y
+    val_c['p']=dec
+    val_c['err']=np.NAN
+    #print(val_c)
+
+    val_c.loc[(val_c['t']==0)&(val_c['p']==1),'err'] = 3#'fp'
+    val_c.loc[(val_c['t']==0)&(val_c['p']==0),'err'] = 2#'tn'
+    val_c.loc[(val_c['t']==1)&(val_c['p']==1),'err'] = 1#'tp'
+    val_c.loc[(val_c['t']==1)&(val_c['p']==0),'err'] = 4#'fn'
+
+    n_fp = len(val_c.loc[(val_c['t']==0)&(val_c['p']==1),'err'])
+    n_tn = len(val_c.loc[(val_c['t']==0)&(val_c['p']==0),'err'])
+    n_tp = len(val_c.loc[(val_c['t']==1)&(val_c['p']==1),'err'])
+    n_fn = len(val_c.loc[(val_c['t']==1)&(val_c['p']==0),'err'])
+
+    fp = np.round(val_c[(val_c['t']==0)&(val_c['p']==1)].mean(),2)
+    tn = np.round(val_c[(val_c['t']==0)&(val_c['p']==0)].mean(),2)
+    tp =  np.round(val_c[(val_c['t']==1)&(val_c['p']==1)].mean(),2)
+    fn =  np.round(val_c[(val_c['t']==1)&(val_c['p']==0)].mean(),2)
+
+
+    c = pd.concat([tp,fp,tn,fn],names=['tp','fp','tn','fn'],axis=1)
+    pd.set_option('display.max_colwidth',900)
+    c = c[0:-3]
+
+    c.columns = ['TP','FP','TN','FN']
+
+    c.plot.bar()
+    plt.title('Relative Scaled Model Coefficients for True/False Positive Rates')
+    plt.savefig(path)
+    plt.close()
+
+#--------------------------------------------------------------------------------------------------#
+
 def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_grid=None, label=None, title=None, color=None):
 
     if param_grid == None:
@@ -211,7 +276,6 @@ def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_
     clf.fit(X_train, y_train)
 
     print('Features selected by LASSO:')
-    print(X_train.columns)
 
     print('Predicting on test data for label:', label)
     y_pred = clf.predict(X_test)
@@ -243,23 +307,34 @@ def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_
     print()
 
     print('Calculating feature importance...')
-    explainer = shap.TreeExplainer(clf.best_estimator_)
-    shap_values = explainer.shap_values(X_test)
+    importances = pd.DataFrame(clf.best_estimator_.feature_importances_, index=X_train.columns, columns=['importance'])
+    importances = importances[importances['importance'] > 0.01]
+    plot_feature_importance(X_train.columns, clf.best_estimator_.feature_importances_, filename+'_FI-gini.png')
+    calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
 
-    shap.summary_plot(shap_values, X_test, plot_type="bar")
-    plt.savefig(filename+'_FI-barplot.png', bbox_inches='tight')
-    plt.close()
-
-    shap.summary_plot(shap_values, X_test, plot_type='dot')
-    plt.savefig(filename+'_FI-summary.png', bbox_inches='tight')
-    plt.close()
+    # explainer = shap.TreeExplainer(clf.best_estimator_)
+    # shap_values = explainer.shap_values(X_test)
+    #
+    # shap.summary_plot(shap_values, X_test, plot_type="bar")
+    # plt.savefig(filename+'_FI-barplot.png', bbox_inches='tight')
+    # plt.close()
+    #
+    # shap.summary_plot(shap_values, X_test, plot_type='dot')
+    # plt.savefig(filename+'_FI-summary.png', bbox_inches='tight')
+    # plt.close()
 
 
 #--------------------------------------------------------------------------------------------------#
 
 if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print('Usage: python3 '+str(sys.argv[0])+' [pathway, annotation, both]')
+        exit
+
+    features_type_ = sys.argv[1]
+
     print('Loading GEM...')
-    features, labels = preload_GEM(include_metadata=False)
+    features, labels = preload_GEM(include_metadata=False, features_type=features_type_)
 
     print('Pre-preprocessing data...')
     features = clean_data(features)
@@ -269,5 +344,6 @@ if __name__ == '__main__':
     print('Running LASSO...')
     X_train_reduced, X_test_reduced = run_LASSO(X_train, X_test, y_train)
 
+    print(X_train_reduced.columns)
     print('Running Random Forests...')
-    run_RF(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-RF-GEM-both', image_path='./figures', color='cool')
+    run_RF(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-RF-GEM-'+str(features_type_), image_path='./figures', color='Blues')
