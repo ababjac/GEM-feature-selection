@@ -14,6 +14,7 @@ from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.linear_model import Lasso
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score
+from sklearn.inspection import PartialDependenceDisplay
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -256,7 +257,7 @@ def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_
     if param_grid == None:
         param_grid = {
             'n_estimators': [200, 500],
-            'max_features': ['auto', 'sqrt', 'log2'],
+            'max_features': ['sqrt', 'log2'],
             'max_depth' : [4,5,6,7,8],
             'criterion' :['gini', 'entropy'],
         }
@@ -306,23 +307,29 @@ def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_
 
     print()
 
-    print('Calculating feature importance...')
-    importances = pd.DataFrame(clf.best_estimator_.feature_importances_, index=X_train.columns, columns=['importance'])
-    importances = importances[importances['importance'] > 0.01]
-    plot_feature_importance(X_train.columns, clf.best_estimator_.feature_importances_, filename+'_FI-gini.png')
-    calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
+    # print('Calculating feature importance...')
+    # importances = pd.DataFrame(clf.best_estimator_.feature_importances_, index=X_train.columns, columns=['importance'])
+    # importances = importances[importances['importance'] > 0.01]
+    # plot_feature_importance(X_train.columns, clf.best_estimator_.feature_importances_, filename+'_FI-gini.png')
+    # calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
 
-    # explainer = shap.TreeExplainer(clf.best_estimator_)
-    # shap_values = explainer.shap_values(X_test)
-    #
-    # shap.summary_plot(shap_values, X_test, plot_type="bar")
-    # plt.savefig(filename+'_FI-barplot.png', bbox_inches='tight')
-    # plt.close()
-    #
-    # shap.summary_plot(shap_values, X_test, plot_type='dot')
-    # plt.savefig(filename+'_FI-summary.png', bbox_inches='tight')
-    # plt.close()
+    sorted_idx = clf.best_estimator_.feature_importances_.argsort()
+    PartialDependenceDisplay.from_estimator(clf.best_estimator_, X_test, [sorted_idx[0]], kind='both', target=1, centered=True)
+    name = X_train.columns[sorted_idx[0]].replace(' ', '')
+    plt.savefig(filename+'_PDP-'+name+'.png')
+    plt.close()
 
+
+#--------------------------------------------------------------------------------------------------#
+
+def write_list_to_file(filename, l):
+    file = open(filename, 'w')
+
+    for elem in l:
+        file.write(elem)
+        file.write('\n')
+
+    file.close()
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -343,7 +350,7 @@ if __name__ == '__main__':
 
     print('Running LASSO...')
     X_train_reduced, X_test_reduced = run_LASSO(X_train, X_test, y_train)
+    write_list_to_file('files/LASSO-features-'+str(features_type_)+'-list.txt', list(X_train_reduced.columns))
 
-    print(X_train_reduced.columns)
     print('Running Random Forests...')
     run_RF(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-RF-GEM-'+str(features_type_), image_path='./figures', color='Blues')
