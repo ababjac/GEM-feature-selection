@@ -1,0 +1,30 @@
+16S rRNA modification : 0.028466206314725035
+Aminoacyl-tRNA synthetases : -0.021050641825214444
+Asparagine biosynthesis : -0.01581548147329194
+Biotin biosynthesis : -0.001076138803569003
+CRISPR-Cas system : 0.0017870898899229823
+Fatty acid biosynthesis : -0.011970853372839603
+Folate biosynthesis : 0.014090985080773156
+Glutamine biosynthesis : -0.02360375842464004
+Glycine cleavage : -0.013688347913154174
+Glycine cleavagePyruvate oxidation : 0.010647362372511456
+Glycolysis : 0.022248633752201617
+Isoprenoid biosynthesis : 0.020157641755957124
+NAD biosynthesis : 0.0052019532689834
+NADH dehydrogenase : -0.03570405758223194
+Non-phosphorylated Entner-Doudoroff pathway : -0.020262092378130408
+Pentose phosphate pathway : 0.024262930488933354
+Pyridoxal phosphate biosynthesis : 0.03662108724772707
+Pyrimidine degradation : 0.02603123105001818
+Pyrimidine salvage : 0.01535166182259699
+Pyruvate oxidation : -0.007989303890163035
+TCA cycle, glyoxylate bypass : 0.0024717105350024427
+Thiamine biosynthesis : 0.06096353923907375
+Threonine biosynthesis : -0.0007323779680225628
+Translation factors : -0.015124596913371056
+Ubiquinone biosynthesis : -0.03919148082513729
+A/V-type ATP synthase : 0.0020576359619798082
+2Fe2S : -0.02228222722889543
+3D : 0.0012079399314764232
+Entner-Doudoroff pathway : -0.004974610529229642
+Na+-translocating NADH dehydrogenase : 0.016449011756120277

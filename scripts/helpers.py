@@ -73,6 +73,17 @@ def perform_SMOTE(X, y, k_neighbors=2, random_state=1982):
 
 #--------------------------------------------------------------------------------------------------#
 
+def write_list_to_file(filename, l):
+    file = open(filename, 'w')
+
+    for elem in l:
+        file.write(elem)
+        file.write('\n')
+
+    file.close()
+
+#--------------------------------------------------------------------------------------------------#
+
 def preload_GEM(include_metadata=True, features_type='both', test_mode=False):
 
     if test_mode:
@@ -154,6 +165,10 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, param_grid = None):
         LASSO_train = X_train_scaled
         LASSO_test = X_test_scaled
 
+    coef = [c for c in coefficients if c != 0]
+    l = [colname+' : '+str(coefficient) for colname, coefficient in zip(list(LASSO_train.columns), coef)]
+    write_list_to_file('files/LASSO-coefficients-annotation-list.txt', l)
+
     return LASSO_train, LASSO_test
 
 #--------------------------------------------------------------------------------------------------#
@@ -195,16 +210,5 @@ def plot_auc(y_pred, y_actual, title, path):
     plt.legend()
     plt.savefig(path)
     plt.close()
-
-#--------------------------------------------------------------------------------------------------#
-
-def write_list_to_file(filename, l):
-    file = open(filename, 'w')
-
-    for elem in l:
-        file.write(elem)
-        file.write('\n')
-
-    file.close()
 
 #--------------------------------------------------------------------------------------------------#
