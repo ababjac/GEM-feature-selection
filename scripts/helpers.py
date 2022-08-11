@@ -141,6 +141,60 @@ def preload_GEM(include_metadata=True, features_type='both', test_mode=False):
 
 #--------------------------------------------------------------------------------------------------#
 
+def preload_MALARIA(include_metadata=True):
+    curr_dir = os.getcwd()
+
+    meta1_file = curr_dir+'/data/malaria_data/mok_meta.tsv'
+    meta2_file = curr_dir+'/data/malaria_data/zhu_meta.csv'
+    expr_file = curr_dir+'/data/malaria_data/new_expression.csv'
+
+    metadata1 = pd.read_csv(meta1_file, sep='\t', header=0, encoding=detect_encoding(meta1_file))
+    metadata2 = pd.read_csv(meta2_file, header=0, encoding=detect_encoding(meta2_file))
+    metadata1['SampleID'] = metadata1['SampleID'].str.replace('-', '.')
+    metadata = pd.merge(metadata1, metadata2, on='SampleID', how='inner')
+
+    expr_features = pd.read_csv(expr_file, header=0, index_col=0, encoding=detect_encoding(expr_file)).fillna(0)
+    expr_features = expr_features.T
+    expr_features = expr_features.reset_index()
+    expr_features.rename(columns={'index':'GenotypeID'}, inplace=True)
+
+    data = pd.merge(metadata, expr_features, on='GenotypeID', how='inner')
+
+    data = data[(data['Clearance'] >= 6) | (data['Clearance'] < 5)] #these are likely "semi-resistant" samples so remove
+    data['Resistant'] =  np.where(data['Clearance'] >= 6.0, 1, 0)
+
+    features = data.loc[:, ~data.columns.isin(['Clearance', 'Resistant', 'SampleID', 'GenotypeID', 'SampleID.Pf3k', 'Parasites clearance time', 'Field_site'])] #remove labels
+    if not include_metadata: #remove metadata
+        features = features.loc[:, ~features.columns.isin(['FieldsiteName',
+                                                           'Country',
+                                                           'Hemoglobin(g/dL)',
+                                                           'Hematocrit(%)',
+                                                           'parasitemia',
+                                                           'Parasite count',
+                                                           'Sample collection time(24hr)',
+                                                           'Patient temperature',
+                                                           'Drug',
+                                                           'ACT_partnerdrug',
+                                                           'Duration of lag phase',
+                                                           'PC50',
+                                                           'PC90',
+                                                           'Estimated HPI',
+                                                           'Estimated gametocytes proportion',
+                                                           'ArtRFounders',
+                                                           'Timepoint',
+                                                           'RNA',
+                                                           'Asexual_stage',
+                                                           'Lifestage',
+                                                           'Long_class'
+                                                           ])]
+
+    features = pd.get_dummies(features)
+    labels = data['Resistant']
+
+    return features, labels
+
+#--------------------------------------------------------------------------------------------------#
+
 def run_LASSO(X_train_scaled, X_test_scaled, y_train, param_grid = None):
     if param_grid == None:
         param_grid = {'alpha':np.arange(0.01, 3, 0.05)}
@@ -165,9 +219,9 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, param_grid = None):
         LASSO_train = X_train_scaled
         LASSO_test = X_test_scaled
 
-    coef = [c for c in coefficients if c != 0]
-    l = [colname+' : '+str(coefficient) for colname, coefficient in zip(list(LASSO_train.columns), coef)]
-    write_list_to_file('files/LASSO-coefficients-annotation-list.txt', l)
+    # coef = [c for c in coefficients if c != 0]
+    # l = [colname+' : '+str(coefficient) for colname, coefficient in zip(list(LASSO_train.columns), coef)]
+    # write_list_to_file('files/LASSO-coefficients-annotation-list.txt', l)
 
     return LASSO_train, LASSO_test
 

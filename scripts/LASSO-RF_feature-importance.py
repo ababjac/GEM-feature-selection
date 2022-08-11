@@ -92,8 +92,6 @@ def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_
     print('Building model for label:', label)
     clf.fit(X_train, y_train)
 
-    print('Features selected by LASSO:')
-
     print('Predicting on test data for label:', label)
     y_pred = clf.predict(X_test)
     y_prob = clf.predict_proba(X_test) #get probabilities for AUC
@@ -116,10 +114,10 @@ def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_
         title = label
 
     print('Calculating AUC score...')
-    helpers.plot_auc(y_pred=probs, y_actual=y_test, title='AUC for '+title, path=filename+'_AUC.png')
+    #helpers.plot_auc(y_pred=probs, y_actual=y_test, title='AUC for '+title, path=filename+'_AUC.png')
 
     print('Plotting:', label)
-    helpers.plot_confusion_matrix(y_pred=y_pred, y_actual=y_test, title=title, path=filename+'_CM.png', color=color)
+    #helpers.plot_confusion_matrix(y_pred=y_pred, y_actual=y_test, title=title, path=filename+'_CM.png', color=color)
 
     print()
 
@@ -129,11 +127,12 @@ def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_
     # plot_feature_importance(X_train.columns, clf.best_estimator_.feature_importances_, filename+'_FI-gini.png')
     # calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
 
-    sorted_idx = clf.best_estimator_.feature_importances_.argsort()
-    #print(sorted_idx)
+    sorted_idx = clf.best_estimator_.feature_importances_.argsort()[::-1]
+    print(sorted_idx)
     for i in range(10):
-        PartialDependenceDisplay.from_estimator(clf.best_estimator_, X_test, [sorted_idx[i]], kind='both', target=0, centered=True)
+        PartialDependenceDisplay.from_estimator(clf.best_estimator_, X_test, [sorted_idx[i]], target=0, centered=True)
         name = X_train.columns[sorted_idx[i]].replace(' ', '').replace('/', '_')
+        print(name)
         plt.savefig(filename+'_PDP-'+name+'.png')
         plt.close()
 
@@ -142,7 +141,7 @@ def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_
 
 
 if __name__ == '__main__':
-    if len(sys.argv) < 2:
+    if len(sys.argv) < 3:
         print('Usage: python3 '+str(sys.argv[0])+' [pathway, annotation, both]')
         exit
 
@@ -150,6 +149,7 @@ if __name__ == '__main__':
 
     print('Loading GEM...')
     features, labels = helpers.preload_GEM(include_metadata=False, features_type=features_type_)
+    #features, labels = helpers.preload_MALARIA()#include_metadata=False)
 
     print('Pre-preprocessing data...')
     features = helpers.clean_data(features)
@@ -158,8 +158,7 @@ if __name__ == '__main__':
 
     print('Running LASSO...')
     X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train)
-    #helpers.write_list_to_file('files/LASSO-features-'+str(features_type_)+'-list.txt', list(X_train_reduced.columns))
+    #helpers.write_list_to_file('files/LASSO-features-malaria-list.txt', list(X_train_reduced.columns))
 
-
-    # print('Running Random Forests...')
-    # run_RF(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-RF-GEM-'+str(features_type_), image_path='./figures/LASSO-RF', color='Blues')
+    print('Running Random Forests...')
+    run_RF(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-RF-GEM-'+str(features_type_), image_path='./figures/LASSO-RF', color='Blues')
