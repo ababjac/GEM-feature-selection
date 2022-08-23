@@ -118,7 +118,7 @@ def preload_GEM(include_metadata=True, features_type='both', test_mode=False):
 
     label_strings = data['cultured.status']
 
-    features = data.loc[:, ~data.columns.isin(['genome_id', 'cultured.status'])] #remove labels
+    features = data.loc[:, ~data.columns.isin(['genome_id','cultured.status'])] #remove labels
     if not include_metadata: #remove metadata
         features = features.loc[:, ~features.columns.isin(['culture.level',
                                                            'taxonomic.dist',
@@ -221,7 +221,7 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, param_grid = None):
 
     # coef = [c for c in coefficients if c != 0]
     # l = [colname+' : '+str(coefficient) for colname, coefficient in zip(list(LASSO_train.columns), coef)]
-    # write_list_to_file('files/LASSO-coefficients-annotation-list.txt', l)
+    # write_list_to_file('files/LASSO-coefficients-malaria-list-nometa.txt', l)
 
     return LASSO_train, LASSO_test
 
@@ -238,15 +238,19 @@ def plot_confusion_matrix(y_pred, y_actual, title, path, color=None):
         tmp = [val, 0]
         cf_matrix = np.array([tmp, [0, 0]])
 
-    ax = sns.heatmap(cf_matrix, annot=True, cmap=color)
+    #print(cf_matrix)
+
+    ax = sns.heatmap(cf_matrix, annot=True, cmap=color, fmt='g')
 
     ax.set_title(title+'\n\n');
     ax.set_xlabel('\nPredicted Values')
     ax.set_ylabel('Actual Values\n');
 
     ## Ticket labels - List must be in alphabetical order
-    ax.xaxis.set_ticklabels(['False','True'])
-    ax.yaxis.set_ticklabels(['False','True'])
+    ax.xaxis.set_ticklabels(['Uncultured','Cultured'])
+    ax.yaxis.set_ticklabels(['Uncultured','Cultured'])
+    #ax.ticklabel_format(useOffset=False)
+    #plt.ticklabel_format(style='plain')
 
     ## Display the visualization of the Confusion Matrix.
     plt.tight_layout()
@@ -266,3 +270,81 @@ def plot_auc(y_pred, y_actual, title, path):
     plt.close()
 
 #--------------------------------------------------------------------------------------------------#
+
+def plot_feature_importance(columns, importances, path):
+    plt.figure(figsize=(16,8))
+    sorted_idx = importances.argsort()
+    sorted_idx = [i for i in sorted_idx if importances[i] > 0.01]
+    plt.barh(columns[sorted_idx], importances[sorted_idx])
+    plt.xlabel('Gini Values')
+    plt.title('Random Forest Feature Importance')
+    plt.tight_layout()
+    plt.savefig(path)
+    plt.close()
+
+#--------------------------------------------------------------------------------------------------#
+
+#taken from here: https://stats.stackexchange.com/questions/288736/random-forest-positive-negative-feature-importance
+def calculate_pseudo_coefficients(X, y, thr, probs, importances, nfeatures, path):
+    dec = list(map(lambda x: (x> thr)*1, probs))
+    val_c = X.copy()
+
+    #scale features for visualization
+    val_c = pd.DataFrame(StandardScaler().fit_transform(val_c), columns=X.columns)
+
+    val_c = val_c[importances.sort_values('importance', ascending=False).index[0:nfeatures]]
+    val_c['t']=y
+    val_c['p']=dec
+    val_c['err']=np.NAN
+    #print(val_c)
+
+    val_c.loc[(val_c['t']==0)&(val_c['p']==1),'err'] = 3#'fp'
+    val_c.loc[(val_c['t']==0)&(val_c['p']==0),'err'] = 2#'tn'
+    val_c.loc[(val_c['t']==1)&(val_c['p']==1),'err'] = 1#'tp'
+    val_c.loc[(val_c['t']==1)&(val_c['p']==0),'err'] = 4#'fn'
+
+    n_fp = len(val_c.loc[(val_c['t']==0)&(val_c['p']==1),'err'])
+    n_tn = len(val_c.loc[(val_c['t']==0)&(val_c['p']==0),'err'])
+    n_tp = len(val_c.loc[(val_c['t']==1)&(val_c['p']==1),'err'])
+    n_fn = len(val_c.loc[(val_c['t']==1)&(val_c['p']==0),'err'])
+
+    fp = np.round(val_c[(val_c['t']==0)&(val_c['p']==1)].mean(),2)
+    tn = np.round(val_c[(val_c['t']==0)&(val_c['p']==0)].mean(),2)
+    tp =  np.round(val_c[(val_c['t']==1)&(val_c['p']==1)].mean(),2)
+    fn =  np.round(val_c[(val_c['t']==1)&(val_c['p']==0)].mean(),2)
+
+
+    c = pd.concat([tp,fp,tn,fn],names=['tp','fp','tn','fn'],axis=1)
+    pd.set_option('display.max_colwidth',900)
+    c = c[0:-3]
+
+    c.columns = ['TP','FP','TN','FN']
+
+    c.plot.bar()
+    plt.title('Relative Scaled Model Coefficients for True/False Positive Rates')
+    plt.savefig(path)
+    plt.close()
+
+#--------------------------------------------------------------------------------------------------#
+
+def get_rate(act, pred):
+    if act == 'Cultured' and pred == 'Cultured':
+        return 'TP'
+    elif act == 'Cultured' and pred == 'Uncultured':
+        return 'FN'
+    elif act == 'Uncultured' and pred == 'Cultured':
+        return 'FP'
+    else:
+        return 'TN'
+
+def write_rates_csv(y_actual, y_pred):
+    df = pd.DataFrame(list(zip(y_actual, y_pred)), columns=['Actual', 'Predicted'])
+
+    df.replace(1, 'Cultured', inplace=True)
+    df.replace(0, 'Uncultured', inplace=True)
+
+    l = [get_rate(elem1, elem2) for elem1, elem2 in list(zip(df['Actual'], df['Predicted']))]
+
+    df['Category'] = l
+
+    print(df.value_counts())

@@ -8,6 +8,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score
 
 import helpers
 
+#--------------------------------------------------------------------------------------------------#
 
 def run_XGBoost(X_train, X_test, y_train, y_test, image_name, image_path=None, label=None, title=None, color=None):
     if label == None:
@@ -28,6 +29,7 @@ def run_XGBoost(X_train, X_test, y_train, y_test, image_name, image_path=None, l
     print("Precision:", precision_score(y_test, y_pred))
     print("Recall:", recall_score(y_test, y_pred))
 
+    helpers.write_rates_csv(y_test, y_pred)
     if image_path != None:
         if image_path[-1] != '/':
             filename = image_path+'/'+image_name
@@ -38,9 +40,14 @@ def run_XGBoost(X_train, X_test, y_train, y_test, image_name, image_path=None, l
 
     if title == None:
         title = label
-
-    #print(clf.feature_importances_)
-
+    #
+    # #print(clf.feature_importances_)
+    # print('Calculating feature importance...')
+    # importances = pd.DataFrame(clf.feature_importances_, index=X_train.columns, columns=['importance'])
+    # importances = importances[importances['importance'] > 0.01]
+    # helpers.plot_feature_importance(X_train.columns, clf.feature_importances_, filename+'_FI-gini.png')
+    # helpers.calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
+    #
     print('Calculating AUC score...')
     helpers.plot_auc(y_pred=probs, y_actual=y_test, title='AUC for '+title, path=filename+'_AUC.png')
 

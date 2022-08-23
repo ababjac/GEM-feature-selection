@@ -12,62 +12,6 @@ import helpers
 
 #--------------------------------------------------------------------------------------------------#
 
-def plot_feature_importance(columns, importances, path):
-    plt.figure(figsize=(16,8))
-    sorted_idx = importances.argsort()
-    sorted_idx = [i for i in sorted_idx if importances[i] > 0.01]
-    plt.barh(columns[sorted_idx], importances[sorted_idx])
-    plt.xlabel('Gini Values')
-    plt.title('Random Forest Feature Importance')
-    plt.tight_layout()
-    plt.savefig(path)
-    plt.close()
-
-#--------------------------------------------------------------------------------------------------#
-
-#taken from here: https://stats.stackexchange.com/questions/288736/random-forest-positive-negative-feature-importance
-def calculate_pseudo_coefficients(X, y, thr, probs, importances, nfeatures, path):
-    dec = list(map(lambda x: (x> thr)*1, probs))
-    val_c = X.copy()
-
-    #scale features for visualization
-    val_c = pd.DataFrame(StandardScaler().fit_transform(val_c), columns=X.columns)
-
-    val_c = val_c[importances.sort_values('importance', ascending=False).index[0:nfeatures]]
-    val_c['t']=y
-    val_c['p']=dec
-    val_c['err']=np.NAN
-    #print(val_c)
-
-    val_c.loc[(val_c['t']==0)&(val_c['p']==1),'err'] = 3#'fp'
-    val_c.loc[(val_c['t']==0)&(val_c['p']==0),'err'] = 2#'tn'
-    val_c.loc[(val_c['t']==1)&(val_c['p']==1),'err'] = 1#'tp'
-    val_c.loc[(val_c['t']==1)&(val_c['p']==0),'err'] = 4#'fn'
-
-    n_fp = len(val_c.loc[(val_c['t']==0)&(val_c['p']==1),'err'])
-    n_tn = len(val_c.loc[(val_c['t']==0)&(val_c['p']==0),'err'])
-    n_tp = len(val_c.loc[(val_c['t']==1)&(val_c['p']==1),'err'])
-    n_fn = len(val_c.loc[(val_c['t']==1)&(val_c['p']==0),'err'])
-
-    fp = np.round(val_c[(val_c['t']==0)&(val_c['p']==1)].mean(),2)
-    tn = np.round(val_c[(val_c['t']==0)&(val_c['p']==0)].mean(),2)
-    tp =  np.round(val_c[(val_c['t']==1)&(val_c['p']==1)].mean(),2)
-    fn =  np.round(val_c[(val_c['t']==1)&(val_c['p']==0)].mean(),2)
-
-
-    c = pd.concat([tp,fp,tn,fn],names=['tp','fp','tn','fn'],axis=1)
-    pd.set_option('display.max_colwidth',900)
-    c = c[0:-3]
-
-    c.columns = ['TP','FP','TN','FN']
-
-    c.plot.bar()
-    plt.title('Relative Scaled Model Coefficients for True/False Positive Rates')
-    plt.savefig(path)
-    plt.close()
-
-#--------------------------------------------------------------------------------------------------#
-
 def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_grid=None, label=None, title=None, color=None):
 
     if param_grid == None:
@@ -114,42 +58,43 @@ def run_RF(X_train, X_test, y_train, y_test, image_name, image_path=None, param_
         title = label
 
     print('Calculating AUC score...')
-    #helpers.plot_auc(y_pred=probs, y_actual=y_test, title='AUC for '+title, path=filename+'_AUC.png')
+    helpers.plot_auc(y_pred=probs, y_actual=y_test, title='AUC for '+title, path=filename+'_AUC.png')
 
     print('Plotting:', label)
-    #helpers.plot_confusion_matrix(y_pred=y_pred, y_actual=y_test, title=title, path=filename+'_CM.png', color=color)
+    helpers.plot_confusion_matrix(y_pred=y_pred, y_actual=y_test, title=title, path=filename+'_CM.png', color=color)
 
     print()
+    helpers.write_rates_csv(y_test, y_pred)
 
     # print('Calculating feature importance...')
     # importances = pd.DataFrame(clf.best_estimator_.feature_importances_, index=X_train.columns, columns=['importance'])
     # importances = importances[importances['importance'] > 0.01]
-    # plot_feature_importance(X_train.columns, clf.best_estimator_.feature_importances_, filename+'_FI-gini.png')
-    # calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
+    # helpers.plot_feature_importance(X_train.columns, clf.best_estimator_.feature_importances_, filename+'_FI-gini.png')
+    # helpers.calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
 
-    sorted_idx = clf.best_estimator_.feature_importances_.argsort()[::-1]
-    print(sorted_idx)
-    for i in range(10):
-        PartialDependenceDisplay.from_estimator(clf.best_estimator_, X_test, [sorted_idx[i]], target=0, centered=True)
-        name = X_train.columns[sorted_idx[i]].replace(' ', '').replace('/', '_')
-        print(name)
-        plt.savefig(filename+'_PDP-'+name+'.png')
-        plt.close()
+    # sorted_idx = clf.best_estimator_.feature_importances_.argsort()[::-1]
+    # #print(sorted_idx)
+    # for i in range(10):
+    #     PartialDependenceDisplay.from_estimator(clf.best_estimator_, X_test, [sorted_idx[i]], target=0, centered=True)
+    #     name = X_train.columns[sorted_idx[i]].replace(' ', '').replace('/', '_')
+    #     #print(name)
+    #     plt.savefig(filename+'_PDP-'+name+'.png')
+    #     plt.close()
 
 
 #--------------------------------------------------------------------------------------------------#
 
 
 if __name__ == '__main__':
-    if len(sys.argv) < 3:
-        print('Usage: python3 '+str(sys.argv[0])+' [pathway, annotation, both]')
-        exit
-
+    # if len(sys.argv) < 3:
+    #     print('Usage: python3 '+str(sys.argv[0])+' [pathway, annotation, both]')
+    #     exit
+    #
     features_type_ = sys.argv[1]
 
-    print('Loading GEM...')
+    print('Loading data...')
     features, labels = helpers.preload_GEM(include_metadata=False, features_type=features_type_)
-    #features, labels = helpers.preload_MALARIA()#include_metadata=False)
+    #features, labels = helpers.preload_MALARIA(include_metadata=False)
 
     print('Pre-preprocessing data...')
     features = helpers.clean_data(features)
