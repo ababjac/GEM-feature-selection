@@ -40,14 +40,14 @@ def run_XGBoost(X_train, X_test, y_train, y_test, image_name, image_path=None, l
 
     if title == None:
         title = label
-    #
-    # #print(clf.feature_importances_)
-    # print('Calculating feature importance...')
-    # importances = pd.DataFrame(clf.feature_importances_, index=X_train.columns, columns=['importance'])
-    # importances = importances[importances['importance'] > 0.01]
-    # helpers.plot_feature_importance(X_train.columns, clf.feature_importances_, filename+'_FI-gini.png')
-    # helpers.calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
-    #
+
+    #print(clf.feature_importances_)
+    print('Calculating feature importance...')
+    importances = pd.DataFrame(clf.feature_importances_, index=X_train.columns, columns=['importance'])
+    importances = importances[importances['importance'] > 0.01]
+    helpers.plot_feature_importance(X_train.columns, clf.feature_importances_, filename+'_FI-gini.png')
+    helpers.calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
+
     print('Calculating AUC score...')
     helpers.plot_auc(y_pred=probs, y_actual=y_test, title='AUC for '+title, path=filename+'_AUC.png')
 
@@ -74,5 +74,8 @@ if __name__ == '__main__':
     X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels)
     X_test, y_test = helpers.perform_SMOTE(X_test, y_test)
 
+    print('Running LASSO...')
+    X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train)
+
     print('Running XGBoost...')
-    run_XGBoost(X_train, X_test, y_train, y_test, 'XGBoost-GEM-'+str(features_type_), image_path='./figures/XGBoost', color='Blues')
+    run_XGBoost(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-XGBoost-GEM-'+str(features_type_), image_path='./figures/XGBoost', color='Blues')
