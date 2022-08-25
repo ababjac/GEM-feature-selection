@@ -72,10 +72,10 @@ if __name__ == '__main__':
     print('Pre-preprocessing data...')
     features = helpers.clean_data(features)
     X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels)
-    X_test, y_test = helpers.perform_SMOTE(X_test, y_test)
+    #X_test, y_test = helpers.perform_SMOTE(X_test, y_test)
 
     print('Running LASSO...')
     X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train)
 
     print('Running XGBoost...')
-    run_XGBoost(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-XGBoost-GEM-'+str(features_type_), image_path='./figures/XGBoost', color='Blues')
+    run_XGBoost(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-XGBoost-GEM-nosmote-'+str(features_type_), image_path='./figures/XGBoost', color='Blues')
