@@ -1,0 +1,3 @@
+Glycine cleavage : 0.0047792632693025305
+Thiamine biosynthesis : 0.001207255113150907
+Entner-Doudoroff pathway : 0.035993253622999016

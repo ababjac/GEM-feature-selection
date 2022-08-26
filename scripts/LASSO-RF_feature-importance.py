@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import sys
+import os
 import matplotlib.pyplot as plt
 
 from sklearn.ensemble import RandomForestClassifier
@@ -90,20 +91,74 @@ if __name__ == '__main__':
     #     print('Usage: python3 '+str(sys.argv[0])+' [pathway, annotation, both]')
     #     exit
     #
-    features_type_ = sys.argv[1]
+    #features_type_ = sys.argv[1]
 
     print('Loading data...')
-    features, labels = helpers.preload_GEM(include_metadata=False, features_type=features_type_)
+    #features, labels = helpers.preload_GEM(include_metadata=False, test_mode=True)# features_type=features_type_)
     #features, labels = helpers.preload_MALARIA(include_metadata=False)
+    curr_dir = os.getcwd()
 
-    print('Pre-preprocessing data...')
-    features = helpers.clean_data(features)
-    X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels)
-    X_test, y_test = helpers.perform_SMOTE(X_test, y_test)
+    meta_file = curr_dir+'/data/GEM_data/GEM_metadata.tsv'
+    path_file = curr_dir+'/data/GEM_data/pathway_features_counts_wide.tsv'
 
-    print('Running LASSO...')
-    X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train)
-    #helpers.write_list_to_file('files/LASSO-features-malaria-list.txt', list(X_train_reduced.columns))
+    metadata = pd.read_csv(meta_file, sep='\t', header=0, encoding=helpers.detect_encoding(meta_file))
 
-    print('Running Random Forests...')
-    run_RF(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-RF-GEM-'+str(features_type_), image_path='./figures/LASSO-RF', color='Blues')
+    path_features = pd.read_csv(path_file, sep='\t', header=0, encoding=helpers.detect_encoding(path_file))
+    path_features = helpers.normalize_abundances(path_features)
+    data = pd.merge(metadata, path_features, on='genome_id', how='inner')
+
+    #phylum_list = set(list(data['phylum']))
+    taxonomicdist_list = set(list(data['taxonomic.dist']))
+    #print(taxonomicdist_list)
+    #print(phylum_list)
+
+    for td in taxonomicdist_list:
+    #for phylum in phylum_list:
+        if pd.isna(td):
+        #if pd.isna(phylum):
+            continue
+
+        data1 = data[data['taxonomic.dist'] == td]
+        #data1 = data[data['phylum'] == phylum]
+
+        if data1.shape[0] < 100:
+            continue
+
+        label_strings = data1['cultured.status']
+        print(set(list(label_strings)))
+        #if len(set(list(label_strings))) != 2:
+        #    continue
+        #print(label_strings)
+        #print(phylum, ':', data1.shape)
+        print(td, ':', data1.shape)
+
+        # features = data1.loc[:, ~data1.columns.isin(['genome_id','cultured.status'])] #remove labels
+        # features = features.loc[:, ~features.columns.isin(['culture.level',
+        #                                                    'taxonomic.dist',
+        #                                                    'domain',
+        #                                                    'phylum',
+        #                                                    'class',
+        #                                                    'order',
+        #                                                    'family',
+        #                                                    'genus',
+        #                                                    'species',
+        #                                                    'completeness',
+        #                                                    'genome_length'
+        #                                                    ])]
+        #
+        # features = pd.get_dummies(features)
+        # labels = pd.get_dummies(label_strings)['cultured']
+        # #print(labels)
+        #
+        # print('Pre-preprocessing data...')
+        # features = helpers.clean_data(features)
+        # X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels)
+        # #X_test, y_test = helpers.perform_SMOTE(X_test, y_test)
+        #
+        # print('Running LASSO...')
+        # X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train, td)
+        #X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train, phylum)
+        #helpers.write_list_to_file('files/LASSO-features-malaria-list.txt', list(X_train_reduced.columns))
+
+        #print('Running Random Forests...')
+        #run_RF(X_train_reduced, X_test_reduced, y_train, y_test, 'LASSO-RF-GEM-'+str(features_type_), image_path='./figures/LASSO-RF', color='Blues')

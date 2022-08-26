@@ -1,0 +1,64 @@
+16S rRNA modification : 0.04512368127539273
+23S rRNA modification : 0.008417779405112864
+Aminoacyl-tRNA synthetases : 0.008996995758578536
+Arginine biosynthesis : 9.886966631672134e-05
+Aromatic amino acid biosynthesis : 0.03405159888132985
+Asparagine biosynthesis : -0.023842472980827943
+Biotin biosynthesis : -0.019100822693421983
+Cobalamine/B12 biosynthesis : -0.005487115129884386
+CRISPR-Cas system : -0.016106660005634717
+Cysteine biosynthesis : 0.06814319201534069
+Fatty acid biosynthesis : 0.0021591241855819306
+FoF1-type ATP synthase : 0.003589792904992369
+Folate biosynthesis : -0.038652613986464156
+Gluconeogenesis : -0.00783246318941814
+Glutamine biosynthesis : -0.021332485708868396
+Glycine cleavage : 0.009438630419892048
+Glycolysis : 0.03436823671548241
+Heme biosynthesis : -0.003797799568219152
+Histidine biosynthesis : 0.03896442321493214
+Histidine biosynthesis, Purine biosynthesis : 0.004666557826812264
+Isoleucine, leucine, valine biosynthesis : 0.002456218309126113
+Isoprenoid biosynthesis : -0.03595176377631188
+Lipid A biosynthesis : -0.005277976807767196
+Lipoate biosynthesis : -0.011945156974046354
+Lysine biosynthesis : -0.010679452537180896
+Lysine biosynthesisTCA cycle : 0.03038141617718789
+Menaquinone biosynthesis : -0.0009915688050445622
+Methionine biosynthesis : 0.023680419876514727
+Molybdopterin biosynthesis : -0.013880414683402502
+Mureine biosynthesis : 0.006322699687362262
+Na+-translocating Fd:NADH oxidoreductase : -0.01954839856113783
+NAD biosynthesis : -0.012867067770137098
+Non-phosphorylated Entner-Doudoroff pathway : 0.0009507052288729358
+Pentose phosphate pathway : -0.0902186923141793
+Phospholipid biosynthesis : -0.010867284344922321
+Proline biosynthesis : 0.012493762021394197
+Proline degradation : 0.020092101745046078
+Purine biosynthesis : -0.0037861553506302508
+Purine salvage : -0.04544919427041388
+Pyridoxal phosphate biosynthesis : 0.00036074429031109594
+Pyrimidine biosynthesis : 0.04274834016137624
+Pyrimidine degradation : -0.00023354986535282062
+Pyrimidine salvage : -0.02270162812861544
+Pyrimidine salvagetRNA modification : -0.003432584249942189
+Pyruvate oxidation : 0.0019982462687739284
+Riboflavin/FAD biosynthesis : 0.016956010023954877
+Ribosome 30S subunit : 0.015939267488639716
+RNA polymerase : -0.0253763477412456
+Serine biosynthesis : -0.04319089896009533
+TCA cycle : -0.0026943005185156355
+Thiamine biosynthesis : 0.04939482471980874
+Threonine biosynthesis : -0.044565465152334366
+Thymidylate biosynthesis : 0.013811162970528437
+Translation factors : -0.01185660837412983
+tRNA modification : 0.004706285232953575
+Ubiquinone biosynthesis : -0.024940544342199868
+Unknown : 0.07667914285716705
+Urea cycle : 0.0015560352747568096
+A/V-type ATP synthase : -0.0006497417103845836
+Archaeal ribosomal proteins : 0.0016976995147404113
+2Fe2S : -0.0047292540763950956
+Entner-Doudoroff pathway : -0.08035942004394943
+Na+-translocating NADH dehydrogenase : 0.0014317093073344385
+Unannotated : -0.03584606515519837

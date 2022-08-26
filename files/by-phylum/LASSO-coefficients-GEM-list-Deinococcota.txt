@@ -1,0 +1,33 @@
+Cysteine biosynthesis : -0.019022916211062904
+FoF1-type ATP synthase : -0.016843914328885302
+Glycine cleavage : -0.0022041667143779028
+Glycine cleavagePyruvate oxidation : 0.01988158406060461
+Histidine biosynthesis : -0.048562435354479655
+Histidine biosynthesis, Purine biosynthesis : 0.0060737329921195325
+Isoleucine, leucine, valine biosynthesis : 0.06754424349662476
+Isoprenoid biosynthesis : -0.025814322950851284
+Lipid A biosynthesis : -0.03910776188139406
+Lipoate biosynthesis : 0.010700493290150747
+Lysine biosynthesis : 0.01605353852954898
+Lysine biosynthesisTCA cycle : 0.03597456749940946
+NAD biosynthesis : 0.08812953850486421
+Proline biosynthesis : -0.005369458889667239
+Proline degradation : -0.002706646788057318
+Purine biosynthesis : 0.11745288809242108
+Purine salvage : 0.09132463104995595
+Pyrimidine degradation : 0.016331970188424215
+Pyrimidine salvage : -0.18151784103184532
+Pyrimidine salvagetRNA modification : -0.023307537263797605
+Pyruvate oxidation : -0.0068167790414928086
+Riboflavin/FAD biosynthesis : -0.045129572640586625
+RNA polymerase : 0.0074815221597052325
+Serine biosynthesis : -0.0132717453104179
+TCA cycle : -0.07445764281054978
+Thiamine biosynthesis : 0.11172338550942783
+Threonine biosynthesis : 0.0672935792303835
+Thymidylate biosynthesis : -0.02236490831410366
+Translation factors : 0.00854983743905576
+2Fe2S : -0.006550866541954885
+3D : -0.028033626805733305
+Entner-Doudoroff pathway : 0.004393836348037679
+Unannotated : -0.13902150433215693

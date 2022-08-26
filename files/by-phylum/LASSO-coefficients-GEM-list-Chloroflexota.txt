@@ -1,0 +1,56 @@
+16S rRNA modification : 0.02088858090663086
+Aminoacyl-tRNA synthetases : -0.020159855068415243
+Arginine biosynthesis : 0.01853060278347204
+Aromatic amino acid biosynthesis : 0.02352133011512892
+Asparagine biosynthesis : -0.009719902981729938
+Biotin biosynthesis : 0.004357579660172413
+CRISPR-Cas system : 0.03183398575864779
+Cysteine biosynthesis : -0.025375958400621134
+Fatty acid biosynthesis : -0.018591441002081554
+FoF1-type ATP synthase : 0.0079538819513517
+Gluconeogenesis : -0.0020683789973141922
+Glutamine biosynthesis : 0.006704109844042291
+Glycine cleavage : -0.01603231309347338
+Glycolysis : -0.01856286602369186
+Heme biosynthesis : 0.014347010540350308
+Histidine biosynthesis : 0.000680058403673089
+Histidine biosynthesis, Purine biosynthesis : -0.01465095707498683
+Isoprenoid biosynthesis : -0.009234841815077374
+Lipid A biosynthesis : -0.0067645461184268115
+Lipoate biosynthesis : -0.001583847836611275
+Lysine biosynthesis : -0.01622786725944327
+Lysine biosynthesisTCA cycle : 0.0013376576429574877
+Menaquinone biosynthesis : 0.0075224782371543135
+Methionine biosynthesis : 0.01400964726200489
+Mureine biosynthesis : -0.0049662410437533114
+NAD biosynthesis : 0.002995963306694375
+NADH dehydrogenase : -0.004454313505195632
+Pantothenate/CoA biosynthesis : 0.005648137240194596
+Pentose phosphate pathway : 0.006851086020619146
+Phospholipid biosynthesis : 0.0014062747858681677
+Proline degradation : 0.011796756884315527
+Purine biosynthesis : 0.00047351182626034614
+Purine salvage : 0.01976565349324805
+Pyridoxal phosphate biosynthesis : 0.0042616962190726885
+Pyrimidine biosynthesis : -0.0036863282058521626
+Pyrimidine degradation : -0.0008599991195902871
+Pyrimidine salvage : 0.0049873355069107155
+Pyrimidine salvagetRNA modification : -0.0046330469866071155
+Pyruvate oxidation : 0.0012146892959420063
+Riboflavin/FAD biosynthesis : -0.00934878513347252
+RNA polymerase : -0.008356634178038619
+Serine biosynthesis : 0.0026798982310832905
+TCA cycle : -0.02621334840694477
+TCA cycle, glyoxylate bypass : 0.036397823921920335
+Thiamine biosynthesis : 0.03427442701614287
+Thymidylate biosynthesis : 0.0008665993114533413
+Translation factors : 0.013713932684233205
+tRNA modification : -0.006433608726185408
+Ubiquinone biosynthesis : 0.002914335856100615
+Unknown : -0.01575330617223166
+Archaeal ribosomal proteins : -0.01733327538522533
+2Fe2S : 0.009804538519240468
+3D : 0.04952827088607235
+Entner-Doudoroff pathway : 0.003580047981644521
+Na+-translocating NADH dehydrogenase : 0.0027108271096842693
+Unannotated : -0.006314325849652657

@@ -1,0 +1,21 @@
+23S rRNA modification : 0.0010655796416453474
+Aminoacyl-tRNA synthetases : 0.0028799919598453258
+Arginine biosynthesis : -0.027979607909220272
+Aromatic amino acid biosynthesis : -0.0016365631336263248
+Cobalamine/B12 biosynthesis : 0.04445405603694527
+Folate biosynthesis : -0.013287583562523035
+Glycolysis : 0.007902535885431073
+Histidine biosynthesis : -0.011636328789568212
+Histidine biosynthesis, Purine biosynthesis : 0.0012457865634437116
+Isoleucine, leucine, valine biosynthesis : -0.007407460083951069
+Mureine biosynthesis : 0.01604352999346664
+Na+-translocating Fd:NADH oxidoreductase : 0.00824776903357122
+NAD biosynthesis : -0.000135767615038039
+NADH dehydrogenase : -0.023649367357692314
+Proline degradation : 0.0007280281266996718
+Pyridoxal phosphate biosynthesis : -0.0041775338231716625
+Pyrimidine biosynthesis : -0.01964611159842711
+Pyrimidine salvagetRNA modification : -0.008923657294420035
+Threonine biosynthesis : 0.006105916788842331
+Urea cycle : 0.032118960433557164
+Na+-translocating NADH dehydrogenase : -0.00021413288272088238

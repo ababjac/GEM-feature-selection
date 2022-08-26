@@ -1,0 +1,43 @@
+16S rRNA modification : -0.017927279388659064
+23S rRNA modification : 0.013010405173182953
+Aminoacyl-tRNA synthetases : -0.08136245605267195
+Arginine biosynthesis : 0.0337292033203716
+Aromatic amino acid biosynthesis : -0.08914012726975647
+Asparagine biosynthesis : -0.02651935930891106
+Biotin biosynthesis : 0.048020694019727694
+Cobalamine/B12 biosynthesis : -0.0038524059634121926
+Cysteine biosynthesis : -0.022150436348490496
+FoF1-type ATP synthase : 0.060673894812534865
+Glutamine biosynthesis : -0.07484558643077337
+Glycine cleavagePyruvate oxidation : -0.016112055577365034
+Heme biosynthesis : -0.03790822290459068
+Histidine biosynthesis : 0.012349594735789825
+Histidine biosynthesis, Purine biosynthesis : -0.006897560631553774
+Isoleucine, leucine, valine biosynthesis : -0.06438779624931498
+Lipid A biosynthesis : 0.028647063855703515
+Lysine biosynthesis : 0.03038484066871824
+Lysine biosynthesisTCA cycle : -0.018926592497814053
+Methionine biosynthesis : -0.0005376973944743523
+Mureine biosynthesis : 0.018198418810280254
+Na+-translocating Fd:NADH oxidoreductase : 0.08138086323648373
+NAD biosynthesis : 0.023394589902310116
+Non-phosphorylated Entner-Doudoroff pathway : 0.06724965939401144
+Pantothenate/CoA biosynthesis : 0.030004640751929705
+Proline biosynthesis : -0.01983230137872266
+Proline degradation : 0.056664236221106744
+Purine biosynthesis : -0.05034494120958589
+Purine salvage : -0.05743697347969639
+Pyridoxal phosphate biosynthesis : 0.020876028938634276
+Pyrimidine biosynthesis : -0.03894207899262626
+Pyrimidine salvage : 0.032991148033681035
+Pyrimidine salvagetRNA modification : -0.05886636099167003
+Pyruvate oxidation : 0.03844962250777098
+Riboflavin/FAD biosynthesis : -0.010782648562783867
+Ribosome 30S subunit : 0.06418967233050837
+Thiamine biosynthesis : 0.05201699549175389
+Threonine biosynthesis : 0.04191485379316236
+Thymidylate biosynthesis : -0.03279803214798446
+Ubiquinone biosynthesis : 0.02127873338659741
+2Fe2S : 0.08926137103066485
+Entner-Doudoroff pathway : -0.008328578222223142
+Unannotated : 0.02085297365271516

@@ -1,0 +1,33 @@
+23S rRNA modification : 0.013595691663656475
+Arginine biosynthesis : -0.0349886264792807
+Asparagine biosynthesis : -0.003737662367395333
+Biotin biosynthesis : 0.04881135945244386
+Cobalamine/B12 biosynthesis : 0.014057024417000928
+Cysteine biosynthesis : -0.02899507142752197
+Folate biosynthesis : -0.04441588295403909
+Gluconeogenesis : 0.014068909213031623
+Glycine cleavage : -0.03157679346830484
+Heme biosynthesis : -0.00018096558035318735
+Isoprenoid biosynthesis : 0.03376117059424762
+Lipoate biosynthesis : 0.011172147230065712
+Lysine biosynthesis : -0.000511100749333546
+Menaquinone biosynthesis : 0.012973877221952009
+Methionine biosynthesis : -0.05448497638369559
+Molybdopterin biosynthesis : 0.051928742924486244
+Mureine biosynthesis : -0.027610059051441566
+Na+-translocating Fd:NADH oxidoreductase : -0.07066862533234188
+NAD biosynthesis : -0.004281329296507122
+NADH dehydrogenase : 0.0467828619386266
+Non-phosphorylated Entner-Doudoroff pathway : 0.006841442616420534
+Phospholipid biosynthesis : 0.0271709106166688
+Proline biosynthesis : -0.021395044967323484
+Purine salvage : -0.006528327144132376
+Pyrimidine degradation : 0.0045462358381825095
+Pyrimidine salvage : 0.0007162485679059052
+Pyruvate oxidation : 0.004945397128249626
+tRNA modification : 0.03604578250674349
+Ubiquinone biosynthesis : 0.0026972420114503254
+Urea cycle : 0.05366152034736253
+2Fe2S : -0.03457398981464007
+3D : 0.044835337418602385
+Unannotated : -0.17111396932801493

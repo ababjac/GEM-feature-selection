@@ -1,0 +1,32 @@
+Aminoacyl-tRNA synthetases : 0.013298103349361264
+Asparagine biosynthesis : -0.015695637875160935
+Biotin biosynthesis : 0.057121294377869475
+Cobalamine/B12 biosynthesis : 0.025408079284943378
+Fatty acid biosynthesis : -0.015061142864551716
+Gluconeogenesis : -0.0020057520381570925
+Glycine cleavage : 0.05011759017100031
+Glycolysis : -0.02315941519735114
+Heme biosynthesis : -0.019476201636568612
+Histidine biosynthesis, Purine biosynthesis : 0.005683672507077361
+Isoleucine, leucine, valine biosynthesis : -0.0688339742386158
+Isoprenoid biosynthesis : -0.08026462271869786
+Lysine biosynthesisTCA cycle : -0.006748844880469559
+Menaquinone biosynthesis : -0.003116094139411748
+Mureine biosynthesis : 0.000142110957597232
+Non-phosphorylated Entner-Doudoroff pathway : 0.028674097635151097
+Pantothenate/CoA biosynthesis : -0.04368200220945982
+Pentose phosphate pathway : 0.0599869158242216
+Phospholipid biosynthesis : 0.002705730051419952
+Proline degradation : 0.004422611679568797
+Purine salvage : -0.06231421843950528
+Pyrimidine salvage : 0.08725636392894946
+RNA polymerase : -0.026268995137480895
+Thiamine biosynthesis : -0.056388984461897246
+Threonine biosynthesis : -0.01660477115674802
+Thymidylate biosynthesis : -0.014318651732683754
+Ubiquinone biosynthesis : 0.006819791197983547
+Urea cycle : 0.08202850273881265
+A/V-type ATP synthase : -0.050736809907484616
+2Fe2S : -0.014203846644124083
+Na+-translocating NADH dehydrogenase : -0.03260977694337627
+Unannotated : -0.03154358233924815

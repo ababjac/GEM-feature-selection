@@ -195,9 +195,9 @@ def preload_MALARIA(include_metadata=True):
 
 #--------------------------------------------------------------------------------------------------#
 
-def run_LASSO(X_train_scaled, X_test_scaled, y_train, param_grid = None):
+def run_LASSO(X_train_scaled, X_test_scaled, y_train, phylum, param_grid = None):
     if param_grid == None:
-        param_grid = {'alpha':np.arange(0.01, 3, 0.05)}
+        param_grid = {'alpha':[1e-4, 1e-3, 1e-2, 1e-1, 1, 10, 100], 'max_iter':[5000]}
 
     search = GridSearchCV(estimator = Lasso(),
                           param_grid = param_grid,
@@ -219,9 +219,9 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, param_grid = None):
         LASSO_train = X_train_scaled
         LASSO_test = X_test_scaled
 
-    # coef = [c for c in coefficients if c != 0]
-    # l = [colname+' : '+str(coefficient) for colname, coefficient in zip(list(LASSO_train.columns), coef)]
-    # write_list_to_file('files/LASSO-coefficients-malaria-list-nometa.txt', l)
+    coef = [c for c in coefficients if c != 0]
+    l = [colname+' : '+str(coefficient) for colname, coefficient in zip(list(LASSO_train.columns), coef)]
+    write_list_to_file('files/by-taxonomic-dist/LASSO-coefficients-GEM-list-'+str(phylum)+'.txt', l)
 
     return LASSO_train, LASSO_test
 

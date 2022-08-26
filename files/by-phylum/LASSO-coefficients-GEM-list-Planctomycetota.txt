@@ -1,0 +1,48 @@
+16S rRNA modification : -0.004153774046898477
+23S rRNA modification : 0.0013713203006935207
+Arginine biosynthesis : -0.0031263862217360597
+Aromatic amino acid biosynthesis : -0.0009668349691507966
+Asparagine biosynthesis : 0.003723055468998784
+Biotin biosynthesis : 0.0062246443961191
+Cobalamine/B12 biosynthesis : 0.017171592934372377
+CRISPR-Cas system : 0.02399236986398327
+Cysteine biosynthesis : -0.007081949039901736
+Fatty acid biosynthesis : -0.008346720724453803
+FoF1-type ATP synthase : 0.009867283547245146
+Folate biosynthesis : 0.007477719456094357
+Glutamine biosynthesis : 0.004635538938083654
+Glycine cleavage : 0.0003651425766624116
+Glycine cleavagePyruvate oxidation : -0.0019341721185413324
+Glycolysis : -0.004828267379238462
+Heme biosynthesis : -0.0020031219180182682
+Histidine biosynthesis : -0.006498996479226921
+Histidine biosynthesis, Purine biosynthesis : -0.002233594707642341
+Lipid A biosynthesis : -0.00250718926731431
+Lysine biosynthesis : -0.006253410881394031
+Lysine biosynthesisTCA cycle : -0.002325277539161663
+Menaquinone biosynthesis : -0.007358666004269411
+Molybdopterin biosynthesis : 0.008620326411880751
+Mureine biosynthesis : -0.013411678386422255
+Na+-translocating Fd:NADH oxidoreductase : 0.013014486951405349
+NADH dehydrogenase : 0.0013201510794445875
+Non-phosphorylated Entner-Doudoroff pathway : -0.004070663303243295
+Pantothenate/CoA biosynthesis : -0.004499441339883114
+Pentose phosphate pathway : 0.006353697131304319
+Phospholipid biosynthesis : -0.000811649910412802
+Proline degradation : -0.008883807564213753
+Pyridoxal phosphate biosynthesis : 0.002985289754284519
+Pyrimidine biosynthesis : 0.004836702090934078
+Pyrimidine degradation : 0.0031506818403078977
+Pyrimidine salvage : -0.0027880583454709404
+Pyruvate oxidation : -0.0014541907392233472
+Ribosome 30S subunit : 0.0011244930051589799
+RNA polymerase : -0.009814729668663844
+TCA cycle : 0.008998594180513035
+Thiamine biosynthesis : 0.014875564679093893
+Thymidylate biosynthesis : 0.0010780049165644628
+Translation factors : 0.0006568888599946264
+tRNA modification : 0.00022562815881693371
+2Fe2S : -0.0030266176962877693
+3D : -0.0033746381163769937
+Na+-translocating NADH dehydrogenase : -0.0035815181941989795
+Unannotated : -0.006200411186189327
