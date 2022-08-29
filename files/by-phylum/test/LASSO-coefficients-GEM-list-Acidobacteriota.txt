@@ -1,0 +1,51 @@
+16S rRNA modification : -0.005912558265039492
+23S rRNA modification : 0.004348128297466534
+Aminoacyl-tRNA synthetases : 0.012712618727144416
+Arginine biosynthesis : -0.005486934241227108
+Aromatic amino acid biosynthesis : 0.0010783339838664875
+Asparagine biosynthesis : 0.003158670880393867
+Biotin biosynthesis : -0.0028209246899944017
+Cobalamine/B12 biosynthesis : -0.00668247930983147
+Cysteine biosynthesis : 0.011389913465998214
+Fatty acid biosynthesis : -0.009231846369870615
+FoF1-type ATP synthase : -0.00024742152773403177
+Folate biosynthesis : -0.00355319811465224
+Gluconeogenesis : -0.007866066530112285
+Glutamine biosynthesis : 0.002587762504269932
+Glycine cleavagePyruvate oxidation : 0.016138215917777185
+Glycolysis : -0.0016487417629090348
+Heme biosynthesis : 0.0016534944209552873
+Histidine biosynthesis : 0.0025689098227046616
+Histidine biosynthesis, Purine biosynthesis : -0.003358267399768619
+Isoleucine, leucine, valine biosynthesis : 0.005502669532416256
+Isoprenoid biosynthesis : 0.0033341331631694298
+Lipoate biosynthesis : -0.0015152232582102971
+Menaquinone biosynthesis : -0.008950282879879994
+Methionine biosynthesis : -0.011383381296389354
+Mureine biosynthesis : -0.0036052377271629404
+Na+-translocating Fd:NADH oxidoreductase : -0.0015923902678877
+NAD biosynthesis : 0.008785529450345725
+NADH dehydrogenase : 0.006628542468396594
+Non-phosphorylated Entner-Doudoroff pathway : -0.009304014103298116
+Pentose phosphate pathway : 0.0016582118001406542
+Phospholipid biosynthesis : 0.0011970159653589196
+Proline biosynthesis : -0.004201244575499077
+Proline degradation : 0.019409533519209352
+Purine biosynthesis : -0.0033820868940248037
+Purine salvage : 0.00279833507167909
+Pyrimidine biosynthesis : -0.006975169717869022
+Pyrimidine degradation : 0.010580365835295294
+Pyrimidine salvage : 0.0036113600596323985
+Pyruvate oxidation : -0.0029634440952058957
+Riboflavin/FAD biosynthesis : -0.012028863073797934
+Ribosome 30S subunit : -0.000712336969371634
+RNA polymerase : 0.004043416962686419
+Serine biosynthesis : 0.007690299617423755
+TCA cycle, glyoxylate bypass : -0.0073083690572154575
+Urea cycle : -3.4938431364070064e-05
+A/V-type ATP synthase : 0.00039022232785971314
+2Fe2S : -0.001407855924224677
+3D : 0.003049994909387134
+Entner-Doudoroff pathway : 0.0017409225023546809
+Na+-translocating NADH dehydrogenase : -0.00012401633933103215
+Unannotated : -0.010424367189531072
