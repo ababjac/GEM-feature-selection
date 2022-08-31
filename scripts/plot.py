@@ -31,12 +31,11 @@ def make_graph(textfile, image_save):
     #fig.show()
     fig.write_image(image_save)
 
-DIRECTORY = 'files/by-phylum/'
+DIRECTORY = 'files/by-taxonomic-dist/'
 
 with os.scandir(DIRECTORY) as d:
     for entry in d:
         if entry.name.endswith('.txt') and entry.is_file():
             path = os.path.join(DIRECTORY, entry.name)
 
-            make_graph(path, 'figures/by-phylum/'+entry.name.split('.')[0]+'.pdf')
-
+            make_graph(path, 'figures/by-taxonomic-dist/'+entry.name.split('.')[0]+'.pdf')

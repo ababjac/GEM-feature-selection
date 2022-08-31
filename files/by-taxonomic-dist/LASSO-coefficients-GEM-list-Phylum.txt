@@ -1,0 +1,13 @@
+16S rRNA modification : 0.019368669910831963
+23S rRNA modification : 0.01744336016082792
+FoF1-type ATP synthase : 0.0015810461160504535
+Folate biosynthesis : 0.0032438592155812807
+Glutamine biosynthesis : -0.0030555624718941695
+Glycine cleavage : -0.006508078215563886
+Heme biosynthesis : 0.0020327483940156487
+Lipid A biosynthesis : -0.013092543822184199
+Lipoate biosynthesis : -0.0027605966753746687
+Lysine biosynthesis : 0.005245925866312672
+Na+-translocating Fd:NADH oxidoreductase : -0.000630732665117168
+Pyruvate oxidation : -0.0027384118210742573
+Translation factors : -0.007615916122229719

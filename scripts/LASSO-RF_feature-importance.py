@@ -112,51 +112,56 @@ if __name__ == '__main__':
     #print(taxonomicdist_list)
     #print(phylum_list)
 
+    data1 = data.copy()
+
     for td in taxonomicdist_list:
     #for phylum in phylum_list:
         if pd.isna(td):
         #if pd.isna(phylum):
             continue
 
-        data1 = data[data['taxonomic.dist'] == td]
+        #data1 = data[data['taxonomic.dist'] == td]
+        #data1 = data.copy()
         #data1 = data[data['phylum'] == phylum]
 
-        if data1.shape[0] < 100:
-            continue
-
-        label_strings = data1['cultured.status']
-        print(set(list(label_strings)))
-        #if len(set(list(label_strings))) != 2:
+        #if data1.shape[0] < 100:
         #    continue
+
+        data1.loc[data1['taxonomic.dist'] == td, 'cultured.status'] = 'cultured'
+        label_strings = data1['cultured.status']
+        #print(set(list(label_strings)))
+        if len(set(list(label_strings))) != 2:
+            continue
         #print(label_strings)
         #print(phylum, ':', data1.shape)
-        print(td, ':', data1.shape)
+        #print(td, ':', data1.shape)
+        #print(data1)
 
-        # features = data1.loc[:, ~data1.columns.isin(['genome_id','cultured.status'])] #remove labels
-        # features = features.loc[:, ~features.columns.isin(['culture.level',
-        #                                                    'taxonomic.dist',
-        #                                                    'domain',
-        #                                                    'phylum',
-        #                                                    'class',
-        #                                                    'order',
-        #                                                    'family',
-        #                                                    'genus',
-        #                                                    'species',
-        #                                                    'completeness',
-        #                                                    'genome_length'
-        #                                                    ])]
-        #
-        # features = pd.get_dummies(features)
-        # labels = pd.get_dummies(label_strings)['cultured']
-        # #print(labels)
-        #
-        # print('Pre-preprocessing data...')
-        # features = helpers.clean_data(features)
-        # X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels)
-        # #X_test, y_test = helpers.perform_SMOTE(X_test, y_test)
-        #
-        # print('Running LASSO...')
-        # X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train, td)
+        features = data1.loc[:, ~data1.columns.isin(['genome_id','cultured.status'])] #remove labels
+        features = features.loc[:, ~features.columns.isin(['culture.level',
+                                                           'taxonomic.dist',
+                                                           'domain',
+                                                           'phylum',
+                                                           'class',
+                                                           'order',
+                                                           'family',
+                                                           'genus',
+                                                           'species',
+                                                           'completeness',
+                                                           'genome_length'
+                                                           ])]
+
+        features = pd.get_dummies(features)
+        labels = pd.get_dummies(label_strings)['cultured']
+        #print(labels)
+
+        print('Pre-preprocessing data...')
+        features = helpers.clean_data(features)
+        X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels)
+        #X_test, y_test = helpers.perform_SMOTE(X_test, y_test)
+
+        print('Running LASSO...')
+        X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train, td)
         #X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train, phylum)
         #helpers.write_list_to_file('files/LASSO-features-malaria-list.txt', list(X_train_reduced.columns))
 

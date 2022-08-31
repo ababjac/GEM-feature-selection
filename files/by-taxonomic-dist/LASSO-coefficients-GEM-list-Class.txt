@@ -1,0 +1,28 @@
+16S rRNA modification : 0.05043399965826359
+23S rRNA modification : 0.007187154358307847
+Aminoacyl-tRNA synthetases : -0.020945594293768386
+Arginine biosynthesis : 0.0033216074844379796
+Aromatic amino acid biosynthesis : 0.03174478080384755
+Cobalamine/B12 biosynthesis : 0.007886257715915113
+Folate biosynthesis : 0.010849716943546759
+Glycine cleavage : -0.012067148179060969
+Glycine cleavagePyruvate oxidation : 0.0026524411976987334
+Heme biosynthesis : 0.002625256255217002
+Histidine biosynthesis : 0.009595491119443326
+Isoprenoid biosynthesis : 0.017674414594229453
+Lipid A biosynthesis : -0.007612139289757385
+Lipoate biosynthesis : -0.017001612392615103
+Lysine biosynthesis : 0.011749980599750411
+Menaquinone biosynthesis : 0.002090635374303159
+Methionine biosynthesis : 0.0037862063855729285
+Proline biosynthesis : 0.0015881327035242008
+Proline degradation : -0.0077984370973929575
+Purine salvage : 0.001849234944649168
+Pyrimidine salvage : 0.014940031709990564
+Pyrimidine salvagetRNA modification : 0.013941258765428025
+Pyruvate oxidation : -0.013646115410477862
+Thymidylate biosynthesis : -0.014822696582405034
+Translation factors : -0.03388325840206136
+tRNA modification : 0.03908688366726283
+3D : -0.0020473196191914613
+Unannotated : -0.007210333666018108

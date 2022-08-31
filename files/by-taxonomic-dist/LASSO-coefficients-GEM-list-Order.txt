@@ -1,0 +1,36 @@
+16S rRNA modification : 0.05479201543630212
+23S rRNA modification : 0.024008988174878874
+Aminoacyl-tRNA synthetases : -0.0455693186271887
+Aromatic amino acid biosynthesis : 0.035527040234733714
+Asparagine biosynthesis : -0.006994168222150432
+Cobalamine/B12 biosynthesis : 0.02172332761180567
+FoF1-type ATP synthase : 0.004039505273748997
+Folate biosynthesis : 0.02667567356658439
+Glutamine biosynthesis : -0.008170038646286711
+Glycine cleavage : -0.0267944752007282
+Glycine cleavagePyruvate oxidation : 0.011120225844901995
+Histidine biosynthesis : 0.003368430115971641
+Isoprenoid biosynthesis : 0.019901671598552176
+Lipid A biosynthesis : -0.00904542401044482
+Lipoate biosynthesis : -0.02162547404428302
+Lysine biosynthesis : 0.03245560570156812
+Menaquinone biosynthesis : 0.004165218354652953
+Methionine biosynthesis : 0.013509415844779297
+Na+-translocating Fd:NADH oxidoreductase : -0.00426044381225784
+NADH dehydrogenase : -0.010189010704777105
+Non-phosphorylated Entner-Doudoroff pathway : -0.03344899956218497
+Proline biosynthesis : 0.009853216556337266
+Purine biosynthesis : 0.030319475199955075
+Pyridoxal phosphate biosynthesis : 0.016448242671097926
+Pyrimidine salvage : 0.029402398589423527
+Pyrimidine salvagetRNA modification : 0.0029050946766470526
+Pyruvate oxidation : -0.02926636474717519
+Thiamine biosynthesis : 0.0007212122331670583
+Thymidylate biosynthesis : -0.014088742512780923
+Translation factors : -0.02989324155729307
+tRNA modification : 0.008070381053494632
+Ubiquinone biosynthesis : -0.013456834986945533
+A/V-type ATP synthase : 0.0021681917586867296
+2Fe2S : -0.0017525984566994625
+Na+-translocating NADH dehydrogenase : 0.007828849980983732
+Unannotated : -0.0008028690201281511
