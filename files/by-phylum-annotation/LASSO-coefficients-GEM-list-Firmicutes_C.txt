@@ -1,0 +1,565 @@
+1-acyl-sn-glycerol-3-phosphate acyltransferase : 0.007026761394389752
+16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity) : 0.005451083846511652
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase : 0.0017143540022532067
+2-keto-3-deoxy-L-rhamnonate aldolase RhmA : -0.0004901825482773842
+2-methylcitrate dehydratase PrpD : -0.01255578544263483
+2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold : -0.02855400359824803
+3-dehydroquinate synthetase : 0.0016516333885095674
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE : 0.0067771417398450945
+4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH : -0.00419445776718009
+4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase : -0.006673573750253859
+5-oxoprolinase subunit C/Allophanate hydrolase subunit 2 : -0.0021302714657540035
+5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase : -0.012451012214331167
+5,10-methylenetetrahydrofolate reductase : -0.009169745582115961
+6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain) : 0.0016132679423546577
+ABC-type amino acid transport system, permease component : -0.018419001603099516
+ABC-type antimicrobial peptide transport system, permease component : 0.001531067590879276
+ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain : 0.007151303288927435
+ABC-type guanosine uptake system NupNOPQ, ATPase component NupO : -0.004256463668871097
+ABC-type lipoprotein export system, ATPase component : 0.00439230748839583
+ABC-type sugar transport system, permease component : -0.00733813289113496
+ABC-type transport system involved in cytochrome c biogenesis, permease component : -0.016451188642610637
+ABC-type transport system involved in lipoprotein release, permease component LolC : 0.020322641076669482
+ABC-type xylose transport system, permease component : -0.0016604858668444473
+Acetyltransferase, isoleucine patch superfamily : -0.008097073828326343
+Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase : -0.00606556665185764
+Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase : -0.0004164457689888372
+Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase : -0.009131649659535754
+Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37 : -0.004677666387180487
+Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase : 0.006200851740085852
+Adenosylcobinamide amidohydrolase : 0.002747398700869877
+Adenylylsulfate kinase or related kinase : -0.000871050622678165
+ADP-ribosylglycohydrolase : 0.009180080258618313
+Alanine racemase : 0.0020983598999078463
+Aldo/keto reductase, related to diketogulonate reductase : 0.006832291824108908
+Anaerobic ribonucleoside-triphosphate reductase : -0.0010801670423428696
+Anthranilate/para-aminobenzoate synthases component I : -0.005885218289930916
+AraC-type DNA-binding domain and AraC-containing proteins : 0.027077558526342093
+Argininosuccinate synthase : -0.005290198429369991
+Arginyl-tRNA synthetase : -0.0049004771446553574
+ATP-dependent Clp protease adapter protein ClpS : -0.009452467024651625
+ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V) : 0.005396585013698616
+Biopolymer transport protein ExbB/TolQ : 0.017027160174049354
+Biotin carboxylase : -0.0027885169391074285
+Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily : -0.002521368350901134
+CBS-domain-containing membrane protein : 0.047324872144932376
+Cell division GTPase FtsZ : -0.0031547364890761034
+Cell division protein FtsB : -0.006933387526827763
+Chromosomal replication initiation ATPase DnaA : -0.002507599219599848
+Chromosome segregation ATPase Smc : 0.004244371524779857
+Cobyrinic acid a,c-diamide synthase : -0.001049414048294603
+Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis) : 0.006337669970684194
+CRISPR-Cas type I system-associated endonuclease/helicase Cas3 : 0.01105303872651691
+CRISPR/Cas system-associated endoribonuclease Cas2 : 0.008613833855001968
+CTP-dependent cyclometallase, nickel-pincer nucleotide (NPN) cofactor biosynthesis : -0.0012200305947574282
+Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases : -0.005195914871731856
+Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC : -0.00036195977300421264
+Cysteinyl-tRNA synthetase : -0.004428628840653172
+Cytidine deaminase : 0.01172111361144827
+Cytosine/adenosine deaminase or related metal-dependent hydrolase : 0.009948269157223529
+D-alanyl-D-alanine carboxypeptidase : 0.0447591370248495
+D-aminopeptidase : -0.013503862089719182
+D-arabinose 5-phosphate isomerase GutQ : -0.0040198423559503664
+D-threonate/D-erythronate kinase OtnK and related C4-acid sugar kinases, YgbK/DUF1537 family : -0.008966917222254523
+Dehydrogenase (flavoprotein) : 0.012056122677888581
+Delta-aminolevulinic acid dehydratase, porphobilinogen synthase : -0.007879563434316951
+Deoxyribodipyrimidine photolyase : -0.004102429330527061
+Deoxyribose-phosphate aldolase : 0.011106331116965162
+Deoxyxylulose-5-phosphate synthase : 0.010401805913797987
+Dephospho-CoA kinase : 0.006143426708726223
+Desulfoferrodoxin, superoxide reductase-like (SORL) domain : 0.010489038222605175
+Diaminopimelate epimerase : 1.5689082278712822e-06
+Dihydroorotate dehydrogenase : -0.00985110906809017
+Dihydropteroate synthase : -0.001129544900677862
+Dihydroxyacid dehydratase/phosphogluconate dehydratase : 0.000572292015196128
+Dipeptidyl aminopeptidase/acylaminoacyl peptidase : 0.012183489428558344
+Divalent metal cation (Fe/Co/Zn/Cd) efflux pump : -0.0028783968092355888
+DNA mismatch repair ATPase MutL : -0.001705417361955693
+DNA mismatch repair ATPase MutS : 0.00036753024355462447
+DNA polymerase B elongation subunit : 0.0015271938402881729
+DNA polymerase I, 3'-5' exonuclease and polymerase domains : 0.0023817681688721344
+DNA polymerase III, alpha subunit : -0.0009299976701765018
+DNA polymerase III, alpha subunit (gram-positive type) : 0.0008310064811082162
+DNA polymerase III, gamma/tau subunits : -0.009857215680970683
+DNA-binding protein, stimulates sugar fermentation : 0.009888868896089266
+DNA-binding response regulator, FixJ family, consists of REC and HTH domains : -0.0014006384643629993
+DNA-binding transcriptional regulator YiaG, XRE-type HTH domain : 0.0005201194428054901
+DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog : 0.03226751784199914
+DNA-directed RNA polymerase, subunit K/omega : -7.13963249589679e-05
+dsDNA-specific endonuclease/ATPase MutS2 : 0.00011194002517488627
+dsRNA-specific ribonuclease : -0.0008059111214996468
+dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme : -7.653939481827635e-05
+dTDP-D-glucose 4,6-dehydratase : -0.0011001030614231628
+dUTP pyrophosphatase (dUTPase) : -0.004977409504810622
+Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family : 0.03678154629777646
+Endonuclease IV : 0.008332282353863718
+Endonuclease YncB, thermonuclease family : -5.9102549855077645e-05
+Enolase : 0.00858149585416441
+Epoxyqueuosine reductase QueG (queuosine biosynthesis) : 0.019434831417436276
+Esterase/lipase superfamily enzyme : 0.03867332827193413
+Ethanolamine utilization protein EutA, possible chaperonin : -0.004271107053081846
+Excinuclease UvrABC ATPase subunit : 0.004071413866773902
+Excinuclease UvrABC helicase subunit UvrB : 0.00012040893968811759
+Excinuclease UvrABC, nuclease subunit : 0.000489235856212238
+Exonuclease VII small subunit : -0.007119317533099646
+Exopolysaccharide export protein/domain GumC/Wzc1 : 0.00029072880390881194
+Exoribonuclease R : 0.00014820050955174585
+Fe2+ transport protein FeoA : -0.0018747170435836032
+Fermentation-respiration switch esterase FrsA, DUF1100 family : 0.007689710423578335
+FhlA-type transcriptional regulator, contains GAF, AAA-type ATPase, and DNA-binding Fis domains : -0.0009573968362650147
+Fic family protein : 0.0005255149651334417
+Flp pilus assembly ATPase CpaE/TadZ, contains N-terminal REC/TadZ_N domain : -0.008661789061732117
+FoF1-type ATP synthase, membrane subunit a : -0.011398449210173934
+Formate/nitrite transporter FocA, FNT family : 0.015296604111774246
+Gamma-glutamyl phosphate reductase : 0.00032962843446865706
+Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD (putrescine degradation), contains GATase1-like domain : 0.05186506880248024
+Geranylgeranyl pyrophosphate synthase : -0.0033998547493636747
+Glucose-6-phosphate isomerase : -0.003572068314344187
+Glutamate 5-kinase : 0.02453068021487794
+Glutamate or tyrosine decarboxylase or a related PLP-dependent protein : 0.0013577492027380396
+Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily : 8.914412434965384e-05
+Glycerol dehydrogenase or related enzyme, iron-containing ADH family : -0.001133539836670548
+Glycerol kinase : -0.017753250789250646
+Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain : -0.002614282751710523
+Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II : 0.007610160314587688
+GTPase Era, involved in 16S rRNA processing : -0.0005292088870841685
+H+/Cl- antiporter ClcA : 0.0002202137230223548
+Hemolysin-related protein, contains CBS domains, UPF0053 family : -0.01498275479189447
+HEPN domain protein, predicted toxin of MNT-HEPN system : -0.010292612168453494
+Homoserine dehydrogenase : -0.013905278057344587
+HPr or related phosphotransfer protein : 0.01785584771793122
+Hydrogenase maturation factor HybG, HypC/HupF family : 0.000393287202827085
+Hydrogenase maturation factor HypF (carbamoyltransferase) : 0.011193614007571349
+Hypoxanthine phosphoribosyltransferase : 2.8185941401027918e-05
+Inosine-uridine nucleoside N-ribohydrolase : -0.020406154121933064
+Isopropylmalate/homocitrate/citramalate synthases : -0.011741048825909126
+Ketopantoate reductase : -0.009195302957055913
+Kynurenine formamidase : -0.010143614132624768
+L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily : -0.0005166469817067152
+Lipid-binding SYLF domain, Ysc84/FYVE family : 0.02607267856303283
+Lipoate-protein ligase A : -0.02195673724880479
+Lipoprotein signal peptidase : -0.009913713388551229
+Long-chain acyl-CoA synthetase (AMP-forming) : -0.006583570403332581
+Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK : 0.0010150599035476998
+Lysophospholipase, alpha-beta hydrolase superfamily : 0.01635301370680768
+Membrane protease subunit, stomatin/prohibitin family, contains C-terminal Zn-ribbon domain : 0.029577463053456876
+Membrane protein RarD, contains two EamA domains, drug/metabolite transporter family : 0.010217768716654817
+Membrane-associated protease RseP, regulator of RpoE activity : -0.002429942510910347
+Methionine aminopeptidase : 0.008002060777133327
+Methionine synthase I, cobalamin-binding domain : -0.00838716658574563
+Methionyl-tRNA formyltransferase : -0.001331543898909929
+Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding) : -0.0006168481232878849
+Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains : -0.009067895774091216
+Mn-dependent transcriptional regulator MntR, DtxR family : -0.010737222793768268
+Molecular chaperone GrpE (heat shock protein HSP-70) : -0.0005627832336553494
+Molybdopterin-guanine dinucleotide biosynthesis protein A : 0.0008290027656367247
+Multidrug efflux pump subunit AcrB : -0.015576331443060979
+Muramoyltetrapeptide carboxypeptidase LdcA (peptidoglycan recycling) : 0.00862738435986561
+Na+/H+ antiporter NhaD or related arsenite permease : -0.0062021445779236245
+NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family : 0.018690066152372727
+NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G) : -0.001621466754012103
+NADH:ubiquinone oxidoreductase subunit 4 (chain M) : -0.015014107208905175
+NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase : -0.02331232449758166
+NaMN:DMB phosphoribosyltransferase : 0.01237654822895729
+NH3-dependent NAD+ synthetase : 0.007421780049230557
+Nicotinic acid phosphoribosyltransferase : 0.007867793445769648
+Nucleotide monophosphate nucleosidase PpnN/YdgH, Lonely Guy (LOG) family : -0.005786738135413264
+Nucleotide-binding universal stress protein,  UspA family : -0.006142662755357401
+O-acetyl-ADP-ribose deacetylase (regulator of RNase III), contains Macro domain : -0.011626407469503084
+O-Methyltransferase involved in polyketide biosynthesis : 0.00661269984363349
+Peptide methionine sulfoxide reductase MsrA : 0.00020616699245569874
+Peptidoglycan/LPS O-acetylase OafA/YrhL, contains acyltransferase and SGNH-hydrolase domains : -0.00680805381241925
+Periplasmic protein Wza involved in polysaccharide export, contains SLBB domain of the beta-grasp fold : 0.004317444724543696
+Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain : -0.0042782180127109585
+Phenylalanyl-tRNA synthetase beta subunit : 0.001178451394737679
+Phosphatidylglycerophosphatase A : 0.011755493074528422
+Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase : 0.0011371205171281612
+Phosphoglycerate dehydrogenase or related dehydrogenase : 0.00137475819225944
+Phosphoglycerate mutase (BPG-independent), AlkP superfamily : 0.004281581856571454
+Phosphopantetheine adenylyltransferase : -0.004075264820836409
+Phosphoribosylaminoimidazole (AIR) synthetase : -0.0032901880499092736
+Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain : 0.0052018889096772086
+Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type) : 0.010964567836166441
+Plasmid stabilization system protein ParE : -0.0014155987949823318
+PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA : 0.008939107216033105
+Poly-gamma-glutamate biosynthesis protein CapA/YwtB (capsule formation), metallophosphatase superfamily : 0.012652025918225883
+Predicted ATPase, AAA+ superfamily : -0.010625286324273292
+Predicted ATPase, archaeal AAA+ ATPase superfamily : 0.0067969646368994914
+Predicted carbamoyl transferase, NodU family : -0.0027854050878718876
+Predicted dinucleotide-binding enzyme : -0.00406652841422681
+Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains : 0.0025134639606617217
+Predicted enzyme involved in methoxymalonyl-ACP biosynthesis : -0.005877503286278894
+Predicted epimerase YddE/YHI9, PhzF superfamily : -0.030120735692067094
+Predicted exporter protein, RND superfamily : 0.00013121961163790357
+Predicted glycosyl hydrolase, GH43/DUF377 family : 0.01158247842949114
+Predicted Kef-type K+ transport protein, K+/H+ antiporter domain : 0.00036104316846313577
+Predicted lipocalin, contains AttH/CrtC domain : -0.010982240340453128
+Predicted membrane flippase AglD2/YbhN, UPF0104 family : -0.0008165192924564778
+Predicted metal-binding protein : -0.005118976134868363
+Predicted nuclease of the RNAse H fold, HicB family : -0.0014548161407991326
+Predicted phosphodiesterase, calcineurin family : -0.006933687741637104
+Predicted thioesterase : -0.0042108052069742075
+Predicted type IV restriction endonuclease : 0.0005913802449860916
+Preprotein translocase subunit SecY : -0.0014669382580630946
+Proline racemase/hydroxyproline epimerase : 0.007141424058592595
+Prolyl-tRNA synthetase : -0.004730387762481581
+Protein-S-isoprenylcysteine O-methyltransferase Ste14 : -0.003929824728242646
+Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family : -0.007237275140956916
+Putative GTP cyclohydrolase 1 type 2, NIF3 family : -0.0057155356195873275
+Putative heme-binding protein PhuW : 0.0031293512337643267
+Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family : -0.0015567163394055298
+Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family : -0.017830549885935885
+Pyruvate carboxylase : -0.0020368318286056284
+Pyruvate kinase : -0.00020097512459500838
+Pyruvate-formate lyase-activating enzyme : -0.044125753418819344
+Queuosine precursor transporter YhhQ, DUF165 family : -0.00018321909209949717
+Radical SAM superfamily enzyme YgiQ, UPF0313 family : 0.002182102817177215
+REP element-mobilizing transposase RayT : -0.003786638598870706
+Replication-associated recombination protein RarA (DNA-dependent ATPase) : 0.0033745118532286867
+Retron-type reverse transcriptase : 0.0062234902809585645
+Ribonuclease BN, tRNA processing enzyme : 0.000966939045468656
+Ribonuclease HII : -0.0018038700474294184
+Ribose 5-phosphate isomerase : -0.024394297363230063
+Ribose/xylose/arabinose/galactoside ABC-type transport system, permease component : -0.007961059321773803
+Ribosomal 30S subunit maturation factor RimM, required for 16S rRNA processing : -0.0017046644872743609
+Ribosomal protein L18 : -0.004997278260664262
+Ribosomal protein L21 : -0.0010550582404052764
+Ribosomal protein L31 : 0.007044702926296343
+Ribosomal protein L35 : -0.011685470608635026
+Ribosomal protein L7/L12 : 0.004656904111376718
+Ribosomal protein S15P/S13E : -0.001373132797142596
+Ribosomal protein S18 : -0.004698155815171033
+Ribosomal protein S2 : -0.0009098310600871594
+Ribosome-binding factor RbfA : -0.008815210113682751
+S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase) : 0.005580624730685298
+Short-chain dehydrogenase : 0.0037929244252780047
+Signal recognition particle GTPase FtsY : -0.007953063150944285
+Signal transduction protein containing GAF and PtsI domains : -0.010106509625720633
+Small heat shock protein IbpA, HSP20 family : 0.002037263053296479
+Small-conductance mechanosensitive channel : 0.0022821914505894462
+Small-conductance mechanosensitive channel MscK : -0.029542158203430424
+Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family : -0.0033239661664709176
+Spore maturation protein CgeB : -0.008348611806010132
+ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation : -0.0013294791649119707
+Sulfate permease or related transporter, MFS superfamily : 0.02731529705148715
+Superfamily II DNA and RNA helicase : 0.0016762066460918694
+Superfamily II DNA helicase RecQ : -0.02131545789898151
+Superfamily II RNA helicase : -0.00019525757198090036
+Tetratricopeptide (TPR) repeat : -0.027966208899741534
+Threonine deaminase : -0.036092190107530175
+Threonyl-tRNA synthetase : -0.005757530195971844
+TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha : -0.0011741613269253056
+Trans-aconitate methyltransferase : 0.003413209912060621
+Transcription antitermination protein NusB : -0.013397108671981952
+Transcriptional regulator DhaR of acetoin/glycerol metabolism : -0.009714104155524636
+Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain : 0.006658329538736578
+Translation elongation factor EF-4, membrane-bound GTPase : 0.0007414840769606197
+Translation elongation factor EF-G, a GTPase : 0.0007958826142485172
+Translation elongation factor EF-Tu, a GTPase : 0.001812141473614134
+Transposase InsE and inactivated derivatives : -0.012338723547795515
+TRAP-type uncharacterized transport system, fused permease components : -0.011372940678001575
+Triosephosphate isomerase : 0.011624876581947805
+tRNA A37 threonylcarbamoyladenosine modification protein TsaB : -0.005107489011440329
+tRNA A37 threonylcarbamoyltransferase TsaD : -0.003522345257694013
+tRNA G18 (ribose-2'-O)-methylase SpoU : -0.006676760228729022
+tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA : 0.012139792186446058
+tRNA-binding EMAP/Myf domain : -1.2219050997667196e-05
+Tryptophanyl-tRNA synthetase : -0.006312330911356243
+Type IV pilus assembly protein PilT, pilus retraction ATPase : 0.006209399210605045
+Type IV pilus assembly protein, tip-associated adhesin PilY1 : -0.0010299229056943931
+UDP-3-O-acyl-N-acetylglucosamine deacetylase : -0.004431794940016544
+UDP-glucose 6-dehydrogenase : 0.005580588066685078
+UDP-N-acetylenolpyruvoylglucosamine reductase : 0.012315296765795273
+UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase : 0.008401547195161082
+UDP-N-acetylmuramoylalanine-D-glutamate ligase : 0.00406219394706855
+UDP-N-acetylmuramyl tripeptide synthase : 0.0062709799191642025
+UDP:flavonoid glycosyltransferase YjiC, YdhE family : 0.0012341240035488026
+Uncharacterized conserved membrane protein, UPF0127 family : -0.0021062197771739496
+Uncharacterized conserved protein YhaN, contains AAA domain : 0.008013178909478282
+Uncharacterized conserved protein YqfA, UPF0365 family : 0.0015173152241089588
+Uncharacterized conserved protein, DUF58 family, contains vWF domain : -0.011140482127051253
+Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily : -0.0008854593706628313
+Uncharacterized membrane protein YeiH : 4.383231429224979e-05
+Uncharacterized membrane protein YgcG, contains a TPM-fold domain : 0.00357184393978977
+Uncharacterized metal-binding protein MJ0455, DUF1847 family : -0.011145256277952436
+Uncharacterized protein RhuM, Salmonella virulence factor : 0.006386010337877521
+Uncharacterized protein, contains DUF2156 domain : -0.003698154439748775
+Uroporphyrinogen-III decarboxylase HemE : 0.012042952400529838
+UTP pyrophosphatase, metal-dependent hydrolase family : -0.0006908517079830192
+UTP-glucose-1-phosphate uridylyltransferase : 0.0027014456955121477
+Virulence-associated protein VagC (function unknown) : 0.009985329688920769
+Zinc transporter ZupT : -0.0028535272784244383
+Zn-dependent amino- or carboxypeptidase, M28 family : -0.004996376677243929
+Zn-dependent protease with chaperone function : 0.005283224088470526
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase, archeal type : -0.00036120544150605667
+ABC-type Na+ efflux pump, permease component NatB : -0.005659742795941534
+Archaeal adenylate kinase : -0.003396075893657654
+ATP-dependent 26S proteasome regulatory subunit : -8.80137192471053e-05
+CRISPR/Cas system-associated exonuclease Cas4, RecB family : 0.0018480224762640262
+DNA-cytosine methylase : 1.6811167684988867e-07
+HD superfamily phosphohydrolase : 0.004016989159620012
+L-amino acid N-acyltransferase MnaT : 0.02346344154567832
+Metal-dependent phosphatase/phosphodiesterase, HD supefamily : -0.013941094009935512
+Phosphoribosyl-ATP pyrophosphohydrolase : 0.015810651429220477
+Predicted transcriptional regulator, contains an HTH and PUA-like domains : -0.0003184831194130989
+Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit : -0.015370965228094734
+Ribosomal protein L13 : -0.007098309730576351
+Ribosome quality control (RQC) protein RqcH, Rqc2/NEMF/Tae2 family, contains fibronectin-(FbpA) and RNA- (NFACT) binding domains : -0.005720595265491189
+S-adenosylhomocysteine hydrolase : -0.0018431652650255457
+Shikimate 5-dehydrogenase : -0.014611375985291301
+Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase : 0.012618212777965598
+Thymidylate synthase ThyX, FAD-dependent family : -0.004679716933500176
+Uncharacterized conserved protein, DUF488 family : -0.001443253306447001
+Uri superfamily endonuclease : -0.006081635903731337
+16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B) : -0.009124645251869703
+ABC-type hemin transport system, ATPase component : -0.0002588548874583724
+Acetyl-CoA carboxylase beta subunit : -0.004331516514470963
+Adenine-specific DNA methylase : 0.00010265129845051706
+Adenine-specific DNA methylase, contains a Zn-ribbon domain : -0.001319136822004255
+Autotransporter translocation and assembly protein TamB : -0.0007208400697180471
+Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase : -0.011890093057931803
+Biotin-(acetyl-CoA carboxylase) ligase : -0.0028245851240983866
+Chorismate mutase : -0.009963680879868332
+Chromate transport protein ChrA : 0.009233844801454515
+Circularly permuted ATP-grasp protein : -0.015124502899871831
+Co-chaperonin GroES (HSP10) : -0.00411634462508434
+DNA polymerase III, epsilon subunit or related 3'-5' exonuclease : -0.009984412466963735
+DNA-adenine methylase : 0.0016160093085467407
+DNA-binding transcriptional regulator, HxlR family : 0.007685211317961364
+Folate-dependent phosphoribosylglycinamide formyltransferase PurN : -0.00018516603230231044
+Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein : -0.007817737804232974
+Glutamate synthase domain 1 : -0.0017943920310562278
+Glycerate kinase : -0.001116990370042952
+Magnesium uptake protein YhiD/SapB, involved in acid resistance : -0.00811838680637311
+Magnesium-transporting ATPase (P-type) : -0.0029640447320451475
+Malic enzyme : 0.005935728081368347
+Membrane proteinase PrsW, cleaves anti-sigma factor RsiW, M82 family : -0.010523700639701468
+NhaP-type Na+/H+ or K+/H+ antiporter : -0.034628109740883026
+NYN domain, predicted PIN-related RNAse, tRNA/rRNA maturation : -0.007835412892504515
+Periplasmic glycine betaine/choline-binding (lipo)protein of an ABC-type transport system (osmoprotectant binding protein) : 0.00011238255623374223
+Periplasmic protein TonB, links inner and outer membranes : 0.0020156572229142107
+Phosphoenolpyruvate carboxylase : -0.0004224184972925108
+Predicted CoA-binding protein : 0.004185231792609841
+Predicted hydrolase of the alpha/beta superfamily : 0.00559241867245552
+Pseudouridine-5'-phosphate glycosidase (pseudoU degradation) : -0.002519818531077846
+Putative Ca2+/H+ antiporter, TMEM165/GDT1 family : 0.016297829808034035
+Restriction endonuclease Mrr : -0.0002967387084951664
+Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain : -0.0007505889178098969
+Riboflavin synthase alpha chain : 0.0019243720928561196
+Ribosomal protein L32 : 0.002556864285229326
+Ribosomal protein S20 : -0.00018318952652350725
+RNase P protein component : 0.000986964120519316
+S-adenosylmethionine synthetase : -0.004062952676623353
+Thioredoxin/glutathione peroxidase BtuE, reduces lipid peroxides : -0.028596331286959382
+Twin-arginine protein secretion pathway components TatA and TatB : 0.027617398499810826
+Tyrosyl-tRNA synthetase : -0.0028724492015438268
+UDP-glucose 4-epimerase : 0.0009356188756615063
+Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain : -0.01106185861567169
+3-dehydroquinate dehydratase : -0.007924684043175211
+3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme : -0.024754133882707613
+Archaeal ribosome-binding protein aMBF1, putative translation factor, contains Zn-ribbon and HTH domains : 0.0009195549323941206
+CRISPR/Cas system endoribonuclease Cas6, RAMP superfamily : -3.950390091838457e-05
+Glutamate synthase domain 3 : -0.0014180498959636613
+Nitrate reductase beta subunit : 0.005374010362976009
+Carbon starvation protein CstA (peptide/pyruvate transporter) : -0.0021531937465033716
+Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase) : -0.003565783438806822
+Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family) : -0.014721364279965121
+L-2-hydroxyglutarate oxidase LhgO : -0.020087421581166536
+Predicted acetyltransferase, GNAT superfamily : -0.005873502821443099
+23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI : -0.0007465406746513564
+3-methyladenine DNA glycosylase AlkD : -0.0012390032837285713
+Antitoxin component MazE of the MazEF toxin-antitoxin module : -0.009921758761741374
+Aromatic ring-opening dioxygenase, catalytic subunit, LigB family : 0.02352069244728873
+CRISPR-Cas system type-II protein Cas9 : -0.0015489984500282128
+G:T-mismatch repair DNA endonuclease Vsr, very short patch repair protein : -0.000926315063674322
+K+ transport ATPase, ATPase subunit KdpB : -0.0006896405656080244
+K+-transporting ATPase, KdpA subunit : -0.012548262201426769
+Phosphopantetheinyl transferase (holo-ACP synthase) : -0.004363978712704541
+PII-like insert in the uncharacterized protein YqfO, YbgI/NIF3 family : 0.006847848062354194
+Plastocyanin : 0.008348978952405215
+Uncharacterized membrane protein AF0785, contains DUF389 domain : 0.006682168064462006
+Archaeal DNA polymerase II, large subunit : -6.512670471819986e-05
+DNA-binding transcriptional regulator, XRE-family HTH domain : 0.003065968909675471
+ERCC4-related helicase : -0.00020615011519667422
+Inorganic pyrophosphatase/exopolyphosphatase : -0.0003959905497139804
+K+ uptake protein Kup : -0.010152902446246819
+K+/H+ antiporter KhtSTU, c-di-AMP-binding regulatory subunit KhtT, contains RCK_C (TrkA_C) domain : -0.015141643938396069
+Nucleoside 2-deoxyribosyltransferase : -0.0003823734560361782
+Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily : -0.006686881498038587
+Pyridoxamine 5'-phosphate oxidase (PNPOx-like) family protein : 0.011829898559316078
+RIO-like serine/threonine protein kinase fused to N-terminal HTH domain : -0.002585527166477798
+Uncharacterized conserved protein YggE, contains kinase-interacting SIMPL domain : -0.010064316315601651
+Flavodoxin : 0.00996528856042889
+GrpB domain, predicted nucleotidyltransferase, UPF0157 family : 0.025725923657872907
+Integrase/recombinase, includes phage integrase : 0.0019279935491373459
+Phosphatidylglycerol kinase, diacylglycerol kinase family : -0.00371504108116892
+Uncharacterized conserved protein, contains restriction enzyme R protein N terminal (HSDR_N) domain : -0.0023525296165367434
+Uncharacterized conserved protein, DUF951 family : 0.00014393259869270402
+5S rRNA maturation ribonuclease M5, contains TOPRIM domain : 0.004137871242795848
+Aromatic ring-opening dioxygenase, LigB subunit : -0.009306867124499404
+Purine-cytosine permease or related protein : 0.010933675281149649
+Secreted protein containing bacterial Ig-like domain and vWFA domain : 0.004159113233138841
+Type II restriction/modification system, endonuclease and methylase domains : 0.011706234730065247
+23S rRNA maturation mini-RNase III : -0.0006173183320720221
+ABC-type sulfate transport system, periplasmic component : -0.0022898430526302046
+Aspartate ammonia-lyase : 0.015557011270811317
+FKBP-type peptidyl-prolyl cis-trans isomerase : 0.017086110564999337
+Glutaredoxin-related protein : 0.013798120236048024
+Phosphoglucomutase/phosphomannomutase : 0.013022675573728656
+Ribosomal protein S21 : 0.002849419084651402
+RNA-binding protein YlmH, contains S4-like domain : -0.0011918305576016867
+Transcriptional regulator, CopY/TcrY family : -0.010838843332574486
+Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains : 0.014674805037477891
+Uncharacterized MnhB-related membrane protein : -0.03370211541539642
+Vancomycin resistance protein YoaR (function unknown), contains peptidoglycan-binding and VanW domains : -0.014924594833778795
+Cytosine/uracil/thiamine/allantoin permease : 0.00027153610387604563
+D-mannonate dehydratase : -0.00926105615671105
+Uncharacterized conserved protein, DUF871 domain : 0.004014243684923422
+Beta-glucanase, GH16 family : 0.013310428858725082
+DNAse/DNA nickase specific for phosphorothioated or glycosylated phage DNA, GmrSD/DndB/SspE family, contains DUF262 and HNH nuclease domains : -0.0034796422388085934
+Endonuclease, HJR/Mrr/RecB family : 0.002663353107480563
+NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains : -0.007008969738404171
+Predicted extracellular nuclease : 0.029916270294182947
+Predicted helicase : 0.0022636520613119465
+Prophage maintenance system killer protein : -0.0036654523922152443
+Uncharacterized membrane-anchored protein YjiN, DUF445 family : 5.60656149926615e-05
+Cell fate regulator YlbF, YheA/YmcA/DUF963 family (controls sporulation, competence, biofilm development) : 0.008285551429056988
+Uncharacterized conserved protein YegI with protein kinase and helix-hairpin-helix DNA-binding domains : 0.014197287492549487
+Uncharacterized protein STM3548, contains class I glutamine amidotransferase domain : -0.006793395249192666
+ABC-type methionine transport system, ATPase component : 0.006000834823197481
+Antitoxin component YwqK of the YwqJK toxin-antitoxin module : 0.0026847246770804333
+Arsenate reductase or related protein, glutaredoxin family : -0.009545556386020693
+Flagellum-specific peptidoglycan hydrolase FlgJ : 0.00011809439273272942
+Flavodoxin NrdI, NrdF-interacting activator of class Ib ribonucleotide reductase : 0.021897404696657678
+Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family : 0.000974466971159424
+Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid : 0.0016120839467440137
+Polygalacturonase : -0.02729404259507503
+Predicted peptidase : 0.0064367907356035385
+S-ribosylhomocysteine lyase LuxS, autoinducer biosynthesis : 0.079865033066938
+Toxin component of the Txe-Axe toxin-antitoxin module, Txe/YoeB family : -0.012247256070680118
+Uncharacterized conserved protein, DUF1697 family : -0.0024843604985258236
+Uncharacterized conserved protein, DUF2264 domain : 0.0002516009230353469
+Uncharacterized membrane permease YidK, sodium:solute symporter family : -0.006744738099052508
+ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components : 0.004670743971908861
+Aspartate/aromatic aminotransferase : -0.00756686620465589
+Citrate lyase synthetase CitC : 0.0019743026334690167
+Citrate lyase, alpha subunit : 0.005499346115950043
+D-serine dehydratase : -0.0046197215989406465
+DNA mismatch repair protein MutH : 0.008598346197371421
+Ethanolamine ammonia-lyase, large subunit : -0.002122248885926088
+Ethanolamine transporter EutH, required for ethanolamine utilization at low pH : -0.012368117735811118
+L-ribulose-5-phosphate 3-epimerase UlaE : -0.03122169132571272
+Lipopolysaccharide export system protein LptC : -0.0078852350259731
+Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains : 0.011267585005537139
+Phosphoethanolamine transferase for periplasmic glucans OpgE, AlkP superfamily : 0.0025787194727927626
+Phosphopentomutase : -0.005307533585614986
+Phosphoribosyl-dephospho-CoA transferase (holo-ACP synthetase) : 0.06358824432580837
+Phosphotransferase system sorbitol-specific IIB component : 0.010703473941892092
+Phosphotransferase system sorbitol-specific IIC component : 0.007307922110972787
+Predicted amidohydrolase : 0.004996423783198293
+Predicted benzoate:H+ symporter BenE : 0.010571913669730666
+Predicted protein-disulfide isomerase, contains CxxC motif : -0.008625818789285795
+Putative negative regulator of RcsB-dependent stress response, UPF0070 family : -0.001562233074499225
+Threonine/homoserine efflux transporter RhtA : -0.0028588055502775994
+Transcriptional regulator TyrR of aromatic amino acids metabolism : 0.001213230168593971
+Type VI protein secretion system component VasK : 0.0016115416224075922
+Bacteriophage P2-related tail formation protein : 0.005616967965389621
+Phage protein D : 0.005714129498161472
+Phage protein U : -0.006153728029200787
+Predicted Zn-dependent protease YjaZ, DUF2268 family : -0.003469088410965185
+Spore maturation protein SpmB (function unknown) : -0.007803688664372094
+Uncharacterized conserved protein YbbK, DUF523 family : 0.002923269558913905
+ATP-dependent helicase/DNAse subunit B : -0.0013281626294063512
+UDP-galactopyranose mutase : 2.2937229171881163e-05
+Lipopolysaccharide biosynthesis protein : -0.01718313832154617
+Uncharacterized conserved protein involved in copper resistance : -0.0025781119926314485
+Uncharacterized membrane protein YhgE, phage infection protein (PIP) family : -4.384731400549272e-05
+Clumping factor A-related surface protein, MSCRAMM (microbial surface components recognizing adhesive matrix molecules) family, DEv-IgG fold : -0.005936203583914466
+Competence protein ComGC : -0.031020936104315937
+Competence protein ComGF : 0.0003000298443128243
+Cyclic di-AMP phosphodiesterase GdpP, contains GGDEF-like and DHH domains : 0.0036489905685242645
+Cyclic di-AMP synthase regulator CdaR, YbbR domain : -0.002320296890094945
+ESX protein secretion system component YukC : -2.914618659431239e-06
+Fatty acid repression mutant protein (predicted oxidoreductase) : 0.0008747485929093975
+Negative regulator MecA of genetic competence, sporulation and motility : -0.0018694302163766244
+Predicted RNA-binding protein, contains ribosomal protein S1 (RPS1) domain : 0.02113962648339823
+Replication initiation and membrane attachment protein DnaB : -0.00021143033675679888
+Secreted virulence factor YukE/EsxA, WXG100 family : -9.893248465919085e-06
+tRNA A22 N1-methylase : -5.780920952901247e-05
+tRNA-Met C34-N4-acetylcytidine synthase TmcAL : -0.00043032331363546437
+Uncharacterized conserved protein YsxB, DUF464 family : -0.001307095728527329
+Capsular polysaccharide biosynthesis protein YveK : -0.014457875976477177
+Cell wall hydrolase CwlJ, involved in spore germination : -0.003164844265511367
+Phage tail collar domain : -0.0029595572447450136
+Small basic protein Sbp (function unknown), DUF1290 domain : 0.0061497012619944925
+Uncharacterized conserved protein YjcR, contains N-terminal HTH domain : -0.007834414804817703
+Cellobiose phosphorylase : 0.0004097064744586283
+Uncharacterized protein, contains GH25 family domain : -0.0017476161875863904
+Uncharacterized protein, contains SWIM-type Zn finger domain : -0.012088778438016487
+Fucose 4-O-acetylase or related acetyltransferase : 0.0018226978556684036
+Uncharacterized membrane protein, YccA/Bax inhibitor family : 0.002115513731943252
+ABC-type Fe3+-citrate transport system, periplasmic component : -0.00577977718565956
+Asp/Glu/hydantoin racemase : -0.005418897045640998
+Phage baseplate assembly protein W : 0.0035361226377953847
+Phenolic acid decarboxylase : 0.0010578332232594595
+Phosphotransferase system fructose-specific component IIB : -0.004949511492841458
+Phosphotransferase system IIB components : 0.006623852551367338
+Phosphotransferase system, galactitol-specific IIC component : 0.00021439582113149037
+Predicted esterase of the alpha/beta hydrolase fold : 0.004976830625073593
+Protein involved in initiation of plasmid replication : 0.020049221611384463
+Uncharacterized domain associated with phage/plasmid primase : 0.00014745613369593965
+Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family : 0.002291584191446625
+Ethanolamine utilization protein EutQ, cupin superfamily (function unknown) : 0.027426072368102957
+Uncharacterized conserved protein YeaC, DUF1315 family : 0.0012257800397793138
+Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif : -0.0008546268768478122
+Uncharacterized membrane protein YozV, TM2 domain, contains pTyr : -0.0021134244703637436
+Predicted P-loop ATPase and inactivated derivatives : 0.003744997032135768
+Prophage antirepressor : -0.0032498502849523125
+N6-adenosine-specific RNA methylase IME4 : 0.0038172961298070618
+Predicted GTPase : 0.0043551183533465
+Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB : 0.0023707165506934563
+Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF : -0.0001589747637950014
+Mitochondrial fission protein ELM1 : -6.752526886112212e-05
+Predicted ATPase domain of Cch-like helicases, DUF927 family : -0.0031762160609575645
+CTP:phosphocholine cytidylyltransferase LicC : -0.005820760892638825
+Predicted RNA repair component, a phosphatase of H2Macro superfamily, DUF2263 family : 0.009370481423338085
+Transposase and inactivated derivatives, IS30 family : -0.009351485693274415
+Uncharacterized conserved protein domain, often C-terminal to DUF262 : -0.0017135522662702055
+Ribonuclease HI-related protein, contains viroplasmin and RNaseH domains : 0.04121629832087413
+Predicted ATPase of the ABC class : -0.00023485258257807697
+Transposase, IS1182 family : -0.009381195264029044
+Uncharacterized conserved protein, DUF1919 family : 0.003809116668076699
+Uncharacterized protein, contains DUF2185 domain : -0.015656488761076066
+Thiamine transporter ThiT : -0.02248345991888263
+Uncharacterized conserved protein YabE, contains G5 and tandem DUF348 domains : 0.0006040704405583382
+Glycopeptide antibiotics resistance protein : -0.006075558612712273
+Dimeric dUTPase, all-alpha-NTP-PPase (MazG) superfamily : -0.0022141732747451956
+Uncharacterized conserved protein YaaW, UPF0174 family : -0.004305978524462205
+Primase-polymerase (Primpol) domain protein : -0.0027198974570186007
+Predicted anti-virus defense system component AQ645, contains DUF2357 and  PD-(D/E)xK nuclease domains : -0.0006897541103848933
+Predicted restriction endonuclease, HNH family : 0.001557280514816954
+L-fucose mutarotase/ribose pyranase, RbsD/FucU family : -0.01227540871155924
+Uncharacterized membrane protein YesL : -3.500358973811848e-05
+Glucan-binding domain (YG repeat) : 0.0022977854930710624
+Uncharacterized protein, contains GIY-YIG domain : -0.0016265776841690278
+N-acetylglucosaminyl transferase : 0.007315052219439673
+Predicted ferric reductase : -0.011718748261164522
+Type IV secretory pathway, VirD2 component (relaxase) : 0.0010943451924803704
+Type IV secretory pathway, VirB9 components : -0.004592790081240701
+FoF1-type ATP synthase AtpZ/Atp1/AtpQ subunit, putative Ca2+/Mg2+ transporter : -0.026418877284001524
+Predicted ssDNA annealing protein, contains HHH motif, Rad42/Rad22/RecT/erf family : -0.0006763577879197634
+Uncharacterized conserved protein YydD, contains DUF2326 domain : 1.1695654381743424e-05
+Propanediol dehydratase, small subunit : 0.0013832759256946412
+Mu-like prophage protein gp29 : 0.0016241453125686437
+Transcriptional regulatory protein LevR, contains PRD, AAA+ and EIIA domains : 0.0005604136616881118
+Cadmium resistance protein CadD, predicted permease : 0.0029370079277083287
+Mu-like prophage I protein : 3.0592804727618514e-05
+Mu-like prophage major head subunit gpT : 1.935611179762672e-16
+Type III restriction endonuclease : 0.0029570744226290976
+Replication initiaton protein REP (rolling circle plasmid replication) : -0.006298451149904603
+Mitochondrial DNA-directed RNA polymerase : 8.549489644825098e-05
+PIWI domain, catalyzes dsRNA-guided hydrolysis of ssRNA, involved in RNA silencing, RNA metabolism and antiviral defense : -0.010343815472503055
+CRISPR-Cas system type III CSM-effector complex small subunit Csm2 : 0.0019152005780691615
+Predicted regulatory domain of a methyltransferase : 0.0031245741493571015
+Mu-like prophage host-nuclease inhibitor protein Gam : 2.7621849120063737e-05
+Uncharacterized conserved protein, DUF2321 domain : -0.0011128157434667756

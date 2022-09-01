@@ -1,0 +1,40 @@
+ABC-type phosphate transport system, periplasmic component : -0.0035584301582679964
+Chromosome segregation ATPase Smc : 0.011553756894533272
+Exonuclease VII, large subunit : -0.0016207329014309778
+Hemolysin activation/secretion protein : -0.00014751882155415456
+Heterodisulfide reductase, subunit C : -0.0026106716196178195
+L-lactate utilization protein LutB, contains a ferredoxin-type domain : 0.04540823088650262
+Lipid A disaccharide synthetase : 0.0004284176958773755
+Muramoyltetrapeptide carboxypeptidase LdcA (peptidoglycan recycling) : 0.0005503193263549938
+Nickel-dependent lactate racemase : 0.02151405502714457
+Phage shock protein PspC (stress-responsive transcriptional regulator) : 0.0008574550721780339
+Retron-type reverse transcriptase : 0.007247361515307469
+Rhamnose utilisation protein RhaD, predicted bifunctional aldolase and dehydrogenase : 0.0036719567765140073
+Ribosomal protein S11 : -0.0008861023187612719
+Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain : -0.00044789069950414487
+tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains : 0.003547333164191031
+Uncharacterized conserved protein YbaP, TraB family : 0.010040751350400084
+Uncharacterized conserved protein, PKD repeat domain : 0.00013545916215067528
+Undecaprenyl pyrophosphate synthase : -0.0002649748543909713
+Diadenosine tetraphosphatase ApaH/serine/threonine protein phosphatase, PP2A family : 0.0034494299274928715
+Rieske Fe-S protein : -4.3229748301214195e-05
+tRNA A-37 threonylcarbamoyl transferase component Bud32 : 0.0037001712888947145
+Predicted thiol-disulfide oxidoreductase YuxK, DCC family : -0.0008713647424895523
+Surface antigen : 0.002300739729654835
+Uncharacterized conserved protein, DUF2237 family : -0.0012806047407796007
+DNA polymerase III, delta prime subunit : 0.011394877466221457
+2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases : -0.0006548800885923963
+Urease accessory protein UreH : 0.0003255685544722144
+Ribosomal protein L16 Arg81 hydroxylase, contains JmjC domain : 0.0012309541914308022
+Uncharacterized membrane protein YedE/YeeE, contains two sulfur transport domains : 0.0008475692692127605
+Predicted membrane transporter YfcC, affects glyoxylate shunt : 0.000493756958389812
+Uncharacterized conserved protein with two CxxC motifs : 0.013792029335965659
+2-Methylaconitate cis-trans-isomerase PrpF (2-methyl citrate pathway) : 0.0037989033511513673
+Multisubunit Na+/H+ antiporter, MnhB subunit : 0.05867259051727332
+Large exoprotein involved in heme utilization or adhesion : -0.0005777338573259178
+Trehalose utilization protein : -0.007941935198178582
+CRISPR-Cas system type III CSM-effector complex subunit Csm5, RAMP superfamily Cas7 group : 0.0006315209434041777
+Uncharacterized SPBc2 prophage-derived protein YoqJ : 0.00010351917408372666
+Protein kinase association domain CaMKII_AD, NTF2-like superfamily : 0.0036906344911037466
+Cytochrome b involved in lipid metabolism : -0.020338822096538024
+Poly(A) polymerase Pap1 : -0.004463737577383134

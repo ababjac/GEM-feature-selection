@@ -1,0 +1,3 @@
+Membrane proteinase PrsW, cleaves anti-sigma factor RsiW, M82 family : 0.11348336209773736
+Isochorismate synthase EntC : 0.0008364493852566297
+Uncharacterized SPBc2 prophage-derived protein YoqJ : 0.008657111593929696

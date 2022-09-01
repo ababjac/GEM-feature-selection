@@ -100,40 +100,43 @@ if __name__ == '__main__':
 
     meta_file = curr_dir+'/data/GEM_data/GEM_metadata.tsv'
     path_file = curr_dir+'/data/GEM_data/pathway_features_counts_wide.tsv'
+    annot_file = curr_dir+'/data/GEM_data/annotation_features_counts_wide.tsv'
 
     metadata = pd.read_csv(meta_file, sep='\t', header=0, encoding=helpers.detect_encoding(meta_file))
 
-    path_features = pd.read_csv(path_file, sep='\t', header=0, encoding=helpers.detect_encoding(path_file))
-    path_features = helpers.normalize_abundances(path_features)
-    data = pd.merge(metadata, path_features, on='genome_id', how='inner')
+    #path_features = pd.read_csv(path_file, sep='\t', header=0, encoding=helpers.detect_encoding(path_file))
+    #path_features = helpers.normalize_abundances(path_features)
+    annot_features = pd.read_csv(annot_file, sep='\t', header=0, encoding=helpers.detect_encoding(annot_file))
+    annot_features = helpers.normalize_abundances(annot_features)
+    data = pd.merge(metadata, annot_features, on='genome_id', how='inner')
 
-    #phylum_list = set(list(data['phylum']))
-    taxonomicdist_list = set(list(data['taxonomic.dist']))
+    phylum_list = set(list(data['phylum']))
+    #taxonomicdist_list = set(list(data['taxonomic.dist']))
     #print(taxonomicdist_list)
     #print(phylum_list)
 
-    data1 = data.copy()
+    #data1 = data.copy()
 
-    for td in taxonomicdist_list:
-    #for phylum in phylum_list:
-        if pd.isna(td):
-        #if pd.isna(phylum):
+    #for td in taxonomicdist_list:
+    for phylum in phylum_list:
+        #if pd.isna(td):
+        if pd.isna(phylum):
             continue
 
         #data1 = data[data['taxonomic.dist'] == td]
         #data1 = data.copy()
-        #data1 = data[data['phylum'] == phylum]
+        data1 = data[data['phylum'] == phylum]
 
-        #if data1.shape[0] < 100:
-        #    continue
+        if data1.shape[0] < 100:
+            continue
 
-        data1.loc[data1['taxonomic.dist'] == td, 'cultured.status'] = 'cultured'
+        #data1.loc[data1['taxonomic.dist'] == td, 'cultured.status'] = 'cultured'
         label_strings = data1['cultured.status']
         #print(set(list(label_strings)))
         if len(set(list(label_strings))) != 2:
             continue
         #print(label_strings)
-        #print(phylum, ':', data1.shape)
+        print(phylum, ':', data1.shape)
         #print(td, ':', data1.shape)
         #print(data1)
 
@@ -161,8 +164,8 @@ if __name__ == '__main__':
         #X_test, y_test = helpers.perform_SMOTE(X_test, y_test)
 
         print('Running LASSO...')
-        X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train, td)
-        #X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train, phylum)
+        #X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train, td)
+        X_train_reduced, X_test_reduced = helpers.run_LASSO(X_train, X_test, y_train, phylum)
         #helpers.write_list_to_file('files/LASSO-features-malaria-list.txt', list(X_train_reduced.columns))
 
         #print('Running Random Forests...')

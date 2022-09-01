@@ -1,0 +1,12 @@
+ABC-type tungstate transport system, periplasmic component : 0.0008739894335931094
+Transcriptional regulator DhaR of acetoin/glycerol metabolism : 0.011936769876040677
+Type IV pilus assembly protein PilW : 0.0008275987987976013
+Uncharacterized conserved protein YdbL, DUF1318 family : 0.0034659231291290747
+Uncharacterized conserved protein YqgC, DUF456 family : 0.0008289764196822738
+CRISPR/Cas system endoribonuclease Cas6, RAMP superfamily : 0.024142687239987463
+Predicted butyrate kinase, DUF1464 family : 0.004228819867193069
+ATP-dependent RNA circularization protein, DNA/RNA ligase (PAB1020)  family : 0.01064775207761146
+Uncharacterized conserved protein containing a metal-binding domain : -3.9818625834364145e-06
+Starvation-inducible outer membrane lipoprotein Slp : 0.018135476848924914
+Aminopropyltransferase BpsA, N(4)-bis(aminopropyl)spermidine biosynthesis : 0.05014001614753369
+Predicted RNA-binding protein : -0.015167999116019093

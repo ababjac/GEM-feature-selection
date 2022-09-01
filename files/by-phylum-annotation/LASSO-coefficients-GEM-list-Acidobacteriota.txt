@@ -1,0 +1,15 @@
+Tagatose-1,6-bisphosphate aldolase non-catalytic subunit AgaZ/GatZ : 0.0009178339054825799
+Bifunctional DNA-binding transcriptional regulator of stationary/sporulation/toxin gene expression and antitoxin component of the YhaV-PrlF toxin-antitoxin module : 0.003966790959391523
+ABC-type microcin C transport system, duplicated ATPase component YejF : 0.0006307405818132528
+Pectin methylesterase and related acyl-CoA thioesterases : 0.0002777967719841385
+Thiosulfate dehydrogenase TsdA, contains C-terminal cytochrome c domain : 0.006156874008521901
+Uncharacterized protein, contains phage Mu head morphogenesis gpF-like domain : 0.013234614920166135
+DNA-binding response regulator, ActR/RegA family, consists of REC and Fis-type HTH domains : 0.0017700229346081738
+Mu-like prophage tail sheath protein gpL : -0.0007868386509603623
+Uncharacterized conserved protein involved in copper resistance : 0.0002752289453086202
+Flp pilus assembly protein, pilin Flp : 0.0038748001036731285
+Uncharacterized phage-associated protein, contains DUF4065 domain : 0.00166705372850654
+Mu-like prophage FluMu protein gp28 : 0.002085979422207763
+Uncharacterized conserved protein, DUF1284 domain : 0.02123497567946112
+Mu-like prophage protein gp29 : 0.002508854563012827
+Mu-like prophage protein gp36 : 0.030349397933050377

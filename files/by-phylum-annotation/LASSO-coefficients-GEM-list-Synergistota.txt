@@ -1,0 +1,8 @@
+Glycerol dehydrogenase or related enzyme, iron-containing ADH family : 0.04280871453866738
+Histidinol phosphatase/D-glycero-mannoheptose bisphosphatephosphatase, HAD superfamily : 0.0072097458874170045
+NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s : 0.01400003821803692
+Inorganic pyrophosphatase/exopolyphosphatase : 0.004178708927231802
+Na+(or H+)/acetate symporter ActP : 0.003535354869717276
+Na+/alanine symporter : 0.03433083520995549
+Uncharacterized conserved protein YaaR, TM1646/DUF327 family : 0.057166611720317055
+Predicted ATPase of the ABC class : 0.00897562196275895

@@ -1,0 +1,44 @@
+5-oxoprolinase subunit B/Allophanate hydrolase subunit 1 : 0.02562119043716146
+Dihydrofolate reductase : -0.000520576208688053
+DNA modification methylase : -0.004653821755141866
+Phosphotransferase subunit DhaM of the dihydroxyacetone kinase DhaKLM complex, contains PTS-EIIA, HPr, and PEP-utilizing domains : -0.0002598803469904342
+Predicted ATPase, archaeal AAA+ ATPase superfamily : 0.0035331061787562046
+Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family : 0.004004771322867548
+UDP-N-acetylmuramoylalanine-D-glutamate ligase : -6.115046200939031e-05
+tRNA pseudouridine-54 N-methylase : 0.04115289938345927
+Cobalamin biosynthesis protein CobN, Mg-chelatase : -0.001923238114634477
+Glutaminase : 0.003904926126167582
+Malic enzyme : 0.0028578260196495437
+Predicted kinase : -0.01125104896253952
+DNA-directed RNA polymerase, subunit F : 0.00023748978266541714
+Predicted nucleic acid-binding OB-fold protein : 0.00013494725233735374
+Prefoldin subunit 5 : 1.184237892933501e-18
+Ribosomal protein L20A (L18A) : 2.368475785867e-18
+1,6-Anhydro-N-acetylmuramate kinase : 0.0021768071289289897
+ERCC4-related helicase : -0.0005316502604974108
+Cell shape-determining protein MreD : 0.06432539889492268
+Putative NADH-flavin reductase : 0.027138163148979443
+Cell wall assembly regulator SMI1 (Killer toxin-resistance protein 4) : 0.004058218754502905
+Meiotically up-regulated gene 157 (Mug157) protein (function unknown) : -0.015631227139344284
+N-acetylneuraminic acid mutarotase : -0.0008177268590935448
+C4-dicarboxylate transporter DcuC : 0.008871203570514541
+Molybdopterin-binding protein MopI : 0.0038263480983196825
+Na+/citrate or Na+/malate symporter : 0.02503360020520436
+Phosphotransferase system cellobiose-specific component IIB : -4.921276278147485e-05
+Putative N-acetylmannosamine-6-phosphate epimerase : 0.004013099348744162
+Mu-like prophage protein gp46 : 0.0046401535212945814
+Plasmid maintenance system killer protein : -0.00044533593967544037
+D-ribose pyranose/furanose isomerase RbsD : -6.81629174873244e-05
+Cystathionine beta-lyase family protein involved in aluminum resistance : 0.044550591942831064
+Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase : 0.002806846562308666
+Predicted DNA-binding protein with an HTH domain : 0.017135263850906628
+Uncharacterized protein, contains GH25 family domain : 0.040144391944620945
+Microcystin degradation protein MlrC, contains DUF1485 domain : 0.002055387872045443
+Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif : 0.03656387734438921
+Spore dipicolinate transporter SpoVV/YjiH/YlbJ, contains nucleoside recognition GATE domain : -0.009323847400032606
+5-methylcytosine-specific restriction endonuclease McrBC, regulatory subunit McrC : -0.010169592428795997
+Fructose-bisphosphate aldolase class 1 : 0.002866028898321084
+Phage large terminase packaging protein : -0.019543408633501957
+ABC-type ATPase fused to a predicted acetyltransferase domain : -0.009593340719479015
+Type III restriction endonuclease : 0.035458669637982776
+Phage anti-repressor protein Ant : -0.007014767148679243

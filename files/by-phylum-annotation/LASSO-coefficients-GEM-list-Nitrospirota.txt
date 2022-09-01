@@ -1,0 +1,23 @@
+ABC-type lipopolysaccharide export system, ATPase component : 9.168014799372258e-06
+ABC-type phosphate/phosphonate transport system, ATPase component : 0.300867227539778
+Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit : -0.07323352779795252
+Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit : -0.0001113628277216769
+Altronate dehydratase : 8.131504849967857e-05
+Fe-S-cluster-containing hydrogenase component 2 : 4.568673684728021e-06
+Mevalonate 5-phosphate dehydratase subunit 2, swiveling domain (modified mevalonate pathway) : -5.0542888737908196e-05
+PAS domain : -1.3583142786930463e-05
+SH3-like domain : 8.647878686568582e-05
+Thiamine kinase or a related kinase : -0.013277307859519664
+Nitrite/polysulfide reductase, membrane component NrfD/PsrC : 1.3073024354077004e-07
+Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein : 2.1857853100192652e-05
+Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB : 9.559631607039596e-06
+Beta-L-arabinofuranosidase, GH127 family : 8.233083575013969e-05
+DNA-binding response regulator DpiB of citrate/malate metabolism : 4.486452165104072e-05
+Flagellar hook-length control protein FliK : 0.0007368230943342585
+Low temperature requirement protein LtrA (function unknown) : -0.0025349552369288
+Uncharacterized conserved protein YheU, UPF0270 family : -4.076425317026417e-05
+Nitrate reductase cytochrome c-type subunit NapB : 3.729476363218867e-05
+Recombinational DNA repair protein RecT : 2.1294439135054803e-05
+Predicted glycosyl hydrolase, GH114 family : 0.00024289033921660804
+Protein kinase association domain CaMKII_AD, NTF2-like superfamily : -2.1189566208078422e-05
+Uncharacterized conserved protein, DUF2255 domain : -0.001890215067654944

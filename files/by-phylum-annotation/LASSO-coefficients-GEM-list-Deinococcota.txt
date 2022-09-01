@@ -1,0 +1,53 @@
+5-methylthioribulose/5-deoxyribulose/Fuculose 1-phosphate aldolase (methionine salvage, sugar degradation) : 0.015230557199511144
+ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component : 0.004321283103588732
+ABC-type spermidine/putrescine transport system, permease component II : 0.004257718246895811
+Adenosine/AMP kinase : 0.008366758519332109
+Alcohol dehydrogenase, class IV : -0.01760692222937193
+Beta-phosphoglucomutase, HAD superfamily : 0.06260458129074274
+CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F : -0.012714031982118193
+Cyclic di-AMP-specific phosphodiesterase PgpH, HD superfamily : -0.0023461923912204666
+Glutamyl- or glutaminyl-tRNA synthetase : -0.002401670984096497
+Glycerophosphoryl diester phosphodiesterase : -0.013810431634666514
+GTPase Era, involved in 16S rRNA processing : -0.00011058481593557077
+Hemerythrin : 0.00022872432031865656
+Hydrogenase maturation factor HybG, HypC/HupF family : -0.01712366281929285
+Hydrogenase maturation factor HypA/HybF, metallochaperone involved in Ni insertion : -0.00024765909597735314
+Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase : -0.004057784707718791
+Kynurenine formamidase : -0.001374890094444955
+Long-chain acyl-CoA synthetase (AMP-forming) : 0.0019195177645648896
+Methionine synthase II (cobalamin-independent) : 0.0003484220983825678
+Na+-driven multidrug efflux pump, DinF/NorM/MATE family : -0.01016667243736475
+NADH dehydrogenase, FAD-containing subunit : -0.11000297481552795
+Nucleoside phosphorylase/nucleosidase, includes 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase MtnN and futalosine hydrolase MqnB : -8.127401818134951e-07
+Ornithine carbamoyltransferase : -0.012985308101022342
+Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family : -0.014944417533698668
+Predicted epimerase YddE/YHI9, PhzF superfamily : 0.0020146294897776273
+Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD : -0.022290457528510013
+Predicted nuclease of restriction endonuclease-like (RecB) superfamily,  DUF1016 family : -0.004700094604470709
+Predicted nucleotidyltransferase MJ0435 : 0.07220201984623577
+Proline racemase/hydroxyproline epimerase : -0.004070274463428611
+Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids) : -0.08007872107944078
+Ribosomal protein L10 : 0.013590867060476594
+Ribosomal protein L7/L12 : 3.6478756523398e-16
+Ribulose 1,5-bisphosphate carboxylase, large subunit, or a RuBisCO-like protein : 0.006692639218780399
+Spermidine synthase (polyamine aminopropyltransferase) : 0.011647645421421774
+Superfamily I DNA or RNA helicase : -0.016777630697833744
+Superfamily II DNA helicase RecQ : -0.035445133093244846
+Tellurite resistance membrane protein TerC : 0.0016562654318621587
+Transcription antitermination factor NusA, contains S1 and KH domains : 0.006991726640762538
+tRNA-binding EMAP/Myf domain : 0.001463664278085833
+Type IV pilus assembly protein FimT : -0.005359214773551294
+Uncharacterized conserved protein, contains CHAT domain : 0.0006067570248267406
+Zn-dependent protease with chaperone function : -0.013456981921329892
+Cytidylyltransferase family enzyme : 6.347411793378963e-05
+Predicted transcriptional regulator : -0.020156791003116067
+RecA-superfamily ATPase, KaiC/GvpD/RAD55 family : -0.02565312931124966
+Restriction endonuclease Mrr : -0.010199868028956734
+ABC-type phosphonate transport system, ATPase component PhnK : 0.013951279191337897
+Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P lyase PhnJ : 0.0006099679303250839
+Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase PhnM : 2.82313854833254e-16
+Na+(or H+)/acetate symporter ActP : 9.679790595210622e-05
+Predicted DNA-binding protein with an HTH domain : 0.0022438388184294355
+2-phosphoglycerate kinase/Mevalonate-3-phosphate 5-kinase : 0.0023044393369002435
+Predicted restriction endonuclease, Mrr-cat superfamily : 0.008555636526785098
+Uncharacterized conserved protein, UCP014979 family : 0.002589615234224099

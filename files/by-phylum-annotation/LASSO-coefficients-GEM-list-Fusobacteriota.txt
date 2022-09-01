@@ -1,0 +1,19 @@
+3'->5' ssDNA/RNA exonuclease TatD : -0.015399265893578503
+4-diphosphocytidyl-2C-methyl-D-erythritol kinase : 0.05252240779091633
+Cupin domain protein related to quercetin dioxygenase : 0.008261693401864912
+Nicotinamide mononucleotide (NMN) deamidase PncC : 0.019687711905227365
+Phosphotransferase subunit DhaM of the dihydroxyacetone kinase DhaKLM complex, contains PTS-EIIA, HPr, and PEP-utilizing domains : -0.004829351070430597
+Ribosomal protein L30/L7E : 0.013464826738874081
+Rubrerythrin : 0.012514682478850264
+tmRNA-binding protein : -0.013150279264941512
+Tryptophan synthase beta chain : -0.0398605846728564
+Wyosine [tRNA(Phe)-imidazoG37] synthetase, radical SAM superfamily : 0.00334031578168273
+PII-like insert in the uncharacterized protein YqfO, YbgI/NIF3 family : -0.04289351774819155
+Glutaredoxin-related protein : 0.018813269346319998
+Ethanolamine transporter EutH, required for ethanolamine utilization at low pH : 0.009220648788802088
+Uncharacterized conserved protein, contains a C-terminal beta-barrel porin domain : 0.005878417541976594
+Uncharacterized membrane protein YjjB, DUF3815 family : 0.010053587089273534
+Autotransporter adhesin AidA : 0.002931780764186888
+ACT domain-containing protein, UPF0735 family : 0.02952114674283924
+Membrane regulatory protein PfoR, PTS_EIIC_2 domain (does not regulate perfringolysin expression) : 0.0034279780361886007
+Uncharacterized N-terminal domain of lipid-A-disaccharide synthase : 0.005869588471735636
