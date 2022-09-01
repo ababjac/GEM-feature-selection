@@ -12,6 +12,7 @@ def make_graph(textfile, image_save):
     df['direction'] = np.where(df['coef'] > 0, 'Positive', 'Negative') #1 for positive, 0 for negative
     sorted_df = df.sort_values(by='abs_coef')
     sorted_df['position'] = list(range(sorted_df.shape[0]))
+    sorted_df = sorted_df.head(50)
 
     fig = px.scatter(sorted_df, x='abs_coef', y='position', color='direction')
     fig.update_yaxes(tickvals=sorted_df['position'], ticktext=sorted_df['features'])
@@ -25,8 +26,8 @@ def make_graph(textfile, image_save):
         yaxis_title='Pathway Features',
         legend=dict(title='Direction', orientation='h', x=0.3, y=0.1),
         autosize=False,
-        width=1600,
-        height=1200
+        width=1200,
+        height=800
     )
     #fig.show()
     fig.write_image(image_save)
