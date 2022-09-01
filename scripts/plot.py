@@ -25,8 +25,8 @@ def make_graph(textfile, image_save):
         yaxis_title='Pathway Features',
         legend=dict(title='Direction', orientation='h', x=0.3, y=0.1),
         autosize=False,
-        width=800,
-        height=800
+        width=1600,
+        height=1200
     )
     #fig.show()
     fig.write_image(image_save)
