@@ -117,8 +117,9 @@ def preload_GEM(include_metadata=True, features_type='both', test_mode=False):
         data = data.sample(2000)
 
     label_strings = data['cultured.status']
+    genome_ids = data['genome_id']
 
-    features = data.loc[:, ~data.columns.isin(['genome_id','cultured.status'])] #remove labels
+    features = data.loc[:, ~data.columns.isin(['genome_id', 'cultured.status'])] #remove labels
     if not include_metadata: #remove metadata
         features = features.loc[:, ~features.columns.isin(['culture.level',
                                                            'taxonomic.dist',
@@ -134,7 +135,12 @@ def preload_GEM(include_metadata=True, features_type='both', test_mode=False):
                                                            ])]
 
     features = pd.get_dummies(features)
-    labels = pd.get_dummies(label_strings)['cultured']
+    #print(features)
+
+    labels = pd.get_dummies(label_strings)
+    del labels['uncultured']
+    labels['genome_id'] = genome_ids
+    labels.set_index('genome_id', append=True, inplace=True)
     #print(labels)
 
     return features, labels
@@ -195,9 +201,10 @@ def preload_MALARIA(include_metadata=True):
 
 #--------------------------------------------------------------------------------------------------#
 
-def run_LASSO(X_train_scaled, X_test_scaled, y_train, phylum, param_grid = None):
+def run_LASSO(X_train_scaled, X_test_scaled, y_train, phylum=None, param_grid = None):
     if param_grid == None:
-        param_grid = {'alpha':[1e-4, 1e-3, 1e-2, 1e-1, 1, 10], 'max_iter':[3000]}
+        #param_grid = {'alpha':[1e-4, 1e-3, 1e-2, 1e-1, 1, 10], 'max_iter':[3000]}
+        param_grid = {'alpha':np.arange(0.1, 3, 0.1)}
 
     search = GridSearchCV(estimator = Lasso(),
                           param_grid = param_grid,
@@ -221,9 +228,9 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, phylum, param_grid = None)
 
     #taxonomy = {0: 'Species', 1: 'Order', 2: 'Family', 3: 'Order', 4: 'Class', 5: 'Phylum', 6: 'Kingdom'}
 
-    coef = [c for c in coefficients if c != 0]
-    l = [colname+' : '+str(coefficient) for colname, coefficient in zip(list(LASSO_train.columns), coef)]
-    write_list_to_file('files/by-phylum-annotation/LASSO-coefficients-GEM-list-'+phylum+'.txt', l)
+    # coef = [c for c in coefficients if c != 0]
+    # l = [colname+' : '+str(coefficient) for colname, coefficient in zip(list(LASSO_train.columns), coef)]
+    # write_list_to_file('files/by-phylum-annotation/LASSO-coefficients-GEM-list-'+phylum+'.txt', l)
 
     return LASSO_train, LASSO_test
 
@@ -340,7 +347,14 @@ def get_rate(act, pred):
         return 'TN'
 
 def write_rates_csv(y_actual, y_pred):
-    df = pd.DataFrame(list(zip(y_actual, y_pred)), columns=['Actual', 'Predicted'])
+    #print(y_actual, y_pred)
+    #df = pd.DataFrame(list(zip(y_actual, y_pred)), columns=['Actual', 'Predicted'])
+    df = y_actual.copy()
+    df.reset_index(inplace=True)
+    del df['level_0']
+    df.rename(columns={'cultured':'Actual'}, inplace=True)
+    df['Predicted'] = y_pred
+    #print(df)
 
     df.replace(1, 'Cultured', inplace=True)
     df.replace(0, 'Uncultured', inplace=True)
@@ -349,4 +363,5 @@ def write_rates_csv(y_actual, y_pred):
 
     df['Category'] = l
 
-    print(df.value_counts())
+    #print(df.value_counts())
+    df.to_csv('models/LASSO_XGB-classification.csv')

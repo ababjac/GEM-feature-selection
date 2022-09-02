@@ -11,8 +11,9 @@ import helpers
 #--------------------------------------------------------------------------------------------------#
 
 def run_XGBoost(X_train, X_test, y_train, y_test, image_name, image_path=None, label=None, title=None, color=None):
-    if label == None:
-        label = y_train.name
+    #if label == None:
+    #    label = y_train.name
+    label = 'Cultured'
 
     clf = xgb.XGBRegressor(objective='binary:logistic', seed=5000)
     #print(X_train.shape, y_train.shape)
@@ -30,29 +31,29 @@ def run_XGBoost(X_train, X_test, y_train, y_test, image_name, image_path=None, l
     print("Recall:", recall_score(y_test, y_pred))
 
     helpers.write_rates_csv(y_test, y_pred)
-    if image_path != None:
-        if image_path[-1] != '/':
-            filename = image_path+'/'+image_name
-        else:
-            filename = image_path+image_name
-    else:
-        filename = image_name #save in current directory
-
-    if title == None:
-        title = label
-
-    #print(clf.feature_importances_)
-    print('Calculating feature importance...')
-    importances = pd.DataFrame(clf.feature_importances_, index=X_train.columns, columns=['importance'])
-    importances = importances[importances['importance'] > 0.01]
-    helpers.plot_feature_importance(X_train.columns, clf.feature_importances_, filename+'_FI-gini.png')
-    helpers.calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
-
-    print('Calculating AUC score...')
-    helpers.plot_auc(y_pred=probs, y_actual=y_test, title='AUC for '+title, path=filename+'_AUC.png')
-
-    print('Plotting:', label)
-    helpers.plot_confusion_matrix(y_pred=y_pred, y_actual=y_test, title=title, path=filename+'_CM.png', color=color)
+    # if image_path != None:
+    #     if image_path[-1] != '/':
+    #         filename = image_path+'/'+image_name
+    #     else:
+    #         filename = image_path+image_name
+    # else:
+    #     filename = image_name #save in current directory
+    #
+    # if title == None:
+    #     title = label
+    #
+    # #print(clf.feature_importances_)
+    # print('Calculating feature importance...')
+    # importances = pd.DataFrame(clf.feature_importances_, index=X_train.columns, columns=['importance'])
+    # importances = importances[importances['importance'] > 0.01]
+    # helpers.plot_feature_importance(X_train.columns, clf.feature_importances_, filename+'_FI-gini.png')
+    # helpers.calculate_pseudo_coefficients(X_test, y_test, 0.5, probs, importances, len(X_train.columns), filename+'_FI-rates.png')
+    #
+    # print('Calculating AUC score...')
+    # helpers.plot_auc(y_pred=probs, y_actual=y_test, title='AUC for '+title, path=filename+'_AUC.png')
+    #
+    # print('Plotting:', label)
+    # helpers.plot_confusion_matrix(y_pred=y_pred, y_actual=y_test, title=title, path=filename+'_CM.png', color=color)
 
 
 #--------------------------------------------------------------------------------------------------#
