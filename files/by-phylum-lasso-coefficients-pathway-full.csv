@@ -1,0 +1,877 @@
+,pathway_name,feature_name,coefficient
+0,Bacteroidota,16S rRNA modification,0.0341124241420405
+1,Bacteroidota,23S rRNA modification,-0.0310038543331861
+2,Bacteroidota,Aminoacyl-tRNA synthetases,-0.0438385016444588
+3,Bacteroidota,Arginine biosynthesis,0.0352466099335408
+4,Bacteroidota,Aromatic amino acid biosynthesis,0.0075318090950829
+5,Bacteroidota,Biotin biosynthesis,0.0422400206742532
+6,Bacteroidota,Cobalamine/B12 biosynthesis,0.0178177753717998
+7,Bacteroidota,CRISPR-Cas system,0.0044264099179144
+8,Bacteroidota,Cysteine biosynthesis,0.019644847656697
+9,Bacteroidota,Fatty acid biosynthesis,-0.0807199879865953
+10,Bacteroidota,FoF1-type ATP synthase,-0.0084581675808339
+11,Bacteroidota,Folate biosynthesis,0.0101115970741667
+12,Bacteroidota,Gluconeogenesis,0.0146838816417996
+13,Bacteroidota,Glutamine biosynthesis,-0.0729095361133194
+14,Bacteroidota,Glycine cleavage,-0.037635510179062
+15,Bacteroidota,Glycine cleavagePyruvate oxidation,0.0136549388964008
+16,Bacteroidota,Glycolysis,0.1507619320395501
+17,Bacteroidota,Heme biosynthesis,-0.0237867903157618
+18,Bacteroidota,Histidine biosynthesis,-0.0003503127315492
+19,Bacteroidota,"Histidine biosynthesis, Purine biosynthesis",-0.0200441843410191
+20,Bacteroidota,"Isoleucine, leucine, valine biosynthesis",-0.0153842124363669
+21,Bacteroidota,Isoprenoid biosynthesis,0.0224111731264475
+22,Bacteroidota,Lipoate biosynthesis,-0.01135034381193
+23,Bacteroidota,Lysine biosynthesis,-0.0171156617978237
+24,Bacteroidota,Lysine biosynthesisTCA cycle,-0.0108940995393893
+25,Bacteroidota,Menaquinone biosynthesis,0.046987554150525
+26,Bacteroidota,Methionine biosynthesis,-0.0048870015461607
+27,Bacteroidota,Molybdopterin biosynthesis,0.0007503882133799
+28,Bacteroidota,Mureine biosynthesis,-0.019650868679151
+29,Bacteroidota,Na+-translocating Fd:NADH oxidoreductase,-0.0044589417952557
+30,Bacteroidota,NADH dehydrogenase,0.0138030812318761
+31,Bacteroidota,Non-phosphorylated Entner-Doudoroff pathway,-0.0607399664276706
+32,Bacteroidota,Pantothenate/CoA biosynthesis,0.002652851485261
+33,Bacteroidota,Pentose phosphate pathway,0.0167598244080148
+34,Bacteroidota,Phospholipid biosynthesis,-0.0061679444166842
+35,Bacteroidota,Proline biosynthesis,0.0063957020983902
+36,Bacteroidota,Proline degradation,-0.0975486274362207
+37,Bacteroidota,Purine biosynthesis,0.0165431923462393
+38,Bacteroidota,Purine salvage,0.0018730119506016
+39,Bacteroidota,Pyridoxal phosphate biosynthesis,0.0532128271562771
+40,Bacteroidota,Pyrimidine biosynthesis,-0.0354566771632994
+41,Bacteroidota,Pyrimidine degradation,0.0430389961743167
+42,Bacteroidota,Pyrimidine salvage,0.0571819581111678
+43,Bacteroidota,Pyruvate oxidation,0.0004270436214401
+44,Bacteroidota,Riboflavin/FAD biosynthesis,0.0315847167459531
+45,Bacteroidota,Ribosome 30S subunit,-0.0093846099193584
+46,Bacteroidota,Ribosome 50S subunit,-0.0235971226361665
+47,Bacteroidota,RNA polymerase,0.0015831423011327
+48,Bacteroidota,Serine biosynthesis,0.043222276112883
+49,Bacteroidota,TCA cycle,0.0232576645080902
+50,Bacteroidota,"TCA cycle, glyoxylate bypass",0.0221993104726765
+51,Bacteroidota,Thiamine biosynthesis,0.0350828394712373
+52,Bacteroidota,Threonine biosynthesis,-0.0013359327246557
+53,Bacteroidota,Thymidylate biosynthesis,0.0120622360668668
+54,Bacteroidota,Translation factors,-0.000366166466566
+55,Bacteroidota,tRNA modification,-0.0667659434200278
+56,Bacteroidota,Ubiquinone biosynthesis,0.0040018138837042
+57,Bacteroidota,Unknown,-0.1315185714535379
+58,Bacteroidota,Urea cycle,0.0046558892265629
+59,Bacteroidota,A/V-type ATP synthase,0.0046137941839144
+60,Bacteroidota,Archaeal ribosomal proteins,-0.0010786522121759
+61,Bacteroidota,2Fe2S,-0.0063420567511074
+62,Bacteroidota,3D,-0.008402691607558
+63,Bacteroidota,Entner-Doudoroff pathway,-0.0295758276216194
+64,Bacteroidota,Na+-translocating NADH dehydrogenase,0.0516194743496679
+65,Bacteroidota,Unannotated,0.0998465474148113
+0,Acidobacteriota,16S rRNA modification,-0.0059125582650394
+1,Acidobacteriota,23S rRNA modification,0.0043481282974665
+2,Acidobacteriota,Aminoacyl-tRNA synthetases,0.0127126187271444
+3,Acidobacteriota,Arginine biosynthesis,-0.0054869342412271
+4,Acidobacteriota,Aromatic amino acid biosynthesis,0.0010783339838664
+5,Acidobacteriota,Asparagine biosynthesis,0.0031586708803938
+6,Acidobacteriota,Biotin biosynthesis,-0.0028209246899944
+7,Acidobacteriota,Cobalamine/B12 biosynthesis,-0.0066824793098314
+8,Acidobacteriota,Cysteine biosynthesis,0.0113899134659982
+9,Acidobacteriota,Fatty acid biosynthesis,-0.0092318463698706
+10,Acidobacteriota,FoF1-type ATP synthase,-0.000247421527734
+11,Acidobacteriota,Folate biosynthesis,-0.0035531981146522
+12,Acidobacteriota,Gluconeogenesis,-0.0078660665301122
+13,Acidobacteriota,Glutamine biosynthesis,0.0025877625042699
+14,Acidobacteriota,Glycine cleavagePyruvate oxidation,0.0161382159177771
+15,Acidobacteriota,Glycolysis,-0.001648741762909
+16,Acidobacteriota,Heme biosynthesis,0.0016534944209552
+17,Acidobacteriota,Histidine biosynthesis,0.0025689098227046
+18,Acidobacteriota,"Histidine biosynthesis, Purine biosynthesis",-0.0033582673997686
+19,Acidobacteriota,"Isoleucine, leucine, valine biosynthesis",0.0055026695324162
+20,Acidobacteriota,Isoprenoid biosynthesis,0.0033341331631694
+21,Acidobacteriota,Lipoate biosynthesis,-0.0015152232582102
+22,Acidobacteriota,Menaquinone biosynthesis,-0.0089502828798799
+23,Acidobacteriota,Methionine biosynthesis,-0.0113833812963893
+24,Acidobacteriota,Mureine biosynthesis,-0.0036052377271629
+25,Acidobacteriota,Na+-translocating Fd:NADH oxidoreductase,-0.0015923902678877
+26,Acidobacteriota,NAD biosynthesis,0.0087855294503457
+27,Acidobacteriota,NADH dehydrogenase,0.0066285424683965
+28,Acidobacteriota,Non-phosphorylated Entner-Doudoroff pathway,-0.0093040141032981
+29,Acidobacteriota,Pentose phosphate pathway,0.0016582118001406
+30,Acidobacteriota,Phospholipid biosynthesis,0.0011970159653589
+31,Acidobacteriota,Proline biosynthesis,-0.004201244575499
+32,Acidobacteriota,Proline degradation,0.0194095335192093
+33,Acidobacteriota,Purine biosynthesis,-0.0033820868940248
+34,Acidobacteriota,Purine salvage,0.002798335071679
+35,Acidobacteriota,Pyrimidine biosynthesis,-0.006975169717869
+36,Acidobacteriota,Pyrimidine degradation,0.0105803658352952
+37,Acidobacteriota,Pyrimidine salvage,0.0036113600596323
+38,Acidobacteriota,Pyruvate oxidation,-0.0029634440952058
+39,Acidobacteriota,Riboflavin/FAD biosynthesis,-0.0120288630737979
+40,Acidobacteriota,Ribosome 30S subunit,-0.0007123369693716
+41,Acidobacteriota,RNA polymerase,0.0040434169626864
+42,Acidobacteriota,Serine biosynthesis,0.0076902996174237
+43,Acidobacteriota,"TCA cycle, glyoxylate bypass",-0.0073083690572154
+44,Acidobacteriota,Urea cycle,-3.4938431364070064e-05
+45,Acidobacteriota,A/V-type ATP synthase,0.0003902223278597
+46,Acidobacteriota,2Fe2S,-0.0014078559242246
+47,Acidobacteriota,3D,0.0030499949093871
+48,Acidobacteriota,Entner-Doudoroff pathway,0.0017409225023546
+49,Acidobacteriota,Na+-translocating NADH dehydrogenase,-0.000124016339331
+50,Acidobacteriota,Unannotated,-0.010424367189531
+0,Desulfobacterota,16S rRNA modification,-0.0092731809922615
+1,Desulfobacterota,Aminoacyl-tRNA synthetases,-0.0126809227835692
+2,Desulfobacterota,Arginine biosynthesis,-0.006030668057102
+3,Desulfobacterota,Aromatic amino acid biosynthesis,-0.0268764010812058
+4,Desulfobacterota,Asparagine biosynthesis,-0.0161589451555951
+5,Desulfobacterota,Cobalamine/B12 biosynthesis,0.0004519890611992
+6,Desulfobacterota,CRISPR-Cas system,0.0368190227672685
+7,Desulfobacterota,Cysteine biosynthesis,-0.0297674145672595
+8,Desulfobacterota,FoF1-type ATP synthase,-0.0229453032722141
+9,Desulfobacterota,Folate biosynthesis,-0.0305658039613865
+10,Desulfobacterota,Gluconeogenesis,-0.0265387753798703
+11,Desulfobacterota,Glutamine biosynthesis,0.0164843705284283
+12,Desulfobacterota,Glycine cleavage,-0.0192019307691312
+13,Desulfobacterota,Glycine cleavagePyruvate oxidation,0.033050994638145
+14,Desulfobacterota,Heme biosynthesis,-0.0249565411132569
+15,Desulfobacterota,Histidine biosynthesis,0.0183799991961197
+16,Desulfobacterota,"Histidine biosynthesis, Purine biosynthesis",-0.0027928125672925
+17,Desulfobacterota,"Isoleucine, leucine, valine biosynthesis",-0.0112256917055624
+18,Desulfobacterota,Isoprenoid biosynthesis,-0.0043688357117207
+19,Desulfobacterota,Lipid A biosynthesis,-0.0094059546989823
+20,Desulfobacterota,Lysine biosynthesis,0.0234335119909427
+21,Desulfobacterota,Lysine biosynthesisTCA cycle,0.0135163119135947
+22,Desulfobacterota,Menaquinone biosynthesis,-0.0065475487693385
+23,Desulfobacterota,Methionine biosynthesis,0.0152907165070057
+24,Desulfobacterota,Molybdopterin biosynthesis,0.0167297601970541
+25,Desulfobacterota,Mureine biosynthesis,-0.0067465215501645
+26,Desulfobacterota,Na+-translocating Fd:NADH oxidoreductase,0.0342426893955088
+27,Desulfobacterota,NAD biosynthesis,-0.0108950692215319
+28,Desulfobacterota,NADH dehydrogenase,-0.0224264253517064
+29,Desulfobacterota,Non-phosphorylated Entner-Doudoroff pathway,-0.0078063305399156
+30,Desulfobacterota,Pantothenate/CoA biosynthesis,-0.0600923405219713
+31,Desulfobacterota,Pentose phosphate pathway,-0.0287041760748094
+32,Desulfobacterota,Phospholipid biosynthesis,-0.0269782202767137
+33,Desulfobacterota,Proline biosynthesis,-0.0297098154212809
+34,Desulfobacterota,Proline degradation,-0.0138238504794701
+35,Desulfobacterota,Purine biosynthesis,0.0210721885610097
+36,Desulfobacterota,Purine salvage,0.0096029651672883
+37,Desulfobacterota,Pyridoxal phosphate biosynthesis,0.0207358531153828
+38,Desulfobacterota,Pyrimidine biosynthesis,0.0275789394618039
+39,Desulfobacterota,Pyrimidine degradation,0.0587410264483509
+40,Desulfobacterota,Pyrimidine salvage,0.0250644148702285
+41,Desulfobacterota,Pyrimidine salvagetRNA modification,5.39668241283769e-05
+42,Desulfobacterota,Pyruvate oxidation,0.0007702497765365
+43,Desulfobacterota,Riboflavin/FAD biosynthesis,0.0006475239300586
+44,Desulfobacterota,Ribosome 30S subunit,0.0335142370114978
+45,Desulfobacterota,Ribosome 50S subunit,0.0194774924823322
+46,Desulfobacterota,RNA polymerase,-0.0139682459876695
+47,Desulfobacterota,Serine biosynthesis,0.0184783078070274
+48,Desulfobacterota,TCA cycle,0.013126841911376
+49,Desulfobacterota,"TCA cycle, glyoxylate bypass",0.0034512161689232
+50,Desulfobacterota,Thiamine biosynthesis,0.0611162706173648
+51,Desulfobacterota,Threonine biosynthesis,-0.0025131351928015
+52,Desulfobacterota,Thymidylate biosynthesis,-0.0097656749128664
+53,Desulfobacterota,Translation factors,-0.0331224975807678
+54,Desulfobacterota,tRNA modification,0.0112934705598937
+55,Desulfobacterota,Ubiquinone biosynthesis,-0.0102893289099533
+56,Desulfobacterota,Unknown,-0.0196497700143517
+57,Desulfobacterota,Urea cycle,0.0445355902054438
+58,Desulfobacterota,Archaeal ribosomal proteins,0.0078611194937468
+59,Desulfobacterota,2Fe2S,0.0064548423331171
+60,Desulfobacterota,3D,-0.0102355494366095
+61,Desulfobacterota,Entner-Doudoroff pathway,-0.0101978844799443
+62,Desulfobacterota,Na+-translocating NADH dehydrogenase,-0.0390329646480149
+63,Desulfobacterota,Unannotated,0.0114986192234107
+0,Firmicutes_A,16S rRNA modification,-0.0022245797535831
+1,Firmicutes_A,23S rRNA modification,-0.0146682130187637
+2,Firmicutes_A,Aminoacyl-tRNA synthetases,-0.0058191837306898
+3,Firmicutes_A,Arginine biosynthesis,0.0015031010684042
+4,Firmicutes_A,Aromatic amino acid biosynthesis,0.0084204891294125
+5,Firmicutes_A,Asparagine biosynthesis,-0.0722889922202943
+6,Firmicutes_A,Biotin biosynthesis,-0.0028903987053486
+7,Firmicutes_A,Cobalamine/B12 biosynthesis,-0.0472200415574415
+8,Firmicutes_A,CRISPR-Cas system,-0.0095891407649663
+9,Firmicutes_A,Fatty acid biosynthesis,0.0432710777669911
+10,Firmicutes_A,FoF1-type ATP synthase,0.0659369920168018
+11,Firmicutes_A,Folate biosynthesis,-0.0321506367137163
+12,Firmicutes_A,Gluconeogenesis,-0.0160342398410267
+13,Firmicutes_A,Glutamine biosynthesis,-0.0142529838034499
+14,Firmicutes_A,Glycine cleavagePyruvate oxidation,0.0283220171067924
+15,Firmicutes_A,Glycolysis,0.0302921271024735
+16,Firmicutes_A,Heme biosynthesis,0.0672572440724561
+17,Firmicutes_A,Histidine biosynthesis,-0.0189102530725038
+18,Firmicutes_A,"Histidine biosynthesis, Purine biosynthesis",-0.010608255027914
+19,Firmicutes_A,"Isoleucine, leucine, valine biosynthesis",-0.0016403005226701
+20,Firmicutes_A,Lipid A biosynthesis,0.0397286872524484
+21,Firmicutes_A,Lipoate biosynthesis,-0.0031287535182465
+22,Firmicutes_A,Lysine biosynthesis,-0.0050314252163684
+23,Firmicutes_A,Lysine biosynthesisTCA cycle,-0.015128695722612
+24,Firmicutes_A,Menaquinone biosynthesis,-0.0348488106463387
+25,Firmicutes_A,Methionine biosynthesis,0.0602983742914646
+26,Firmicutes_A,Molybdopterin biosynthesis,-0.012317958393187
+27,Firmicutes_A,Mureine biosynthesis,0.0057411829978006
+28,Firmicutes_A,Na+-translocating Fd:NADH oxidoreductase,-0.0163819173788107
+29,Firmicutes_A,NAD biosynthesis,0.0498074258788102
+30,Firmicutes_A,NADH dehydrogenase,-0.0475906133286057
+31,Firmicutes_A,Non-phosphorylated Entner-Doudoroff pathway,-0.0188615589122335
+32,Firmicutes_A,Pantothenate/CoA biosynthesis,-0.056995277617233
+33,Firmicutes_A,Pentose phosphate pathway,0.0078525536158284
+34,Firmicutes_A,Phospholipid biosynthesis,0.0450118054974247
+35,Firmicutes_A,Proline biosynthesis,0.0124329950085272
+36,Firmicutes_A,Proline degradation,-0.0176185319996292
+37,Firmicutes_A,Purine biosynthesis,-0.00545693307369
+38,Firmicutes_A,Purine salvage,-0.0085515192776602
+39,Firmicutes_A,Pyridoxal phosphate biosynthesis,-0.0030395209351066
+40,Firmicutes_A,Pyrimidine biosynthesis,0.0109408965026396
+41,Firmicutes_A,Pyrimidine degradation,0.0248799857976186
+42,Firmicutes_A,Pyrimidine salvage,0.0022415721923468
+43,Firmicutes_A,Pyrimidine salvagetRNA modification,-0.0228718281115069
+44,Firmicutes_A,Pyruvate oxidation,-0.0275407164057294
+45,Firmicutes_A,Riboflavin/FAD biosynthesis,-0.0033644675578209
+46,Firmicutes_A,Ribosome 30S subunit,-0.0072023373610512
+47,Firmicutes_A,Ribosome 50S subunit,-0.0185849910261946
+48,Firmicutes_A,RNA polymerase,-0.003389733227843
+49,Firmicutes_A,Serine biosynthesis,-0.0465865486889106
+50,Firmicutes_A,TCA cycle,0.0296318137435603
+51,Firmicutes_A,"TCA cycle, glyoxylate bypass",0.0023094777316267
+52,Firmicutes_A,Thiamine biosynthesis,0.0315071220024248
+53,Firmicutes_A,Threonine biosynthesis,0.0199152426666503
+54,Firmicutes_A,Thymidylate biosynthesis,0.0023394966750566
+55,Firmicutes_A,Translation factors,-0.0011224112981745
+56,Firmicutes_A,tRNA modification,-0.0135592839818994
+57,Firmicutes_A,Ubiquinone biosynthesis,0.0077382940307661
+58,Firmicutes_A,Unknown,0.0349404165690371
+59,Firmicutes_A,Urea cycle,0.0029635716340867
+60,Firmicutes_A,A/V-type ATP synthase,0.0859614474693068
+61,Firmicutes_A,Archaeal ribosomal proteins,-0.0126845052290837
+62,Firmicutes_A,2Fe2S,-0.0020999826377518
+63,Firmicutes_A,3D,-0.0056822742194812
+64,Firmicutes_A,Entner-Doudoroff pathway,-0.0280336406213095
+65,Firmicutes_A,Na+-translocating NADH dehydrogenase,-0.0158343783586696
+66,Firmicutes_A,Unannotated,0.0132968910504706
+0,Thermotogota,"Isoleucine, leucine, valine biosynthesis",0.0188943125800997
+0,Proteobacteria,23S rRNA modification,0.0355615433612894
+1,Proteobacteria,Aminoacyl-tRNA synthetases,-0.041400986949571
+2,Proteobacteria,Arginine biosynthesis,0.0203272144894389
+3,Proteobacteria,Asparagine biosynthesis,0.0053826830031199
+4,Proteobacteria,Biotin biosynthesis,-0.0442924494065132
+5,Proteobacteria,Cobalamine/B12 biosynthesis,-0.0101309645756469
+6,Proteobacteria,Cysteine biosynthesis,0.0286394193847732
+7,Proteobacteria,Fatty acid biosynthesis,-0.0055776208146213
+8,Proteobacteria,FoF1-type ATP synthase,-0.0010740898701541
+9,Proteobacteria,Folate biosynthesis,-0.0090880163781038
+10,Proteobacteria,Gluconeogenesis,-0.028456393356329
+11,Proteobacteria,Glycine cleavage,-0.0135954608151497
+12,Proteobacteria,Glycine cleavagePyruvate oxidation,0.0236506688587901
+13,Proteobacteria,Glycolysis,-0.034590113730472
+14,Proteobacteria,Heme biosynthesis,-0.0129786225690042
+15,Proteobacteria,Histidine biosynthesis,-0.0142695818605025
+16,Proteobacteria,"Histidine biosynthesis, Purine biosynthesis",0.01953725333385
+17,Proteobacteria,"Isoleucine, leucine, valine biosynthesis",0.0076707435472158
+18,Proteobacteria,Isoprenoid biosynthesis,0.0291017433704596
+19,Proteobacteria,Lipid A biosynthesis,-0.0019722541993533
+20,Proteobacteria,Lipoate biosynthesis,0.0176690219095353
+21,Proteobacteria,Lysine biosynthesis,0.0130557290380149
+22,Proteobacteria,Lysine biosynthesisTCA cycle,0.0152022685911262
+23,Proteobacteria,Methionine biosynthesis,-0.011412761261107
+24,Proteobacteria,Molybdopterin biosynthesis,0.0283291406653135
+25,Proteobacteria,Mureine biosynthesis,-0.0033520785492265
+26,Proteobacteria,Na+-translocating Fd:NADH oxidoreductase,0.0012716951788953
+27,Proteobacteria,NAD biosynthesis,0.0127545487786513
+28,Proteobacteria,NADH dehydrogenase,-0.0143730005037067
+29,Proteobacteria,Non-phosphorylated Entner-Doudoroff pathway,-0.0305689521242013
+30,Proteobacteria,Pantothenate/CoA biosynthesis,-0.0068134283396958
+31,Proteobacteria,Pentose phosphate pathway,0.0439503325467635
+32,Proteobacteria,Phospholipid biosynthesis,0.0234979364534442
+33,Proteobacteria,Proline biosynthesis,0.007593381452344
+34,Proteobacteria,Proline degradation,0.0236164087831324
+35,Proteobacteria,Purine biosynthesis,0.0163806903842945
+36,Proteobacteria,Purine salvage,0.0125808200106911
+37,Proteobacteria,Pyridoxal phosphate biosynthesis,-0.0069295828202596
+38,Proteobacteria,Pyrimidine biosynthesis,-0.0328155717015561
+39,Proteobacteria,Pyrimidine degradation,0.0676182974970709
+40,Proteobacteria,Pyrimidine salvage,0.0390908540222623
+41,Proteobacteria,Pyrimidine salvagetRNA modification,-0.009878908892449
+42,Proteobacteria,Pyruvate oxidation,0.0008911614134738
+43,Proteobacteria,Riboflavin/FAD biosynthesis,-0.0108283952087699
+44,Proteobacteria,Ribosome 30S subunit,-0.0101922152814446
+45,Proteobacteria,Ribosome 50S subunit,0.0316477612429299
+46,Proteobacteria,RNA polymerase,-0.0134772739335515
+47,Proteobacteria,Serine biosynthesis,-0.0343335337605699
+48,Proteobacteria,TCA cycle,0.0259185748021723
+49,Proteobacteria,"TCA cycle, glyoxylate bypass",0.0168925891912505
+50,Proteobacteria,Thiamine biosynthesis,0.0141097458085621
+51,Proteobacteria,Threonine biosynthesis,-0.0184483581496144
+52,Proteobacteria,Thymidylate biosynthesis,-0.0027243539924049
+53,Proteobacteria,Translation factors,-0.0296281223973522
+54,Proteobacteria,tRNA modification,0.0217426224572054
+55,Proteobacteria,Ubiquinone biosynthesis,-0.004499152162573
+56,Proteobacteria,Unknown,0.0041056253986885
+57,Proteobacteria,Urea cycle,0.0009223429030919
+58,Proteobacteria,A/V-type ATP synthase,-0.01251327021962
+59,Proteobacteria,Archaeal ribosomal proteins,0.0043265907628527
+60,Proteobacteria,2Fe2S,-0.0106865206270312
+61,Proteobacteria,3D,-0.0028578418738644
+62,Proteobacteria,Na+-translocating NADH dehydrogenase,-0.0113039572663991
+63,Proteobacteria,Unannotated,0.006481360971644
+0,Deinococcota,Cysteine biosynthesis,-0.0190229162110629
+1,Deinococcota,FoF1-type ATP synthase,-0.0168439143288853
+2,Deinococcota,Glycine cleavage,-0.0022041667143779
+3,Deinococcota,Glycine cleavagePyruvate oxidation,0.0198815840606046
+4,Deinococcota,Histidine biosynthesis,-0.0485624353544796
+5,Deinococcota,"Histidine biosynthesis, Purine biosynthesis",0.0060737329921195
+6,Deinococcota,"Isoleucine, leucine, valine biosynthesis",0.0675442434966247
+7,Deinococcota,Isoprenoid biosynthesis,-0.0258143229508512
+8,Deinococcota,Lipid A biosynthesis,-0.039107761881394
+9,Deinococcota,Lipoate biosynthesis,0.0107004932901507
+10,Deinococcota,Lysine biosynthesis,0.0160535385295489
+11,Deinococcota,Lysine biosynthesisTCA cycle,0.0359745674994094
+12,Deinococcota,NAD biosynthesis,0.0881295385048642
+13,Deinococcota,Proline biosynthesis,-0.0053694588896672
+14,Deinococcota,Proline degradation,-0.0027066467880573
+15,Deinococcota,Purine biosynthesis,0.117452888092421
+16,Deinococcota,Purine salvage,0.0913246310499559
+17,Deinococcota,Pyrimidine degradation,0.0163319701884242
+18,Deinococcota,Pyrimidine salvage,-0.1815178410318453
+19,Deinococcota,Pyrimidine salvagetRNA modification,-0.0233075372637976
+20,Deinococcota,Pyruvate oxidation,-0.0068167790414928
+21,Deinococcota,Riboflavin/FAD biosynthesis,-0.0451295726405866
+22,Deinococcota,RNA polymerase,0.0074815221597052
+23,Deinococcota,Serine biosynthesis,-0.0132717453104179
+24,Deinococcota,TCA cycle,-0.0744576428105497
+25,Deinococcota,Thiamine biosynthesis,0.1117233855094278
+26,Deinococcota,Threonine biosynthesis,0.0672935792303835
+27,Deinococcota,Thymidylate biosynthesis,-0.0223649083141036
+28,Deinococcota,Translation factors,0.0085498374390557
+29,Deinococcota,2Fe2S,-0.0065508665419548
+30,Deinococcota,3D,-0.0280336268057333
+31,Deinococcota,Entner-Doudoroff pathway,0.0043938363480376
+32,Deinococcota,Unannotated,-0.1390215043321569
+0,Spirochaetota,23S rRNA modification,0.0010655796416453
+1,Spirochaetota,Aminoacyl-tRNA synthetases,0.0028799919598453
+2,Spirochaetota,Arginine biosynthesis,-0.0279796079092202
+3,Spirochaetota,Aromatic amino acid biosynthesis,-0.0016365631336263
+4,Spirochaetota,Cobalamine/B12 biosynthesis,0.0444540560369452
+5,Spirochaetota,Folate biosynthesis,-0.013287583562523
+6,Spirochaetota,Glycolysis,0.007902535885431
+7,Spirochaetota,Histidine biosynthesis,-0.0116363287895682
+8,Spirochaetota,"Histidine biosynthesis, Purine biosynthesis",0.0012457865634437
+9,Spirochaetota,"Isoleucine, leucine, valine biosynthesis",-0.007407460083951
+10,Spirochaetota,Mureine biosynthesis,0.0160435299934666
+11,Spirochaetota,Na+-translocating Fd:NADH oxidoreductase,0.0082477690335712
+12,Spirochaetota,NAD biosynthesis,-0.000135767615038
+13,Spirochaetota,NADH dehydrogenase,-0.0236493673576923
+14,Spirochaetota,Proline degradation,0.0007280281266996
+15,Spirochaetota,Pyridoxal phosphate biosynthesis,-0.0041775338231716
+16,Spirochaetota,Pyrimidine biosynthesis,-0.0196461115984271
+17,Spirochaetota,Pyrimidine salvagetRNA modification,-0.00892365729442
+18,Spirochaetota,Threonine biosynthesis,0.0061059167888423
+19,Spirochaetota,Urea cycle,0.0321189604335571
+20,Spirochaetota,Na+-translocating NADH dehydrogenase,-0.0002141328827208
+0,Nitrospirota,23S rRNA modification,0.0135956916636564
+1,Nitrospirota,Arginine biosynthesis,-0.0349886264792807
+2,Nitrospirota,Asparagine biosynthesis,-0.0037376623673953
+3,Nitrospirota,Biotin biosynthesis,0.0488113594524438
+4,Nitrospirota,Cobalamine/B12 biosynthesis,0.0140570244170009
+5,Nitrospirota,Cysteine biosynthesis,-0.0289950714275219
+6,Nitrospirota,Folate biosynthesis,-0.044415882954039
+7,Nitrospirota,Gluconeogenesis,0.0140689092130316
+8,Nitrospirota,Glycine cleavage,-0.0315767934683048
+9,Nitrospirota,Heme biosynthesis,-0.0001809655803531
+10,Nitrospirota,Isoprenoid biosynthesis,0.0337611705942476
+11,Nitrospirota,Lipoate biosynthesis,0.0111721472300657
+12,Nitrospirota,Lysine biosynthesis,-0.0005111007493335
+13,Nitrospirota,Menaquinone biosynthesis,0.012973877221952
+14,Nitrospirota,Methionine biosynthesis,-0.0544849763836955
+15,Nitrospirota,Molybdopterin biosynthesis,0.0519287429244862
+16,Nitrospirota,Mureine biosynthesis,-0.0276100590514415
+17,Nitrospirota,Na+-translocating Fd:NADH oxidoreductase,-0.0706686253323418
+18,Nitrospirota,NAD biosynthesis,-0.0042813292965071
+19,Nitrospirota,NADH dehydrogenase,0.0467828619386266
+20,Nitrospirota,Non-phosphorylated Entner-Doudoroff pathway,0.0068414426164205
+21,Nitrospirota,Phospholipid biosynthesis,0.0271709106166688
+22,Nitrospirota,Proline biosynthesis,-0.0213950449673234
+23,Nitrospirota,Purine salvage,-0.0065283271441323
+24,Nitrospirota,Pyrimidine degradation,0.0045462358381825
+25,Nitrospirota,Pyrimidine salvage,0.0007162485679059
+26,Nitrospirota,Pyruvate oxidation,0.0049453971282496
+27,Nitrospirota,tRNA modification,0.0360457825067434
+28,Nitrospirota,Ubiquinone biosynthesis,0.0026972420114503
+29,Nitrospirota,Urea cycle,0.0536615203473625
+30,Nitrospirota,2Fe2S,-0.03457398981464
+31,Nitrospirota,3D,0.0448353374186023
+32,Nitrospirota,Unannotated,-0.1711139693280149
+0,Cloacimonadota,Aminoacyl-tRNA synthetases,0.0132981033493612
+1,Cloacimonadota,Asparagine biosynthesis,-0.0156956378751609
+2,Cloacimonadota,Biotin biosynthesis,0.0571212943778694
+3,Cloacimonadota,Cobalamine/B12 biosynthesis,0.0254080792849433
+4,Cloacimonadota,Fatty acid biosynthesis,-0.0150611428645517
+5,Cloacimonadota,Gluconeogenesis,-0.002005752038157
+6,Cloacimonadota,Glycine cleavage,0.0501175901710003
+7,Cloacimonadota,Glycolysis,-0.0231594151973511
+8,Cloacimonadota,Heme biosynthesis,-0.0194762016365686
+9,Cloacimonadota,"Histidine biosynthesis, Purine biosynthesis",0.0056836725070773
+10,Cloacimonadota,"Isoleucine, leucine, valine biosynthesis",-0.0688339742386158
+11,Cloacimonadota,Isoprenoid biosynthesis,-0.0802646227186978
+12,Cloacimonadota,Lysine biosynthesisTCA cycle,-0.0067488448804695
+13,Cloacimonadota,Menaquinone biosynthesis,-0.0031160941394117
+14,Cloacimonadota,Mureine biosynthesis,0.0001421109575972
+15,Cloacimonadota,Non-phosphorylated Entner-Doudoroff pathway,0.028674097635151
+16,Cloacimonadota,Pantothenate/CoA biosynthesis,-0.0436820022094598
+17,Cloacimonadota,Pentose phosphate pathway,0.0599869158242216
+18,Cloacimonadota,Phospholipid biosynthesis,0.0027057300514199
+19,Cloacimonadota,Proline degradation,0.0044226116795687
+20,Cloacimonadota,Purine salvage,-0.0623142184395052
+21,Cloacimonadota,Pyrimidine salvage,0.0872563639289494
+22,Cloacimonadota,RNA polymerase,-0.0262689951374808
+23,Cloacimonadota,Thiamine biosynthesis,-0.0563889844618972
+24,Cloacimonadota,Threonine biosynthesis,-0.016604771156748
+25,Cloacimonadota,Thymidylate biosynthesis,-0.0143186517326837
+26,Cloacimonadota,Ubiquinone biosynthesis,0.0068197911979835
+27,Cloacimonadota,Urea cycle,0.0820285027388126
+28,Cloacimonadota,A/V-type ATP synthase,-0.0507368099074846
+29,Cloacimonadota,2Fe2S,-0.014203846644124
+30,Cloacimonadota,Na+-translocating NADH dehydrogenase,-0.0326097769433762
+31,Cloacimonadota,Unannotated,-0.0315435823392481
+0,Synergistota,Glycine cleavage,0.0047792632693025
+1,Synergistota,Thiamine biosynthesis,0.0012072551131509
+2,Synergistota,Entner-Doudoroff pathway,0.035993253622999
+0,Actinobacteriota,16S rRNA modification,0.01520609181533
+1,Actinobacteriota,23S rRNA modification,-0.002911571346786
+2,Actinobacteriota,Aminoacyl-tRNA synthetases,-0.0175285853302179
+3,Actinobacteriota,Arginine biosynthesis,-0.0636356121820698
+4,Actinobacteriota,Aromatic amino acid biosynthesis,0.0081510251739485
+5,Actinobacteriota,Asparagine biosynthesis,-0.0370378933662599
+6,Actinobacteriota,Biotin biosynthesis,0.0060396232978451
+7,Actinobacteriota,Cobalamine/B12 biosynthesis,0.0786755794956926
+8,Actinobacteriota,CRISPR-Cas system,0.031167855292742
+9,Actinobacteriota,Cysteine biosynthesis,-0.0104032105479826
+10,Actinobacteriota,Fatty acid biosynthesis,-0.0674979348414989
+11,Actinobacteriota,FoF1-type ATP synthase,0.0077138760475483
+12,Actinobacteriota,Folate biosynthesis,0.0128792683126278
+13,Actinobacteriota,Gluconeogenesis,-0.0094786472925466
+14,Actinobacteriota,Glutamine biosynthesis,-0.0227250997161546
+15,Actinobacteriota,Glycine cleavage,-0.014340926858808
+16,Actinobacteriota,Glycine cleavagePyruvate oxidation,0.0561941488541923
+17,Actinobacteriota,Heme biosynthesis,0.0219762084249104
+18,Actinobacteriota,Histidine biosynthesis,-0.0236852982268848
+19,Actinobacteriota,"Isoleucine, leucine, valine biosynthesis",0.0405351741775341
+20,Actinobacteriota,Isoprenoid biosynthesis,-0.0148760613403023
+21,Actinobacteriota,Lipid A biosynthesis,-0.017223228691693
+22,Actinobacteriota,Lipoate biosynthesis,0.0148441982887817
+23,Actinobacteriota,Lysine biosynthesis,0.0200420126128059
+24,Actinobacteriota,Lysine biosynthesisTCA cycle,-0.0172608848519256
+25,Actinobacteriota,Menaquinone biosynthesis,-0.0022706689098028
+26,Actinobacteriota,Methionine biosynthesis,-0.01867522734321
+27,Actinobacteriota,Molybdopterin biosynthesis,0.0324058965095536
+28,Actinobacteriota,Mureine biosynthesis,-0.0020341118964818
+29,Actinobacteriota,Na+-translocating Fd:NADH oxidoreductase,0.0225415707818069
+30,Actinobacteriota,NAD biosynthesis,0.0010852073726257
+31,Actinobacteriota,NADH dehydrogenase,-0.0625729459444802
+32,Actinobacteriota,Pantothenate/CoA biosynthesis,-0.0481293923272166
+33,Actinobacteriota,Pentose phosphate pathway,0.0397734988392781
+34,Actinobacteriota,Phospholipid biosynthesis,0.0159779031912913
+35,Actinobacteriota,Proline biosynthesis,-0.0372226439817812
+36,Actinobacteriota,Proline degradation,-0.0147330515983252
+37,Actinobacteriota,Purine biosynthesis,0.0427449952070818
+38,Actinobacteriota,Purine salvage,-0.0365216777984967
+39,Actinobacteriota,Pyridoxal phosphate biosynthesis,-0.0125567630109343
+40,Actinobacteriota,Pyrimidine biosynthesis,0.035410494272184
+41,Actinobacteriota,Pyrimidine degradation,0.0213857104723047
+42,Actinobacteriota,Pyrimidine salvage,0.0941003729912932
+43,Actinobacteriota,Pyrimidine salvagetRNA modification,-0.0191631913347348
+44,Actinobacteriota,Pyruvate oxidation,-0.0483625614592887
+45,Actinobacteriota,Riboflavin/FAD biosynthesis,-0.0279868335319762
+46,Actinobacteriota,RNA polymerase,-0.0180605810263092
+47,Actinobacteriota,Serine biosynthesis,-0.0479256514305588
+48,Actinobacteriota,TCA cycle,0.0433675868735575
+49,Actinobacteriota,"TCA cycle, glyoxylate bypass",-0.0212788154634229
+50,Actinobacteriota,Thiamine biosynthesis,0.0600587204069338
+51,Actinobacteriota,Threonine biosynthesis,-0.0224887080149785
+52,Actinobacteriota,Thymidylate biosynthesis,0.0239799398034662
+53,Actinobacteriota,Translation factors,-0.0248453225966158
+54,Actinobacteriota,tRNA modification,-0.0126917831152181
+55,Actinobacteriota,Ubiquinone biosynthesis,-0.0468831583639935
+56,Actinobacteriota,Urea cycle,0.0125876885858163
+57,Actinobacteriota,A/V-type ATP synthase,-0.017749482838439
+58,Actinobacteriota,Archaeal ribosomal proteins,0.0117099324045087
+59,Actinobacteriota,2Fe2S,0.0047069611784822
+60,Actinobacteriota,3D,0.0106462813386934
+61,Actinobacteriota,Entner-Doudoroff pathway,-0.0469279049215447
+62,Actinobacteriota,Na+-translocating NADH dehydrogenase,0.0220993808305449
+63,Actinobacteriota,Unannotated,0.0289931311438524
+0,Fusobacteriota,16S rRNA modification,-0.017927279388659
+1,Fusobacteriota,23S rRNA modification,0.0130104051731829
+2,Fusobacteriota,Aminoacyl-tRNA synthetases,-0.0813624560526719
+3,Fusobacteriota,Arginine biosynthesis,0.0337292033203716
+4,Fusobacteriota,Aromatic amino acid biosynthesis,-0.0891401272697564
+5,Fusobacteriota,Asparagine biosynthesis,-0.026519359308911
+6,Fusobacteriota,Biotin biosynthesis,0.0480206940197276
+7,Fusobacteriota,Cobalamine/B12 biosynthesis,-0.0038524059634121
+8,Fusobacteriota,Cysteine biosynthesis,-0.0221504363484904
+9,Fusobacteriota,FoF1-type ATP synthase,0.0606738948125348
+10,Fusobacteriota,Glutamine biosynthesis,-0.0748455864307733
+11,Fusobacteriota,Glycine cleavagePyruvate oxidation,-0.016112055577365
+12,Fusobacteriota,Heme biosynthesis,-0.0379082229045906
+13,Fusobacteriota,Histidine biosynthesis,0.0123495947357898
+14,Fusobacteriota,"Histidine biosynthesis, Purine biosynthesis",-0.0068975606315537
+15,Fusobacteriota,"Isoleucine, leucine, valine biosynthesis",-0.0643877962493149
+16,Fusobacteriota,Lipid A biosynthesis,0.0286470638557035
+17,Fusobacteriota,Lysine biosynthesis,0.0303848406687182
+18,Fusobacteriota,Lysine biosynthesisTCA cycle,-0.018926592497814
+19,Fusobacteriota,Methionine biosynthesis,-0.0005376973944743
+20,Fusobacteriota,Mureine biosynthesis,0.0181984188102802
+21,Fusobacteriota,Na+-translocating Fd:NADH oxidoreductase,0.0813808632364837
+22,Fusobacteriota,NAD biosynthesis,0.0233945899023101
+23,Fusobacteriota,Non-phosphorylated Entner-Doudoroff pathway,0.0672496593940114
+24,Fusobacteriota,Pantothenate/CoA biosynthesis,0.0300046407519297
+25,Fusobacteriota,Proline biosynthesis,-0.0198323013787226
+26,Fusobacteriota,Proline degradation,0.0566642362211067
+27,Fusobacteriota,Purine biosynthesis,-0.0503449412095858
+28,Fusobacteriota,Purine salvage,-0.0574369734796963
+29,Fusobacteriota,Pyridoxal phosphate biosynthesis,0.0208760289386342
+30,Fusobacteriota,Pyrimidine biosynthesis,-0.0389420789926262
+31,Fusobacteriota,Pyrimidine salvage,0.032991148033681
+32,Fusobacteriota,Pyrimidine salvagetRNA modification,-0.05886636099167
+33,Fusobacteriota,Pyruvate oxidation,0.0384496225077709
+34,Fusobacteriota,Riboflavin/FAD biosynthesis,-0.0107826485627838
+35,Fusobacteriota,Ribosome 30S subunit,0.0641896723305083
+36,Fusobacteriota,Thiamine biosynthesis,0.0520169954917538
+37,Fusobacteriota,Threonine biosynthesis,0.0419148537931623
+38,Fusobacteriota,Thymidylate biosynthesis,-0.0327980321479844
+39,Fusobacteriota,Ubiquinone biosynthesis,0.0212787333865974
+40,Fusobacteriota,2Fe2S,0.0892613710306648
+41,Fusobacteriota,Entner-Doudoroff pathway,-0.0083285782222231
+42,Fusobacteriota,Unannotated,0.0208529736527151
+0,Firmicutes_C,16S rRNA modification,0.0074747479754176
+1,Firmicutes_C,23S rRNA modification,-0.0442733921347747
+2,Firmicutes_C,Aminoacyl-tRNA synthetases,-0.0361226528060262
+3,Firmicutes_C,Arginine biosynthesis,-0.1207855997672338
+4,Firmicutes_C,Aromatic amino acid biosynthesis,-0.1017021591070591
+5,Firmicutes_C,Asparagine biosynthesis,-0.0157099869499774
+6,Firmicutes_C,Biotin biosynthesis,-0.0016540748863662
+7,Firmicutes_C,CRISPR-Cas system,-0.001019473485393
+8,Firmicutes_C,Cysteine biosynthesis,-0.0624681804345498
+9,Firmicutes_C,Fatty acid biosynthesis,-0.0023087119928175
+10,Firmicutes_C,FoF1-type ATP synthase,0.0002599322981921
+11,Firmicutes_C,Folate biosynthesis,0.0299440289601465
+12,Firmicutes_C,Gluconeogenesis,0.021885584300216
+13,Firmicutes_C,Glutamine biosynthesis,-0.0899310260326716
+14,Firmicutes_C,Glycine cleavage,-0.0246445998474249
+15,Firmicutes_C,Glycine cleavagePyruvate oxidation,0.0488515926119472
+16,Firmicutes_C,Glycolysis,0.058265936687559
+17,Firmicutes_C,Heme biosynthesis,0.0201115401578831
+18,Firmicutes_C,Histidine biosynthesis,0.0761776629709988
+19,Firmicutes_C,"Histidine biosynthesis, Purine biosynthesis",-0.0239917186555689
+20,Firmicutes_C,"Isoleucine, leucine, valine biosynthesis",-0.0097234967431171
+21,Firmicutes_C,Isoprenoid biosynthesis,0.047080371143636
+22,Firmicutes_C,Lipoate biosynthesis,-0.0728230488162025
+23,Firmicutes_C,Lysine biosynthesis,0.0621127417436127
+24,Firmicutes_C,Menaquinone biosynthesis,-0.0382360693654587
+25,Firmicutes_C,Methionine biosynthesis,-0.0911528879774859
+26,Firmicutes_C,Molybdopterin biosynthesis,0.1139097481798066
+27,Firmicutes_C,Mureine biosynthesis,0.069853201335231
+28,Firmicutes_C,Na+-translocating Fd:NADH oxidoreductase,-0.0227241813148285
+29,Firmicutes_C,NAD biosynthesis,0.0504660114733885
+30,Firmicutes_C,NADH dehydrogenase,-0.0561455742341838
+31,Firmicutes_C,Non-phosphorylated Entner-Doudoroff pathway,-0.1040207211561095
+32,Firmicutes_C,Pantothenate/CoA biosynthesis,-0.107781158367215
+33,Firmicutes_C,Pentose phosphate pathway,0.0762150184055288
+34,Firmicutes_C,Phospholipid biosynthesis,0.0450655612613931
+35,Firmicutes_C,Proline biosynthesis,-0.0157336899584658
+36,Firmicutes_C,Proline degradation,-0.0305859924771358
+37,Firmicutes_C,Purine biosynthesis,-0.0042782683979353
+38,Firmicutes_C,Purine salvage,-0.0196630416129336
+39,Firmicutes_C,Pyridoxal phosphate biosynthesis,0.0296431497463687
+40,Firmicutes_C,Pyrimidine biosynthesis,-0.0198094372757573
+41,Firmicutes_C,Pyrimidine degradation,0.1803922523352593
+42,Firmicutes_C,Pyrimidine salvage,0.0773407948797364
+43,Firmicutes_C,Pyrimidine salvagetRNA modification,0.0311606184569005
+44,Firmicutes_C,Pyruvate oxidation,0.0520112981210673
+45,Firmicutes_C,Riboflavin/FAD biosynthesis,0.0093288993697051
+46,Firmicutes_C,Ribosome 50S subunit,0.0138625137920513
+47,Firmicutes_C,Serine biosynthesis,0.0646291935315092
+48,Firmicutes_C,TCA cycle,0.0965873586581424
+49,Firmicutes_C,Thiamine biosynthesis,0.0045959045218658
+50,Firmicutes_C,Threonine biosynthesis,-0.0512891840463944
+51,Firmicutes_C,Thymidylate biosynthesis,-0.0468999657490582
+52,Firmicutes_C,Translation factors,-0.0155450745438435
+53,Firmicutes_C,tRNA modification,0.0162157046155819
+54,Firmicutes_C,Ubiquinone biosynthesis,0.0191040170570619
+55,Firmicutes_C,Unknown,-0.0688453197237158
+56,Firmicutes_C,Urea cycle,0.0443237128663367
+57,Firmicutes_C,A/V-type ATP synthase,0.0437712323011865
+58,Firmicutes_C,Archaeal ribosomal proteins,-0.0335613813422181
+59,Firmicutes_C,2Fe2S,-0.0479489154048689
+60,Firmicutes_C,3D,-0.0357248878185915
+61,Firmicutes_C,Entner-Doudoroff pathway,-0.0637196105497208
+62,Firmicutes_C,Na+-translocating NADH dehydrogenase,-0.0003694140533456
+63,Firmicutes_C,Unannotated,-0.0254495786638884
+0,Chloroflexota,16S rRNA modification,0.0208885809066308
+1,Chloroflexota,Aminoacyl-tRNA synthetases,-0.0201598550684152
+2,Chloroflexota,Arginine biosynthesis,0.018530602783472
+3,Chloroflexota,Aromatic amino acid biosynthesis,0.0235213301151289
+4,Chloroflexota,Asparagine biosynthesis,-0.0097199029817299
+5,Chloroflexota,Biotin biosynthesis,0.0043575796601724
+6,Chloroflexota,CRISPR-Cas system,0.0318339857586477
+7,Chloroflexota,Cysteine biosynthesis,-0.0253759584006211
+8,Chloroflexota,Fatty acid biosynthesis,-0.0185914410020815
+9,Chloroflexota,FoF1-type ATP synthase,0.0079538819513517
+10,Chloroflexota,Gluconeogenesis,-0.0020683789973141
+11,Chloroflexota,Glutamine biosynthesis,0.0067041098440422
+12,Chloroflexota,Glycine cleavage,-0.0160323130934733
+13,Chloroflexota,Glycolysis,-0.0185628660236918
+14,Chloroflexota,Heme biosynthesis,0.0143470105403503
+15,Chloroflexota,Histidine biosynthesis,0.000680058403673
+16,Chloroflexota,"Histidine biosynthesis, Purine biosynthesis",-0.0146509570749868
+17,Chloroflexota,Isoprenoid biosynthesis,-0.0092348418150773
+18,Chloroflexota,Lipid A biosynthesis,-0.0067645461184268
+19,Chloroflexota,Lipoate biosynthesis,-0.0015838478366112
+20,Chloroflexota,Lysine biosynthesis,-0.0162278672594432
+21,Chloroflexota,Lysine biosynthesisTCA cycle,0.0013376576429574
+22,Chloroflexota,Menaquinone biosynthesis,0.0075224782371543
+23,Chloroflexota,Methionine biosynthesis,0.0140096472620048
+24,Chloroflexota,Mureine biosynthesis,-0.0049662410437533
+25,Chloroflexota,NAD biosynthesis,0.0029959633066943
+26,Chloroflexota,NADH dehydrogenase,-0.0044543135051956
+27,Chloroflexota,Pantothenate/CoA biosynthesis,0.0056481372401945
+28,Chloroflexota,Pentose phosphate pathway,0.0068510860206191
+29,Chloroflexota,Phospholipid biosynthesis,0.0014062747858681
+30,Chloroflexota,Proline degradation,0.0117967568843155
+31,Chloroflexota,Purine biosynthesis,0.0004735118262603
+32,Chloroflexota,Purine salvage,0.019765653493248
+33,Chloroflexota,Pyridoxal phosphate biosynthesis,0.0042616962190726
+34,Chloroflexota,Pyrimidine biosynthesis,-0.0036863282058521
+35,Chloroflexota,Pyrimidine degradation,-0.0008599991195902
+36,Chloroflexota,Pyrimidine salvage,0.0049873355069107
+37,Chloroflexota,Pyrimidine salvagetRNA modification,-0.0046330469866071
+38,Chloroflexota,Pyruvate oxidation,0.001214689295942
+39,Chloroflexota,Riboflavin/FAD biosynthesis,-0.0093487851334725
+40,Chloroflexota,RNA polymerase,-0.0083566341780386
+41,Chloroflexota,Serine biosynthesis,0.0026798982310832
+42,Chloroflexota,TCA cycle,-0.0262133484069447
+43,Chloroflexota,"TCA cycle, glyoxylate bypass",0.0363978239219203
+44,Chloroflexota,Thiamine biosynthesis,0.0342744270161428
+45,Chloroflexota,Thymidylate biosynthesis,0.0008665993114533
+46,Chloroflexota,Translation factors,0.0137139326842332
+47,Chloroflexota,tRNA modification,-0.0064336087261854
+48,Chloroflexota,Ubiquinone biosynthesis,0.0029143358561006
+49,Chloroflexota,Unknown,-0.0157533061722316
+50,Chloroflexota,Archaeal ribosomal proteins,-0.0173332753852253
+51,Chloroflexota,2Fe2S,0.0098045385192404
+52,Chloroflexota,3D,0.0495282708860723
+53,Chloroflexota,Entner-Doudoroff pathway,0.0035800479816445
+54,Chloroflexota,Na+-translocating NADH dehydrogenase,0.0027108271096842
+55,Chloroflexota,Unannotated,-0.0063143258496526
+0,Firmicutes,16S rRNA modification,-0.0233264222586551
+1,Firmicutes,23S rRNA modification,-0.0544312324841744
+2,Firmicutes,Aminoacyl-tRNA synthetases,-0.0616652191722567
+3,Firmicutes,Arginine biosynthesis,0.0289243502852883
+4,Firmicutes,Aromatic amino acid biosynthesis,-0.0989773873379292
+5,Firmicutes,Asparagine biosynthesis,-0.0032306314622622
+6,Firmicutes,Biotin biosynthesis,-0.010168743081415
+7,Firmicutes,Cobalamine/B12 biosynthesis,-0.0458688973220243
+8,Firmicutes,CRISPR-Cas system,-0.0006114657465032
+9,Firmicutes,Cysteine biosynthesis,-0.0344745006601295
+10,Firmicutes,Fatty acid biosynthesis,-0.0889541413118072
+11,Firmicutes,FoF1-type ATP synthase,0.0008547163742548
+12,Firmicutes,Folate biosynthesis,0.0388288505070795
+13,Firmicutes,Gluconeogenesis,0.0077313836771578
+14,Firmicutes,Glutamine biosynthesis,-0.0554045895714593
+15,Firmicutes,Glycine cleavage,0.0185887437416173
+16,Firmicutes,Glycine cleavagePyruvate oxidation,-0.0464993271869135
+17,Firmicutes,Glycolysis,-0.0261399919153508
+18,Firmicutes,Heme biosynthesis,0.012536165582136
+19,Firmicutes,Histidine biosynthesis,-0.0496394080191608
+20,Firmicutes,"Histidine biosynthesis, Purine biosynthesis",0.0376203730522889
+21,Firmicutes,"Isoleucine, leucine, valine biosynthesis",-0.0036353786912219
+22,Firmicutes,Isoprenoid biosynthesis,0.0422324324234211
+23,Firmicutes,Lipid A biosynthesis,0.0148247937264899
+24,Firmicutes,Lipoate biosynthesis,0.0242107860858408
+25,Firmicutes,Lysine biosynthesis,0.0598778241218986
+26,Firmicutes,Lysine biosynthesisTCA cycle,-0.0159148081005716
+27,Firmicutes,Methionine biosynthesis,0.0749941617896468
+28,Firmicutes,Molybdopterin biosynthesis,0.0088691511540256
+29,Firmicutes,Mureine biosynthesis,0.0362599987786744
+30,Firmicutes,Na+-translocating Fd:NADH oxidoreductase,-0.0284377385092723
+31,Firmicutes,NAD biosynthesis,-0.0292076721476131
+32,Firmicutes,NADH dehydrogenase,-0.0436606285583562
+33,Firmicutes,Non-phosphorylated Entner-Doudoroff pathway,-0.0690233233631168
+34,Firmicutes,Pantothenate/CoA biosynthesis,0.0449648690150332
+35,Firmicutes,Pentose phosphate pathway,0.0947538815488781
+36,Firmicutes,Phospholipid biosynthesis,0.031654409300289
+37,Firmicutes,Proline biosynthesis,0.0289843759174939
+38,Firmicutes,Proline degradation,0.0635252857146952
+39,Firmicutes,Purine biosynthesis,0.0356517061225832
+40,Firmicutes,Purine salvage,-0.0325993461890345
+41,Firmicutes,Pyridoxal phosphate biosynthesis,-0.0029001188675639
+42,Firmicutes,Pyrimidine biosynthesis,0.0052596430837593
+43,Firmicutes,Pyrimidine degradation,-0.0001062496386196
+44,Firmicutes,Pyrimidine salvagetRNA modification,-0.0262897560160453
+45,Firmicutes,Pyruvate oxidation,0.0185280130322057
+46,Firmicutes,Riboflavin/FAD biosynthesis,0.0238150419674789
+47,Firmicutes,Ribosome 30S subunit,0.0207223150173377
+48,Firmicutes,Ribosome 50S subunit,0.0383663098189926
+49,Firmicutes,RNA polymerase,-0.1086144378318208
+50,Firmicutes,Serine biosynthesis,-0.0115712968093286
+51,Firmicutes,TCA cycle,0.0648814073069367
+52,Firmicutes,"TCA cycle, glyoxylate bypass",-0.0232382652718305
+53,Firmicutes,Thiamine biosynthesis,0.0262642303494613
+54,Firmicutes,Threonine biosynthesis,-0.0132214337476835
+55,Firmicutes,Thymidylate biosynthesis,0.0252073119324627
+56,Firmicutes,Translation factors,0.0040515660654105
+57,Firmicutes,tRNA modification,-0.0575329583957951
+58,Firmicutes,Ubiquinone biosynthesis,-0.008748828708858
+59,Firmicutes,Unknown,0.1771534329834782
+60,Firmicutes,Urea cycle,-0.0052416524745159
+61,Firmicutes,A/V-type ATP synthase,-0.0398664281374061
+62,Firmicutes,Archaeal ribosomal proteins,0.0030717748201395
+63,Firmicutes,2Fe2S,0.0256552558768832
+64,Firmicutes,3D,-0.038396257848678
+65,Firmicutes,Entner-Doudoroff pathway,0.0018542999558165
+66,Firmicutes,Na+-translocating NADH dehydrogenase,-0.0035473809322271
+67,Firmicutes,Unannotated,-0.0144381101072949
+0,Planctomycetota,16S rRNA modification,-0.0041537740468984
+1,Planctomycetota,23S rRNA modification,0.0013713203006935
+2,Planctomycetota,Arginine biosynthesis,-0.003126386221736
+3,Planctomycetota,Aromatic amino acid biosynthesis,-0.0009668349691507
+4,Planctomycetota,Asparagine biosynthesis,0.0037230554689987
+5,Planctomycetota,Biotin biosynthesis,0.0062246443961191
+6,Planctomycetota,Cobalamine/B12 biosynthesis,0.0171715929343723
+7,Planctomycetota,CRISPR-Cas system,0.0239923698639832
+8,Planctomycetota,Cysteine biosynthesis,-0.0070819490399017
+9,Planctomycetota,Fatty acid biosynthesis,-0.0083467207244538
+10,Planctomycetota,FoF1-type ATP synthase,0.0098672835472451
+11,Planctomycetota,Folate biosynthesis,0.0074777194560943
+12,Planctomycetota,Glutamine biosynthesis,0.0046355389380836
+13,Planctomycetota,Glycine cleavage,0.0003651425766624
+14,Planctomycetota,Glycine cleavagePyruvate oxidation,-0.0019341721185413
+15,Planctomycetota,Glycolysis,-0.0048282673792384
+16,Planctomycetota,Heme biosynthesis,-0.0020031219180182
+17,Planctomycetota,Histidine biosynthesis,-0.0064989964792269
+18,Planctomycetota,"Histidine biosynthesis, Purine biosynthesis",-0.0022335947076423
+19,Planctomycetota,Lipid A biosynthesis,-0.0025071892673143
+20,Planctomycetota,Lysine biosynthesis,-0.006253410881394
+21,Planctomycetota,Lysine biosynthesisTCA cycle,-0.0023252775391616
+22,Planctomycetota,Menaquinone biosynthesis,-0.0073586660042694
+23,Planctomycetota,Molybdopterin biosynthesis,0.0086203264118807
+24,Planctomycetota,Mureine biosynthesis,-0.0134116783864222
+25,Planctomycetota,Na+-translocating Fd:NADH oxidoreductase,0.0130144869514053
+26,Planctomycetota,NADH dehydrogenase,0.0013201510794445
+27,Planctomycetota,Non-phosphorylated Entner-Doudoroff pathway,-0.0040706633032432
+28,Planctomycetota,Pantothenate/CoA biosynthesis,-0.0044994413398831
+29,Planctomycetota,Pentose phosphate pathway,0.0063536971313043
+30,Planctomycetota,Phospholipid biosynthesis,-0.0008116499104128
+31,Planctomycetota,Proline degradation,-0.0088838075642137
+32,Planctomycetota,Pyridoxal phosphate biosynthesis,0.0029852897542845
+33,Planctomycetota,Pyrimidine biosynthesis,0.004836702090934
+34,Planctomycetota,Pyrimidine degradation,0.0031506818403078
+35,Planctomycetota,Pyrimidine salvage,-0.0027880583454709
+36,Planctomycetota,Pyruvate oxidation,-0.0014541907392233
+37,Planctomycetota,Ribosome 30S subunit,0.0011244930051589
+38,Planctomycetota,RNA polymerase,-0.0098147296686638
+39,Planctomycetota,TCA cycle,0.008998594180513
+40,Planctomycetota,Thiamine biosynthesis,0.0148755646790938
+41,Planctomycetota,Thymidylate biosynthesis,0.0010780049165644
+42,Planctomycetota,Translation factors,0.0006568888599946
+43,Planctomycetota,tRNA modification,0.0002256281588169
+44,Planctomycetota,2Fe2S,-0.0030266176962877
+45,Planctomycetota,3D,-0.0033746381163769
+46,Planctomycetota,Na+-translocating NADH dehydrogenase,-0.0035815181941989
+47,Planctomycetota,Unannotated,-0.0062004111861893
+0,Campylobacterota,16S rRNA modification,0.0360561761237428
+1,Campylobacterota,Aromatic amino acid biosynthesis,-0.0038169471583475
+2,Campylobacterota,Cysteine biosynthesis,-0.0166256862135957
+3,Campylobacterota,Fatty acid biosynthesis,0.0054915801517428
+4,Campylobacterota,FoF1-type ATP synthase,0.0081016677208
+5,Campylobacterota,Folate biosynthesis,-0.0241997603753129
+6,Campylobacterota,Gluconeogenesis,-0.0354170744438472
+7,Campylobacterota,Glutamine biosynthesis,-0.0323030181189405
+8,Campylobacterota,Glycine cleavagePyruvate oxidation,0.0303301331975417
+9,Campylobacterota,Histidine biosynthesis,-0.0118118357668025
+10,Campylobacterota,"Histidine biosynthesis, Purine biosynthesis",0.0013691826953982
+11,Campylobacterota,"Isoleucine, leucine, valine biosynthesis",-0.0076966739849988
+12,Campylobacterota,Lipoate biosynthesis,-0.0192406430930671
+13,Campylobacterota,Menaquinone biosynthesis,0.0624867757000521
+14,Campylobacterota,NAD biosynthesis,-0.0088264109418161
+15,Campylobacterota,Pantothenate/CoA biosynthesis,-0.0414886358025027
+16,Campylobacterota,Proline biosynthesis,-0.1692444998984814
+17,Campylobacterota,Purine salvage,0.0014350105235287
+18,Campylobacterota,Pyridoxal phosphate biosynthesis,0.0005833135499944
+19,Campylobacterota,Pyrimidine biosynthesis,0.0876591949167608
+20,Campylobacterota,Pyrimidine degradation,0.018315663964804
+21,Campylobacterota,Pyrimidine salvage,0.0068065998064413
+22,Campylobacterota,Pyruvate oxidation,0.0460181066152706
+23,Campylobacterota,Riboflavin/FAD biosynthesis,-0.0316973004152587
+24,Campylobacterota,Ribosome 30S subunit,-0.0190567839319301
+25,Campylobacterota,RNA polymerase,0.0045967734679822
+26,Campylobacterota,"TCA cycle, glyoxylate bypass",0.0401706455510494
+27,Campylobacterota,Threonine biosynthesis,0.0630865694571976
+28,Campylobacterota,Thymidylate biosynthesis,0.0126790622917738
+29,Campylobacterota,Translation factors,0.0064413929415236
+30,Campylobacterota,3D,-0.0119197462452296
+31,Campylobacterota,Entner-Doudoroff pathway,0.0115191651117445
+32,Campylobacterota,Na+-translocating NADH dehydrogenase,-0.0035573336174596
+33,Campylobacterota,Unannotated,-0.0700820731992787
+0,Verrucomicrobiota,16S rRNA modification,0.0451236812753927
+1,Verrucomicrobiota,23S rRNA modification,0.0084177794051128
+2,Verrucomicrobiota,Aminoacyl-tRNA synthetases,0.0089969957585785
+3,Verrucomicrobiota,Arginine biosynthesis,9.886966631672134e-05
+4,Verrucomicrobiota,Aromatic amino acid biosynthesis,0.0340515988813298
+5,Verrucomicrobiota,Asparagine biosynthesis,-0.0238424729808279
+6,Verrucomicrobiota,Biotin biosynthesis,-0.0191008226934219
+7,Verrucomicrobiota,Cobalamine/B12 biosynthesis,-0.0054871151298843
+8,Verrucomicrobiota,CRISPR-Cas system,-0.0161066600056347
+9,Verrucomicrobiota,Cysteine biosynthesis,0.0681431920153406
+10,Verrucomicrobiota,Fatty acid biosynthesis,0.0021591241855819
+11,Verrucomicrobiota,FoF1-type ATP synthase,0.0035897929049923
+12,Verrucomicrobiota,Folate biosynthesis,-0.0386526139864641
+13,Verrucomicrobiota,Gluconeogenesis,-0.0078324631894181
+14,Verrucomicrobiota,Glutamine biosynthesis,-0.0213324857088683
+15,Verrucomicrobiota,Glycine cleavage,0.009438630419892
+16,Verrucomicrobiota,Glycolysis,0.0343682367154824
+17,Verrucomicrobiota,Heme biosynthesis,-0.0037977995682191
+18,Verrucomicrobiota,Histidine biosynthesis,0.0389644232149321
+19,Verrucomicrobiota,"Histidine biosynthesis, Purine biosynthesis",0.0046665578268122
+20,Verrucomicrobiota,"Isoleucine, leucine, valine biosynthesis",0.0024562183091261
+21,Verrucomicrobiota,Isoprenoid biosynthesis,-0.0359517637763118
+22,Verrucomicrobiota,Lipid A biosynthesis,-0.0052779768077671
+23,Verrucomicrobiota,Lipoate biosynthesis,-0.0119451569740463
+24,Verrucomicrobiota,Lysine biosynthesis,-0.0106794525371808
+25,Verrucomicrobiota,Lysine biosynthesisTCA cycle,0.0303814161771878
+26,Verrucomicrobiota,Menaquinone biosynthesis,-0.0009915688050445
+27,Verrucomicrobiota,Methionine biosynthesis,0.0236804198765147
+28,Verrucomicrobiota,Molybdopterin biosynthesis,-0.0138804146834025
+29,Verrucomicrobiota,Mureine biosynthesis,0.0063226996873622
+30,Verrucomicrobiota,Na+-translocating Fd:NADH oxidoreductase,-0.0195483985611378
+31,Verrucomicrobiota,NAD biosynthesis,-0.012867067770137
+32,Verrucomicrobiota,Non-phosphorylated Entner-Doudoroff pathway,0.0009507052288729
+33,Verrucomicrobiota,Pentose phosphate pathway,-0.0902186923141793
+34,Verrucomicrobiota,Phospholipid biosynthesis,-0.0108672843449223
+35,Verrucomicrobiota,Proline biosynthesis,0.0124937620213941
+36,Verrucomicrobiota,Proline degradation,0.020092101745046
+37,Verrucomicrobiota,Purine biosynthesis,-0.0037861553506302
+38,Verrucomicrobiota,Purine salvage,-0.0454491942704138
+39,Verrucomicrobiota,Pyridoxal phosphate biosynthesis,0.000360744290311
+40,Verrucomicrobiota,Pyrimidine biosynthesis,0.0427483401613762
+41,Verrucomicrobiota,Pyrimidine degradation,-0.0002335498653528
+42,Verrucomicrobiota,Pyrimidine salvage,-0.0227016281286154
+43,Verrucomicrobiota,Pyrimidine salvagetRNA modification,-0.0034325842499421
+44,Verrucomicrobiota,Pyruvate oxidation,0.0019982462687739
+45,Verrucomicrobiota,Riboflavin/FAD biosynthesis,0.0169560100239548
+46,Verrucomicrobiota,Ribosome 30S subunit,0.0159392674886397
+47,Verrucomicrobiota,RNA polymerase,-0.0253763477412456
+48,Verrucomicrobiota,Serine biosynthesis,-0.0431908989600953
+49,Verrucomicrobiota,TCA cycle,-0.0026943005185156
+50,Verrucomicrobiota,Thiamine biosynthesis,0.0493948247198087
+51,Verrucomicrobiota,Threonine biosynthesis,-0.0445654651523343
+52,Verrucomicrobiota,Thymidylate biosynthesis,0.0138111629705284
+53,Verrucomicrobiota,Translation factors,-0.0118566083741298
+54,Verrucomicrobiota,tRNA modification,0.0047062852329535
+55,Verrucomicrobiota,Ubiquinone biosynthesis,-0.0249405443421998
+56,Verrucomicrobiota,Unknown,0.076679142857167
+57,Verrucomicrobiota,Urea cycle,0.0015560352747568
+58,Verrucomicrobiota,A/V-type ATP synthase,-0.0006497417103845
+59,Verrucomicrobiota,Archaeal ribosomal proteins,0.0016976995147404
+60,Verrucomicrobiota,2Fe2S,-0.004729254076395
+61,Verrucomicrobiota,Entner-Doudoroff pathway,-0.0803594200439494
+62,Verrucomicrobiota,Na+-translocating NADH dehydrogenase,0.0014317093073344
+63,Verrucomicrobiota,Unannotated,-0.0358460651551983

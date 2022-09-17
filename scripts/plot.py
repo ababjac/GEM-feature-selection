@@ -39,4 +39,4 @@ with os.scandir(DIRECTORY) as d:
         if entry.name.endswith('.txt') and entry.is_file():
             path = os.path.join(DIRECTORY, entry.name)
 
-            make_graph(path, 'figures/by-phylum-annotation/'+entry.name.split('.')[0]+'.pdf')
+            make_graph(path, DIRECTORY+entry.name.split('.')[0]+'.pdf')
