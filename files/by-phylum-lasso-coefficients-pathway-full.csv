@@ -1,4 +1,4 @@
-,pathway_name,feature_name,coefficient
+,phylum_name,feature_name,coefficient
 0,Bacteroidota,16S rRNA modification,0.0341124241420405
 1,Bacteroidota,23S rRNA modification,-0.0310038543331861
 2,Bacteroidota,Aminoacyl-tRNA synthetases,-0.0438385016444588
