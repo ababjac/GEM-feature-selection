@@ -38,8 +38,9 @@ import os
 # #print(count)
 # df.to_csv('files/by-phylum-lasso-coefficients-annotation-full.csv')
 
-df = pd.read_csv('files/by-phylum-lasso-coefficients-annotation-full.csv', index_col=0)
-df['predicted'] = np.where(df['coefficient'] >=0, 'C', 'U')
+df = pd.read_csv('files/updated-bootstrapped-by-phylum-annotation-LASSO-stats.csv', index_col=0)
+df = df[df['significant'] == True]
+df['predicted'] = np.where(df['coef'] >=0, 'C', 'U')
 
 phylums = set(df['phylum_name'].tolist())
 features = set(df['feature_name'].tolist())
@@ -66,4 +67,15 @@ for phylum in phylums:
 new_df['feature_name'] = list(features)
 new_df['cultured_feature_counts'] = count_C
 new_df['uncultured_feature_counts'] = count_U
-new_df.to_csv('files/annotation_feature_counts_by_phylum.csv')
+new_df.to_csv('files/updated-bootstrapped-annotation_feature_counts_by_phylum.csv')
+
+# curr_dir = os.getcwd()
+# path_file = curr_dir+'/data/GEM_data/pathway_features_counts_wide.tsv'
+# annot_file = curr_dir+'/data/GEM_data/annotation_features_counts_wide.tsv'
+# path_features = pd.read_csv(path_file, sep='\t', header=0, encoding=helpers.detect_encoding(path_file))
+# annot_features = pd.read_csv(annot_file, sep='\t', header=0, encoding=helpers.detect_encoding(annot_file))
+#
+# helpers.write_list_to_file(curr_dir+'/files/pathway_feature_names_full.txt', list(path_features.columns))
+# helpers.write_list_to_file(curr_dir+'/files/annotation_feature_names_full.txt', list(annot_features.columns))
+#
+# print(len(path_features.columns), len(annot_features.columns))
