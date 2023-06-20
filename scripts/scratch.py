@@ -38,7 +38,7 @@ import os
 # #print(count)
 # df.to_csv('files/by-phylum-lasso-coefficients-annotation-full.csv')
 
-df = pd.read_csv('files/updated-bootstrapped-by-phylum-annotation-LASSO-stats.csv', index_col=0)
+df = pd.read_csv('files/TBG-shuffled-bootstrapped-by-phylum-annotation-LASSO-stats.csv', index_col=0)
 df = df[df['significant'] == True]
 df['predicted'] = np.where(df['coef'] >=0, 'C', 'U')
 
@@ -67,7 +67,7 @@ for phylum in phylums:
 new_df['feature_name'] = list(features)
 new_df['cultured_feature_counts'] = count_C
 new_df['uncultured_feature_counts'] = count_U
-new_df.to_csv('files/updated-bootstrapped-annotation_feature_counts_by_phylum.csv')
+new_df.to_csv('files/TBG-shuffled-bootstrapped-annotation_feature_counts_by_phylum_significant.csv')
 
 # curr_dir = os.getcwd()
 # path_file = curr_dir+'/data/GEM_data/pathway_features_counts_wide.tsv'

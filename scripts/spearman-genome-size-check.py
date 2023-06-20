@@ -10,6 +10,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, roc_curve, auc
 from sklearn.model_selection import GridSearchCV
 from sklearn.inspection import PartialDependenceDisplay, permutation_importance
+from sklearn.utils import shuffle
 import scipy.stats as st
 
 import helpers
@@ -61,7 +62,7 @@ def run_RF(X_train, X_test, y_train, y_test, image_name=None, image_path=None, p
 
 def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param_grid=None, random_state=872510):
     lasso = LogisticRegression(penalty='l1', solver='liblinear')
-    model = BaggingRegressor(base_estimator=lasso, n_estimators=100, bootstrap=True, verbose=0, random_state=random_state)
+    model = BaggingRegressor(base_estimator=lasso, n_estimators=50, bootstrap=True, verbose=0, random_state=random_state)
 
     model.fit(X_train_scaled, y_train)
 
@@ -124,7 +125,7 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
        LASSO_train = X_train_scaled
        LASSO_test = X_test_scaled
 
-    return LASSO_train, LASSO_test, output
+    return LASSO_train, LASSO_test, output, model
 
 
 #--------------------------------------------------------------------------------------------------#
@@ -166,6 +167,11 @@ if __name__ == '__main__':
 
         print(phylum, ':', data1.shape)
 
+        top_idx = data1['completeness'].quantile(0.90).index
+        bottom_idx = data1['completeness'].quantile(0.10).index
+
+        print(top_idx, bottom_idx)
+'''
         features = data1.loc[:, ~data1.columns.isin(['genome_id','cultured.status'])] #remove labels
         features = features.loc[:, ~features.columns.isin(['culture.level',
                                                            'taxonomic.dist',
@@ -182,6 +188,9 @@ if __name__ == '__main__':
 
         features = pd.get_dummies(features)
         labels = pd.get_dummies(label_strings)['cultured']
+        #print(label_strings, labels)
+
+        features = shuffle(features) #do random shuffle
 
         print('Pre-preprocessing data...')
         features = helpers.clean_data(features)
@@ -193,4 +202,5 @@ if __name__ == '__main__':
 
         full_df = full_df.append(LASSO_stats)
 
-    full_df.to_csv(curr_dir+'/files/updated-bootstrapped-by-phylum-annotation-LASSO-stats.csv')
+    full_df.to_csv(curr_dir+'/files/shuffled-bootstrapped-by-phylum-annotation-LASSO-stats.csv')
+'''

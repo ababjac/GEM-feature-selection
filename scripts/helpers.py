@@ -54,6 +54,10 @@ def normalize_abundances(df): #this is for GEM only
     norm_df['genome_id'] = df['genome_id']
     return norm_df
 
+def parse_taxonomy(df, col):
+    df[['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species']] = df[col].str.split(';', 7, expand=True)
+    return df
+
 #--------------------------------------------------------------------------------------------------#
 
 def clean_data(data):
