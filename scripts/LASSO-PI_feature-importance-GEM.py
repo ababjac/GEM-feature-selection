@@ -7,7 +7,7 @@ import statistics
 
 from sklearn.ensemble import RandomForestClassifier, BaggingRegressor
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, precision_score, recall_score, roc_curve, auc
+from sklearn.metrics import accuracy_score, precision_score, recall_score, roc_curve, roc_auc_score
 from sklearn.model_selection import GridSearchCV
 from sklearn.inspection import PartialDependenceDisplay, permutation_importance
 from sklearn.utils import shuffle
@@ -17,51 +17,8 @@ import helpers
 
 #--------------------------------------------------------------------------------------------------#
 
-def run_RF(X_train, X_test, y_train, y_test, image_name=None, image_path=None, param_grid=None, label=None, title=None, color=None):
-
-    if param_grid == None:
-        param_grid = {
-            'n_estimators': [200, 500],
-            'max_features': ['sqrt', 'log2'],
-            'max_depth' : [4,5,6,7,8],
-            'criterion' :['gini', 'entropy'],
-        }
-
-    if label == None:
-        label = y_train.name
-
-    clf = GridSearchCV(
-        estimator=RandomForestClassifier(),
-        param_grid=param_grid,
-        cv=5,
-        n_jobs=5,
-        verbose=1
-    )
-
-    print('Building model for label:', label)
-    clf.fit(X_train, y_train)
-
-    print('Predicting on test data for label:', label)
-    y_pred = clf.predict(X_test)
-    y_prob = clf.predict_proba(X_test) #get probabilities for AUC
-    probs = y_prob[:,1]
-
-    print('Calculating metrics for:', label)
-    print("Accuracy:", accuracy_score(y_test, y_pred))
-    print("Precision:", precision_score(y_test, y_pred))
-    print("Recall:", recall_score(y_test, y_pred))
-
-    fpr, tpr, thresholds = roc_curve(y_test, y_pred)
-    roc_auc = auc(fpr, tpr)
-    print("AUC:", roc_auc)
-
-    print('Calculating feature importance...')
-    importances = pd.DataFrame(clf.best_estimator_.feature_importances_, index=X_train.columns, columns=['importance'])
-
-    return importances
-
 def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param_grid=None, random_state=872510):
-    lasso = LogisticRegression(penalty='l1', solver='liblinear')
+    lasso = LogisticRegression(penalty='l1', solver='liblinear', random_state=random_state)
     model = BaggingRegressor(base_estimator=lasso, n_estimators=50, bootstrap=True, verbose=0, random_state=random_state)
 
     model.fit(X_train_scaled, y_train)
@@ -125,15 +82,18 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
        LASSO_train = X_train_scaled
        LASSO_test = X_test_scaled
 
-    return LASSO_train, LASSO_test, output
+    return LASSO_train, LASSO_test, output, model
 
 
 #--------------------------------------------------------------------------------------------------#
 
+SHUF = 'shuffled' 
+DATA = 'pathway'
 
 if __name__ == '__main__':
 
     print('Loading data...')
+    f = open('./files/{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
     curr_dir = os.getcwd()
 
     meta_file = curr_dir+'/data/GEM_data/GEM_metadata.tsv'
@@ -142,11 +102,15 @@ if __name__ == '__main__':
 
     metadata = pd.read_csv(meta_file, sep='\t', header=0, encoding=helpers.detect_encoding(meta_file))
 
-    #path_features = pd.read_csv(path_file, sep='\t', header=0, encoding=helpers.detect_encoding(path_file))
-    #path_features = helpers.normalize_abundances(path_features)
-    annot_features = pd.read_csv(annot_file, sep='\t', header=0, encoding=helpers.detect_encoding(annot_file))
-    annot_features = helpers.normalize_abundances(annot_features)
-    data = pd.merge(metadata, annot_features, on='genome_id', how='inner')
+
+    if DATA == 'pathway':
+        path_features = pd.read_csv(path_file, sep='\t', header=0, encoding=helpers.detect_encoding(path_file))
+        path_features = helpers.normalize_abundances(path_features)
+        data = pd.merge(metadata, path_features, on='genome_id', how='inner')
+    else:
+        annot_features = pd.read_csv(annot_file, sep='\t', header=0, encoding=helpers.detect_encoding(annot_file))
+        annot_features = helpers.normalize_abundances(annot_features)
+        data = pd.merge(metadata, annot_features, on='genome_id', how='inner')
 
     phylum_list = set(list(data['phylum']))
 
@@ -161,11 +125,16 @@ if __name__ == '__main__':
             continue
 
         label_strings = data1['cultured.status']
+        print(phylum, ':', data1.shape)
 
         if len(set(list(label_strings))) != 2:
+            #print('Cultured: 0, Uncultured: ', len(label_strings))
+            #print()
             continue
 
-        print(phylum, ':', data1.shape)
+        #need at least 10 cultured labels
+        if (sum(label_strings == 'cultured') < 10) or (sum(label_strings == 'uncultured') < 10):
+            continue
 
         features = data1.loc[:, ~data1.columns.isin(['genome_id','cultured.status'])] #remove labels
         features = features.loc[:, ~features.columns.isin(['culture.level',
@@ -185,16 +154,35 @@ if __name__ == '__main__':
         labels = pd.get_dummies(label_strings)['cultured']
         #print(label_strings, labels)
 
-        features = shuffle(features) #do random shuffle
+        #print('Cultured: ', sum(labels.eq(1)), ', Uncultured: ', sum(labels.eq(0)))
+        #print()
+
+        if SHUF == 'shuffled':
+            features = shuffle(features) #do random shuffle
 
         print('Pre-preprocessing data...')
         features = helpers.clean_data(features)
         X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels, test_size=0.2)
+        X_train, y_train = helpers.perform_SMOTE(X_train, y_train)
 
         print('Running LASSO...')
-        X_train_reduced, X_test_reduced, LASSO_stats = run_LASSO(X_train, X_test, y_train, y_test, phylum)
+        X_train_reduced, X_test_reduced, LASSO_stats, model = run_LASSO(X_train, X_test, y_train, y_test, phylum)
         LASSO_stats.sort_values('permutation_importance', ascending=False, ignore_index=True, inplace=True)
+        y_pred = model.predict(X_test)
+        y_pred_binary = [0 if elem <= 0.5 else 1 for elem in y_pred]
+
+        auc = roc_auc_score(y_test, y_pred)
+        acc = accuracy_score(y_test, y_pred_binary)
+        prec = precision_score(y_test, y_pred_binary)
+        rec = recall_score(y_test, y_pred_binary)
+
+        f.write(phylum+':\n')
+        f.write('AUC: '+str(round(auc, 3))+'\n')
+        f.write('Accuracy: '+str(round(acc, 3))+'\n')
+        f.write('Precision: '+str(round(prec, 3))+'\n')
+        f.write('Recall: '+str(round(rec, 3))+'\n')
+        f.write('\n\n')
 
         full_df = full_df.append(LASSO_stats)
 
-    full_df.to_csv(curr_dir+'/files/shuffled-bootstrapped-by-phylum-annotation-LASSO-stats.csv')
+    full_df.to_csv(curr_dir+'/files/GEM-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))

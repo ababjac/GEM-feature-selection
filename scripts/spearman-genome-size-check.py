@@ -150,7 +150,7 @@ if __name__ == '__main__':
 
     phylum_list = set(list(data['phylum']))
 
-    full_df = pd.DataFrame(columns=['phylum_name', 'feature_name', 'coef', 'coef_sd', 'lower_95', 'upper_95', 'count', 'significant', 'permutation_importance'])
+    #full_df = pd.DataFrame(columns=['phylum_name', 'feature_name', 'coef', 'coef_sd', 'lower_95', 'upper_95', 'count', 'significant', 'permutation_importance'])
     for phylum in phylum_list:
         if pd.isna(phylum):
             continue
@@ -167,11 +167,14 @@ if __name__ == '__main__':
 
         print(phylum, ':', data1.shape)
 
-        top_idx = data1['completeness'].quantile(0.90).index
-        bottom_idx = data1['completeness'].quantile(0.10).index
+        top_10 = data1['completeness'].quantile(0.90)
+        bottom_10 = data1['completeness'].quantile(0.10)
 
-        print(top_idx, bottom_idx)
-'''
+        top_idx = data1[data1.completeness >= top_10].index
+        bottom_idx = data1[data1.completeness <= bottom_10].index
+
+        #print(len(top_idx), len(bottom_idx))
+        
         features = data1.loc[:, ~data1.columns.isin(['genome_id','cultured.status'])] #remove labels
         features = features.loc[:, ~features.columns.isin(['culture.level',
                                                            'taxonomic.dist',
@@ -190,17 +193,38 @@ if __name__ == '__main__':
         labels = pd.get_dummies(label_strings)['cultured']
         #print(label_strings, labels)
 
-        features = shuffle(features) #do random shuffle
+        #features = shuffle(features) #do random shuffle
 
         print('Pre-preprocessing data...')
         features = helpers.clean_data(features)
         X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels, test_size=0.2)
 
         print('Running LASSO...')
-        X_train_reduced, X_test_reduced, LASSO_stats = run_LASSO(X_train, X_test, y_train, y_test, phylum)
+        X_train_reduced, X_test_reduced, LASSO_stats, model = run_LASSO(X_train, X_test, y_train, y_test, phylum)
         LASSO_stats.sort_values('permutation_importance', ascending=False, ignore_index=True, inplace=True)
 
-        full_df = full_df.append(LASSO_stats)
+        top_preds = model.predict(features.loc[top_idx])
+        bottom_preds = model.predict(features.loc[bottom_idx])
 
-    full_df.to_csv(curr_dir+'/files/shuffled-bootstrapped-by-phylum-annotation-LASSO-stats.csv')
-'''
+        top_preds = 1 - top_preds
+        bottom_preds = 1 - bottom_preds
+
+        top_GS = data1.loc[top_idx, 'genome_length']
+        bottom_GS = data1.loc[bottom_idx, 'genome_length']
+
+        #print(top_preds, bottom_preds)
+        #print(top_GS, bottom_GS)
+        rho1, p1 = st.spearmanr(top_preds, top_GS, nan_policy='omit')
+        rho2, p2 = st.spearmanr(bottom_preds, bottom_GS, nan_policy='omit')
+
+        with open('files/spearman-genome-size-annotation-GEM.txt', 'a') as file:
+            file.write('Phylum name: '+phylum+'\n')
+            file.write('Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top 10% Completeness - \n')
+            file.write('Rho: '+str(round(rho1, 3))+', P-value: '+str(round(p1, 3))+'\n\n')
+            file.write('Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Bottom 10% Completeness - \n')
+            file.write('Rho: '+str(round(rho2, 3))+', P-value: '+str(round(p2, 3))+'\n\n')
+            file.write('\n\n\n')
+
+        #full_df = full_df.append(LASSO_stats)
+
+    #full_df.to_csv(curr_dir+'/files/shuffled-bootstrapped-by-phylum-annotation-LASSO-stats.csv')
