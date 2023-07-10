@@ -1,0 +1,80 @@
+Desulfobacterota : (7, 312)
+Cultured:  0, Uncultured:  7
+
+Halobacteriota : (6, 312)
+Cultured:  0, Uncultured:  6
+
+Armatimonadota : (23, 312)
+Cultured:  0, Uncultured:  23
+
+Proteobacteria : (715, 312)
+Cultured:  151 , Uncultured:  564
+
+Patescibacteria : (49, 312)
+Cultured:  0, Uncultured:  49
+
+Aquificota : (12, 312)
+Cultured:  0, Uncultured:  12
+
+Thermoproteota : (12, 312)
+Cultured:  6 , Uncultured:  6
+
+Elusimicrobiota : (2, 312)
+Cultured:  0, Uncultured:  2
+
+Bacteroidota : (195, 312)
+Cultured:  2 , Uncultured:  193
+
+Thermoplasmatota : (4, 312)
+Cultured:  0, Uncultured:  4
+
+Deinococcota : (46, 312)
+Cultured:  27 , Uncultured:  19
+
+Dependentiae : (1, 312)
+Cultured:  0, Uncultured:  1
+
+Firmicutes_A : (8, 312)
+Cultured:  0, Uncultured:  8
+
+Acidobacteriota : (25, 312)
+Cultured:  0, Uncultured:  25
+
+Planctomycetota : (22, 312)
+Cultured:  0, Uncultured:  22
+
+Cyanobacteria : (70, 312)
+Cultured:  6 , Uncultured:  64
+
+Fibrobacterota : (2, 312)
+Cultured:  0, Uncultured:  2
+
+Bdellovibrionota : (24, 312)
+Cultured:  0, Uncultured:  24
+
+Myxococcota : (37, 312)
+Cultured:  0, Uncultured:  37
+
+Chloroflexota : (70, 312)
+Cultured:  0, Uncultured:  70
+
+Verrucomicrobiota : (13, 312)
+Cultured:  0, Uncultured:  13
+
+Eremiobacterota : (22, 312)
+Cultured:  0, Uncultured:  22
+
+UBP7 : (2, 312)
+Cultured:  0, Uncultured:  2
+
+Actinobacteriota : (209, 312)
+Cultured:  29 , Uncultured:  180
+
+Firmicutes_B : (5, 312)
+Cultured:  0, Uncultured:  5
+
+Firmicutes : (28, 312)
+Cultured:  8 , Uncultured:  20
+
+Gemmatimonadota : (24, 312)
+Cultured:  0, Uncultured:  24

@@ -1,0 +1,22 @@
+Two-sided Fisher's Exact Test Results -
+
+This test answer's the question: Among the significant features, does biosynthesis occur at a different frequency than non-biosynthesis features in cultured organisms?
+
+The test for the actual pathway counts is signficant. Based on the counts, biosynthesis features actually occur less in cultured organisms than uncultured organisms. The shuffled distribution is not significant so there is no difference in the distribution of counts in shuffled organisms. 
+
+Contingency table of the form:
+             is-biosynthesis-sig not-biosynthesis-sig
+cultured    [[        x1                  y1        ]
+uncultured   [        x2                  y2        ]]
+
+
+Real Pathway Counts:
+[[152 192]
+ [227 212]]
+(0.7393538913362702, 0.03708504833088039)
+
+Shuffled Pathway Counts:
+[[197 177]
+ [213 227]]
+(1.1861489085170154, 0.23246680680521203)
+

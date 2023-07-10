@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Mureine biosynthesis,4,7
+1,Entner-Doudoroff pathway,6,1
+2,Unannotated,12,2
+3,Pyrimidine biosynthesis,6,2
+4,Pyruvate oxidation,7,1
+5,Pyridoxal phosphate biosynthesis,5,2
+6,Molybdopterin biosynthesis,7,2
+7,"TCA cycle, glyoxylate bypass",4,0
+8,Purine salvage,9,3
+9,NADH dehydrogenase,10,1
+10,Gluconeogenesis,4,2
+11,Biotin biosynthesis,7,2
+12,2Fe2S,6,4
+13,Glycine cleavagePyruvate oxidation,6,3
+14,Lipid A biosynthesis,5,3
+15,Non-phosphorylated Entner-Doudoroff pathway,7,2
+16,Pyrimidine salvage,4,2
+17,Cysteine biosynthesis,3,2
+18,3D,10,3
+19,"Isoleucine, leucine, valine biosynthesis",8,5
+20,Proline biosynthesis,2,6
+21,Purine biosynthesis,8,3
+22,Glycine cleavage,4,4
+23,16S rRNA modification,8,2
+24,Pyrimidine degradation,6,3
+25,Na+-translocating NADH dehydrogenase,8,2
+26,Riboflavin/FAD biosynthesis,5,5
+27,Threonine biosynthesis,11,2
+28,Pentose phosphate pathway,6,1
+29,Thiamine biosynthesis,5,1
+30,CRISPR-Cas system,6,3
+31,Ribosome 50S subunit,14,0
+32,Ubiquinone biosynthesis,5,2
+33,Translation factors,6,3
+34,Pyrimidine salvagetRNA modification,7,4
+35,RNA polymerase,3,1
+36,NAD biosynthesis,5,4
+37,Archaeal ribosomal proteins,8,3
+38,Ribosome 30S subunit,8,2
+39,Lysine biosynthesis,4,5
+40,Phospholipid biosynthesis,8,2
+41,Serine biosynthesis,8,3
+42,Arginine biosynthesis,8,2
+43,Aminoacyl-tRNA synthetases,8,2
+44,Menaquinone biosynthesis,7,3
+45,23S rRNA modification,9,2
+46,Lysine biosynthesisTCA cycle,3,2
+47,FoF1-type ATP synthase,7,2
+48,tRNA modification,6,4
+49,Glycolysis,12,3
+50,TCA cycle,6,4
+51,Folate biosynthesis,8,6
+52,Heme biosynthesis,9,1
+53,Na+-translocating Fd:NADH oxidoreductase,5,6
+54,Isoprenoid biosynthesis,7,3
+55,"Histidine biosynthesis, Purine biosynthesis",3,5
+56,Asparagine biosynthesis,11,2
+57,Thymidylate biosynthesis,5,4
+58,Unknown,7,1
+59,Cobalamine/B12 biosynthesis,5,3
+60,Methionine biosynthesis,8,2
+61,Histidine biosynthesis,2,6
+62,Pantothenate/CoA biosynthesis,6,1
+63,Aromatic amino acid biosynthesis,7,0
+64,Fatty acid biosynthesis,7,4
+65,Glutamine biosynthesis,7,2
+66,Urea cycle,7,3
+67,A/V-type ATP synthase,5,5
+68,Lipoate biosynthesis,10,2
+69,Proline degradation,4,2

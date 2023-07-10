@@ -1,0 +1,345 @@
+Dormibacterota : (19, 83)
+Cultured: 0, Uncultured:  19
+
+UBP7 : (14, 83)
+Cultured: 0, Uncultured:  14
+
+Riflebacteria : (15, 83)
+Cultured: 0, Uncultured:  15
+
+OLB16 : (6, 83)
+Cultured: 0, Uncultured:  6
+
+Fusobacteriota : (215, 83)
+Cultured:  81 , Uncultured:  134
+
+Planctomycetota : (902, 83)
+Cultured:  8 , Uncultured:  894
+
+Deinococcota : (200, 83)
+Cultured:  145 , Uncultured:  55
+
+MBNT15 : (17, 83)
+Cultured: 0, Uncultured:  17
+
+Firmicutes_A : (8815, 83)
+Cultured:  1962 , Uncultured:  6853
+
+Latescibacterota : (41, 83)
+Cultured: 0, Uncultured:  41
+
+Delongbacteria : (9, 83)
+Cultured: 0, Uncultured:  9
+
+Calescibacterota : (16, 83)
+Cultured: 0, Uncultured:  16
+
+Myxococcota : (272, 83)
+Cultured: 0, Uncultured:  272
+
+Firmicutes_B : (186, 83)
+Cultured:  3 , Uncultured:  183
+
+Nitrospirota_A : (1, 83)
+Cultured: 0, Uncultured:  1
+
+Nanoarchaeota : (259, 83)
+Cultured: 0, Uncultured:  259
+
+Dictyoglomota : (13, 83)
+Cultured:  4 , Uncultured:  9
+
+Firmicutes_D : (84, 83)
+Cultured: 0, Uncultured:  84
+
+Cyanobacteriota : (488, 83)
+Cultured:  10 , Uncultured:  478
+
+Firmicutes : (1959, 83)
+Cultured:  658 , Uncultured:  1301
+
+Elusimicrobiota : (62, 83)
+Cultured: 0, Uncultured:  62
+
+Thermosulfidibacterota : (8, 83)
+Cultured: 0, Uncultured:  8
+
+Desulfuromonadota : (85, 83)
+Cultured:  4 , Uncultured:  81
+
+Firmicutes_C : (1253, 83)
+Cultured:  599 , Uncultured:  654
+
+UBP17 : (11, 83)
+Cultured: 0, Uncultured:  11
+
+Thermodesulfobiota : (1, 83)
+Cultured: 0, Uncultured:  1
+
+UBA10199 : (14, 83)
+Cultured: 0, Uncultured:  14
+
+Coprothermobacterota : (16, 83)
+Cultured:  10 , Uncultured:  6
+
+Dadabacteria : (18, 83)
+Cultured: 0, Uncultured:  18
+
+Chloroflexota : (1152, 83)
+Cultured:  40 , Uncultured:  1112
+
+Wallbacteria : (2, 83)
+Cultured: 0, Uncultured:  2
+
+Hadesarchaeota : (21, 83)
+Cultured: 0, Uncultured:  21
+
+Verrucomicrobiota : (1410, 83)
+Cultured:  208 , Uncultured:  1202
+
+Altiarchaeota : (27, 83)
+Cultured: 0, Uncultured:  27
+
+Goldbacteria-1 : (9, 83)
+Cultured: 0, Uncultured:  9
+
+Firmicutes_H : (27, 83)
+Cultured: 0, Uncultured:  27
+
+Thermotogota : (201, 83)
+Cultured:  25 , Uncultured:  176
+
+UBP14 : (7, 83)
+Cultured: 0, Uncultured:  7
+
+Acidobacteriota : (744, 83)
+Cultured:  5 , Uncultured:  739
+
+UBA9089 : (2, 83)
+Cultured: 0, Uncultured:  2
+
+Entotheonellota : (2, 83)
+Cultured: 0, Uncultured:  2
+
+Omnitrophota : (259, 83)
+Cultured: 0, Uncultured:  259
+
+Caldatribacteriota : (44, 83)
+Cultured: 0, Uncultured:  44
+
+UBP10 : (86, 83)
+Cultured: 0, Uncultured:  86
+
+UBP6 : (21, 83)
+Cultured: 0, Uncultured:  21
+
+Zixibacteria : (58, 83)
+Cultured: 0, Uncultured:  58
+
+UBP13 : (3, 83)
+Cultured: 0, Uncultured:  3
+
+JdFR-18 : (9, 83)
+Cultured: 0, Uncultured:  9
+
+Proteobacteria : (10650, 83)
+Cultured:  2190 , Uncultured:  8460
+
+Desantisbacteria : (3, 83)
+Cultured: 0, Uncultured:  3
+
+DTU030 : (5, 83)
+Cultured: 0, Uncultured:  5
+
+Cloacimonadota : (118, 83)
+Cultured:  11 , Uncultured:  107
+
+BRC1 : (28, 83)
+Cultured: 0, Uncultured:  28
+
+Eremiobacterota : (11, 83)
+Cultured: 0, Uncultured:  11
+
+CG03 : (4, 83)
+Cultured: 0, Uncultured:  4
+
+Nitrospinota : (44, 83)
+Cultured: 0, Uncultured:  44
+
+SAR324 : (239, 83)
+Cultured: 0, Uncultured:  239
+
+SM23-31 : (3, 83)
+Cultured: 0, Uncultured:  3
+
+Campylobacterota : (364, 83)
+Cultured:  85 , Uncultured:  279
+
+Calditrichota : (8, 83)
+Cultured: 0, Uncultured:  8
+
+RBG-13-61-14 : (10, 83)
+Cultured: 0, Uncultured:  10
+
+Bacteroidota : (9042, 83)
+Cultured:  2776 , Uncultured:  6266
+
+CG2-30-70-394 : (1, 83)
+Cultured: 0, Uncultured:  1
+
+Halobacterota : (769, 83)
+Cultured: 0, Uncultured:  769
+
+Actinobacteriota : (4051, 83)
+Cultured:  841 , Uncultured:  3210
+
+TA06 : (17, 83)
+Cultured: 0, Uncultured:  17
+
+Caldisericota : (55, 83)
+Cultured: 0, Uncultured:  55
+
+Desulfobacterota : (982, 83)
+Cultured:  72 , Uncultured:  910
+
+Dependentiae : (52, 83)
+Cultured: 0, Uncultured:  52
+
+Lindowbacteria : (2, 83)
+Cultured: 0, Uncultured:  2
+
+UAP2 : (6, 83)
+Cultured: 0, Uncultured:  6
+
+Margulisbacteria : (35, 83)
+Cultured: 0, Uncultured:  35
+
+Crenarchaeota : (1040, 83)
+Cultured: 0, Uncultured:  1040
+
+Firmicutes_G : (145, 83)
+Cultured: 0, Uncultured:  145
+
+Edwardsbacteria : (7, 83)
+Cultured: 0, Uncultured:  7
+
+Eisenbacteria : (22, 83)
+Cultured: 0, Uncultured:  22
+
+KSB1 : (53, 83)
+Cultured: 0, Uncultured:  53
+
+Poribacteria : (8, 83)
+Cultured: 0, Uncultured:  8
+
+Bipolaricaulota : (72, 83)
+Cultured: 0, Uncultured:  72
+
+GWC2-55-46 : (3, 83)
+Cultured: 0, Uncultured:  3
+
+Moduliflexota : (2, 83)
+Cultured: 0, Uncultured:  2
+
+Deferribacterota : (9, 83)
+Cultured:  1 , Uncultured:  8
+
+Aquificota : (53, 83)
+Cultured:  9 , Uncultured:  44
+
+Fermentibacterota : (35, 83)
+Cultured: 0, Uncultured:  35
+
+RBG-13-66-14 : (11, 83)
+Cultured: 0, Uncultured:  11
+
+Synergistota : (153, 83)
+Cultured:  18 , Uncultured:  135
+
+Methylomirabilota : (19, 83)
+Cultured: 0, Uncultured:  19
+
+Thermoplasmatota : (623, 83)
+Cultured: 0, Uncultured:  623
+
+WOR-3 : (105, 83)
+Cultured: 0, Uncultured:  105
+
+CG2-30-53-67 : (1, 83)
+Cultured: 0, Uncultured:  1
+
+UBA3054 : (11, 83)
+Cultured: 0, Uncultured:  11
+
+Gemmatimonadota : (173, 83)
+Cultured: 0, Uncultured:  173
+
+UBP3 : (15, 83)
+Cultured: 0, Uncultured:  15
+
+Micrarchaeota : (130, 83)
+Cultured: 0, Uncultured:  130
+
+Hydrogenedentota : (47, 83)
+Cultured: 0, Uncultured:  47
+
+UBA8481 : (1, 83)
+Cultured: 0, Uncultured:  1
+
+UBP18 : (1, 83)
+Cultured: 0, Uncultured:  1
+
+UBP1 : (18, 83)
+Cultured: 0, Uncultured:  18
+
+Firestonebacteria : (5, 83)
+Cultured: 0, Uncultured:  5
+
+Nitrospirota : (169, 83)
+Cultured:  16 , Uncultured:  153
+
+Aerophobetota : (13, 83)
+Cultured: 0, Uncultured:  13
+
+Patescibacteria : (2247, 83)
+Cultured: 0, Uncultured:  2247
+
+Marinisomatota : (340, 83)
+Cultured: 0, Uncultured:  340
+
+AABM5-125-24 : (21, 83)
+Cultured: 0, Uncultured:  21
+
+Asgardarchaeota : (10, 83)
+Cultured: 0, Uncultured:  10
+
+Fibrobacterota : (68, 83)
+Cultured: 0, Uncultured:  68
+
+Firmicutes_F : (37, 83)
+Cultured:  5 , Uncultured:  32
+
+Desulfobacterota_B : (87, 83)
+Cultured: 0, Uncultured:  87
+
+Spirochaetota : (536, 83)
+Cultured:  19 , Uncultured:  517
+
+UBP12 : (48, 83)
+Cultured: 0, Uncultured:  48
+
+Armatimonadota : (156, 83)
+Cultured: 0, Uncultured:  156
+
+GCA-001730085 : (4, 83)
+Cultured: 0, Uncultured:  4
+
+Euryarchaeota : (143, 83)
+Cultured: 0, Uncultured:  143
+
+Firmicutes_E : (46, 83)
+Cultured: 0, Uncultured:  46
+
+Bdellovibrionota : (196, 83)
+Cultured: 0, Uncultured:  196
+

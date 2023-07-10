@@ -1,0 +1,300 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Pyrimidine degradation!!!Ubiquinone biosynthesis,5,0
+1,Biotin biosynthesis!!!Fatty acid biosynthesis,6,1
+2,Cobalamine/B12 biosynthesis!!!Cobalamine/B12 biosynthesis!!!Cobalamine/B12 biosynthesis,7,0
+3,Aminoacyl-tRNA synthetases!!!Aminoacyl-tRNA synthetases,7,0
+4,Gluconeogenesis,7,0
+5,Glutamine biosynthesis!!!Glutamine biosynthesis!!!Glutamine biosynthesis!!!Isoprenoid biosynthesis,7,0
+6,Fatty acid biosynthesis!!!Fatty acid biosynthesis,7,0
+7,Heme biosynthesis!!!Aminoacyl-tRNA synthetases,6,0
+8,Lysine biosynthesis!!!Lysine biosynthesis,7,0
+9,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Lysine biosynthesis,7,0
+10,Fatty acid biosynthesis!!!Glycine cleavagePyruvate oxidation,7,0
+11,Molybdopterin biosynthesis!!!Urea cycle,6,0
+12,Menaquinone biosynthesis,4,2
+13,Pyrimidine salvage!!!RNA polymerase,4,2
+14,Proline degradation,6,0
+15,Glycine cleavage!!!Glycine cleavage,5,1
+16,NADH dehydrogenase!!!Pyruvate oxidation,6,1
+17,Ubiquinone biosynthesis!!!NADH dehydrogenase,7,0
+18,Folate biosynthesis,6,0
+19,Proline degradation!!!Pyrimidine degradation,5,1
+20,Histidine biosynthesis!!!Histidine biosynthesis,5,0
+21,Glutamine biosynthesis!!!Glutamine biosynthesis,7,0
+22,16S rRNA modification,7,0
+23,Heme biosynthesis!!!Cobalamine/B12 biosynthesis,7,0
+24,"Isoleucine, leucine, valine biosynthesis!!!Methionine biosynthesis",5,0
+25,Fatty acid biosynthesis!!!Pyrimidine degradation,6,0
+26,Pyruvate oxidation!!!Fatty acid biosynthesis,4,2
+27,NADH dehydrogenase!!!tRNA modification,7,0
+28,Pyrimidine salvage,6,0
+29,Pyrimidine salvagetRNA modification!!!tRNA modification,7,0
+30,Glutamine biosynthesis!!!Purine biosynthesis,4,2
+31,Fatty acid biosynthesis!!!Menaquinone biosynthesis,7,0
+32,Pyrimidine salvagetRNA modification!!!Menaquinone biosynthesis,6,1
+33,Pyrimidine biosynthesis,5,1
+34,Phospholipid biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis,6,1
+35,NAD biosynthesis!!!Cobalamine/B12 biosynthesis,6,1
+36,Riboflavin/FAD biosynthesis!!!Fatty acid biosynthesis,7,0
+37,Cysteine biosynthesis!!!Heme biosynthesis,7,0
+38,NADH dehydrogenase!!!Na+-translocating Fd:NADH oxidoreductase!!!2Fe2S,6,0
+39,Urea cycle!!!RNA polymerase,6,0
+40,Menaquinone biosynthesis!!!Menaquinone biosynthesis,7,0
+41,Folate biosynthesis!!!Mureine biosynthesis,5,0
+42,Pyrimidine salvage!!!Biotin biosynthesis,7,0
+43,Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Fatty acid biosynthesis,7,0
+44,Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Menaquinone biosynthesis!!!Fatty acid biosynthesis,4,2
+45,23S rRNA modification!!!tRNA modification,3,0
+46,Purine biosynthesis,6,0
+47,Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Pyrimidine degradation,7,0
+48,Menaquinone biosynthesis!!!Biotin biosynthesis,6,0
+49,Cobalamine/B12 biosynthesis!!!Histidine biosynthesis,7,0
+50,Biotin biosynthesis!!!Biotin biosynthesis,7,0
+51,Cysteine biosynthesis!!!TCA cycle,7,0
+52,Cysteine biosynthesis!!!Molybdopterin biosynthesis,7,0
+53,Riboflavin/FAD biosynthesis!!!Riboflavin/FAD biosynthesis!!!Riboflavin/FAD biosynthesis,5,0
+54,Phospholipid biosynthesis!!!Fatty acid biosynthesis,7,0
+55,23S rRNA modification,7,0
+56,tRNA modification!!!tRNA modification,3,2
+57,Ribosome 50S subunit,3,2
+58,Molybdopterin biosynthesis,6,0
+59,A/V-type ATP synthase,6,0
+60,Pyruvate oxidation!!!Pyruvate oxidation!!!Pyruvate oxidation!!!Pyruvate oxidation,7,0
+61,Pyrimidine degradation!!!Biotin biosynthesis,6,0
+62,Cysteine biosynthesis,6,0
+63,Pyruvate oxidation,6,0
+64,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!tRNA modification,5,2
+65,Na+-translocating Fd:NADH oxidoreductase,6,0
+66,Biotin biosynthesis!!!Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Pyrimidine degradation,4,0
+67,Pyruvate oxidation!!!Na+-translocating Fd:NADH oxidoreductase,6,1
+68,Glutamine biosynthesis!!!Pyruvate oxidation,7,0
+69,RNA polymerase!!!Ribosome 50S subunit,7,0
+70,Fatty acid biosynthesis!!!Lysine biosynthesis,6,0
+71,Heme biosynthesis!!!Fatty acid biosynthesis,7,0
+72,Serine biosynthesis!!!Pentose phosphate pathway,6,0
+73,Menaquinone biosynthesis!!!Fatty acid biosynthesis,6,0
+74,RNA polymerase!!!Pyruvate oxidation,3,0
+75,CRISPR-Cas system,7,0
+76,Mureine biosynthesis!!!Mureine biosynthesis,7,0
+77,"TCA cycle, glyoxylate bypass",3,3
+78,Isoprenoid biosynthesis!!!Riboflavin/FAD biosynthesis,6,0
+79,Biotin biosynthesis!!!Ubiquinone biosynthesis,6,1
+80,Entner-Doudoroff pathway,3,1
+81,2Fe2S,7,0
+82,Phospholipid biosynthesis!!!Lysine biosynthesis,7,0
+83,Cobalamine/B12 biosynthesis!!!Pyrimidine degradation,5,1
+84,Na+-translocating NADH dehydrogenase,6,0
+85,Menaquinone biosynthesis!!!Pyrimidine degradation,7,0
+86,tRNA modification!!!Purine salvage,7,0
+87,Lipid A biosynthesis!!!Cysteine biosynthesis,5,0
+88,Arginine biosynthesis!!!Biotin biosynthesis!!!Proline degradation,6,0
+89,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis,6,1
+90,Cysteine biosynthesis!!!NADH dehydrogenase,7,0
+91,TCA cycle,7,0
+92,Mureine biosynthesis!!!tRNA modification,6,0
+93,CRISPR-Cas system!!!CRISPR-Cas system,6,0
+94,Thiamine biosynthesis,5,0
+95,Purine biosynthesis!!!Isoprenoid biosynthesis,7,0
+96,Molybdopterin biosynthesis!!!Pyrimidine degradation,7,0
+97,Pyruvate oxidation!!!Menaquinone biosynthesis,7,0
+98,Phospholipid biosynthesis!!!Isoprenoid biosynthesis,2,2
+99,Pyrimidine salvage!!!Thymidylate biosynthesis,3,2
+100,NADH dehydrogenase!!!NADH dehydrogenase,3,1
+101,Pyrimidine biosynthesis!!!Glutamine biosynthesis,7,0
+102,Ubiquinone biosynthesis!!!Isoprenoid biosynthesis,7,0
+103,Pyruvate oxidation!!!Pyruvate oxidation!!!Pyruvate oxidation,7,0
+104,Aminoacyl-tRNA synthetases!!!Glycolysis,7,0
+105,Cysteine biosynthesis!!!Proline biosynthesis,4,0
+106,Pyruvate oxidation!!!Glycine cleavagePyruvate oxidation,6,1
+107,Fatty acid biosynthesis!!!Urea cycle,7,0
+108,Purine biosynthesis!!!Purine biosynthesis,7,0
+109,Thiamine biosynthesis!!!Menaquinone biosynthesis,7,0
+110,Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Biotin biosynthesis,6,1
+111,Pyrimidine biosynthesis!!!Pyruvate oxidation,7,0
+112,Mureine biosynthesis!!!Arginine biosynthesis,3,2
+113,Lipoate biosynthesis!!!Lipoate biosynthesis,4,0
+114,Fatty acid biosynthesis!!!Isoprenoid biosynthesis,7,0
+115,"Histidine biosynthesis, Purine biosynthesis",7,0
+116,Proline degradation!!!Proline degradation,7,0
+117,Pyrimidine salvagetRNA modification,7,0
+118,Methionine biosynthesis!!!Lysine biosynthesis,7,0
+119,Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Biotin biosynthesis,7,0
+120,Archaeal ribosomal proteins,7,0
+121,"Isoleucine, leucine, valine biosynthesis!!!Aromatic amino acid biosynthesis",6,0
+122,NADH dehydrogenase,3,3
+123,Folate biosynthesis!!!Folate biosynthesis,7,0
+124,Gluconeogenesis!!!Biotin biosynthesis,7,0
+125,RNA polymerase!!!RNA polymerase,7,0
+126,Pentose phosphate pathway!!!Non-phosphorylated Entner-Doudoroff pathway,6,1
+127,Phospholipid biosynthesis,6,1
+128,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Pyrimidine degradation,7,0
+129,Lysine biosynthesis!!!Fatty acid biosynthesis,7,0
+130,Ubiquinone biosynthesis!!!Biotin biosynthesis,7,0
+131,Molybdopterin biosynthesis!!!Molybdopterin biosynthesis!!!Urea cycle,7,0
+132,Pyruvate oxidation!!!Pyruvate oxidation,7,0
+133,NADH dehydrogenase!!!NADH dehydrogenase!!!NADH dehydrogenase!!!2Fe2S,6,0
+134,FoF1-type ATP synthase,4,3
+135,Pantothenate/CoA biosynthesis,7,0
+136,Lysine biosynthesis!!!Mureine biosynthesis,3,1
+137,Fatty acid biosynthesis!!!Biotin biosynthesis,6,0
+138,Ubiquinone biosynthesis,3,2
+139,"Isoleucine, leucine, valine biosynthesis!!!Non-phosphorylated Entner-Doudoroff pathway",7,0
+140,Menaquinone biosynthesis!!!Pantothenate/CoA biosynthesis,5,0
+141,Pyridoxal phosphate biosynthesis,3,2
+142,Heme biosynthesis!!!Heme biosynthesis,7,0
+143,Riboflavin/FAD biosynthesis,7,0
+144,Molybdopterin biosynthesis!!!Urea cycle!!!Molybdopterin biosynthesis,6,0
+145,Methionine biosynthesis!!!Biotin biosynthesis,6,0
+146,Arginine biosynthesis!!!Arginine biosynthesis,6,0
+147,Cysteine biosynthesis!!!CRISPR-Cas system,7,0
+148,Pentose phosphate pathway!!!Histidine biosynthesis,4,1
+149,Lipoate biosynthesis,6,0
+150,Purine salvage,7,0
+151,Aromatic amino acid biosynthesis,6,1
+152,NADH dehydrogenase!!!NADH dehydrogenase!!!NADH dehydrogenase,7,0
+153,Urea cycle,7,0
+154,Pyrimidine biosynthesis!!!Purine salvage,4,0
+155,Cobalamine/B12 biosynthesis!!!Heme biosynthesis!!!Heme biosynthesis,7,0
+156,Glutamine biosynthesis!!!NADH dehydrogenase,7,0
+157,Pyrimidine biosynthesis!!!Na+-translocating Fd:NADH oxidoreductase,4,2
+158,Glycolysis!!!NADH dehydrogenase,6,0
+159,Ribosome 30S subunit,7,0
+160,Heme biosynthesis,6,0
+161,Translation factors!!!Mureine biosynthesis,7,0
+162,NAD biosynthesis!!!NAD biosynthesis,4,1
+163,Pyrimidine degradation!!!Cobalamine/B12 biosynthesis,5,1
+164,Heme biosynthesis!!!Fatty acid biosynthesis!!!Menaquinone biosynthesis,7,0
+165,Histidine biosynthesis!!!Arginine biosynthesis,5,1
+166,Cysteine biosynthesis!!!Urea cycle,6,0
+167,Aminoacyl-tRNA synthetases!!!Pyrimidine salvage,7,0
+168,Heme biosynthesis!!!Fatty acid biosynthesis!!!Pyrimidine degradation,7,0
+169,Histidine biosynthesis,5,0
+170,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Biotin biosynthesis,7,0
+171,Biotin biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis,7,0
+172,Cysteine biosynthesis!!!Na+-translocating Fd:NADH oxidoreductase,6,0
+173,Heme biosynthesis!!!Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Pyrimidine degradation,7,0
+174,Glutamine biosynthesis,7,0
+175,Serine biosynthesis!!!Lysine biosynthesis,7,0
+176,Pyrimidine degradation!!!tRNA modification,5,2
+177,Biotin biosynthesis!!!Menaquinone biosynthesis,7,0
+178,Methionine biosynthesis,3,2
+179,Methionine biosynthesis!!!Methionine biosynthesis,7,0
+180,"Isoleucine, leucine, valine biosynthesis!!!Isoleucine, leucine, valine biosynthesis",4,1
+181,Menaquinone biosynthesis!!!Lipid A biosynthesis,6,0
+182,Phospholipid biosynthesis!!!Fatty acid biosynthesis!!!Lysine biosynthesis,7,0
+183,Glycine cleavage,5,1
+184,tRNA modification!!!Pyrimidine salvagetRNA modification,7,0
+185,Aminoacyl-tRNA synthetases,6,0
+186,TCA cycle!!!Pyruvate oxidation!!!Pyruvate oxidation!!!Pyruvate oxidation,3,1
+187,16S rRNA modification!!!Isoprenoid biosynthesis,6,0
+188,NADH dehydrogenase!!!NADH dehydrogenase!!!2Fe2S,7,0
+189,Serine biosynthesis,7,0
+190,Cysteine biosynthesis!!!Cysteine biosynthesis,3,2
+191,Pyrimidine degradation,5,1
+192,Photosystem I,6,0
+193,Phospholipid biosynthesis!!!Fatty acid biosynthesis!!!Menaquinone biosynthesis,7,0
+194,Asparagine biosynthesis,5,1
+195,Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Biotin biosynthesis!!!Lysine biosynthesis,7,0
+196,Pentose phosphate pathway!!!Pentose phosphate pathway,7,0
+197,Fatty acid biosynthesis!!!Cysteine biosynthesis,4,2
+198,Urea cycle!!!Proline biosynthesis,6,0
+199,Arginine biosynthesis!!!Biotin biosynthesis,7,0
+200,Molybdopterin biosynthesis!!!Molybdopterin biosynthesis,7,0
+201,Mureine biosynthesis,7,0
+202,Pyridoxal phosphate biosynthesis!!!Serine biosynthesis,5,0
+203,NADH dehydrogenase!!!Na+-translocating Fd:NADH oxidoreductase,7,0
+204,Lipid A biosynthesis!!!Lipid A biosynthesis,7,0
+205,Threonine biosynthesis,7,0
+206,Histidine biosynthesis!!!Pyrimidine salvage,6,0
+207,NADH dehydrogenase!!!NADH dehydrogenase!!!Na+-translocating Fd:NADH oxidoreductase,7,0
+208,Pentose phosphate pathway,5,1
+209,Cobalamine/B12 biosynthesis!!!2Fe2S,7,0
+210,Pyruvate oxidation!!!TCA cycle,7,0
+211,Glycine cleavagePyruvate oxidation,7,0
+212,Arginine biosynthesis!!!Glycolysis,7,0
+213,Cobalamine/B12 biosynthesis!!!Heme biosynthesis,6,0
+214,Pyrimidine degradation!!!Non-phosphorylated Entner-Doudoroff pathway,7,0
+215,"Isoleucine, leucine, valine biosynthesis",7,0
+216,Translation factors,7,0
+217,NAD biosynthesis,7,0
+218,Ubiquinone biosynthesis!!!Serine biosynthesis,7,0
+219,Serine biosynthesis!!!Serine biosynthesis,3,2
+220,tRNA modification!!!Mureine biosynthesis,5,2
+221,tRNA modification,5,1
+222,Glutamine biosynthesis!!!Glycine cleavagePyruvate oxidation,6,1
+223,RNA polymerase,7,0
+224,Isoprenoid biosynthesis!!!Menaquinone biosynthesis,7,0
+225,Heme biosynthesis!!!NADH dehydrogenase,7,0
+226,Pyrimidine biosynthesis!!!Pyrimidine biosynthesis,3,0
+227,Ribosome 30S subunit!!!Translation factors,7,0
+228,Thiamine biosynthesis!!!Thiamine biosynthesis,6,1
+229,Ribosome 30S subunit!!!Isoprenoid biosynthesis,7,0
+230,Cysteine biosynthesis!!!Fatty acid biosynthesis,6,0
+231,3D,7,0
+232,Proline biosynthesis,4,2
+233,Menaquinone biosynthesis!!!Lipid A biosynthesis!!!Cysteine biosynthesis,7,0
+234,Cysteine biosynthesis!!!Biotin biosynthesis,6,0
+235,Riboflavin/FAD biosynthesis!!!Riboflavin/FAD biosynthesis,4,0
+236,Non-phosphorylated Entner-Doudoroff pathway!!!Non-phosphorylated Entner-Doudoroff pathway,7,0
+237,Fatty acid biosynthesis!!!Non-phosphorylated Entner-Doudoroff pathway,7,0
+238,Phospholipid biosynthesis!!!Menaquinone biosynthesis,3,1
+239,Methionine biosynthesis!!!Lysine biosynthesis!!!Methionine biosynthesis,7,0
+240,Urea cycle!!!Glycine cleavagePyruvate oxidation,7,0
+241,TCA cycle!!!TCA cycle,5,1
+242,Menaquinone biosynthesis!!!Lysine biosynthesis,6,0
+243,Arginine biosynthesis,6,1
+244,Fatty acid biosynthesis!!!Ubiquinone biosynthesis,5,2
+245,Phospholipid biosynthesis!!!Serine biosynthesis,6,0
+246,Purine biosynthesis!!!Arginine biosynthesis,7,0
+247,FoF1-type ATP synthase!!!FoF1-type ATP synthase,6,0
+248,Heme biosynthesis!!!Menaquinone biosynthesis,6,0
+249,Fatty acid biosynthesis!!!Pyruvate oxidation,7,0
+250,NADH dehydrogenase!!!2Fe2S,7,0
+251,Pyrimidine salvage!!!Pyrimidine salvage,7,0
+252,Folate biosynthesis!!!Fatty acid biosynthesis,6,0
+253,Serine biosynthesis!!!Glycine cleavage,7,0
+254,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Ubiquinone biosynthesis,7,0
+255,Menaquinone biosynthesis!!!Ubiquinone biosynthesis,7,0
+256,Thymidylate biosynthesis,7,0
+257,Pyruvate oxidation!!!Pyruvate oxidation!!!Pyruvate oxidation!!!NADH dehydrogenase,7,0
+258,Aromatic amino acid biosynthesis!!!Folate biosynthesis,3,0
+259,Cysteine biosynthesis!!!Cobalamine/B12 biosynthesis,7,0
+260,Cobalamine/B12 biosynthesis!!!Heme biosynthesis!!!Cobalamine/B12 biosynthesis,6,0
+261,Glutamine biosynthesis!!!NADH dehydrogenase!!!2Fe2S,5,1
+262,Isoprenoid biosynthesis!!!Isoprenoid biosynthesis,7,0
+263,Purine biosynthesis!!!Pyrimidine biosynthesis,7,0
+264,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Pyrimidine degradation,7,0
+265,Phospholipid biosynthesis!!!NAD biosynthesis,7,0
+266,Biotin biosynthesis!!!Fatty acid biosynthesis!!!Menaquinone biosynthesis,5,0
+267,Glutamine biosynthesis!!!Glutamine biosynthesis!!!Glutamine biosynthesis,3,2
+268,Purine biosynthesis!!!tRNA modification,6,1
+269,Cobalamine/B12 biosynthesis,7,0
+270,Glycolysis!!!Glycolysis,7,0
+271,Non-phosphorylated Entner-Doudoroff pathway,6,1
+272,16S rRNA modification!!!tRNA modification,7,0
+273,Glycolysis,5,1
+274,Glycolysis!!!Pentose phosphate pathway,4,0
+275,Isoprenoid biosynthesis,7,0
+276,Fatty acid biosynthesis!!!Lipid A biosynthesis,7,0
+277,Thiamine biosynthesis!!!Urea cycle,7,0
+278,Lipid A biosynthesis,7,0
+279,Photosystem II,5,0
+280,Lysine biosynthesisTCA cycle,7,0
+281,tRNA modification!!!Arginine biosynthesis,4,1
+282,Aromatic amino acid biosynthesis!!!Aromatic amino acid biosynthesis,7,0
+283,Lysine biosynthesis!!!Pyrimidine degradation,7,0
+284,Cysteine biosynthesis!!!Glutamine biosynthesis!!!Biotin biosynthesis,7,0
+285,Pyruvate oxidation!!!NADH dehydrogenase!!!NADH dehydrogenase!!!2Fe2S,4,2
+286,Lysine biosynthesis,6,0
+287,Purine biosynthesis!!!Purine biosynthesis!!!Purine biosynthesis,7,0
+288,"Isoleucine, leucine, valine biosynthesis!!!Aromatic amino acid biosynthesis!!!Aromatic amino acid biosynthesis",7,0
+289,Phospholipid biosynthesis!!!Ubiquinone biosynthesis,7,0
+290,Fatty acid biosynthesis,5,1
+291,Ribosome 30S subunit!!!Ribosome 30S subunit,6,0
+292,Biotin biosynthesis,3,1
+293,Cobalamine/B12 biosynthesis!!!Cobalamine/B12 biosynthesis,4,1
+294,Glutamine biosynthesis!!!Non-phosphorylated Entner-Doudoroff pathway,5,1
+295,23S rRNA modification!!!23S rRNA modification,5,0
+296,Aromatic amino acid biosynthesis!!!Pyrimidine salvage,7,0
+297,Arginine biosynthesis!!!Threonine biosynthesis,7,0
+298,Pyrimidine degradation!!!NADH dehydrogenase,7,0

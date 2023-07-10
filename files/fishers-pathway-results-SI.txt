@@ -1,0 +1,22 @@
+Two-sided Fisher's Exact Test Results -
+
+This test answer's the question: Do we see biosynthesis features as significant to LASSO more than we see non-biosynthesis features?
+
+Since neither test is significant, we conclude the proportion of biosynthesis selected to be significant is not statistically different than the proportion of non-biosynthesis features.
+
+Contingency table of the form:
+             is-biosynthesis not-biosynthesis
+significant    [[  x1               y1]
+not significant [  x2               y2]]
+
+
+Real Pathway Counts:
+[[379 356]
+ [404 331]]
+(stat=0.8722396818333519, p-value=0.20960340333053246)
+
+Shuffled Pathway Counts:
+[[410 325]
+ [404 331]]
+(stat=1.0335872048743335, p-value=0.7930705451542478)
+
