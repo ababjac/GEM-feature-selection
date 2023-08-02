@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Pyrimidine biosynthesis,8,3
+1,RNA polymerase,4,6
+2,Proline degradation,5,8
+3,Na+-translocating NADH dehydrogenase,3,13
+4,Mureine biosynthesis,8,4
+5,Pyrimidine salvagetRNA modification,5,6
+6,Methionine biosynthesis,1,12
+7,Pyrimidine salvage,9,4
+8,A/V-type ATP synthase,8,6
+9,Biotin biosynthesis,3,4
+10,Cobalamine/B12 biosynthesis,4,1
+11,Purine salvage,4,9
+12,Ribosome 50S subunit,4,6
+13,Unannotated,8,5
+14,Gluconeogenesis,4,5
+15,Proline biosynthesis,10,4
+16,3D,4,3
+17,Heme biosynthesis,4,6
+18,Purine biosynthesis,6,3
+19,Folate biosynthesis,6,10
+20,"Isoleucine, leucine, valine biosynthesis",4,7
+21,Archaeal ribosomal proteins,7,4
+22,Molybdopterin biosynthesis,2,9
+23,23S rRNA modification,6,6
+24,Pyridoxal phosphate biosynthesis,4,6
+25,Ribosome 30S subunit,5,5
+26,Phospholipid biosynthesis,5,9
+27,Isoprenoid biosynthesis,4,6
+28,Non-phosphorylated Entner-Doudoroff pathway,6,8
+29,Thiamine biosynthesis,4,6
+30,Pantothenate/CoA biosynthesis,4,7
+31,Lipid A biosynthesis,5,5
+32,Entner-Doudoroff pathway,5,5
+33,Riboflavin/FAD biosynthesis,4,6
+34,Ubiquinone biosynthesis,1,8
+35,2Fe2S,6,8
+36,Thymidylate biosynthesis,5,6
+37,Arginine biosynthesis,4,6
+38,"TCA cycle, glyoxylate bypass",3,7
+39,Serine biosynthesis,5,9
+40,Fatty acid biosynthesis,3,10
+41,Pyrimidine degradation,5,3
+42,Pentose phosphate pathway,4,6
+43,Asparagine biosynthesis,2,6
+44,CRISPR-Cas system,12,4
+45,"Histidine biosynthesis, Purine biosynthesis",4,5
+46,Lysine biosynthesis,6,2
+47,Lysine biosynthesisTCA cycle,2,9
+48,tRNA modification,1,10
+49,Glutamine biosynthesis,2,9
+50,FoF1-type ATP synthase,2,6
+51,Pyruvate oxidation,5,6
+52,TCA cycle,3,6
+53,Translation factors,7,7
+54,Lipoate biosynthesis,5,8
+55,Threonine biosynthesis,6,6
+56,Cysteine biosynthesis,4,9
+57,Aminoacyl-tRNA synthetases,6,10
+58,Unknown,8,6
+59,Menaquinone biosynthesis,4,5
+60,Histidine biosynthesis,5,7
+61,Na+-translocating Fd:NADH oxidoreductase,5,3
+62,Glycine cleavagePyruvate oxidation,9,1
+63,Glycolysis,14,1
+64,NADH dehydrogenase,5,8
+65,Aromatic amino acid biosynthesis,1,9
+66,Glycine cleavage,7,7
+67,Urea cycle,3,6
+68,16S rRNA modification,0,8
+69,NAD biosynthesis,7,5

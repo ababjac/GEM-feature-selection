@@ -1,0 +1,126 @@
+Firmicutes_C:
+AUC: 0.407
+Accuracy: 0.466
+Precision: 0.408
+Recall: 0.258
+
+
+Thermotogota:
+AUC: 0.597
+Accuracy: 0.732
+Precision: 0.2
+Recall: 0.4
+
+
+Proteobacteria:
+AUC: 0.496
+Accuracy: 0.579
+Precision: 0.204
+Recall: 0.361
+
+
+Fusobacteriota:
+AUC: 0.546
+Accuracy: 0.419
+Precision: 0.333
+Recall: 0.562
+
+
+Desulfobacterota:
+AUC: 0.568
+Accuracy: 0.731
+Precision: 0.102
+Recall: 0.357
+
+
+Campylobacterota:
+AUC: 0.5
+Accuracy: 0.616
+Precision: 0.238
+Recall: 0.294
+
+
+Deinococcota:
+AUC: 0.47
+Accuracy: 0.7
+Precision: 0.73
+Recall: 0.931
+
+
+Cloacimonadota:
+AUC: 0.386
+Accuracy: 0.875
+Precision: 0.0
+Recall: 0.0
+
+
+Firmicutes:
+AUC: 0.441
+Accuracy: 0.541
+Precision: 0.265
+Recall: 0.205
+
+
+Actinobacteriota:
+AUC: 0.493
+Accuracy: 0.428
+Precision: 0.206
+Recall: 0.619
+
+
+Nitrospirota:
+AUC: 0.64
+Accuracy: 0.294
+Precision: 0.08
+Recall: 0.667
+
+
+Verrucomicrobiota:
+AUC: 0.514
+Accuracy: 0.649
+Precision: 0.11
+Recall: 0.19
+
+
+Bacteroidota:
+AUC: 0.505
+Accuracy: 0.634
+Precision: 0.322
+Recall: 0.175
+
+
+Cyanobacteriota:
+AUC: 0.302
+Accuracy: 0.837
+Precision: 0.0
+Recall: 0.0
+
+
+Synergistota:
+AUC: 0.412
+Accuracy: 0.774
+Precision: 0.2
+Recall: 0.25
+
+
+Firmicutes_A:
+AUC: 0.503
+Accuracy: 0.34
+Precision: 0.224
+Recall: 0.796
+
+
+Chloroflexota:
+AUC: 0.558
+Accuracy: 0.818
+Precision: 0.075
+Recall: 0.375
+
+
+Spirochaetota:
+AUC: 0.543
+Accuracy: 0.852
+Precision: 0.0
+Recall: 0.0
+
+

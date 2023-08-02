@@ -88,13 +88,13 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
 #--------------------------------------------------------------------------------------------------#
 
 SHUF = 'shuffled' 
-DATA = 'pathway'
+DATA = 'annotation'
 
 if __name__ == '__main__':
 
     print('Loading data...')
-    f = open('./files/{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
     curr_dir = os.getcwd()
+    f = open(curr_dir+'/files/GEM/GEM-{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
 
     meta_file = curr_dir+'/data/GEM_data/GEM_metadata.tsv'
     path_file = curr_dir+'/data/GEM_data/pathway_features_counts_wide.tsv'
@@ -185,4 +185,4 @@ if __name__ == '__main__':
 
         full_df = full_df.append(LASSO_stats)
 
-    full_df.to_csv(curr_dir+'/files/GEM-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
+    full_df.to_csv(curr_dir+'/files/GEM/GEM-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))

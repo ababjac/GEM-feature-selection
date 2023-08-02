@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Menaquinone biosynthesis,9,5
+1,TCA cycle,3,8
+2,Entner-Doudoroff pathway,5,5
+3,Lipid A biosynthesis,7,6
+4,Asparagine biosynthesis,4,9
+5,Phospholipid biosynthesis,4,10
+6,Lysine biosynthesisTCA cycle,9,6
+7,A/V-type ATP synthase,2,5
+8,Thymidylate biosynthesis,3,10
+9,Riboflavin/FAD biosynthesis,6,9
+10,Threonine biosynthesis,5,6
+11,Arginine biosynthesis,5,7
+12,"Histidine biosynthesis, Purine biosynthesis",4,8
+13,3D,4,10
+14,NADH dehydrogenase,6,9
+15,Ubiquinone biosynthesis,7,7
+16,Folate biosynthesis,2,11
+17,Aromatic amino acid biosynthesis,8,6
+18,Archaeal ribosomal proteins,10,3
+19,Pentose phosphate pathway,6,6
+20,Pyrimidine salvagetRNA modification,5,7
+21,Pyrimidine biosynthesis,1,8
+22,Lysine biosynthesis,8,4
+23,Thiamine biosynthesis,5,7
+24,Mureine biosynthesis,3,8
+25,23S rRNA modification,9,6
+26,CRISPR-Cas system,9,6
+27,Ribosome 30S subunit,11,3
+28,Urea cycle,10,3
+29,FoF1-type ATP synthase,8,7
+30,RNA polymerase,10,3
+31,Fatty acid biosynthesis,7,2
+32,Biotin biosynthesis,3,5
+33,"Isoleucine, leucine, valine biosynthesis",8,8
+34,Na+-translocating NADH dehydrogenase,5,6
+35,Unknown,7,8
+36,Proline degradation,5,7
+37,Pyruvate oxidation,3,9
+38,Cobalamine/B12 biosynthesis,9,6
+39,Aminoacyl-tRNA synthetases,6,7
+40,Pyrimidine salvage,9,7
+41,Lipoate biosynthesis,4,9
+42,Molybdopterin biosynthesis,11,2
+43,Histidine biosynthesis,6,8
+44,Ribosome 50S subunit,7,7
+45,tRNA modification,5,9
+46,Glycolysis,7,9
+47,Glutamine biosynthesis,10,5
+48,Serine biosynthesis,5,5
+49,Glycine cleavage,6,6
+50,Cysteine biosynthesis,4,9
+51,Proline biosynthesis,5,8
+52,Na+-translocating Fd:NADH oxidoreductase,11,5
+53,Pyrimidine degradation,4,7
+54,Purine salvage,6,8
+55,Isoprenoid biosynthesis,6,1
+56,Pyridoxal phosphate biosynthesis,9,5
+57,Glycine cleavagePyruvate oxidation,6,4
+58,Non-phosphorylated Entner-Doudoroff pathway,10,5
+59,NAD biosynthesis,5,10
+60,Unannotated,7,6
+61,Pantothenate/CoA biosynthesis,8,5
+62,Heme biosynthesis,4,11
+63,Purine biosynthesis,4,7
+64,Gluconeogenesis,10,6
+65,Methionine biosynthesis,3,11
+66,"TCA cycle, glyoxylate bypass",3,8
+67,Translation factors,6,6
+68,2Fe2S,7,9
+69,16S rRNA modification,7,2

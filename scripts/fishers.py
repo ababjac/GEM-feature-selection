@@ -3,8 +3,12 @@ from scipy.stats.contingency import chi2_contingency
 import numpy as np
 import pandas as pd
 
-s_df = pd.read_csv('files/updated-bootstrapped-annotation_feature_counts_by_phylum_significant.csv', index_col=0)
-i_df = pd.read_csv('files/updated-bootstrapped-annotation_feature_counts_by_phylum_insignificant.csv', index_col=0)
+DATA = 'GEM'
+TYPE = 'pathway'
+
+
+s_df = pd.read_csv('./files/{}/{}-actual-bootstrapped-{}_feature_counts_by_phylum_significant.csv'.format(DATA, DATA, TYPE), index_col=0)
+i_df = pd.read_csv('./files/{}/{}-actual-bootstrapped-{}_feature_counts_by_phylum_insignificant.csv'.format(DATA, DATA, TYPE), index_col=0)
 
 #print(s_df)
 #print(i_df)

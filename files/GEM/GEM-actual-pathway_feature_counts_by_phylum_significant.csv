@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Mureine biosynthesis,7,6
+1,Riboflavin/FAD biosynthesis,6,2
+2,Ribosome 30S subunit,5,5
+3,Folate biosynthesis,6,4
+4,Thiamine biosynthesis,2,9
+5,Fatty acid biosynthesis,5,7
+6,NADH dehydrogenase,6,5
+7,Lipid A biosynthesis,2,9
+8,Pyrimidine biosynthesis,5,7
+9,Menaquinone biosynthesis,4,5
+10,Glycolysis,14,1
+11,Proline biosynthesis,4,5
+12,Pyrimidine degradation,5,4
+13,Aromatic amino acid biosynthesis,5,10
+14,Heme biosynthesis,3,8
+15,Pyruvate oxidation,5,5
+16,Molybdopterin biosynthesis,8,7
+17,Glutamine biosynthesis,2,12
+18,Na+-translocating Fd:NADH oxidoreductase,3,8
+19,Phospholipid biosynthesis,6,10
+20,Lysine biosynthesis,9,7
+21,Thymidylate biosynthesis,3,9
+22,Unannotated,6,5
+23,Histidine biosynthesis,7,6
+24,Lysine biosynthesisTCA cycle,8,4
+25,Biotin biosynthesis,3,4
+26,Pyrimidine salvagetRNA modification,5,8
+27,RNA polymerase,8,4
+28,FoF1-type ATP synthase,8,4
+29,Arginine biosynthesis,6,7
+30,Pentose phosphate pathway,2,6
+31,Archaeal ribosomal proteins,5,8
+32,Non-phosphorylated Entner-Doudoroff pathway,6,5
+33,Gluconeogenesis,6,5
+34,Cobalamine/B12 biosynthesis,0,11
+35,NAD biosynthesis,0,10
+36,Glycine cleavage,4,8
+37,Pyridoxal phosphate biosynthesis,4,8
+38,"Histidine biosynthesis, Purine biosynthesis",2,7
+39,A/V-type ATP synthase,4,7
+40,23S rRNA modification,5,6
+41,2Fe2S,2,9
+42,Pyrimidine salvage,4,6
+43,Threonine biosynthesis,4,6
+44,Methionine biosynthesis,9,4
+45,"Isoleucine, leucine, valine biosynthesis",4,6
+46,tRNA modification,9,2
+47,Pantothenate/CoA biosynthesis,4,3
+48,Proline degradation,5,7
+49,Lipoate biosynthesis,8,3
+50,Ribosome 50S subunit,8,4
+51,Purine biosynthesis,6,1
+52,Purine salvage,1,8
+53,TCA cycle,5,7
+54,Entner-Doudoroff pathway,8,3
+55,Translation factors,3,7
+56,Isoprenoid biosynthesis,9,4
+57,CRISPR-Cas system,5,6
+58,Na+-translocating NADH dehydrogenase,5,6
+59,Serine biosynthesis,5,7
+60,Asparagine biosynthesis,4,5
+61,Aminoacyl-tRNA synthetases,5,2
+62,Cysteine biosynthesis,5,5
+63,Ubiquinone biosynthesis,6,6
+64,3D,6,9
+65,Unknown,5,6
+66,"TCA cycle, glyoxylate bypass",6,7
+67,Glycine cleavagePyruvate oxidation,5,7
+68,16S rRNA modification,2,12
+69,Urea cycle,3,10

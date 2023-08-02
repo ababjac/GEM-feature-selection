@@ -1,0 +1,110 @@
+Phylum name: Cloacimonadota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Phylum name: Firmicutes_A
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: nan, P-value: nan
+
+
+
+Phylum name: Synergistota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: -0.169, P-value: 0.347
+
+
+
+Phylum name: Campylobacterota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: -0.011, P-value: 0.928
+
+
+
+Phylum name: Firmicutes
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: nan, P-value: nan
+
+
+
+Phylum name: Desulfobacterota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: -0.141, P-value: 0.045
+
+
+
+Phylum name: Proteobacteria
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: nan, P-value: nan
+
+
+
+Phylum name: Deinococcota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: -0.139, P-value: 0.202
+
+
+
+Phylum name: Firmicutes_C
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: 0.394, P-value: 0.0
+
+
+
+Phylum name: Chloroflexota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: nan, P-value: nan
+
+
+
+Phylum name: Thermotogota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: 0.326, P-value: 0.033
+
+
+
+Phylum name: Spirochaetota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: nan, P-value: nan
+
+
+
+Phylum name: Nitrospirota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: 0.132, P-value: 0.456
+
+
+
+Phylum name: Bacteroidota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: nan, P-value: nan
+
+
+
+Phylum name: Cyanobacteriota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: -0.568, P-value: 0.0
+
+
+
+Phylum name: Actinobacteriota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: nan, P-value: nan
+
+
+
+Phylum name: Verrucomicrobiota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: nan, P-value: nan
+
+
+
+Phylum name: Fusobacteriota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: -0.163, P-value: 0.29
+
+
+
+Phylum name: Cloacimonadota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: 0.163, P-value: 0.381
+
+
+

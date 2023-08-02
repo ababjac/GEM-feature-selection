@@ -88,7 +88,7 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
 #--------------------------------------------------------------------------------------------------#
 
 SHUF = 'shuffled'
-DATA = 'pathway'
+DATA = 'annotation'
 
 if __name__ == '__main__':
 
@@ -116,7 +116,8 @@ if __name__ == '__main__':
 
     phylum_list = set(list(data['phylum']))
 
-
+    print(data.shape)
+'''
     full_df = pd.DataFrame(columns=['phylum_name', 'feature_name', 'coef', 'coef_sd', 'lower_95', 'upper_95', 'count', 'significant', 'permutation_importance'])
     for phylum in phylum_list:
         if pd.isna(phylum):
@@ -210,3 +211,4 @@ if __name__ == '__main__':
         full_df = full_df.append(LASSO_stats)
 
     full_df.to_csv(curr_dir+'/files/TBG-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
+'''

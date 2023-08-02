@@ -1,0 +1,30 @@
+Predicted phosphoadenosine phosphosulfate sulfurtransferase, contains C-terminal DUF3440 domain : 0.0100429951344879
+Uncharacterized membrane protein YqgA, affects biofilm formation : -0.0100565901120883
+N-acetylneuraminic acid mutarotase : 0.0100626200718364
+Hydroxyethylthiazole kinase, sugar kinase family : 0.0100641040443985
+ABC-type uncharacterized transport system, ATPase component : -0.0101493979274828
+Adenine-specific DNA methylase : 0.0107709999562682
+Predicted P-loop ATPase and inactivated derivatives : 0.0108472201930146
+tRNA splicing ligase : 0.0115749427418033
+Preprotein translocase subunit SecE : 0.0117485210972981
+Beta-mannanase : 0.0122780614116269
+Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily : 0.0127506763223019
+Glutaminase : 0.0132949666784136
+Nucleoside diphosphate kinase : -0.0135077280186651
+Uncharacterized conserved protein, UPF0371 family : -0.0135136262072511
+Phosphotransferase system sorbitol-specific IIA component : 0.0135158432508748
+Aspartate ammonia-lyase : 0.013574543011508
+Ribonucleotide reductase alpha subunit : 0.013713338068463
+L-lactate permease : 0.0142907471166649
+Uncharacterized conserved protein YwqG, DUF1963 family : 0.0151273943079124
+Outer membrane receptor for monomeric catechols : 0.0151528758596083
+3-oxoacyl-ACP reductase domain of yeast-type fatty acid synthase FAS1 : 0.0152355678775286
+PIWI domain, catalyzes dsRNA-guided hydrolysis of ssRNA, involved in RNA silencing, RNA metabolism and antiviral defense : 0.0157174743130464
+L-asparagine transporter or related permease : 0.016879072259098
+Lysine export protein LysO/YbjE, DUF340 family : 0.0174017316891037
+Uncharacterized conserved protein YeaO, DUF488 family : 0.0211849963602377
+Uncharacterized membrane protein YjjP, DUF1212 family : 0.0230335947158408
+Uncharacterized membrane protein YfhO : 0.0246734484132498
+Uncharacterized membrane protein YbjL, putative transporter : 0.0317204320238489
+Xanthine/uracil permease : 0.0320222185899783
+Phosphorylcholine metabolism protein LicD : 0.0338459288350014
