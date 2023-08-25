@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Thiamine biosynthesis,7,2
+1,Pyrimidine salvage,4,2
+2,Unannotated,6,4
+3,Lipid A biosynthesis,7,1
+4,Asparagine biosynthesis,9,3
+5,3D,8,2
+6,Lysine biosynthesis,5,3
+7,Biotin biosynthesis,13,2
+8,CRISPR-Cas system,6,1
+9,"TCA cycle, glyoxylate bypass",7,1
+10,Glutamine biosynthesis,7,2
+11,Pyrimidine salvagetRNA modification,3,2
+12,Aromatic amino acid biosynthesis,2,6
+13,Proline biosynthesis,6,5
+14,Methionine biosynthesis,8,1
+15,Pyridoxal phosphate biosynthesis,7,1
+16,Urea cycle,10,4
+17,Riboflavin/FAD biosynthesis,9,0
+18,Serine biosynthesis,7,2
+19,Cysteine biosynthesis,8,2
+20,Ribosome 50S subunit,8,2
+21,Molybdopterin biosynthesis,7,0
+22,Mureine biosynthesis,7,3
+23,Entner-Doudoroff pathway,5,2
+24,Aminoacyl-tRNA synthetases,4,1
+25,tRNA modification,5,2
+26,"Isoleucine, leucine, valine biosynthesis",6,1
+27,Unknown,4,1
+28,Purine salvage,4,3
+29,Translation factors,5,4
+30,Archaeal ribosomal proteins,7,2
+31,FoF1-type ATP synthase,10,2
+32,"Histidine biosynthesis, Purine biosynthesis",8,2
+33,Pyrimidine degradation,7,3
+34,Pyruvate oxidation,5,2
+35,23S rRNA modification,7,2
+36,Non-phosphorylated Entner-Doudoroff pathway,14,2
+37,Gluconeogenesis,8,4
+38,Fatty acid biosynthesis,10,2
+39,Isoprenoid biosynthesis,8,3
+40,Na+-translocating NADH dehydrogenase,9,2
+41,Pyrimidine biosynthesis,9,0
+42,Pentose phosphate pathway,7,3
+43,Threonine biosynthesis,8,3
+44,2Fe2S,8,0
+45,Glycine cleavage,5,1
+46,NAD biosynthesis,10,1
+47,Glycine cleavagePyruvate oxidation,5,3
+48,A/V-type ATP synthase,5,1
+49,16S rRNA modification,9,2
+50,Cobalamine/B12 biosynthesis,5,4
+51,NADH dehydrogenase,9,4
+52,Pantothenate/CoA biosynthesis,7,2
+53,Phospholipid biosynthesis,9,1
+54,RNA polymerase,4,2
+55,Arginine biosynthesis,2,3
+56,Glycolysis,8,4
+57,TCA cycle,5,1
+58,Ribosome 30S subunit,15,3
+59,Purine biosynthesis,7,3
+60,Ubiquinone biosynthesis,5,3
+61,Proline degradation,5,1
+62,Heme biosynthesis,6,3
+63,Menaquinone biosynthesis,6,1
+64,Folate biosynthesis,6,2
+65,Thymidylate biosynthesis,7,1
+66,Histidine biosynthesis,3,4
+67,Lysine biosynthesisTCA cycle,4,0
+68,Lipoate biosynthesis,14,1
+69,Na+-translocating Fd:NADH oxidoreductase,5,4

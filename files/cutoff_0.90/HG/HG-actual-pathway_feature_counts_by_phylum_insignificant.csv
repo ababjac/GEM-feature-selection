@@ -1,0 +1,75 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Glutamine biosynthesis,8,0
+1,Ribosome 30S subunit,8,0
+2,"Isoleucine, leucine, valine biosynthesis",8,0
+3,Lipoate biosynthesis,8,0
+4,Proline biosynthesis,2,1
+5,Entner-Doudoroff pathway,8,0
+6,Archaeal ribosomal proteins,8,0
+7,2Fe2S,7,0
+8,Purine biosynthesis,8,0
+9,Urea cycle,5,2
+10,Na+-translocating NADH dehydrogenase,8,0
+11,Folate biosynthesis,8,0
+12,Riboflavin/FAD biosynthesis,8,0
+13,Na+-translocating Fd:NADH oxidoreductase,8,0
+14,Phospholipid biosynthesis,8,0
+15,Arginine biosynthesis,7,0
+16,NAD biosynthesis,6,0
+17,RNA polymerase,8,0
+18,Cobalamine/B12 biosynthesis,8,0
+19,Pantothenate/CoA biosynthesis,8,0
+20,Isoprenoid biosynthesis,8,0
+21,Ribosome 50S subunit,8,0
+22,Non-phosphorylated Entner-Doudoroff pathway,8,0
+23,"Histidine biosynthesis, Purine biosynthesis",7,0
+24,Thymidylate biosynthesis,8,0
+25,Threonine biosynthesis,8,0
+26,Biotin biosynthesis,8,0
+27,TCA cycle,8,0
+28,Translation factors,8,0
+29,Pyrimidine salvage,8,0
+30,23S rRNA modification,1,0
+31,FoF1-type ATP synthase,8,0
+32,Purine salvage,8,0
+33,Heme biosynthesis,8,0
+34,Glycine cleavage,7,0
+35,Fatty acid biosynthesis,8,0
+36,cultured_level_class,4,0
+37,cultured_level_order,2,0
+38,NADH dehydrogenase,8,0
+39,CRISPR-Cas system,7,0
+40,Histidine biosynthesis,8,0
+41,"TCA cycle, glyoxylate bypass",8,0
+42,3D,8,0
+43,Methionine biosynthesis,8,0
+44,cultured_level_species,8,0
+45,Photosystem II,8,0
+46,Lysine biosynthesis,8,0
+47,Pyrimidine biosynthesis,8,0
+48,Lipid A biosynthesis,7,1
+49,Molybdopterin biosynthesis,8,0
+50,Aminoacyl-tRNA synthetases,8,0
+51,Pyridoxal phosphate biosynthesis,7,0
+52,Aromatic amino acid biosynthesis,8,0
+53,Pyrimidine salvagetRNA modification,8,0
+54,Pyrimidine degradation,8,0
+55,Mureine biosynthesis,7,1
+56,Thiamine biosynthesis,8,0
+57,Glycine cleavagePyruvate oxidation,8,0
+58,Photosystem I,8,0
+59,Proline degradation,8,0
+60,Serine biosynthesis,8,0
+61,cultured_level_genus,7,0
+62,Cysteine biosynthesis,8,0
+63,Lysine biosynthesisTCA cycle,8,0
+64,16S rRNA modification,8,0
+65,Gluconeogenesis,8,0
+66,Ubiquinone biosynthesis,8,0
+67,tRNA modification,8,0
+68,Menaquinone biosynthesis,8,0
+69,cultured_level_family,6,0
+70,Pyruvate oxidation,8,0
+71,Asparagine biosynthesis,8,0
+72,Glycolysis,8,0
+73,Pentose phosphate pathway,8,0

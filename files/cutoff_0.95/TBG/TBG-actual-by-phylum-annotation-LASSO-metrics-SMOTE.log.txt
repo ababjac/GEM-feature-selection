@@ -1,0 +1,35 @@
+Proteobacteria:
+AUC: 0.954
+Accuracy: 0.909
+Precision: 0.758
+Recall: 0.833
+
+
+Deinococcota:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Cyanobacteria:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Actinobacteriota:
+AUC: 0.824
+Accuracy: 0.905
+Precision: 0.667
+Recall: 0.667
+
+
+Firmicutes:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+

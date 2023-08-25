@@ -1,0 +1,447 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Conjugal transfer/entry exclusion protein,5,0
+1,"Uncharacterized protein, contains phage Mu head morphogenesis gpF-like domain",3,0
+2,Phage-related holin (Lysis protein),5,0
+3,Uncharacterized conserved protein YezD,6,0
+4,"Uncharacterized conserved protein, DUF2096 domain",6,0
+5,"Predicted butyrate kinase, DUF1464 family",5,0
+6,"Uncharacterized conserved protein, DUF2199 domain",5,0
+7,Predicted secreted endonuclease distantly related to archaeal Holliday junction resolvase,5,0
+8,"Uncharacterized conserved protein, DUF2153 domain",5,0
+9,"Uncharacterized conserved protein, DUF2225 family",5,0
+10,"Metal-dependent phosphatase/phosphodiesterase, HD supefamily",4,0
+11,Putative Zn-dependent protease,6,0
+12,"Uncharacterized membrane protein, DUF131 family",4,0
+13,"Uncharacterized conserved protein, DUF1415 family",4,1
+14,"Uncharacterized conserved protein, DUF166 domain",6,0
+15,Uncharacterized low-complexity protein,4,0
+16,HKD family nuclease,6,0
+17,"Uncharacterized conserved protein, DUF1851 domain",3,2
+18,Predicted ATPase,5,0
+19,"Aromatic ring-opening dioxygenase, LigB subunit",5,0
+20,"Predicted antitoxin, contains HTH domain",4,1
+21,"Predicted RNA polymerase sigma factor, contains C-terminal TPR domain",6,0
+22,"Predicted hydrolase, HD superfamily",5,0
+23,Phage terminase large (ATPase) subunit and inactivated derivatives,5,0
+24,"Predicted ATPase, archaeal AAA+ ATPase superfamily",4,0
+25,"Uncharacterized conserved protein, DUF1853 domain",5,0
+26,Predicted extracellular nuclease,4,0
+27,"Uncharacterized conserved protein, contains restriction enzyme R protein N terminal (HSDR_N) domain",4,0
+28,Predicted small secreted protein,6,0
+29,"Uncharacterized conserved protein with two CxxC motifs, DUF1111 family",5,0
+30,"Uncharacterized conserved protein, contains FMN-binding domain",5,0
+31,Mu-like prophage FluMu protein gp28,5,0
+32,"Uncharacterized conserved protein, DUF2286 domain",5,0
+33,"Uncharacterized conserved protein, DUF2321 domain",6,0
+34,"Predicted dithiol-disulfide oxidoreductase, DUF899 family",4,1
+35,"Uncharacterized conserved protein, DUF2184 domain",6,0
+36,Predicted dioxygenase of extradiol dioxygenase family,4,0
+37,"Uncharacterized conserved protein, DUF2322 domain",6,0
+38,"Uncharacterized conserved protein, DUF2126 family",6,0
+39,"Uncharacterized Zn-finger containing protein, UPF0148 family",5,0
+40,Uncharacterized conserved protein BH1414,6,0
+41,Aminoglycoside phosphotransferase family enzyme,5,0
+42,"Uncharacterized conserved protein, DUF1501 family",2,0
+43,"Uncharacterized conserved protein, DUF1674 domain",4,0
+44,"Uncharacterized conserved protein, UPF0212 family",6,0
+45,Predicted Zn-dependent protease,5,0
+46,"Uncharacterized conserved protein, DUF1430 domain",4,0
+47,"Uncharacterized conserved protein, DUF2325 domain",5,0
+48,"Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily",6,0
+49,Predicted aspartyl protease,5,0
+50,"Uncharacterized conserved protein, DUF2248 family",4,0
+51,Predicted metal-binding membrane protein,6,0
+52,"Uncharacterized conserved protein, DUF779 family",6,0
+53,"Endonuclease, HJR/Mrr/RecB family",4,0
+54,"Uncharacterized conserved protein, contains DUF2130 domain",5,0
+55,Predicted choloylglycine hydrolase,5,0
+56,"Uncharacterized conserved protein, DUF2099 domain",6,0
+57,"Uncharacterized metal-binding protein MJ0455, DUF1847 family",6,0
+58,Predicted thioesterase,5,0
+59,"Uncharacterized conserved protein, contains Extensin-like_C domain",4,1
+60,"Predicted restriction endonuclease, Mrr-cat superfamily",6,0
+61,"Uncharacterized conserved protein, DUF2255 domain",4,0
+62,"Uncharacterized membrane protein, DUF1361 domain",6,0
+63,Predicted glycosyl transferase,5,0
+64,"Uncharacterized protein, contains ferritin-like DUF455 domain",6,0
+65,Phage capsid portal protein XkdE,4,0
+66,Putative component of the toxin-antitoxin plasmid stabilization module,4,0
+67,"Uncharacterized membrane protein, DUF2068 family",5,0
+68,"Predicted DNA binding protein, CopG/RHH family",6,0
+69,"Uncharacterized protein CV0675, UCP033623 family",4,1
+70,Predicted small integral membrane protein,5,0
+71,"Predicted DNA-binding protein AF1194, contains HTH domain, DUF2240 family",2,0
+72,"Uncharacterized conserved protein, DUF2239 domain",5,0
+73,"Uncharacterized conserved protein, DUF2262 domain",5,0
+74,"Predicted ATP-dependent carboligase, ATP-grasp superfamily",2,2
+75,"ABC-type uncharacterized transport system, ATPase component",6,0
+76,"Uncharacterized conserved protein, DUF1073 domain",5,0
+77,"Uncharacterized conserved protein, contains a C-terminal beta-barrel porin domain",4,0
+78,"Uncharacterized membrane protein, DUF368 family",6,0
+79,"Uncharacterized membrane protein, DUF1616 domain",4,0
+80,"Uncharacterized conserved protein, DUF1800 family",5,0
+81,Phage head maturation protease,5,0
+82,Protein required for attachment to host cells,5,0
+83,"Uncharacterized conserved protein, DUF2161 domain",4,0
+84,"Possible nuclease of RNase H fold, RuvC/YqgF family",5,0
+85,"Polyhydroxyalkanoate (PHA) synthesis regulator protein, binds DNA and PHA",3,0
+86,"Predicted P-loop ATPase, KAP-like",5,0
+87,"Predicted nucleotide-binding protein, sugar kinase/HSP70/actin superfamily",5,0
+88,Predicted alpha/beta hydrolase,5,0
+89,"Putative phage head morphogenesis protein, F of phage Mu or gp7 of SPP1",4,0
+90,Phage capsid protein,5,0
+91,Predicted outer membrane lipoprotein,5,0
+92,"Uncharacterized conserved protein, DUF1178 domain",4,1
+93,"Uncharacterized conserved protein, DUF1150 family",4,0
+94,"Predicted phosphohydrolase or phosphomutase, AlkP superfamily",4,1
+95,Predicted metal-dependent peptidase,4,0
+96,"Uncharacterized membrane protein, contains DUF996 domain",5,0
+97,"Uncharacterized conserved protein, related to short-chain dehydrogenases",6,0
+98,"Predicted nuclease, contains PIN domain",4,0
+99,Prophage antirepressor,6,0
+100,"Uncharacterized membrane protein, DUF1648 family",5,0
+101,Mu-like prophage DNA circulation protein,5,0
+102,Bacteriorhodopsin,5,0
+103,"Uncharacterized conserved protein, DUF2460 domain",3,1
+104,Predicted phosphoribosyltransferase,5,0
+105,Predicted oxidoreductase of the aldo/keto reductase family,5,1
+106,"Predicted nucleic-acid-binding protein, contains PIN domain",6,0
+107,"Uncharacterized conserved protein YoxC, contains an MCP-like domain",5,0
+108,Soluble P-type ATPase,6,0
+109,"Uncharacterized conserved protein, DUF1152 domain",5,0
+110,"Predicted methyltransferase MtxX, methanogen marker protein 4",5,1
+111,"ATPase/GTPase, AAA15 family",3,2
+112,NAD kinase,6,0
+113,Predicted metallopeptidase,5,0
+114,"Uncharacterized conserved protein, DUF483 domain",5,1
+115,"Predicted DNA-binding protein, UPF0251 family",5,0
+116,Predicted metal-binding protein,5,0
+117,"Uncharacterized conserved protein, DUF2175 family",6,0
+118,Steroid 5-alpha reductase family enzyme,5,0
+119,"Uncharacterized protein, contains DUF2185 domain",5,0
+120,Phage-related minor tail protein,4,0
+121,NCAIR mutase (PurE)-related protein,6,0
+122,"Uncharacterized conserved protein, DUF362 family",3,0
+123,"Uncharacterized membrane protein, YccA/Bax inhibitor family",3,1
+124,"Predicted hydrolase, metallo-beta-lactamase superfamily",6,0
+125,"Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain",5,0
+126,Phage terminase large subunit,4,1
+127,"Uncharacterized conserved protein CPn0794, contains PKD-like HAF repeats",4,1
+128,"Uncharacterized conserved protein, DUF2390 domain",5,1
+129,Predicted component of the type VI protein secretion system,6,0
+130,"Uncharacterized conserved protein, DUF2267 family",6,0
+131,Ubiquitin C-terminal hydrolase,5,0
+132,"Predicted house-cleaning noncanonical NTP pyrophosphatase, all-alpha NTP-PPase (MazG) superfamily",4,0
+133,"Uncharacterized conserved protein, DUF2093 domain",6,0
+134,Predicted N-acyltransferase,3,0
+135,"Extracellular solute-binding protein, contains Ig-fold domain",5,0
+136,Predicted thioredoxin/glutaredoxin,6,0
+137,"Uncharacterized conserved protein, DUF2155 domain",5,0
+138,"Predicted N-acetyltransferase, GNAT superfamily",5,0
+139,"Uncharacterized metal-binding protein, DUF411 family",5,0
+140,Predicted small metal-binding protein,5,0
+141,"Predicted outer membrane protein, contains DUF4142 domain",4,1
+142,"Uncharacterized conserved protein, DUF2277 domain",6,0
+143,"Uncharacterized membrane protein, DUF2127 domain",5,0
+144,"Uncharacterized conserved protein, DUF2247 domain",3,1
+145,"Uncharacterized conserved protein, DUF2145 domain",6,0
+146,Predicted acetyltransferase,6,0
+147,"Uncharacterized protein, contains DUF2293 domain",4,1
+148,Spore maturation protein CgeB,5,0
+149,"Glycosyltransferase involved in LPS biosynthesis, GR25 family",6,0
+150,Predicted periplasmic protein,5,1
+151,"Predicted nucleic acid-binding protein, contains PIN domain",6,0
+152,"Predicted transcriptional regulator,contains XRE-type HTH domain",5,0
+153,"Uncharacterized conserved protein, DUF2171 domain",5,0
+154,"Uncharacterized conserved protein, DUF2141 family",4,1
+155,"Predicted ABC-type sugar transport system, permease component",5,0
+156,"Predicted transciptional regulator, contains HTH domain",5,0
+157,Ubiquinone biosynthesis protein COQ9,3,2
+158,Predicted archaeal methyltransferase,4,1
+159,"Uncharacterized conserved protein, DUF2067 domain",3,0
+160,"Uncharacterized conserved protein, DUF4810 domain",4,1
+161,"Uncharacterized conserved protein, DUF1850 family",5,0
+162,"Uncharacterized conserved protein ECs_4300, contains TPR-like domain",6,0
+163,Predicted hydrolase of the alpha/beta-hydrolase fold,6,0
+164,Uncharacterized conserved protein YtzB,4,0
+165,"Uncharacterized protein, contains DUF1512 domain",5,0
+166,"Uncharacterized protein, contains SWIM-type Zn finger domain",6,0
+167,Predicted secreted (periplasmic) protein,5,1
+168,"Uncharacterized conserved protein, DUF1330 family",4,1
+169,"Uncharacterized conserved protein, DUF951 family",6,0
+170,"Uncharacterized conserved protein, contains ParB-like nuclease domain",6,0
+171,"Uncharacterized conserved protein, DUF2251 domain",4,0
+172,"Uncharacterized conserved protein, DUF1284 domain",4,1
+173,"Uncharacterized small protein, DUF1192 family",3,1
+174,Predicted spermidine synthase with an N-terminal membrane domain,6,0
+175,Superfamily I DNA and RNA helicases,5,0
+176,"Bacteriophage DNA transposition protein, AAA+ family ATPase",5,0
+177,"Predicted oxidoreductase, contains short-chain dehydrogenase (SDR) and DUF2520 domains",4,1
+178,"Predicted archaeal serine protease, S18 family",6,0
+179,"Uncharacterized conserved protein, DUF1802 family",3,0
+180,"Uncharacterized conserved protein, DUF2256 family",3,1
+181,Predicted ABC-type ATPase or kinase,5,0
+182,"Uncharacterized conserved protein, DUF2195 domain",5,1
+183,"Uncharacterized protein, contains GIY-YIG domain",5,0
+184,"Uncharacterized conserved protein, DUF2169 domain",6,0
+185,"MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain",6,0
+186,"Biotin synthase-related protein, radical SAM superfamily",3,1
+187,"Uncharacterized conserved protein, DUF2332 domain",5,0
+188,Uncharacterized conserved protein MJ1451,6,0
+189,"Uncharacterized conserved protein, DUF2203 domain",2,1
+190,Predicted DNA-binding protein with an HTH domain,6,0
+191,"Uncharacterized conserved protein MTH_811, UPF0305 family",3,3
+192,"Predicted transcriptional regulator, contains an HTH and PUA-like domains",6,0
+193,Phage-related tail protein,4,0
+194,"Uncharacterized conserved protein, DUF501 family",5,0
+195,"Uncharacterized conserved protein, DUF465 domain",5,1
+196,"Uncharacterized conserved protein, contains a NRPS condensation (elongation) domain",5,0
+197,"Bacillopeptidase F, M6 metalloprotease family",4,1
+198,"Predicted nucleic acid-binding protein, contains SWIM-type Zn-finger domain",6,0
+199,Predicted heme/steroid binding protein,5,0
+200,"Uncharacterized conserved protein, DUF2252 family",5,0
+201,"Uncharacterized conserved protein, conains N-terminal glutamine amidotransferase (GATase1)-like domain",5,0
+202,"Predicted metal-dependent phosphohydrolase, HD superfamily",5,0
+203,"Cytolysin, a secreted calcineurin-like phosphatase",6,0
+204,"Uncharacterized conserved protein, DUF2344 family",4,0
+205,"Uncharacterized conserved protein, DUF1643 domain",6,0
+206,"Uncharacterized conserved protein, DUF2330 domain",6,0
+207,Predicted nucleotide-binding protein containing TIR -like domain,5,0
+208,"Predicted metal-dependent hydrolase, urease superfamily",5,0
+209,"Predicted nucleic-acid-binding protein, contains Zn-ribbon domain",6,0
+210,"Predicted acyltransferase, DUF1624 domain",6,0
+211,"Predicted NTP pyrophosphohydrolase, NUDIX family",4,0
+212,Uri superfamily endonuclease,4,1
+213,"Uncharacterized conserved protein, DUF473 domain",6,0
+214,"Uncharacterized conserved protein, DUF2290 domain",6,0
+215,"Uncharacterized protein, contains DUF3084 domain",4,1
+216,"Predicted acetyltransferase, GNAT superfamily",5,1
+217,Predicted deacetylase,3,2
+218,"Predicted transcriptional regulator, contains two HTH domains",5,0
+219,"TRAP-type uncharacterized transport system, fused permease components",3,1
+220,Predicted secreted protein,3,0
+221,"Uncharacterized conserved protein, contains a C-terminal ATPase domain",6,0
+222,Predicted protein tyrosine phosphatase,5,0
+223,"Uncharacterized conserved protein, DUF2073 family",5,1
+224,"Uncharacterized conserved protein, DUF2316 domain",4,0
+225,"Uncharacterized protein, contains DUF2192 domain",5,0
+226,Predicted periplasmic lipoprotein,5,0
+227,"Uncharacterized conserved protein, DUF2236 family",6,0
+228,"Uncharacterized conserved protein, DUF2163 domain",4,1
+229,"Sulfopyruvate decarboxylase, TPP-binding subunit (coenzyme M biosynthesis)",5,0
+230,"Uncharacterized conserved protein, DUF3820 family",3,0
+231,"Uncharacterized coiled-coil protein, contains DUF342 domain",5,0
+232,"Predicted transcription regulator, contains HTH domain, MarR family",6,0
+233,"Uncharacterized conserved protein, DUF2111 domain",4,0
+234,"Uncharacterized conserved protein, heparinase superfamily",5,0
+235,Antibiotic biosynthesis monooxygenase (ABM) superfamily enzyme,4,0
+236,Phage large terminase packaging protein,5,0
+237,"Adenine-specific DNA methylase, contains a Zn-ribbon domain",5,0
+238,Metallophosphoesterase superfamily enzyme,6,0
+239,"Predicted methyltransferase, contains TPR repeat",4,0
+240,"Predicted transcriptional regulator, contains C-terminal CBS domains",6,0
+241,Predicted SAM-depedendent methyltransferase,4,1
+242,Site-specific recombinase,5,0
+243,"DNA primase, phage- or plasmid-associated",4,0
+244,Uncharacterized Fe-S cluster protein,5,0
+245,"Uncharacterized membrane protein, UPF0136 family",4,1
+246,Uncharacterized membrane protein,5,0
+247,Hemerythrin domain,4,0
+248,Mannosyltransferase related to Gpi18,6,0
+249,Secreted protein containing C-terminal beta-propeller domain distantly related to WD-40 repeats,3,2
+250,Uncharacterized conserved protein related to proFAR isomerase (HisA),5,0
+251,Phage-related protein,5,0
+252,"Uncharacterized conserved protein, UPF0160 family",4,0
+253,"Predicted acetyltransferase, GNAT family",4,0
+254,Predicted amino acid dehydrogenase,5,1
+255,"Predicted RNase MK1237, contains PIN domain, UPF0278 family",3,0
+256,Putative hemolysin,4,0
+257,"Predicted membrane glycosyltransferase AF0583, Arch_YYY/DUF2298 family",6,0
+258,"Uncharacterized conserved protein, PA2063/DUF2235 family",6,0
+259,Predicted permease,5,1
+260,"Uncharacterized conserved protein, DUF169 family",5,0
+261,Capsular polysaccharide biosynthesis protein,5,0
+262,"Uncharacterized conserved protein, DUF2304 domain",5,0
+263,"Predicted acyltransferase, contains DUF342 domain",5,0
+264,"Uncharacterized conserved protein, UPF0248 family",6,0
+265,"Predicted Co/Zn/Cd cation transporter, cation efflux family",5,0
+266,"Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain",5,0
+267,"Uncharacterized copper-binding protein, cupredoxin-like subfamily",6,0
+268,"Uncharacterized conserved protein, DUF488 family",4,0
+269,Predicted metal-dependent enzyme of the double-stranded beta helix superfamily,4,1
+270,"Uncharacterized conserved protein, contains ferredoxin domain",5,0
+271,"Uncharacterized conserved protein, DUF2087 family",4,1
+272,"Uncharacterized conserved protein related to methyl-CoM reductase subunit C, methanogenesis marker protein 7",6,0
+273,"SirA-like two-layered alpha/beta sandwich domain, DUF2249 family",4,0
+274,Uncharacterized integral membrane protein,6,0
+275,"Predicted ATPase, AAA+ superfamily",6,0
+276,"Membrane-associated enzyme, PAP2 (acid phosphatase) superfamily",5,0
+277,"Uncharacterized conserved protein, DUF356 domain",6,0
+278,"Uncharacterized conserved protein, UPF0262 family",3,1
+279,Predicted lipoprotein involved in lipopolysaccharide assembly,6,0
+280,Hemerythrin domain-containing protein,5,1
+281,"Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family",2,0
+282,Predicted cation transporter,4,0
+283,Uncharacterized conserved protein,6,0
+284,Type 1 glutamine amidotransferase (GATase1)-like domain,3,2
+285,"Uncharacterized conserved protein, nuclear transport factor 2 (NTF2) superfamily",5,0
+286,"Predicted metal-dependent hydrolase, TIM-barrel fold",5,0
+287,Predicted neuraminidase (sialidase),6,0
+288,"Uncharacterized conserved protein, DUF507 domain",5,0
+289,"Predicted aminopeptidase, Iap family",5,0
+290,Predicted transcriptional regulator with an HTH domain,5,0
+291,"Uncharacterized conserved protein, DUF1015 family",4,0
+292,Lysozyme family protein,3,1
+293,"Uncharacterized conserved protein, DUF983 family",4,0
+294,Uncharacterized membrane protein YjcL,5,0
+295,"Predicted GntP-related membrane permease AF0261, DUF401 family",4,0
+296,Predicted transcriptional regulator,5,0
+297,"Uncharacterized conserved protein, DUF2062 family",6,0
+298,"Uncharacterized conserved protein, DUF2281 domain",4,0
+299,"Uncharacterized conserved protein, DUF2193 domain",5,0
+300,"Uncharacterized conserved protein, DUF2150 domain",5,1
+301,"Uncharacterized membrane protein, DUF2243 domain",3,0
+302,"Uncharacterized protein, contains Mth938-like domain",4,0
+303,"Uncharacterized conserved protein, contains Zn-finger domain of CHY type",5,0
+304,Predicted aminopeptidase,6,0
+305,Predicted Ser/Thr protein kinase,4,1
+306,"Uncharacterized conserved protein, DUF1272 domain",6,0
+307,Muramidase (phage lambda lysozyme),4,1
+308,"Uncharacterized conserved protein, DUF1801 domain",5,1
+309,"ABC-type uncharacterized transport system, permease component",5,0
+310,Glutaredoxin-related protein,4,0
+311,Selenophosphate synthetase-related protein,6,0
+312,"Archaeal flagellin (archaellin), FlaG/FlaF family",6,0
+313,"Predicted phage recombinase, RecA/RadA family",6,0
+314,Predicted nucleotidyltransferase,5,0
+315,CBS-domain-containing membrane protein,1,1
+316,"Uncharacterized conserved protein, DUF2274 domain",4,1
+317,Predicted glycosyltransferase,5,1
+318,"Uncharacterized conserved protein, DUF1365 family",3,0
+319,"Uncharacterized conserved protein, DUF1326 domain",4,0
+320,Predicted exporter,5,0
+321,"Serine protease, subtilase family",5,0
+322,Phosphatidylethanolamine N-methyltransferase,5,0
+323,Predicted ATP-binding protein involved in virulence,4,1
+324,Esterase/lipase superfamily enzyme,5,0
+325,Endo-beta-N-acetylglucosaminidase D,5,0
+326,"Predicted transcriptional regulator, ArsR family",5,0
+327,"Uncharacterized conserved protein, DUF1062 domain",2,1
+328,"Uncharacterized conserved protein, MAPEG superfamily",5,0
+329,"Phage-related protein, tail protein J",4,0
+330,Predicted proteasome-type protease,6,0
+331,"Uncharacterized conserved protein, DUF1794 domain",5,0
+332,"Signal-transduction protein containing cAMP-binding, CBS, and nucleotidyltransferase domains",3,0
+333,Predicted secreted Zn-dependent protease,6,0
+334,N-acyl-D-aspartate/D-glutamate deacylase,5,0
+335,"Uncharacterized protein, contains DUF2272 domain",4,1
+336,"Predicted protease, Abi (CAAX) family",6,0
+337,Mu-like prophage I protein,5,0
+338,Predicted methyltransferase,5,0
+339,"Uncharacterized conserved protein, DUF432 domain",5,0
+340,Uncharacterized membrane-anchored protein,3,0
+341,"Uncharacterized conserved protein, contains metal-binding DGC domain",4,0
+342,Phage protein U,6,0
+343,"Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain",3,0
+344,"Uncharacterized membrane protein, UPF0182 family",6,0
+345,"Uncharacterized conserved protein, DUF2076 domain",5,0
+346,"DNA replication initiation complex subunit, GINS family",4,0
+347,Prophage pi2 protein 07,3,0
+348,"Uncharacterized conserved protein MJ0802, methanogenesis marker protein 17, contains DUF2113 domain",5,0
+349,"Uncharacterized conserved protein, DUF697 family",5,0
+350,"Uncharacterized conserved protein, UCP014979 family",5,0
+351,"Uncharacterized conserved protein, UPF0548 family",6,0
+352,Predicted P-loop ATPase and inactivated derivatives,6,0
+353,"Predicted acyltransferase, LPLAT superfamily",4,0
+354,Extracellular substrate-binding protein,3,0
+355,"Uncharacterized metal-binding protein, DUF2227 family",6,0
+356,Secreted trypsin-like serine protease,5,0
+357,"Uncharacterized conserved protein, cupin superfamily",6,0
+358,"Predicted transcriptional regulator, contains HTH domain",5,0
+359,Predicted P-loop ATPase/GTPase,6,0
+360,"Uncharacterized conserved protein, contains ACT domain",5,0
+361,"Phage repressor protein C, contains Cro/C1-type HTH and peptisase s24 domains",5,0
+362,"Uncharacterized metal-binding protein, DUF2103 family",4,1
+363,Phage tail protein,6,0
+364,"Uncharacterized protein, contains GH25 family domain",6,0
+365,"Uncharacterized conserved protein, DUF1704 domain",5,1
+366,"Uncharacterized conserved protein, radical SAM superfamily",5,0
+367,"Beta-xylosidase, GH43 family",4,0
+368,Predicted oxidoreductase,4,1
+369,"Superfamily II helicase, archaea-specific",6,0
+370,Uncharacterized conserved protein MJ0498,3,1
+371,"Uncharacterized conserved protein, contains von Willebrand factor type A (vWFA) domain",5,0
+372,"Uncharacterized conserved protein, contains thioredoxin-like domain",4,0
+373,"Uncharacterized membrane protein PF0508, contains N-terminal glycosyltransferase domain of PMT family",5,0
+374,"Uncharacterized membrane protein, DUF1624 family",5,0
+375,Bacteriophage protein gp37,5,0
+376,"Uncharacterized conserved protein, DUF2264 domain",5,1
+377,"Uncharacterized conserved protein, DUF721 domain",6,0
+378,"Predicted DNA modification or repair protein, contains radical SAM and helix-hairpin-helix domains",6,0
+379,"Uncharacterized membrane protein, DUF373 family",6,0
+380,"Phage-related protein, predicted endonuclease",5,0
+381,"Uncharacterized conserved protein, DUF1499 family",5,0
+382,Predicted RNA methylase,6,0
+383,Uncharacterized domain associated with phage/plasmid primase,6,0
+384,"Uncharacterized conserved protein, DUF736 family",6,0
+385,"Uncharacterized conserved protein, contains a phytase-like domain",6,0
+386,"Uncharacterized conserved protein, DUF1513 domain",3,1
+387,"ABC-type anion transport system, duplicated permease component",6,0
+388,"Uncharacterized membrane protein MJ1443, UPF0132 family",5,0
+389,"Uncharacterized protein, contains DUF4139 domain",5,0
+390,Predicted dienelactone hydrolase,6,0
+391,Adenine-specific DNA methylase,6,0
+392,Transposase,5,0
+393,"ABC-type uncharacterized transport system, periplasmic component",4,0
+394,"Adenine-specific DNA methylase, N12 class",6,0
+395,"Predicted phosphotransferase, aminoglycoside/choline kinase (APH/ChoK) family",6,0
+396,"Uncharacterized conserved protein domain, often C-terminal to DUF262",6,0
+397,"Uncharacterized conserved protein, DUF2117 domain",5,0
+398,"Phage-related protein, tail assembly protein I",5,1
+399,"Uncharacterized membrane protein, DUF4212 domain",5,0
+400,Uncharacterized Fe-S cluster-containing protein,5,0
+401,"Predicted nucleic acid-binding protein, contains Zn-ribbon domain",4,0
+402,"PIN domain nuclease, a component of toxin-antitoxin system (PIN domain)",5,0
+403,"Uncharacterized conserved protein, DUF1489 domain",5,0
+404,"Uncharacterized Fe-S cluster-containing enzyme, radical SAM superfamily",4,0
+405,"Transposase and inactivated derivatives, TnpA family",4,1
+406,"Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain",5,1
+407,"Uncharacterized conserved protein, contains GYD domain",6,0
+408,"Phage terminase, small subunit",6,0
+409,"Uncharacterized conserved protein, DUF2333 domain",4,0
+410,"Predicted DNA-binding transcriptional regulator with XRE-family HTH domain, DUF2089 family",5,0
+411,Uncharacterized radical SAM domain-containing protein,5,0
+412,Predicted ferric reductase,6,0
+413,"Uncharacterized conserved protein, DUF2336 family",5,0
+414,"Uncharacterized N-terminal domain of tricorn protease, contains WD40 repeats",5,1
+415,"Uncharacterized conserved protein, DUF763 domain",5,0
+416,"Uncharacterized conserved protein, DUF2149 domain",6,0
+417,Signal transduction histidine kinase regulating phosphoglycerate transport system,6,0
+418,"Uncharacterized conserved protein, DUF962 domain",6,0
+419,"Uncharacterized conserved protein, DUF1033 domain",6,0
+420,Predicted lipoprotein with conserved Yx(FWY)xxD motif (function unknown),4,0
+421,"Pheromone shutdown protein TraB, contains GTxH motif (function unknown)",3,0
+422,Predicted ATP-dependent Lon-type protease,5,1
+423,"Thiol-disulfide interchange protein, contains DsbC and DsbD domains",4,1
+424,Predicted metal-dependent hydrolase,5,0
+425,"Uncharacterized conserved protein, DUF2164 family",5,0
+426,"Uncharacterized protein MTH814, DUF2098 family",5,0
+427,"Uncharacterized protein, contains DUF1214 domain",6,0
+428,"Predicted regulator of amino acid metabolism, contains ACT domain",5,0
+429,"Transposase, IS1182 family",6,0
+430,"Predicted nuclease, RecB family",6,0
+431,Roadblock/LC7 domain,5,0
+432,"Predicted sugar epimerase, xylose isomerase-like family",4,0
+433,"Uncharacterized conserved protein, DUF934 family",4,0
+434,"Predicted DNA-binding transcriptional regulator, ArsR family",6,0
+435,"Uncharacterized conserved protein, DUF2112 domain",5,0
+436,"Uncharacterized conserved protein, DUF937 domain",6,0
+437,Predicted nuclease (RNAse H fold),3,1
+438,"Uncharacterized conserved protein, DUF2125 domain",4,1
+439,Uncharacterized archaeal Zn-finger protein,5,0
+440,"Uncharacterized protein, contains PD-(D/E)XK nuclease domain",5,0
+441,"Uncharacterized conserved protein, DUF1820 domain",4,0
+442,"Uncharacterized conserved protein, DUF2066 domain",3,0
+443,Predicted membrane-bound dolichyl-phosphate-mannose-protein mannosyltransferase,5,0
+444,"Uncharacterized protein, contains DUF2461 domain",3,2
+445,"Uncharacterized conserved protein, DUF2132 family",5,1

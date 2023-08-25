@@ -1,0 +1,30 @@
+Phylum name: Cyanobacteria
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: nan, P-value: nan
+
+
+
+Phylum name: Proteobacteria
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: -0.247, P-value: 0.003
+
+
+
+Phylum name: Deinococcota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: -0.674, P-value: 0.008
+
+
+
+Phylum name: Firmicutes
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: -0.596, P-value: 0.09
+
+
+
+Phylum name: Actinobacteriota
+Spearman Correlation of Predicted (Uncultured) Probability and Genome Length for Top/Bottom 10% Completeness - 
+Rho: 0.085, P-value: 0.592
+
+
+

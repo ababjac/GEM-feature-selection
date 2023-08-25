@@ -1,0 +1,442 @@
+,phylum_name,feature_name,coef,coef_sd,lower_95,upper_95,count,significant,permutation_importance
+0,Firmicutes,16S rRNA modification,11.736544945740166,0.3185370116126729,11.646017728799766,11.827072162680565,50,True,1.9845260041338475
+1,Firmicutes,Fatty acid biosynthesis,0.0,0.0,,,0,False,0.0
+2,Firmicutes,Proline biosynthesis,0.0,0.0,,,0,False,0.0
+3,Firmicutes,Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+4,Firmicutes,Ubiquinone biosynthesis,0.0,0.0,,,0,False,0.0
+5,Firmicutes,Biotin biosynthesis,0.0,0.0,,,0,False,0.0
+6,Firmicutes,Proline degradation,0.0,0.0,,,0,False,0.0
+7,Firmicutes,Non-phosphorylated Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+8,Firmicutes,Lysine biosynthesisTCA cycle,0.0,0.0,,,0,False,0.0
+9,Firmicutes,Pyrimidine biosynthesis,0.0,0.0,,,0,False,0.0
+10,Firmicutes,Arginine biosynthesis,0.0,0.0,,,0,False,0.0
+11,Firmicutes,Folate biosynthesis,0.0,0.0,,,0,False,0.0
+12,Firmicutes,"Histidine biosynthesis, Purine biosynthesis",0.0,0.0,,,0,False,0.0
+13,Firmicutes,tRNA modification,0.0,0.0,,,0,False,0.0
+14,Firmicutes,NAD biosynthesis,0.0,0.0,,,0,False,0.0
+15,Firmicutes,cultured_level_class,0.0,0.0,,,0,False,0.0
+16,Firmicutes,Thymidylate biosynthesis,0.0,0.0,,,0,False,0.0
+17,Firmicutes,Photosystem I,0.0,0.0,,,0,False,0.0
+18,Firmicutes,Glutamine biosynthesis,0.0,0.0,,,0,False,0.0
+19,Firmicutes,"TCA cycle, glyoxylate bypass",0.0,0.0,,,0,False,0.0
+20,Firmicutes,Lipid A biosynthesis,0.0,0.0,,,0,False,0.0
+21,Firmicutes,Urea cycle,-5.511770767556569,0.35536834207814105,-5.612765332785228,-5.410776202327909,50,True,0.0
+22,Firmicutes,Isoprenoid biosynthesis,0.0,0.0,,,0,False,0.0
+23,Firmicutes,"Isoleucine, leucine, valine biosynthesis",-2.8521772117299573,0.32440487141202556,-2.9443720559716327,-2.759982367488282,50,True,0.0
+24,Firmicutes,Thiamine biosynthesis,0.0,0.0,,,0,False,0.0
+25,Firmicutes,Archaeal ribosomal proteins,0.0,0.0,,,0,False,0.0
+26,Firmicutes,Heme biosynthesis,0.0,0.0,,,0,False,0.0
+27,Firmicutes,3D,0.0,0.0,,,0,False,0.0
+28,Firmicutes,cultured_level_genus,0.0,0.0,,,0,False,0.0
+29,Firmicutes,Purine salvage,0.0,0.0,,,0,False,0.0
+30,Firmicutes,Photosystem II,0.0,0.0,,,0,False,0.0
+31,Firmicutes,TCA cycle,0.0,0.0,,,0,False,0.0
+32,Firmicutes,Serine biosynthesis,0.0,0.0,,,0,False,0.0
+33,Firmicutes,Ribosome 30S subunit,0.0,0.0,,,0,False,0.0
+34,Firmicutes,Menaquinone biosynthesis,0.0,0.0,,,0,False,0.0
+35,Firmicutes,FoF1-type ATP synthase,0.0,0.0,,,0,False,0.0
+36,Firmicutes,Pyrimidine salvagetRNA modification,0.0,0.0,,,0,False,0.0
+37,Firmicutes,CRISPR-Cas system,0.0,0.0,,,0,False,0.0
+38,Firmicutes,Lysine biosynthesis,0.0,0.0,,,0,False,0.0
+39,Firmicutes,NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+40,Firmicutes,A/V-type ATP synthase,0.0,0.0,,,0,False,0.0
+41,Firmicutes,Threonine biosynthesis,0.0,0.0,,,0,False,0.0
+42,Firmicutes,Mureine biosynthesis,0.0,0.0,,,0,False,0.0
+43,Firmicutes,Pyrimidine degradation,0.0,0.0,,,0,False,0.0
+44,Firmicutes,Pantothenate/CoA biosynthesis,0.0,0.0,,,0,False,0.0
+45,Firmicutes,Glycine cleavage,0.0,0.0,,,0,False,0.0
+46,Firmicutes,Cobalamine/B12 biosynthesis,0.0,0.0,,,0,False,0.0
+47,Firmicutes,Pyridoxal phosphate biosynthesis,0.0,0.0,,,0,False,0.0
+48,Firmicutes,Purine biosynthesis,0.0,0.0,,,0,False,0.0
+49,Firmicutes,Ribosome 50S subunit,0.0,0.0,,,0,False,0.0
+50,Firmicutes,Pyrimidine salvage,0.0,0.0,,,0,False,0.0
+51,Firmicutes,2Fe2S,0.0,0.0,,,0,False,0.0
+52,Firmicutes,Methionine biosynthesis,0.0,0.0,,,0,False,0.0
+53,Firmicutes,Aminoacyl-tRNA synthetases,0.0,0.0,,,0,False,0.0
+54,Firmicutes,23S rRNA modification,0.0,0.0,,,0,False,0.0
+55,Firmicutes,Aromatic amino acid biosynthesis,0.0,0.0,,,0,False,0.0
+56,Firmicutes,Riboflavin/FAD biosynthesis,0.0,0.0,,,0,False,0.0
+57,Firmicutes,Pyruvate oxidation,0.0,0.0,,,0,False,0.0
+58,Firmicutes,Translation factors,0.0,0.0,,,0,False,0.0
+59,Firmicutes,Histidine biosynthesis,0.0,0.0,,,0,False,0.0
+60,Firmicutes,Lipoate biosynthesis,0.0,0.0,,,0,False,0.0
+61,Firmicutes,Na+-translocating Fd:NADH oxidoreductase,0.0,0.0,,,0,False,0.0
+62,Firmicutes,Glycine cleavagePyruvate oxidation,0.0,0.0,,,0,False,0.0
+63,Firmicutes,Molybdopterin biosynthesis,0.0,0.0,,,0,False,0.0
+64,Firmicutes,Gluconeogenesis,0.0,0.0,,,0,False,0.0
+65,Firmicutes,cultured_level_family,0.0,0.0,,,0,False,0.0
+66,Firmicutes,Na+-translocating NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+67,Firmicutes,Glycolysis,0.0,0.0,,,0,False,0.0
+68,Firmicutes,Asparagine biosynthesis,0.0,0.0,,,0,False,0.0
+69,Firmicutes,Phospholipid biosynthesis,0.0,0.0,,,0,False,0.0
+70,Firmicutes,RNA polymerase,0.0,0.0,,,0,False,0.0
+71,Firmicutes,cultured_level_species,0.0,0.0,,,0,False,0.0
+72,Firmicutes,Pentose phosphate pathway,0.0,0.0,,,0,False,0.0
+73,Firmicutes,Cysteine biosynthesis,0.0,0.0,,,0,False,0.0
+0,Actinobacteriota,16S rRNA modification,8.596372533535433,0.44479205329311544,8.469964030806107,8.72278103626476,50,True,1.5197387878787876
+1,Actinobacteriota,Urea cycle,-7.945550983048597,0.4170669547916921,-8.064080099975861,-7.827021866121333,50,True,0.07649099935525468
+2,Actinobacteriota,Lysine biosynthesisTCA cycle,0.0,0.0,,,0,False,0.0
+3,Actinobacteriota,Proline biosynthesis,0.0,0.0,,,0,False,0.0
+4,Actinobacteriota,Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+5,Actinobacteriota,Ubiquinone biosynthesis,0.0,0.0,,,0,False,0.0
+6,Actinobacteriota,Biotin biosynthesis,0.0,0.0,,,0,False,0.0
+7,Actinobacteriota,Proline degradation,0.0,0.0,,,0,False,0.0
+8,Actinobacteriota,Non-phosphorylated Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+9,Actinobacteriota,Pyrimidine biosynthesis,-0.008853920147215987,0.04487553489298994,-0.021607406035738047,0.0038995657413060728,4,False,0.0
+10,Actinobacteriota,Fatty acid biosynthesis,-0.10012826500763933,0.2671130546591914,-0.1760409551039121,-0.02421557491136657,9,True,0.0
+11,Actinobacteriota,Arginine biosynthesis,0.0,0.0,,,0,False,0.0
+12,Actinobacteriota,Folate biosynthesis,0.0,0.0,,,0,False,0.0
+13,Actinobacteriota,"Histidine biosynthesis, Purine biosynthesis",0.0,0.0,,,0,False,0.0
+14,Actinobacteriota,tRNA modification,0.0,0.0,,,0,False,0.0
+15,Actinobacteriota,NAD biosynthesis,0.0,0.0,,,0,False,0.0
+16,Actinobacteriota,Thymidylate biosynthesis,0.0,0.0,,,0,False,0.0
+17,Actinobacteriota,Photosystem I,-0.01405518310091169,0.06758337808794371,-0.0332621666120516,0.005151800410228219,4,False,0.0
+18,Actinobacteriota,Glutamine biosynthesis,0.0,0.0,,,0,False,0.0
+19,Actinobacteriota,Cysteine biosynthesis,0.0,0.0,,,0,False,0.0
+20,Actinobacteriota,cultured_level_genus,0.0,0.0,,,0,False,0.0
+21,Actinobacteriota,Isoprenoid biosynthesis,-4.353463470326696,0.43663007275170257,-4.477552363854583,-4.22937457679881,50,True,0.0
+22,Actinobacteriota,"Isoleucine, leucine, valine biosynthesis",0.0,0.0,,,0,False,0.0
+23,Actinobacteriota,Thiamine biosynthesis,0.0,0.0,,,0,False,0.0
+24,Actinobacteriota,Archaeal ribosomal proteins,0.0,0.0,,,0,False,0.0
+25,Actinobacteriota,Heme biosynthesis,0.0,0.0,,,0,False,0.0
+26,Actinobacteriota,3D,0.0,0.0,,,0,False,0.0
+27,Actinobacteriota,Purine salvage,0.0,0.0,,,0,False,0.0
+28,Actinobacteriota,Lipid A biosynthesis,0.0,0.0,,,0,False,0.0
+29,Actinobacteriota,Photosystem II,0.0,0.0,,,0,False,0.0
+30,Actinobacteriota,TCA cycle,0.0,0.0,,,0,False,0.0
+31,Actinobacteriota,Serine biosynthesis,0.0,0.0,,,0,False,0.0
+32,Actinobacteriota,Ribosome 30S subunit,0.0,0.0,,,0,False,0.0
+33,Actinobacteriota,Menaquinone biosynthesis,0.0,0.0,,,0,False,0.0
+34,Actinobacteriota,FoF1-type ATP synthase,0.0,0.0,,,0,False,0.0
+35,Actinobacteriota,Pyrimidine salvagetRNA modification,0.0,0.0,,,0,False,0.0
+36,Actinobacteriota,CRISPR-Cas system,0.0,0.0,,,0,False,0.0
+37,Actinobacteriota,"TCA cycle, glyoxylate bypass",0.0,0.0,,,0,False,0.0
+38,Actinobacteriota,NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+39,Actinobacteriota,A/V-type ATP synthase,0.0,0.0,,,0,False,0.0
+40,Actinobacteriota,Threonine biosynthesis,0.0,0.0,,,0,False,0.0
+41,Actinobacteriota,Mureine biosynthesis,0.0,0.0,,,0,False,0.0
+42,Actinobacteriota,Pyrimidine degradation,0.0,0.0,,,0,False,0.0
+43,Actinobacteriota,Pantothenate/CoA biosynthesis,0.0,0.0,,,0,False,0.0
+44,Actinobacteriota,Glycine cleavage,0.0,0.0,,,0,False,0.0
+45,Actinobacteriota,Cobalamine/B12 biosynthesis,0.0,0.0,,,0,False,0.0
+46,Actinobacteriota,Pyridoxal phosphate biosynthesis,-0.04068553958314248,0.16194989591419656,-0.0867111906893528,0.0053401115230678475,6,False,0.0
+47,Actinobacteriota,Purine biosynthesis,0.0,0.0,,,0,False,0.0
+48,Actinobacteriota,Ribosome 50S subunit,0.0,0.0,,,0,False,0.0
+49,Actinobacteriota,Pyrimidine salvage,0.0,0.0,,,0,False,0.0
+50,Actinobacteriota,2Fe2S,0.0,0.0,,,0,False,0.0
+51,Actinobacteriota,Methionine biosynthesis,0.0,0.0,,,0,False,0.0
+52,Actinobacteriota,Aminoacyl-tRNA synthetases,0.0,0.0,,,0,False,0.0
+53,Actinobacteriota,23S rRNA modification,0.0,0.0,,,0,False,0.0
+54,Actinobacteriota,Aromatic amino acid biosynthesis,0.0,0.0,,,0,False,0.0
+55,Actinobacteriota,Riboflavin/FAD biosynthesis,0.0,0.0,,,0,False,0.0
+56,Actinobacteriota,Pyruvate oxidation,0.0,0.0,,,0,False,0.0
+57,Actinobacteriota,Translation factors,0.0,0.0,,,0,False,0.0
+58,Actinobacteriota,Histidine biosynthesis,0.0,0.0,,,0,False,0.0
+59,Actinobacteriota,Lipoate biosynthesis,0.0,0.0,,,0,False,0.0
+60,Actinobacteriota,Na+-translocating Fd:NADH oxidoreductase,0.0,0.0,,,0,False,0.0
+61,Actinobacteriota,Glycine cleavagePyruvate oxidation,0.0,0.0,,,0,False,0.0
+62,Actinobacteriota,Molybdopterin biosynthesis,0.0,0.0,,,0,False,0.0
+63,Actinobacteriota,Gluconeogenesis,0.0,0.0,,,0,False,0.0
+64,Actinobacteriota,cultured_level_family,-0.17372575297281082,0.36204253873169673,-0.276617103900879,-0.07083440204474263,16,True,0.0
+65,Actinobacteriota,Na+-translocating NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+66,Actinobacteriota,Glycolysis,0.0,0.0,,,0,False,0.0
+67,Actinobacteriota,Asparagine biosynthesis,0.0,0.0,,,0,False,0.0
+68,Actinobacteriota,Phospholipid biosynthesis,0.0,0.0,,,0,False,0.0
+69,Actinobacteriota,RNA polymerase,0.0,0.0,,,0,False,0.0
+70,Actinobacteriota,cultured_level_species,0.0,0.0,,,0,False,0.0
+71,Actinobacteriota,Pentose phosphate pathway,0.0,0.0,,,0,False,0.0
+72,Actinobacteriota,Lysine biosynthesis,0.0,0.0,,,0,False,0.0
+0,Proteobacteria,16S rRNA modification,7.9694608118454875,0.2949529763254471,7.885636103564812,8.053285520126163,50,True,0.7437595775242921
+1,Proteobacteria,Urea cycle,-8.073583603226963,0.2263170976971872,-8.137902210652927,-8.009264995800999,50,True,0.33933750739332486
+2,Proteobacteria,Isoprenoid biosynthesis,-6.577067901344741,0.16369872921798806,-6.623590565376022,-6.53054523731346,50,True,0.01050458808618504
+3,Proteobacteria,Lysine biosynthesisTCA cycle,0.0,0.0,,,0,False,0.0
+4,Proteobacteria,Proline biosynthesis,0.0,0.0,,,0,False,0.0
+5,Proteobacteria,Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+6,Proteobacteria,Ubiquinone biosynthesis,0.0,0.0,,,0,False,0.0
+7,Proteobacteria,Biotin biosynthesis,0.0,0.0,,,0,False,0.0
+8,Proteobacteria,Proline degradation,0.0,0.0,,,0,False,0.0
+9,Proteobacteria,Non-phosphorylated Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+10,Proteobacteria,Arginine biosynthesis,0.0,0.0,,,0,False,0.0
+11,Proteobacteria,Pyrimidine biosynthesis,0.0,0.0,,,0,False,0.0
+12,Proteobacteria,Fatty acid biosynthesis,0.0,0.0,,,0,False,0.0
+13,Proteobacteria,Folate biosynthesis,0.0,0.0,,,0,False,0.0
+14,Proteobacteria,"Histidine biosynthesis, Purine biosynthesis",0.0,0.0,,,0,False,0.0
+15,Proteobacteria,tRNA modification,0.0,0.0,,,0,False,0.0
+16,Proteobacteria,NAD biosynthesis,0.0,0.0,,,0,False,0.0
+17,Proteobacteria,cultured_level_class,0.0,0.0,,,0,False,0.0
+18,Proteobacteria,Photosystem I,0.0,0.0,,,0,False,0.0
+19,Proteobacteria,Glutamine biosynthesis,0.0,0.0,,,0,False,0.0
+20,Proteobacteria,Pyrimidine salvagetRNA modification,0.0,0.0,,,0,False,0.0
+21,Proteobacteria,Lipid A biosynthesis,0.0,0.0,,,0,False,0.0
+22,Proteobacteria,FoF1-type ATP synthase,0.0,0.0,,,0,False,0.0
+23,Proteobacteria,Menaquinone biosynthesis,0.0,0.0,,,0,False,0.0
+24,Proteobacteria,Ribosome 30S subunit,0.0031917538178015924,0.022569107684455584,-0.0032223156090388696,0.009605823244642054,1,False,0.0
+25,Proteobacteria,Serine biosynthesis,0.0,0.0,,,0,False,0.0
+26,Proteobacteria,TCA cycle,0.0,0.0,,,0,False,0.0
+27,Proteobacteria,Photosystem II,0.0,0.0,,,0,False,0.0
+28,Proteobacteria,Purine salvage,0.0,0.0,,,0,False,0.0
+29,Proteobacteria,cultured_level_genus,0.0,0.0,,,0,False,0.0
+30,Proteobacteria,3D,0.0,0.0,,,0,False,0.0
+31,Proteobacteria,Heme biosynthesis,0.0,0.0,,,0,False,0.0
+32,Proteobacteria,Archaeal ribosomal proteins,0.0,0.0,,,0,False,0.0
+33,Proteobacteria,Thiamine biosynthesis,0.0,0.0,,,0,False,0.0
+34,Proteobacteria,"Isoleucine, leucine, valine biosynthesis",0.0,0.0,,,0,False,0.0
+35,Proteobacteria,Thymidylate biosynthesis,0.0013861687288831775,0.009801693080620316,-0.0013994416195038419,0.004171779077270197,1,False,0.0
+36,Proteobacteria,CRISPR-Cas system,0.0,0.0,,,0,False,0.0
+37,Proteobacteria,"TCA cycle, glyoxylate bypass",0.0,0.0,,,0,False,0.0
+38,Proteobacteria,Lysine biosynthesis,0.0021363037990428002,0.015105949029777476,-0.0021567594088588216,0.0064293670069444225,1,False,0.0
+39,Proteobacteria,A/V-type ATP synthase,0.01870089902293571,0.10295596832238345,-0.01055886339036434,0.04796066143623576,2,False,0.0
+40,Proteobacteria,Threonine biosynthesis,0.0,0.0,,,0,False,0.0
+41,Proteobacteria,Mureine biosynthesis,0.0,0.0,,,0,False,0.0
+42,Proteobacteria,Pyrimidine degradation,0.0,0.0,,,0,False,0.0
+43,Proteobacteria,Pantothenate/CoA biosynthesis,0.0,0.0,,,0,False,0.0
+44,Proteobacteria,Glycine cleavage,0.0,0.0,,,0,False,0.0
+45,Proteobacteria,Cobalamine/B12 biosynthesis,0.0,0.0,,,0,False,0.0
+46,Proteobacteria,Pyridoxal phosphate biosynthesis,0.0,0.0,,,0,False,0.0
+47,Proteobacteria,Purine biosynthesis,0.0,0.0,,,0,False,0.0
+48,Proteobacteria,Ribosome 50S subunit,0.0,0.0,,,0,False,0.0
+49,Proteobacteria,Pyrimidine salvage,0.0,0.0,,,0,False,0.0
+50,Proteobacteria,2Fe2S,0.0,0.0,,,0,False,0.0
+51,Proteobacteria,Methionine biosynthesis,0.0,0.0,,,0,False,0.0
+52,Proteobacteria,Aminoacyl-tRNA synthetases,0.061890902914657056,0.16292797211607235,0.015587285627803593,0.10819452020151052,11,True,0.0
+53,Proteobacteria,23S rRNA modification,0.0,0.0,,,0,False,0.0
+54,Proteobacteria,Aromatic amino acid biosynthesis,0.005269660411259051,0.03726212611351566,-0.00532011864537536,0.015859439467893463,1,False,0.0
+55,Proteobacteria,Riboflavin/FAD biosynthesis,0.0,0.0,,,0,False,0.0
+56,Proteobacteria,Pyruvate oxidation,0.0,0.0,,,0,False,0.0
+57,Proteobacteria,Gluconeogenesis,0.0,0.0,,,0,False,0.0
+58,Proteobacteria,NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+59,Proteobacteria,Histidine biosynthesis,0.0,0.0,,,0,False,0.0
+60,Proteobacteria,Lipoate biosynthesis,0.0,0.0,,,0,False,0.0
+61,Proteobacteria,Na+-translocating Fd:NADH oxidoreductase,0.032777276586808034,0.11015518152859491,0.0014715204209472255,0.06408303275266884,5,True,0.0
+62,Proteobacteria,Glycine cleavagePyruvate oxidation,0.0,0.0,,,0,False,0.0
+63,Proteobacteria,Molybdopterin biosynthesis,0.0,0.0,,,0,False,0.0
+64,Proteobacteria,Translation factors,0.0,0.0,,,0,False,0.0
+65,Proteobacteria,Na+-translocating NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+66,Proteobacteria,Glycolysis,0.0,0.0,,,0,False,0.0
+67,Proteobacteria,Asparagine biosynthesis,0.0,0.0,,,0,False,0.0
+68,Proteobacteria,Phospholipid biosynthesis,0.0,0.0,,,0,False,0.0
+69,Proteobacteria,RNA polymerase,0.0,0.0,,,0,False,0.0
+70,Proteobacteria,cultured_level_species,0.0,0.0,,,0,False,0.0
+71,Proteobacteria,Pentose phosphate pathway,0.0,0.0,,,0,False,0.0
+72,Proteobacteria,Cysteine biosynthesis,0.0,0.0,,,0,False,0.0
+0,Firmicutes_C,16S rRNA modification,7.527428515695899,0.30121443949100657,7.441824319275106,7.613032712116691,50,True,1.3956162037037039
+1,Firmicutes_C,Urea cycle,-7.140288057132935,0.28945964689709613,-7.222551578465922,-7.058024535799947,50,True,0.1455699074074074
+2,Firmicutes_C,Lysine biosynthesisTCA cycle,0.0,0.0,,,0,False,0.0
+3,Firmicutes_C,Proline biosynthesis,0.0,0.0,,,0,False,0.0
+4,Firmicutes_C,Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+5,Firmicutes_C,Ubiquinone biosynthesis,0.0,0.0,,,0,False,0.0
+6,Firmicutes_C,Biotin biosynthesis,0.0,0.0,,,0,False,0.0
+7,Firmicutes_C,Proline degradation,0.0,0.0,,,0,False,0.0
+8,Firmicutes_C,Non-phosphorylated Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+9,Firmicutes_C,Pyrimidine biosynthesis,0.0,0.0,,,0,False,0.0
+10,Firmicutes_C,Fatty acid biosynthesis,0.0,0.0,,,0,False,0.0
+11,Firmicutes_C,Arginine biosynthesis,0.0,0.0,,,0,False,0.0
+12,Firmicutes_C,Folate biosynthesis,0.0,0.0,,,0,False,0.0
+13,Firmicutes_C,"Histidine biosynthesis, Purine biosynthesis",0.0,0.0,,,0,False,0.0
+14,Firmicutes_C,tRNA modification,0.0,0.0,,,0,False,0.0
+15,Firmicutes_C,NAD biosynthesis,0.0,0.0,,,0,False,0.0
+16,Firmicutes_C,Thymidylate biosynthesis,0.0,0.0,,,0,False,0.0
+17,Firmicutes_C,Photosystem I,0.0,0.0,,,0,False,0.0
+18,Firmicutes_C,Glutamine biosynthesis,0.0,0.0,,,0,False,0.0
+19,Firmicutes_C,Cysteine biosynthesis,0.0,0.0,,,0,False,0.0
+20,Firmicutes_C,cultured_level_genus,0.0,0.0,,,0,False,0.0
+21,Firmicutes_C,Isoprenoid biosynthesis,-3.9317957678356787,0.3180884657857926,-4.022195509462701,-3.8413960262086557,50,True,0.0
+22,Firmicutes_C,"Isoleucine, leucine, valine biosynthesis",0.0,0.0,,,0,False,0.0
+23,Firmicutes_C,Thiamine biosynthesis,0.0,0.0,,,0,False,0.0
+24,Firmicutes_C,Archaeal ribosomal proteins,0.0,0.0,,,0,False,0.0
+25,Firmicutes_C,Heme biosynthesis,0.0,0.0,,,0,False,0.0
+26,Firmicutes_C,3D,0.0,0.0,,,0,False,0.0
+27,Firmicutes_C,Purine salvage,0.0,0.0,,,0,False,0.0
+28,Firmicutes_C,Lipid A biosynthesis,0.0,0.0,,,0,False,0.0
+29,Firmicutes_C,Photosystem II,0.0,0.0,,,0,False,0.0
+30,Firmicutes_C,TCA cycle,0.0,0.0,,,0,False,0.0
+31,Firmicutes_C,Serine biosynthesis,0.0,0.0,,,0,False,0.0
+32,Firmicutes_C,Ribosome 30S subunit,0.0,0.0,,,0,False,0.0
+33,Firmicutes_C,Menaquinone biosynthesis,0.0,0.0,,,0,False,0.0
+34,Firmicutes_C,FoF1-type ATP synthase,0.0,0.0,,,0,False,0.0
+35,Firmicutes_C,Pyrimidine salvagetRNA modification,0.0,0.0,,,0,False,0.0
+36,Firmicutes_C,CRISPR-Cas system,0.0,0.0,,,0,False,0.0
+37,Firmicutes_C,"TCA cycle, glyoxylate bypass",0.0,0.0,,,0,False,0.0
+38,Firmicutes_C,NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+39,Firmicutes_C,A/V-type ATP synthase,0.0,0.0,,,0,False,0.0
+40,Firmicutes_C,Threonine biosynthesis,0.0,0.0,,,0,False,0.0
+41,Firmicutes_C,Mureine biosynthesis,0.0,0.0,,,0,False,0.0
+42,Firmicutes_C,Pyrimidine degradation,0.0,0.0,,,0,False,0.0
+43,Firmicutes_C,Pantothenate/CoA biosynthesis,0.0,0.0,,,0,False,0.0
+44,Firmicutes_C,Glycine cleavage,0.0,0.0,,,0,False,0.0
+45,Firmicutes_C,Cobalamine/B12 biosynthesis,0.0,0.0,,,0,False,0.0
+46,Firmicutes_C,Pyridoxal phosphate biosynthesis,0.0,0.0,,,0,False,0.0
+47,Firmicutes_C,Purine biosynthesis,0.0,0.0,,,0,False,0.0
+48,Firmicutes_C,Ribosome 50S subunit,0.0,0.0,,,0,False,0.0
+49,Firmicutes_C,Pyrimidine salvage,0.0,0.0,,,0,False,0.0
+50,Firmicutes_C,2Fe2S,0.0,0.0,,,0,False,0.0
+51,Firmicutes_C,Methionine biosynthesis,0.0,0.0,,,0,False,0.0
+52,Firmicutes_C,Aminoacyl-tRNA synthetases,0.0,0.0,,,0,False,0.0
+53,Firmicutes_C,23S rRNA modification,0.0,0.0,,,0,False,0.0
+54,Firmicutes_C,Aromatic amino acid biosynthesis,0.0,0.0,,,0,False,0.0
+55,Firmicutes_C,Riboflavin/FAD biosynthesis,0.0,0.0,,,0,False,0.0
+56,Firmicutes_C,Pyruvate oxidation,0.0,0.0,,,0,False,0.0
+57,Firmicutes_C,Translation factors,0.0,0.0,,,0,False,0.0
+58,Firmicutes_C,Histidine biosynthesis,0.0,0.0,,,0,False,0.0
+59,Firmicutes_C,Lipoate biosynthesis,0.0,0.0,,,0,False,0.0
+60,Firmicutes_C,Na+-translocating Fd:NADH oxidoreductase,0.0,0.0,,,0,False,0.0
+61,Firmicutes_C,Glycine cleavagePyruvate oxidation,0.0,0.0,,,0,False,0.0
+62,Firmicutes_C,Molybdopterin biosynthesis,0.0,0.0,,,0,False,0.0
+63,Firmicutes_C,Gluconeogenesis,0.0,0.0,,,0,False,0.0
+64,Firmicutes_C,cultured_level_family,0.0,0.0,,,0,False,0.0
+65,Firmicutes_C,Na+-translocating NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+66,Firmicutes_C,Glycolysis,0.0,0.0,,,0,False,0.0
+67,Firmicutes_C,Asparagine biosynthesis,0.0,0.0,,,0,False,0.0
+68,Firmicutes_C,Phospholipid biosynthesis,0.0,0.0,,,0,False,0.0
+69,Firmicutes_C,RNA polymerase,0.0,0.0,,,0,False,0.0
+70,Firmicutes_C,cultured_level_species,0.0,0.0,,,0,False,0.0
+71,Firmicutes_C,Pentose phosphate pathway,0.0,0.0,,,0,False,0.0
+72,Firmicutes_C,Lysine biosynthesis,0.0,0.0,,,0,False,0.0
+0,Bacteroidota,16S rRNA modification,7.71695432367238,0.15254575778714835,7.673601299047013,7.760307348297747,50,True,1.9990768216287504
+1,Bacteroidota,Cysteine biosynthesis,0.0,0.0,,,0,False,0.0
+2,Bacteroidota,Photosystem I,0.0,0.0,,,0,False,0.0
+3,Bacteroidota,Proline biosynthesis,0.0,0.0,,,0,False,0.0
+4,Bacteroidota,Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+5,Bacteroidota,Ubiquinone biosynthesis,0.0,0.0,,,0,False,0.0
+6,Bacteroidota,Biotin biosynthesis,0.0,0.0,,,0,False,0.0
+7,Bacteroidota,Proline degradation,0.0,0.0,,,0,False,0.0
+8,Bacteroidota,Non-phosphorylated Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+9,Bacteroidota,Lysine biosynthesisTCA cycle,0.0,0.0,,,0,False,0.0
+10,Bacteroidota,Pyrimidine biosynthesis,-0.0017688687420271854,0.009143971401699279,-0.004367556657719039,0.0008298191736646682,2,False,0.0
+11,Bacteroidota,Arginine biosynthesis,0.0,0.0,,,0,False,0.0
+12,Bacteroidota,Folate biosynthesis,0.0,0.0,,,0,False,0.0
+13,Bacteroidota,"Histidine biosynthesis, Purine biosynthesis",0.0,0.0,,,0,False,0.0
+14,Bacteroidota,tRNA modification,0.0,0.0,,,0,False,0.0
+15,Bacteroidota,NAD biosynthesis,0.0,0.0,,,0,False,0.0
+16,Bacteroidota,Thymidylate biosynthesis,0.0,0.0,,,0,False,0.0
+17,Bacteroidota,Fatty acid biosynthesis,0.0,0.0,,,0,False,0.0
+18,Bacteroidota,Glutamine biosynthesis,0.0,0.0,,,0,False,0.0
+19,Bacteroidota,Lipid A biosynthesis,0.0,0.0,,,0,False,0.0
+20,Bacteroidota,3D,0.0,0.0,,,0,False,0.0
+21,Bacteroidota,Urea cycle,-7.194108482019863,0.08307825751911414,-7.217719061535842,-7.170497902503884,50,True,0.0
+22,Bacteroidota,Isoprenoid biosynthesis,-7.141626072511639,0.10045414408017861,-7.170174824343236,-7.113077320680042,50,True,0.0
+23,Bacteroidota,"Isoleucine, leucine, valine biosynthesis",0.0,0.0,,,0,False,0.0
+24,Bacteroidota,Thiamine biosynthesis,0.0,0.0,,,0,False,0.0
+25,Bacteroidota,Archaeal ribosomal proteins,0.0,0.0,,,0,False,0.0
+26,Bacteroidota,Heme biosynthesis,0.0,0.0,,,0,False,0.0
+27,Bacteroidota,cultured_level_genus,0.0,0.0,,,0,False,0.0
+28,Bacteroidota,FoF1-type ATP synthase,0.0,0.0,,,0,False,0.0
+29,Bacteroidota,Purine salvage,0.0,0.0,,,0,False,0.0
+30,Bacteroidota,Photosystem II,0.0,0.0,,,0,False,0.0
+31,Bacteroidota,TCA cycle,0.0,0.0,,,0,False,0.0
+32,Bacteroidota,Serine biosynthesis,0.0,0.0,,,0,False,0.0
+33,Bacteroidota,Ribosome 30S subunit,0.0,0.0,,,0,False,0.0
+34,Bacteroidota,Menaquinone biosynthesis,0.0,0.0,,,0,False,0.0
+35,Bacteroidota,Pyrimidine salvagetRNA modification,0.0,0.0,,,0,False,0.0
+36,Bacteroidota,CRISPR-Cas system,0.0,0.0,,,0,False,0.0
+37,Bacteroidota,"TCA cycle, glyoxylate bypass",0.0,0.0,,,0,False,0.0
+38,Bacteroidota,NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+39,Bacteroidota,A/V-type ATP synthase,0.0,0.0,,,0,False,0.0
+40,Bacteroidota,Threonine biosynthesis,0.0,0.0,,,0,False,0.0
+41,Bacteroidota,Mureine biosynthesis,0.0,0.0,,,0,False,0.0
+42,Bacteroidota,Pyrimidine degradation,0.0,0.0,,,0,False,0.0
+43,Bacteroidota,Pantothenate/CoA biosynthesis,0.0,0.0,,,0,False,0.0
+44,Bacteroidota,Glycine cleavage,0.0,0.0,,,0,False,0.0
+45,Bacteroidota,Cobalamine/B12 biosynthesis,0.0,0.0,,,0,False,0.0
+46,Bacteroidota,Pyridoxal phosphate biosynthesis,0.0,0.0,,,0,False,0.0
+47,Bacteroidota,Purine biosynthesis,0.0,0.0,,,0,False,0.0
+48,Bacteroidota,Ribosome 50S subunit,0.0,0.0,,,0,False,0.0
+49,Bacteroidota,Pyrimidine salvage,0.0,0.0,,,0,False,0.0
+50,Bacteroidota,2Fe2S,0.0,0.0,,,0,False,0.0
+51,Bacteroidota,Methionine biosynthesis,0.0,0.0,,,0,False,0.0
+52,Bacteroidota,Aminoacyl-tRNA synthetases,0.0,0.0,,,0,False,0.0
+53,Bacteroidota,23S rRNA modification,0.0,0.0,,,0,False,0.0
+54,Bacteroidota,Aromatic amino acid biosynthesis,0.0,0.0,,,0,False,0.0
+55,Bacteroidota,Riboflavin/FAD biosynthesis,0.0,0.0,,,0,False,0.0
+56,Bacteroidota,Pyruvate oxidation,0.0,0.0,,,0,False,0.0
+57,Bacteroidota,Translation factors,0.0,0.0,,,0,False,0.0
+58,Bacteroidota,Histidine biosynthesis,0.0,0.0,,,0,False,0.0
+59,Bacteroidota,Lipoate biosynthesis,0.0,0.0,,,0,False,0.0
+60,Bacteroidota,Na+-translocating Fd:NADH oxidoreductase,0.0,0.0,,,0,False,0.0
+61,Bacteroidota,Glycine cleavagePyruvate oxidation,0.0,0.0,,,0,False,0.0
+62,Bacteroidota,Molybdopterin biosynthesis,0.0,0.0,,,0,False,0.0
+63,Bacteroidota,Gluconeogenesis,0.0,0.0,,,0,False,0.0
+64,Bacteroidota,cultured_level_family,0.0,0.0,,,0,False,0.0
+65,Bacteroidota,Na+-translocating NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+66,Bacteroidota,Glycolysis,0.0,0.0,,,0,False,0.0
+67,Bacteroidota,Asparagine biosynthesis,0.0,0.0,,,0,False,0.0
+68,Bacteroidota,Phospholipid biosynthesis,0.0,0.0,,,0,False,0.0
+69,Bacteroidota,RNA polymerase,0.0,0.0,,,0,False,0.0
+70,Bacteroidota,cultured_level_species,0.0,0.0,,,0,False,0.0
+71,Bacteroidota,Pentose phosphate pathway,0.0,0.0,,,0,False,0.0
+72,Bacteroidota,Lysine biosynthesis,0.0,0.0,,,0,False,0.0
+0,Firmicutes_A,16S rRNA modification,14.994304795445373,0.18691927094368282,14.941182926481412,15.047426664409334,50,True,1.9988341526593238
+1,Firmicutes_A,Fatty acid biosynthesis,0.0,0.0,,,0,False,0.0
+2,Firmicutes_A,Proline biosynthesis,0.0,0.0,,,0,False,0.0
+3,Firmicutes_A,Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+4,Firmicutes_A,Ubiquinone biosynthesis,0.0,0.0,,,0,False,0.0
+5,Firmicutes_A,Biotin biosynthesis,0.0,0.0,,,0,False,0.0
+6,Firmicutes_A,Proline degradation,0.0,0.0,,,0,False,0.0
+7,Firmicutes_A,Non-phosphorylated Entner-Doudoroff pathway,0.0,0.0,,,0,False,0.0
+8,Firmicutes_A,Lysine biosynthesisTCA cycle,0.0,0.0,,,0,False,0.0
+9,Firmicutes_A,Pyrimidine biosynthesis,0.0,0.0,,,0,False,0.0
+10,Firmicutes_A,Arginine biosynthesis,0.0,0.0,,,0,False,0.0
+11,Firmicutes_A,Folate biosynthesis,0.0,0.0,,,0,False,0.0
+12,Firmicutes_A,"Histidine biosynthesis, Purine biosynthesis",0.0,0.0,,,0,False,0.0
+13,Firmicutes_A,cultured_level_order,0.0,0.0,,,0,False,0.0
+14,Firmicutes_A,tRNA modification,0.0,0.0,,,0,False,0.0
+15,Firmicutes_A,NAD biosynthesis,0.0,0.0,,,0,False,0.0
+16,Firmicutes_A,cultured_level_class,0.0,0.0,,,0,False,0.0
+17,Firmicutes_A,Photosystem I,0.0,0.0,,,0,False,0.0
+18,Firmicutes_A,Glutamine biosynthesis,0.0,0.0,,,0,False,0.0
+19,Firmicutes_A,Pyrimidine salvagetRNA modification,0.0,0.0,,,0,False,0.0
+20,Firmicutes_A,Lipid A biosynthesis,0.0,0.0,,,0,False,0.0
+21,Firmicutes_A,Urea cycle,0.0,0.0,,,0,False,0.0
+22,Firmicutes_A,Isoprenoid biosynthesis,-1.7141352452487042,0.1753060859548838,-1.7639566835608946,-1.6643138069365138,50,True,0.0
+23,Firmicutes_A,"Isoleucine, leucine, valine biosynthesis",-0.7474663483942469,0.1910501270430317,-0.8017621936706063,-0.6931705031178874,50,True,0.0
+24,Firmicutes_A,Thiamine biosynthesis,0.0,0.0,,,0,False,0.0
+25,Firmicutes_A,Archaeal ribosomal proteins,0.0,0.0,,,0,False,0.0
+26,Firmicutes_A,Heme biosynthesis,0.0,0.0,,,0,False,0.0
+27,Firmicutes_A,3D,0.0,0.0,,,0,False,0.0
+28,Firmicutes_A,cultured_level_genus,0.0,0.0,,,0,False,0.0
+29,Firmicutes_A,Purine salvage,0.0,0.0,,,0,False,0.0
+30,Firmicutes_A,Photosystem II,0.0,0.0,,,0,False,0.0
+31,Firmicutes_A,TCA cycle,0.0,0.0,,,0,False,0.0
+32,Firmicutes_A,Serine biosynthesis,0.0,0.0,,,0,False,0.0
+33,Firmicutes_A,Ribosome 30S subunit,0.0,0.0,,,0,False,0.0
+34,Firmicutes_A,Menaquinone biosynthesis,0.0,0.0,,,0,False,0.0
+35,Firmicutes_A,FoF1-type ATP synthase,0.0,0.0,,,0,False,0.0
+36,Firmicutes_A,Thymidylate biosynthesis,0.0,0.0,,,0,False,0.0
+37,Firmicutes_A,CRISPR-Cas system,0.0,0.0,,,0,False,0.0
+38,Firmicutes_A,"TCA cycle, glyoxylate bypass",0.0,0.0,,,0,False,0.0
+39,Firmicutes_A,Riboflavin/FAD biosynthesis,0.0,0.0,,,0,False,0.0
+40,Firmicutes_A,A/V-type ATP synthase,0.0,0.0,,,0,False,0.0
+41,Firmicutes_A,Threonine biosynthesis,0.0,0.0,,,0,False,0.0
+42,Firmicutes_A,Mureine biosynthesis,0.0,0.0,,,0,False,0.0
+43,Firmicutes_A,Pyrimidine degradation,0.0,0.0,,,0,False,0.0
+44,Firmicutes_A,Pantothenate/CoA biosynthesis,0.0,0.0,,,0,False,0.0
+45,Firmicutes_A,Glycine cleavage,0.0,0.0,,,0,False,0.0
+46,Firmicutes_A,Cobalamine/B12 biosynthesis,0.0,0.0,,,0,False,0.0
+47,Firmicutes_A,Pyridoxal phosphate biosynthesis,0.0,0.0,,,0,False,0.0
+48,Firmicutes_A,Purine biosynthesis,0.0,0.0,,,0,False,0.0
+49,Firmicutes_A,Ribosome 50S subunit,0.0,0.0,,,0,False,0.0
+50,Firmicutes_A,Pyrimidine salvage,0.0,0.0,,,0,False,0.0
+51,Firmicutes_A,2Fe2S,0.0,0.0,,,0,False,0.0
+52,Firmicutes_A,Methionine biosynthesis,0.0,0.0,,,0,False,0.0
+53,Firmicutes_A,Aminoacyl-tRNA synthetases,0.0,0.0,,,0,False,0.0
+54,Firmicutes_A,23S rRNA modification,0.0,0.0,,,0,False,0.0
+55,Firmicutes_A,Aromatic amino acid biosynthesis,0.0,0.0,,,0,False,0.0
+56,Firmicutes_A,Pyruvate oxidation,0.0,0.0,,,0,False,0.0
+57,Firmicutes_A,Lysine biosynthesis,0.0,0.0,,,0,False,0.0
+58,Firmicutes_A,Na+-translocating NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+59,Firmicutes_A,NADH dehydrogenase,0.0,0.0,,,0,False,0.0
+60,Firmicutes_A,Histidine biosynthesis,0.0,0.0,,,0,False,0.0
+61,Firmicutes_A,Lipoate biosynthesis,0.0,0.0,,,0,False,0.0
+62,Firmicutes_A,Na+-translocating Fd:NADH oxidoreductase,0.0,0.0,,,0,False,0.0
+63,Firmicutes_A,Glycine cleavagePyruvate oxidation,0.0,0.0,,,0,False,0.0
+64,Firmicutes_A,Molybdopterin biosynthesis,0.0,0.0,,,0,False,0.0
+65,Firmicutes_A,Gluconeogenesis,0.0,0.0,,,0,False,0.0
+66,Firmicutes_A,Translation factors,0.0,0.0,,,0,False,0.0
+67,Firmicutes_A,cultured_level_family,0.0,0.0,,,0,False,0.0
+68,Firmicutes_A,Glycolysis,0.0,0.0,,,0,False,0.0
+69,Firmicutes_A,Asparagine biosynthesis,0.0,0.0,,,0,False,0.0
+70,Firmicutes_A,Phospholipid biosynthesis,0.0,0.0,,,0,False,0.0
+71,Firmicutes_A,RNA polymerase,0.0,0.0,,,0,False,0.0
+72,Firmicutes_A,cultured_level_species,0.0,0.0,,,0,False,0.0
+73,Firmicutes_A,Pentose phosphate pathway,0.0,0.0,,,0,False,0.0
+74,Firmicutes_A,Cysteine biosynthesis,0.0,0.0,,,0,False,0.0

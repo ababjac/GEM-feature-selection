@@ -1,0 +1,12 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,CRISPR-Cas system,0,1
+1,A/V-type ATP synthase,8,0
+2,Arginine biosynthesis,0,1
+3,Proline biosynthesis,0,5
+4,2Fe2S,0,1
+5,Glycine cleavage,0,1
+6,NAD biosynthesis,0,2
+7,Urea cycle,0,1
+8,23S rRNA modification,0,7
+9,Pyridoxal phosphate biosynthesis,0,1
+10,"Histidine biosynthesis, Purine biosynthesis",1,0

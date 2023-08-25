@@ -1,0 +1,72 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Folate biosynthesis,3,0
+1,Biotin biosynthesis,5,2
+2,Isoprenoid biosynthesis,2,0
+3,Lysine biosynthesisTCA cycle,4,2
+4,Photosystem II,2,0
+5,Na+-translocating Fd:NADH oxidoreductase,2,0
+6,Aminoacyl-tRNA synthetases,2,0
+7,Histidine biosynthesis,3,0
+8,"Histidine biosynthesis, Purine biosynthesis",1,0
+9,Cysteine biosynthesis,2,0
+10,Entner-Doudoroff pathway,0,1
+11,Proline degradation,1,1
+12,Non-phosphorylated Entner-Doudoroff pathway,2,0
+13,Glycine cleavage,1,0
+14,Pyridoxal phosphate biosynthesis,2,0
+15,Lipid A biosynthesis,3,1
+16,NADH dehydrogenase,2,0
+17,Fatty acid biosynthesis,6,1
+18,Asparagine biosynthesis,2,0
+19,Na+-translocating NADH dehydrogenase,1,0
+20,Pentose phosphate pathway,1,1
+21,Cobalamine/B12 biosynthesis,2,0
+22,RNA polymerase,3,0
+23,Purine biosynthesis,1,0
+24,TCA cycle,2,1
+25,Photosystem I,4,0
+26,Menaquinone biosynthesis,3,0
+27,Archaeal ribosomal proteins,2,0
+28,Thiamine biosynthesis,3,0
+29,FoF1-type ATP synthase,1,1
+30,Pyrimidine salvage,2,0
+31,Methionine biosynthesis,1,0
+32,"Isoleucine, leucine, valine biosynthesis",0,1
+33,Translation factors,2,0
+34,Aromatic amino acid biosynthesis,1,0
+35,Arginine biosynthesis,2,0
+36,Pyruvate oxidation,3,0
+37,Heme biosynthesis,2,0
+38,Pyrimidine degradation,3,0
+39,CRISPR-Cas system,2,0
+40,Thymidylate biosynthesis,2,0
+41,Glycine cleavagePyruvate oxidation,1,0
+42,cultured_level_family,1,0
+43,Purine salvage,1,0
+44,Molybdopterin biosynthesis,1,1
+45,Ubiquinone biosynthesis,2,0
+46,Gluconeogenesis,1,0
+47,cultured_level_species,2,0
+48,Glycolysis,2,0
+49,cultured_level_class,1,0
+50,Lysine biosynthesis,1,0
+51,3D,2,0
+52,Ribosome 30S subunit,1,0
+53,Pyrimidine salvagetRNA modification,6,0
+54,Threonine biosynthesis,1,1
+55,Proline biosynthesis,2,1
+56,Ribosome 50S subunit,2,0
+57,Riboflavin/FAD biosynthesis,1,0
+58,Pantothenate/CoA biosynthesis,1,0
+59,Lipoate biosynthesis,2,0
+60,Mureine biosynthesis,7,0
+61,Pyrimidine biosynthesis,2,0
+62,"TCA cycle, glyoxylate bypass",1,0
+63,Serine biosynthesis,1,0
+64,Urea cycle,1,1
+65,Glutamine biosynthesis,1,1
+66,Phospholipid biosynthesis,1,0
+67,A/V-type ATP synthase,1,0
+68,cultured_level_genus,1,0
+69,2Fe2S,2,1
+70,tRNA modification,2,0

@@ -1,0 +1,76 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Purine salvage,3,4
+1,Lipoate biosynthesis,5,1
+2,FoF1-type ATP synthase,1,5
+3,cultured_level_order,0,1
+4,Mureine biosynthesis,5,3
+5,Phospholipid biosynthesis,3,4
+6,RNA polymerase,4,2
+7,"Histidine biosynthesis, Purine biosynthesis",3,2
+8,Non-phosphorylated Entner-Doudoroff pathway,1,2
+9,16S rRNA modification,2,3
+10,Lysine biosynthesisTCA cycle,2,4
+11,Riboflavin/FAD biosynthesis,3,3
+12,Pyrimidine salvagetRNA modification,2,4
+13,NADH dehydrogenase,2,2
+14,Pyruvate oxidation,4,3
+15,Pyrimidine degradation,3,3
+16,Na+-translocating Fd:NADH oxidoreductase,2,2
+17,Pentose phosphate pathway,3,2
+18,Arginine biosynthesis,3,3
+19,Menaquinone biosynthesis,4,1
+20,3D,1,4
+21,Heme biosynthesis,2,4
+22,Photosystem I,3,3
+23,Isoprenoid biosynthesis,2,3
+24,Methionine biosynthesis,6,0
+25,Histidine biosynthesis,2,3
+26,Glycine cleavage,1,5
+27,cultured_level_species,1,6
+28,Folate biosynthesis,1,5
+29,Entner-Doudoroff pathway,3,2
+30,Lysine biosynthesis,5,2
+31,Ribosome 30S subunit,4,3
+32,Na+-translocating NADH dehydrogenase,2,3
+33,Pyridoxal phosphate biosynthesis,3,2
+34,Serine biosynthesis,2,3
+35,Threonine biosynthesis,4,2
+36,"TCA cycle, glyoxylate bypass",3,3
+37,CRISPR-Cas system,2,4
+38,Purine biosynthesis,2,3
+39,Cobalamine/B12 biosynthesis,1,4
+40,Glycine cleavagePyruvate oxidation,3,3
+41,NAD biosynthesis,4,2
+42,Aminoacyl-tRNA synthetases,5,2
+43,Pyrimidine biosynthesis,4,3
+44,23S rRNA modification,3,2
+45,"Isoleucine, leucine, valine biosynthesis",3,3
+46,Aromatic amino acid biosynthesis,3,2
+47,Glycolysis,1,1
+48,cultured_level_genus,5,1
+49,Archaeal ribosomal proteins,3,3
+50,Asparagine biosynthesis,0,5
+51,Pantothenate/CoA biosynthesis,5,2
+52,Molybdopterin biosynthesis,4,2
+53,cultured_level_class,1,2
+54,tRNA modification,3,4
+55,Proline degradation,2,1
+56,TCA cycle,3,4
+57,Biotin biosynthesis,4,3
+58,Photosystem II,2,3
+59,Pyrimidine salvage,2,3
+60,Glutamine biosynthesis,3,3
+61,Proline biosynthesis,3,2
+62,Ubiquinone biosynthesis,3,4
+63,Urea cycle,7,0
+64,Translation factors,4,3
+65,Thymidylate biosynthesis,4,3
+66,2Fe2S,5,3
+67,Fatty acid biosynthesis,3,2
+68,Lipid A biosynthesis,6,0
+69,Thiamine biosynthesis,3,3
+70,Cysteine biosynthesis,4,2
+71,Ribosome 50S subunit,3,4
+72,Gluconeogenesis,4,1
+73,A/V-type ATP synthase,4,3
+74,cultured_level_family,1,1

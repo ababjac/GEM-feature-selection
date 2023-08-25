@@ -1,0 +1,75 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Biotin biosynthesis,6,0
+1,Riboflavin/FAD biosynthesis,6,0
+2,CRISPR-Cas system,6,0
+3,Purine salvage,6,0
+4,Pyruvate oxidation,6,0
+5,cultured_level_class,3,0
+6,Proline biosynthesis,6,0
+7,cultured_level_family,4,0
+8,Isoprenoid biosynthesis,1,0
+9,Ribosome 50S subunit,6,0
+10,cultured_level_species,6,0
+11,Folate biosynthesis,6,0
+12,Purine biosynthesis,6,0
+13,Phospholipid biosynthesis,6,0
+14,cultured_level_order,1,0
+15,Lipid A biosynthesis,6,0
+16,Pyrimidine salvagetRNA modification,6,0
+17,Pyrimidine biosynthesis,4,2
+18,Aromatic amino acid biosynthesis,6,0
+19,Thymidylate biosynthesis,6,0
+20,Gluconeogenesis,6,0
+21,TCA cycle,6,0
+22,Na+-translocating Fd:NADH oxidoreductase,5,0
+23,Thiamine biosynthesis,6,0
+24,Arginine biosynthesis,6,0
+25,Ribosome 30S subunit,6,0
+26,NAD biosynthesis,6,0
+27,FoF1-type ATP synthase,6,0
+28,Urea cycle,1,0
+29,Methionine biosynthesis,6,0
+30,NADH dehydrogenase,6,0
+31,3D,6,0
+32,Pyrimidine salvage,6,0
+33,Mureine biosynthesis,6,0
+34,Heme biosynthesis,6,0
+35,Lysine biosynthesisTCA cycle,6,0
+36,Aminoacyl-tRNA synthetases,5,0
+37,23S rRNA modification,6,0
+38,Ubiquinone biosynthesis,6,0
+39,Molybdopterin biosynthesis,6,0
+40,Archaeal ribosomal proteins,6,0
+41,Pentose phosphate pathway,6,0
+42,Lysine biosynthesis,6,0
+43,Serine biosynthesis,6,0
+44,RNA polymerase,6,0
+45,Cysteine biosynthesis,6,0
+46,"Isoleucine, leucine, valine biosynthesis",4,0
+47,Cobalamine/B12 biosynthesis,6,0
+48,Non-phosphorylated Entner-Doudoroff pathway,6,0
+49,Histidine biosynthesis,6,0
+50,Photosystem II,6,0
+51,Pyridoxal phosphate biosynthesis,5,1
+52,Glutamine biosynthesis,6,0
+53,2Fe2S,6,0
+54,"TCA cycle, glyoxylate bypass",6,0
+55,Photosystem I,5,1
+56,Na+-translocating NADH dehydrogenase,6,0
+57,Asparagine biosynthesis,6,0
+58,Menaquinone biosynthesis,6,0
+59,Translation factors,6,0
+60,Pyrimidine degradation,6,0
+61,Entner-Doudoroff pathway,6,0
+62,Threonine biosynthesis,6,0
+63,Glycolysis,6,0
+64,Proline degradation,6,0
+65,Glycine cleavagePyruvate oxidation,6,0
+66,Fatty acid biosynthesis,5,0
+67,tRNA modification,6,0
+68,Pantothenate/CoA biosynthesis,6,0
+69,Glycine cleavage,6,0
+70,Lipoate biosynthesis,6,0
+71,cultured_level_genus,6,0
+72,"Histidine biosynthesis, Purine biosynthesis",6,0
+73,A/V-type ATP synthase,6,0

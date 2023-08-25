@@ -43,15 +43,15 @@ def normalize_abundances(df): #this is for GEM only
     norm_df = pd.DataFrame()
 
     for c in df.columns:
-        if not c.__contains__('genome_id'):
+        if not c.lower().__contains__('genome'):
             total = df.loc[:, c].sum()
 
             if total == 0: #skip because there is no point in predicting these sites
                 continue
 
             norm_df[c] = df[c] / total
-
-    norm_df['genome_id'] = df['genome_id']
+        else:
+            norm_df[c] = df[c]
     return norm_df
 
 def parse_taxonomy(df, col):

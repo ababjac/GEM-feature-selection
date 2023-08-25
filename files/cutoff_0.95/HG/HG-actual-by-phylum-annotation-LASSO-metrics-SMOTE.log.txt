@@ -1,0 +1,56 @@
+Firmicutes_A:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Campylobacterota:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Firmicutes:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Actinobacteriota:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Verrucomicrobiota:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Firmicutes_C:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Proteobacteria:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Bacteroidota:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+

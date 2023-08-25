@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Cobalamine/B12 biosynthesis,6,2
+1,16S rRNA modification,3,10
+2,2Fe2S,11,4
+3,Pyrimidine biosynthesis,5,8
+4,Mureine biosynthesis,8,5
+5,Unannotated,11,7
+6,RNA polymerase,12,4
+7,Pentose phosphate pathway,3,10
+8,Ribosome 50S subunit,3,11
+9,Heme biosynthesis,5,10
+10,Serine biosynthesis,6,9
+11,Fatty acid biosynthesis,8,5
+12,Cysteine biosynthesis,7,7
+13,Lipid A biosynthesis,7,6
+14,Thiamine biosynthesis,6,10
+15,Glycine cleavagePyruvate oxidation,7,9
+16,"Histidine biosynthesis, Purine biosynthesis",7,9
+17,23S rRNA modification,3,10
+18,CRISPR-Cas system,6,8
+19,Aromatic amino acid biosynthesis,2,13
+20,Unknown,7,7
+21,Lysine biosynthesisTCA cycle,3,11
+22,Phospholipid biosynthesis,4,7
+23,Lysine biosynthesis,10,7
+24,Biotin biosynthesis,5,11
+25,Proline degradation,5,6
+26,Pyrimidine salvagetRNA modification,11,2
+27,Urea cycle,6,7
+28,Menaquinone biosynthesis,5,4
+29,Aminoacyl-tRNA synthetases,6,10
+30,FoF1-type ATP synthase,2,10
+31,Pyrimidine degradation,4,8
+32,3D,9,4
+33,Pyridoxal phosphate biosynthesis,4,3
+34,Pyrimidine salvage,6,12
+35,Glycolysis,5,9
+36,Arginine biosynthesis,6,9
+37,Na+-translocating NADH dehydrogenase,4,6
+38,NADH dehydrogenase,4,8
+39,Purine biosynthesis,3,12
+40,Non-phosphorylated Entner-Doudoroff pathway,0,11
+41,Na+-translocating Fd:NADH oxidoreductase,10,5
+42,Pantothenate/CoA biosynthesis,8,9
+43,Threonine biosynthesis,5,7
+44,Glycine cleavage,15,1
+45,Entner-Doudoroff pathway,8,7
+46,Ribosome 30S subunit,6,7
+47,Proline biosynthesis,5,6
+48,Purine salvage,7,9
+49,Molybdopterin biosynthesis,12,6
+50,Lipoate biosynthesis,4,15
+51,Archaeal ribosomal proteins,6,10
+52,Glutamine biosynthesis,1,10
+53,Riboflavin/FAD biosynthesis,6,10
+54,Ubiquinone biosynthesis,7,5
+55,tRNA modification,5,7
+56,Histidine biosynthesis,5,2
+57,TCA cycle,6,7
+58,Methionine biosynthesis,6,7
+59,Gluconeogenesis,4,10
+60,Asparagine biosynthesis,7,9
+61,A/V-type ATP synthase,8,3
+62,Folate biosynthesis,9,5
+63,NAD biosynthesis,5,10
+64,"TCA cycle, glyoxylate bypass",7,2
+65,Thymidylate biosynthesis,10,8
+66,"Isoleucine, leucine, valine biosynthesis",5,6
+67,Isoprenoid biosynthesis,4,5
+68,Pyruvate oxidation,5,9
+69,Translation factors,3,7

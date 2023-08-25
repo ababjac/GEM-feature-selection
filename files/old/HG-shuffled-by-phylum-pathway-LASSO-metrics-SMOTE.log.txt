@@ -1,0 +1,42 @@
+Bacteroidota:
+AUC: 0.605
+Accuracy: 0.936
+Precision: 0.979
+Recall: 0.955
+
+
+Proteobacteria:
+AUC: 0.479
+Accuracy: 0.939
+Precision: 0.972
+Recall: 0.965
+
+
+Firmicutes:
+AUC: 0.479
+Accuracy: 0.638
+Precision: 0.988
+Recall: 0.641
+
+
+Firmicutes_A:
+AUC: 0.508
+Accuracy: 0.618
+Precision: 0.844
+Recall: 0.667
+
+
+Firmicutes_C:
+AUC: 0.445
+Accuracy: 0.913
+Precision: 0.953
+Recall: 0.956
+
+
+Actinobacteriota:
+AUC: 0.473
+Accuracy: 0.884
+Precision: 0.912
+Recall: 0.965
+
+

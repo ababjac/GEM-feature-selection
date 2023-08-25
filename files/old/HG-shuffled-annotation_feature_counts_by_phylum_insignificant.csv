@@ -1,0 +1,37 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,FoF1-type ATP synthase,1,0
+1,Na+-translocating NADH dehydrogenase,1,0
+2,Non-phosphorylated Entner-Doudoroff pathway,0,1
+3,Photosystem II,1,0
+4,Translation factors,1,0
+5,Lysine biosynthesis,1,0
+6,NAD biosynthesis,1,0
+7,Pyruvate oxidation,1,0
+8,A/V-type ATP synthase,1,0
+9,Mureine biosynthesis,0,1
+10,Proline degradation,0,1
+11,2Fe2S,0,1
+12,Ribosome 50S subunit,4,0
+13,Urea cycle,1,0
+14,Photosystem I,0,1
+15,TCA cycle,1,0
+16,Na+-translocating Fd:NADH oxidoreductase,2,0
+17,Ribosome 30S subunit,1,0
+18,Cysteine biosynthesis,2,0
+19,Pyrimidine degradation,3,0
+20,Pentose phosphate pathway,1,0
+21,Proline biosynthesis,0,1
+22,23S rRNA modification,1,0
+23,16S rRNA modification,0,1
+24,Lysine biosynthesisTCA cycle,4,0
+25,Purine salvage,0,1
+26,tRNA modification,3,0
+27,Fatty acid biosynthesis,1,1
+28,Aminoacyl-tRNA synthetases,1,0
+29,"Histidine biosynthesis, Purine biosynthesis",3,1
+30,Asparagine biosynthesis,0,1
+31,Lipoate biosynthesis,1,0
+32,Serine biosynthesis,0,1
+33,Ubiquinone biosynthesis,1,0
+34,Menaquinone biosynthesis,1,0
+35,Thiamine biosynthesis,1,0

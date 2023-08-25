@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Purine biosynthesis,2,0
+1,TCA cycle,1,1
+2,Ubiquinone biosynthesis,2,0
+3,Purine salvage,0,1
+4,"TCA cycle, glyoxylate bypass",2,1
+5,Riboflavin/FAD biosynthesis,0,1
+6,Cysteine biosynthesis,0,1
+7,NAD biosynthesis,0,2
+8,Non-phosphorylated Entner-Doudoroff pathway,1,2
+9,Glycine cleavagePyruvate oxidation,2,1
+10,Histidine biosynthesis,2,1
+11,"Isoleucine, leucine, valine biosynthesis",2,1
+12,Pantothenate/CoA biosynthesis,2,1
+13,Pyrimidine degradation,0,2
+14,Translation factors,0,2
+15,Unannotated,0,2
+16,Glycolysis,3,0
+17,3D,1,2
+18,Pyrimidine biosynthesis,0,2
+19,Asparagine biosynthesis,0,2
+20,Pyrimidine salvagetRNA modification,2,1
+21,NADH dehydrogenase,3,0
+22,Folate biosynthesis,2,0
+23,Urea cycle,1,0
+24,Phospholipid biosynthesis,2,1
+25,Archaeal ribosomal proteins,1,2
+26,Cobalamine/B12 biosynthesis,0,2
+27,CRISPR-Cas system,1,1
+28,Isoprenoid biosynthesis,2,0
+29,Proline degradation,3,0
+30,23S rRNA modification,1,2
+31,Unknown,0,3
+32,Na+-translocating NADH dehydrogenase,0,1
+33,Proline biosynthesis,2,0
+34,Heme biosynthesis,1,1
+35,Glycine cleavage,0,3
+36,Arginine biosynthesis,1,1
+37,Pentose phosphate pathway,0,1
+38,A/V-type ATP synthase,0,2
+39,Biotin biosynthesis,1,1
+40,Thiamine biosynthesis,0,3
+41,Pyruvate oxidation,1,1
+42,Na+-translocating Fd:NADH oxidoreductase,1,1
+43,Pyridoxal phosphate biosynthesis,1,1
+44,Mureine biosynthesis,2,0
+45,Ribosome 30S subunit,1,1
+46,Methionine biosynthesis,1,2
+47,"Histidine biosynthesis, Purine biosynthesis",0,2
+48,Lipid A biosynthesis,0,3
+49,Serine biosynthesis,1,1
+50,Aminoacyl-tRNA synthetases,2,0
+51,Fatty acid biosynthesis,1,1
+52,Lipoate biosynthesis,2,0
+53,Entner-Doudoroff pathway,2,0
+54,Pyrimidine salvage,1,1
+55,2Fe2S,0,3
+56,Threonine biosynthesis,0,2
+57,tRNA modification,2,0
+58,Ribosome 50S subunit,3,0
+59,Menaquinone biosynthesis,0,1
+60,FoF1-type ATP synthase,2,0
+61,Gluconeogenesis,1,2
+62,RNA polymerase,1,1
+63,Lysine biosynthesisTCA cycle,1,1
+64,16S rRNA modification,0,2
+65,Thymidylate biosynthesis,0,2
+66,Lysine biosynthesis,2,1
+67,Glutamine biosynthesis,0,3
+68,Aromatic amino acid biosynthesis,0,2
+69,Molybdopterin biosynthesis,3,0

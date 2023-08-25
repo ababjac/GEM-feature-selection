@@ -41,11 +41,11 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
         means[k] = statistics.mean(v)
         std_devs[k] = statistics.stdev(v)
 
-    l95 = []
-    u95 = []
+    l90 = []
+    u90 = []
     sig = []
     for data in coefs.values():
-         conf_it = st.t.interval(alpha=0.95, df=len(data)-1, loc=statistics.mean(data), scale=st.sem(data))
+         conf_it = st.t.interval(alpha=0.90, df=len(data)-1, loc=statistics.mean(data), scale=st.sem(data))
 
          if conf_it[0] <= 0 and conf_it[1] >= 0:
              sig.append(False)
@@ -54,8 +54,8 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
          else:
              sig.append(True)
 
-         l95.append(conf_it[0])
-         u95.append(conf_it[1])
+         l90.append(conf_it[0])
+         u90.append(conf_it[1])
 
     imp = permutation_importance(model, X_test, y_test, n_repeats=3, random_state=random_state)
 
@@ -64,8 +64,8 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
     output['feature_name'] = feature_names
     output['coef'] = means.values()
     output['coef_sd'] = std_devs.values()
-    output['lower_95'] = l95
-    output['upper_95'] = u95
+    output['lower_90'] = l90
+    output['upper_90'] = u90
     output['count'] = counts.values()
     output['significant'] = sig
     output['permutation_importance'] = imp.importances_mean
@@ -88,12 +88,12 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
 #--------------------------------------------------------------------------------------------------#
 
 SHUF = 'shuffled'
-DATA = 'annotation'
+DATA = 'pathway'
 
 if __name__ == '__main__':
 
     print('Loading data...')
-    f = open('./files/TBG-{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
+    f = open('./files/cutoff_0.90/TBG/TBG-{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
     curr_dir = os.getcwd()
 
     meta_file = curr_dir+'/data/TG_data/Tibetan_glacier_metadata_cultured_level.csv'
@@ -116,8 +116,8 @@ if __name__ == '__main__':
 
     phylum_list = set(list(data['phylum']))
 
-    print(data.shape)
-'''
+#    print(data.shape)
+
     full_df = pd.DataFrame(columns=['phylum_name', 'feature_name', 'coef', 'coef_sd', 'lower_95', 'upper_95', 'count', 'significant', 'permutation_importance'])
     for phylum in phylum_list:
         if pd.isna(phylum):
@@ -125,7 +125,7 @@ if __name__ == '__main__':
 
         data1 = data[data['phylum'] == phylum]
 
-        if data1.shape[0] < 25:
+        if data1.shape[0] < 10:
             continue
 
         label_strings = data1['cultured_level']
@@ -210,5 +210,4 @@ if __name__ == '__main__':
 
         full_df = full_df.append(LASSO_stats)
 
-    full_df.to_csv(curr_dir+'/files/TBG-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
-'''
+    full_df.to_csv(curr_dir+'/files/cutoff_0.90/TBG/TBG-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
