@@ -38,11 +38,11 @@ import os
 # #print(count)
 # df.to_csv('files/by-phylum-lasso-coefficients-annotation-full.csv')
 
-DATA = 'GEM'
-SHUF = 'shuffled'
-TYPE = 'annotation'
-SIG = 'significant'
-CUTOFF = 'cutoff_0.90'
+DATA = 'HG'
+SHUF = 'actual'
+TYPE = 'pathway'
+SIG = 'insignificant'
+CUTOFF = 'cutoff_0.95'
 
 df = pd.read_csv('./files/{}/{}/{}-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(CUTOFF, DATA, DATA, SHUF, TYPE), index_col=0)
 

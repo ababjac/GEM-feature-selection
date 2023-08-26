@@ -18,7 +18,7 @@ import helpers
 #--------------------------------------------------------------------------------------------------#
 
 def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param_grid=None, random_state=872510):
-    lasso = LogisticRegression(penalty='l1', solver='liblinear')
+    lasso = LogisticRegression(penalty='l1', solver='liblinear', random_state=random_state)
     model = BaggingRegressor(base_estimator=lasso, n_estimators=50, bootstrap=True, verbose=0, random_state=random_state)
 
     model.fit(X_train_scaled, y_train)

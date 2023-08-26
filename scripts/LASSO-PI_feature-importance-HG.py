@@ -18,7 +18,7 @@ import helpers
 #--------------------------------------------------------------------------------------------------#
 
 def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param_grid=None, random_state=872510):
-    lasso = LogisticRegression(penalty='l1', solver='liblinear')
+    lasso = LogisticRegression(penalty='l1', solver='liblinear', random_state=random_state)
     model = BaggingRegressor(base_estimator=lasso, n_estimators=50, bootstrap=True, verbose=0, random_state=random_state)
 
     model.fit(X_train_scaled, y_train)
@@ -45,7 +45,7 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
     u90 = []
     sig = []
     for data in coefs.values():
-         conf_it = st.t.interval(alpha=0.90, df=len(data)-1, loc=statistics.mean(data), scale=st.sem(data))
+         conf_it = st.t.interval(alpha=0.95, df=len(data)-1, loc=statistics.mean(data), scale=st.sem(data))
 
          if conf_it[0] <= 0 and conf_it[1] >= 0:
              sig.append(False)
@@ -64,8 +64,8 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
     output['feature_name'] = feature_names
     output['coef'] = means.values()
     output['coef_sd'] = std_devs.values()
-    output['lower_90'] = l90
-    output['upper_90'] = u90
+    output['lower_95'] = l90
+    output['upper_95'] = u90
     output['count'] = counts.values()
     output['significant'] = sig
     output['permutation_importance'] = imp.importances_mean
@@ -93,7 +93,7 @@ DATA = 'pathway'
 if __name__ == '__main__':
 
     print('Loading data...')
-    f = open('./files/cutoff_0.90/HG/HG-{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
+    f = open('./files/cutoff_0.95/HG/HG-{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
     curr_dir = os.getcwd()
 
     meta_file = curr_dir+'/data/human_gut_data/COG_counts/early_human_gut_cultured_level_taxa.csv'
@@ -202,4 +202,4 @@ if __name__ == '__main__':
 
         full_df = full_df.append(LASSO_stats)
 
-    full_df.to_csv(curr_dir+'/files/cutoff_0.90/HG/HG-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
+    full_df.to_csv(curr_dir+'/files/cutoff_0.95/HG/HG-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
