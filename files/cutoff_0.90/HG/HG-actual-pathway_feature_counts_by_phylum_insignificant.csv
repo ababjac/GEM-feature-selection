@@ -1,75 +1,70 @@
 ,feature_name,cultured_feature_counts,uncultured_feature_counts
-0,Glutamine biosynthesis,8,0
-1,Ribosome 30S subunit,8,0
-2,"Isoleucine, leucine, valine biosynthesis",8,0
-3,Lipoate biosynthesis,8,0
-4,Proline biosynthesis,2,1
-5,Entner-Doudoroff pathway,8,0
-6,Archaeal ribosomal proteins,8,0
-7,2Fe2S,7,0
-8,Purine biosynthesis,8,0
-9,Urea cycle,5,2
-10,Na+-translocating NADH dehydrogenase,8,0
-11,Folate biosynthesis,8,0
-12,Riboflavin/FAD biosynthesis,8,0
-13,Na+-translocating Fd:NADH oxidoreductase,8,0
-14,Phospholipid biosynthesis,8,0
-15,Arginine biosynthesis,7,0
-16,NAD biosynthesis,6,0
-17,RNA polymerase,8,0
-18,Cobalamine/B12 biosynthesis,8,0
-19,Pantothenate/CoA biosynthesis,8,0
-20,Isoprenoid biosynthesis,8,0
-21,Ribosome 50S subunit,8,0
-22,Non-phosphorylated Entner-Doudoroff pathway,8,0
-23,"Histidine biosynthesis, Purine biosynthesis",7,0
-24,Thymidylate biosynthesis,8,0
-25,Threonine biosynthesis,8,0
-26,Biotin biosynthesis,8,0
-27,TCA cycle,8,0
-28,Translation factors,8,0
-29,Pyrimidine salvage,8,0
-30,23S rRNA modification,1,0
-31,FoF1-type ATP synthase,8,0
-32,Purine salvage,8,0
-33,Heme biosynthesis,8,0
-34,Glycine cleavage,7,0
-35,Fatty acid biosynthesis,8,0
-36,cultured_level_class,4,0
-37,cultured_level_order,2,0
-38,NADH dehydrogenase,8,0
-39,CRISPR-Cas system,7,0
-40,Histidine biosynthesis,8,0
-41,"TCA cycle, glyoxylate bypass",8,0
-42,3D,8,0
-43,Methionine biosynthesis,8,0
-44,cultured_level_species,8,0
-45,Photosystem II,8,0
-46,Lysine biosynthesis,8,0
-47,Pyrimidine biosynthesis,8,0
-48,Lipid A biosynthesis,7,1
-49,Molybdopterin biosynthesis,8,0
-50,Aminoacyl-tRNA synthetases,8,0
-51,Pyridoxal phosphate biosynthesis,7,0
-52,Aromatic amino acid biosynthesis,8,0
-53,Pyrimidine salvagetRNA modification,8,0
-54,Pyrimidine degradation,8,0
-55,Mureine biosynthesis,7,1
-56,Thiamine biosynthesis,8,0
-57,Glycine cleavagePyruvate oxidation,8,0
-58,Photosystem I,8,0
-59,Proline degradation,8,0
-60,Serine biosynthesis,8,0
-61,cultured_level_genus,7,0
-62,Cysteine biosynthesis,8,0
-63,Lysine biosynthesisTCA cycle,8,0
-64,16S rRNA modification,8,0
-65,Gluconeogenesis,8,0
-66,Ubiquinone biosynthesis,8,0
-67,tRNA modification,8,0
-68,Menaquinone biosynthesis,8,0
-69,cultured_level_family,6,0
-70,Pyruvate oxidation,8,0
-71,Asparagine biosynthesis,8,0
-72,Glycolysis,8,0
-73,Pentose phosphate pathway,8,0
+0,"Histidine biosynthesis, Purine biosynthesis",3,0
+1,CRISPR-Cas system,1,2
+2,FoF1-type ATP synthase,2,0
+3,Translation factors,1,0
+4,3D,2,0
+5,NADH dehydrogenase,1,0
+6,Mureine biosynthesis,5,0
+7,Phospholipid biosynthesis,2,0
+8,Gluconeogenesis,2,0
+9,Methionine biosynthesis,3,0
+10,Asparagine biosynthesis,2,0
+11,Ribosome 30S subunit,3,0
+12,Pyrimidine salvage,3,0
+13,Glycolysis,1,0
+14,Cysteine biosynthesis,1,1
+15,Histidine biosynthesis,2,0
+16,Folate biosynthesis,0,1
+17,Lysine biosynthesisTCA cycle,2,1
+18,Pantothenate/CoA biosynthesis,2,0
+19,Lipid A biosynthesis,2,0
+20,Lysine biosynthesis,2,1
+21,Pyrimidine biosynthesis,2,1
+22,tRNA modification,2,0
+23,Pyrimidine degradation,1,1
+24,Aromatic amino acid biosynthesis,2,0
+25,"TCA cycle, glyoxylate bypass",2,1
+26,Ribosome 50S subunit,2,0
+27,Proline degradation,1,0
+28,Na+-translocating Fd:NADH oxidoreductase,1,0
+29,Pyruvate oxidation,2,0
+30,Glycine cleavage,1,0
+31,Purine biosynthesis,3,0
+32,Cobalamine/B12 biosynthesis,2,0
+33,Serine biosynthesis,1,0
+34,Non-phosphorylated Entner-Doudoroff pathway,2,0
+35,Arginine biosynthesis,1,0
+36,Menaquinone biosynthesis,2,0
+37,Glutamine biosynthesis,2,0
+38,Pentose phosphate pathway,2,0
+39,Threonine biosynthesis,2,0
+40,Urea cycle,1,1
+41,Proline biosynthesis,5,0
+42,2Fe2S,2,0
+43,Riboflavin/FAD biosynthesis,7,0
+44,RNA polymerase,7,0
+45,Glycine cleavagePyruvate oxidation,2,0
+46,Biotin biosynthesis,2,0
+47,23S rRNA modification,1,1
+48,Purine salvage,1,0
+49,Na+-translocating NADH dehydrogenase,2,0
+50,Heme biosynthesis,0,2
+51,TCA cycle,2,0
+52,NAD biosynthesis,4,1
+53,Entner-Doudoroff pathway,2,0
+54,Aminoacyl-tRNA synthetases,1,1
+55,Pyridoxal phosphate biosynthesis,3,0
+56,"Isoleucine, leucine, valine biosynthesis",1,1
+57,16S rRNA modification,5,0
+58,Isoprenoid biosynthesis,2,2
+59,Lipoate biosynthesis,3,0
+60,Photosystem II,2,0
+61,Pyrimidine salvagetRNA modification,1,0
+62,Fatty acid biosynthesis,2,0
+63,Thiamine biosynthesis,2,0
+64,Archaeal ribosomal proteins,1,1
+65,A/V-type ATP synthase,2,0
+66,Ubiquinone biosynthesis,2,0
+67,Molybdopterin biosynthesis,2,0
+68,Thymidylate biosynthesis,2,0
