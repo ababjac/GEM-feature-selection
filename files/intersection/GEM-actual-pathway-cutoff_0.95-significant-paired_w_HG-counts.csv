@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,3D,4,3
+1,Arginine biosynthesis,3,4
+2,Na+-translocating Fd:NADH oxidoreductase,2,5
+3,Riboflavin/FAD biosynthesis,1,2
+4,"TCA cycle, glyoxylate bypass",4,4
+5,Fatty acid biosynthesis,4,4
+6,Thymidylate biosynthesis,2,5
+7,Glycine cleavagePyruvate oxidation,4,3
+8,Pyridoxal phosphate biosynthesis,3,4
+9,Biotin biosynthesis,2,3
+10,Folate biosynthesis,6,1
+11,Glycolysis,7,0
+12,16S rRNA modification,1,6
+13,Ribosome 50S subunit,5,2
+14,"Histidine biosynthesis, Purine biosynthesis",1,5
+15,Na+-translocating NADH dehydrogenase,2,4
+16,Cysteine biosynthesis,2,3
+17,Ribosome 30S subunit,2,4
+18,Pyrimidine salvagetRNA modification,3,5
+19,Ubiquinone biosynthesis,6,2
+20,Unannotated,2,4
+21,Gluconeogenesis,3,4
+22,"Isoleucine, leucine, valine biosynthesis",3,3
+23,Phospholipid biosynthesis,3,4
+24,Lysine biosynthesis,3,4
+25,Threonine biosynthesis,3,4
+26,Lipid A biosynthesis,2,5
+27,Translation factors,0,6
+28,Asparagine biosynthesis,2,4
+29,Methionine biosynthesis,5,2
+30,Isoprenoid biosynthesis,5,2
+31,Pyrimidine degradation,1,3
+32,Aminoacyl-tRNA synthetases,3,2
+33,NAD biosynthesis,0,6
+34,FoF1-type ATP synthase,6,1
+35,Pantothenate/CoA biosynthesis,4,2
+36,Heme biosynthesis,1,5
+37,Urea cycle,2,4
+38,Mureine biosynthesis,3,3
+39,Menaquinone biosynthesis,3,2
+40,Aromatic amino acid biosynthesis,3,5
+41,Proline biosynthesis,4,2
+42,Non-phosphorylated Entner-Doudoroff pathway,4,2
+43,RNA polymerase,5,2
+44,Glutamine biosynthesis,0,8
+45,Purine biosynthesis,5,0
+46,tRNA modification,5,0
+47,Pyruvate oxidation,5,2
+48,Purine salvage,0,5
+49,Molybdopterin biosynthesis,3,5
+50,Cobalamine/B12 biosynthesis,0,7
+51,A/V-type ATP synthase,3,4
+52,Pyrimidine salvage,4,2
+53,Entner-Doudoroff pathway,4,3
+54,Glycine cleavage,2,4
+55,Pyrimidine biosynthesis,3,5
+56,NADH dehydrogenase,3,2
+57,TCA cycle,3,4
+58,Thiamine biosynthesis,0,6
+59,Lysine biosynthesisTCA cycle,5,2
+60,Histidine biosynthesis,5,2
+61,Lipoate biosynthesis,7,1
+62,Proline degradation,3,5
+63,2Fe2S,2,5
+64,23S rRNA modification,3,4
+65,CRISPR-Cas system,3,3
+66,Pentose phosphate pathway,0,4
+67,Unknown,3,3
+68,Archaeal ribosomal proteins,4,3
+69,Serine biosynthesis,3,5

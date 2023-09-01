@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,A/V-type ATP synthase,1,2
+1,Lipid A biosynthesis,1,2
+2,Ubiquinone biosynthesis,1,2
+3,16S rRNA modification,1,0
+4,Pentose phosphate pathway,3,0
+5,Menaquinone biosynthesis,0,3
+6,Glycine cleavagePyruvate oxidation,2,1
+7,23S rRNA modification,2,0
+8,Translation factors,2,1
+9,Thiamine biosynthesis,2,1
+10,Methionine biosynthesis,1,1
+11,"Histidine biosynthesis, Purine biosynthesis",2,0
+12,Pyridoxal phosphate biosynthesis,0,2
+13,Pantothenate/CoA biosynthesis,3,0
+14,Aminoacyl-tRNA synthetases,3,0
+15,Heme biosynthesis,2,1
+16,Aromatic amino acid biosynthesis,1,2
+17,Na+-translocating Fd:NADH oxidoreductase,2,1
+18,Non-phosphorylated Entner-Doudoroff pathway,2,1
+19,Cysteine biosynthesis,2,0
+20,Lipoate biosynthesis,1,1
+21,Proline degradation,2,1
+22,Pyrimidine degradation,0,3
+23,Folate biosynthesis,0,3
+24,FoF1-type ATP synthase,3,0
+25,Threonine biosynthesis,1,2
+26,Na+-translocating NADH dehydrogenase,2,1
+27,3D,3,0
+28,TCA cycle,1,2
+29,Gluconeogenesis,2,1
+30,Photosystem II,2,1
+31,Phospholipid biosynthesis,2,1
+32,RNA polymerase,1,0
+33,Histidine biosynthesis,1,2
+34,Entner-Doudoroff pathway,1,2
+35,tRNA modification,2,1
+36,Arginine biosynthesis,0,3
+37,Ribosome 50S subunit,3,0
+38,Archaeal ribosomal proteins,1,2
+39,Urea cycle,0,3
+40,CRISPR-Cas system,0,2
+41,Ribosome 30S subunit,0,2
+42,2Fe2S,1,2
+43,Riboflavin/FAD biosynthesis,0,1
+44,Thymidylate biosynthesis,2,1
+45,Proline biosynthesis,2,1
+46,Isoprenoid biosynthesis,1,1
+47,Pyrimidine salvage,2,0
+48,Purine salvage,3,0
+49,Pyruvate oxidation,3,0
+50,Photosystem I,0,3
+51,Glycine cleavage,2,1
+52,Biotin biosynthesis,3,0
+53,Cobalamine/B12 biosynthesis,1,2
+54,Mureine biosynthesis,0,1
+55,Serine biosynthesis,3,0
+56,Lysine biosynthesis,1,2
+57,Glycolysis,0,3
+58,NADH dehydrogenase,1,2
+59,Pyrimidine salvagetRNA modification,1,2
+60,Asparagine biosynthesis,3,0
+61,Lysine biosynthesisTCA cycle,0,2
+62,NAD biosynthesis,0,1
+63,Molybdopterin biosynthesis,2,1
+64,Pyrimidine biosynthesis,2,1
+65,Glutamine biosynthesis,2,1
+66,Fatty acid biosynthesis,2,1
+67,Purine biosynthesis,1,2
+68,"Isoleucine, leucine, valine biosynthesis",1,2
+69,"TCA cycle, glyoxylate bypass",2,0

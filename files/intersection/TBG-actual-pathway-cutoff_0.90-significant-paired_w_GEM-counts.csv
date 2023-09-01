@@ -1,0 +1,148 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Pyrimidine salvage!!!Thymidylate biosynthesis,1,0
+1,Biotin biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis,1,0
+2,16S rRNA modification,1,1
+3,Pyruvate oxidation!!!Glycine cleavagePyruvate oxidation,0,1
+4,Glycolysis,0,1
+5,"Isoleucine, leucine, valine biosynthesis!!!Isoleucine, leucine, valine biosynthesis",2,1
+6,Pentose phosphate pathway!!!Pentose phosphate pathway,1,0
+7,Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Biotin biosynthesis!!!Lysine biosynthesis,0,1
+8,RNA polymerase,0,1
+9,Cobalamine/B12 biosynthesis!!!Heme biosynthesis!!!Cobalamine/B12 biosynthesis,0,1
+10,Mureine biosynthesis!!!tRNA modification,0,3
+11,Urea cycle!!!RNA polymerase,0,2
+12,Glutamine biosynthesis,1,0
+13,Pyrimidine degradation!!!NADH dehydrogenase,0,2
+14,Lipid A biosynthesis!!!Cysteine biosynthesis,1,1
+15,Methionine biosynthesis!!!Biotin biosynthesis,1,1
+16,FoF1-type ATP synthase!!!FoF1-type ATP synthase,1,0
+17,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Pyrimidine degradation,1,2
+18,NADH dehydrogenase!!!Pyruvate oxidation,2,1
+19,Ubiquinone biosynthesis!!!Biotin biosynthesis,1,0
+20,Gluconeogenesis,1,2
+21,Cysteine biosynthesis!!!Fatty acid biosynthesis,0,1
+22,Pyruvate oxidation!!!Fatty acid biosynthesis,1,2
+23,Pyrimidine salvagetRNA modification!!!tRNA modification,1,0
+24,Urea cycle!!!Proline biosynthesis,0,1
+25,Lysine biosynthesis!!!Lysine biosynthesis,1,0
+26,Cysteine biosynthesis!!!Molybdopterin biosynthesis,1,2
+27,Phospholipid biosynthesis!!!Serine biosynthesis,0,1
+28,Purine biosynthesis!!!Arginine biosynthesis,0,1
+29,NADH dehydrogenase,0,2
+30,"Isoleucine, leucine, valine biosynthesis!!!Non-phosphorylated Entner-Doudoroff pathway",1,0
+31,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Pyrimidine degradation,0,1
+32,Ribosome 30S subunit!!!Isoprenoid biosynthesis,0,2
+33,Fatty acid biosynthesis!!!Isoprenoid biosynthesis,1,0
+34,23S rRNA modification!!!tRNA modification,1,1
+35,Ribosome 30S subunit!!!Ribosome 30S subunit,0,1
+36,RNA polymerase!!!RNA polymerase,0,0
+37,Riboflavin/FAD biosynthesis!!!Fatty acid biosynthesis,1,0
+38,Na+-translocating Fd:NADH oxidoreductase,0,1
+39,Aromatic amino acid biosynthesis!!!Aromatic amino acid biosynthesis,0,0
+40,NADH dehydrogenase!!!NADH dehydrogenase!!!NADH dehydrogenase!!!2Fe2S,1,1
+41,Fatty acid biosynthesis!!!Lysine biosynthesis,0,1
+42,Ubiquinone biosynthesis!!!NADH dehydrogenase,2,1
+43,Glutamine biosynthesis!!!Purine biosynthesis,1,1
+44,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis,1,1
+45,Cysteine biosynthesis!!!Cysteine biosynthesis,1,0
+46,Heme biosynthesis!!!NADH dehydrogenase,1,1
+47,Fatty acid biosynthesis!!!Ubiquinone biosynthesis,0,1
+48,Cysteine biosynthesis!!!Glutamine biosynthesis!!!Biotin biosynthesis,2,0
+49,NAD biosynthesis!!!Cobalamine/B12 biosynthesis,0,1
+50,Serine biosynthesis!!!Serine biosynthesis,1,1
+51,tRNA modification!!!tRNA modification,0,1
+52,Mureine biosynthesis!!!Mureine biosynthesis,1,1
+53,Biotin biosynthesis!!!Ubiquinone biosynthesis,0,1
+54,Heme biosynthesis!!!Menaquinone biosynthesis,2,0
+55,Menaquinone biosynthesis!!!Lipid A biosynthesis!!!Cysteine biosynthesis,0,1
+56,Lysine biosynthesis!!!Pyrimidine degradation,0,1
+57,"Isoleucine, leucine, valine biosynthesis!!!Aromatic amino acid biosynthesis",0,2
+58,Menaquinone biosynthesis!!!Fatty acid biosynthesis,2,1
+59,Purine biosynthesis!!!Pyrimidine biosynthesis,0,2
+60,Cysteine biosynthesis,0,2
+61,tRNA modification,0,1
+62,Cobalamine/B12 biosynthesis!!!2Fe2S,2,1
+63,NAD biosynthesis,0,1
+64,Pyruvate oxidation!!!Menaquinone biosynthesis,2,1
+65,Threonine biosynthesis,1,0
+66,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Biotin biosynthesis,1,0
+67,Histidine biosynthesis!!!Pyrimidine salvage,0,1
+68,Pyrimidine biosynthesis!!!Purine salvage,2,1
+69,Lipoate biosynthesis!!!Lipoate biosynthesis,0,1
+70,Cysteine biosynthesis!!!TCA cycle,2,0
+71,Biotin biosynthesis!!!Fatty acid biosynthesis,1,1
+72,Fatty acid biosynthesis!!!Glycine cleavagePyruvate oxidation,0,0
+73,Thiamine biosynthesis!!!Menaquinone biosynthesis,0,1
+74,Glutamine biosynthesis!!!Glutamine biosynthesis,1,1
+75,Aminoacyl-tRNA synthetases!!!Glycolysis,1,1
+76,Serine biosynthesis,0,2
+77,CRISPR-Cas system,0,1
+78,Biotin biosynthesis!!!Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Pyrimidine degradation,1,1
+79,NADH dehydrogenase!!!2Fe2S,0,1
+80,Pyruvate oxidation!!!Pyruvate oxidation!!!Pyruvate oxidation!!!Pyruvate oxidation,0,1
+81,Glutamine biosynthesis!!!Glutamine biosynthesis!!!Glutamine biosynthesis,2,0
+82,TCA cycle!!!Pyruvate oxidation!!!Pyruvate oxidation!!!Pyruvate oxidation,0,1
+83,Na+-translocating NADH dehydrogenase,0,0
+84,Purine biosynthesis!!!tRNA modification,2,1
+85,Arginine biosynthesis,0,1
+86,Biotin biosynthesis!!!Menaquinone biosynthesis,0,1
+87,Ribosome 30S subunit,1,1
+88,Phospholipid biosynthesis!!!Fatty acid biosynthesis!!!Lysine biosynthesis,0,1
+89,Cysteine biosynthesis!!!Biotin biosynthesis,0,3
+90,Arginine biosynthesis!!!Threonine biosynthesis,1,0
+91,Histidine biosynthesis!!!Histidine biosynthesis,0,1
+92,Menaquinone biosynthesis,0,2
+93,Purine biosynthesis!!!Isoprenoid biosynthesis,0,1
+94,Serine biosynthesis!!!Glycine cleavage,1,0
+95,Pyrimidine salvage!!!Pyrimidine salvage,0,1
+96,Ribosome 30S subunit!!!Translation factors,1,1
+97,Biotin biosynthesis!!!Fatty acid biosynthesis!!!Menaquinone biosynthesis,1,0
+98,"Isoleucine, leucine, valine biosynthesis",1,1
+99,Purine biosynthesis,1,0
+100,NADH dehydrogenase!!!Na+-translocating Fd:NADH oxidoreductase!!!2Fe2S,0,1
+101,Menaquinone biosynthesis!!!Ubiquinone biosynthesis,1,1
+102,Isoprenoid biosynthesis!!!Menaquinone biosynthesis,1,0
+103,Pyrimidine degradation!!!tRNA modification,0,2
+104,Menaquinone biosynthesis!!!Pantothenate/CoA biosynthesis,0,1
+105,Fatty acid biosynthesis!!!Menaquinone biosynthesis!!!Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Biotin biosynthesis,0,1
+106,Pyridoxal phosphate biosynthesis,0,1
+107,"Isoleucine, leucine, valine biosynthesis!!!Methionine biosynthesis",1,1
+108,Lysine biosynthesis,2,0
+109,Heme biosynthesis!!!Fatty acid biosynthesis,1,2
+110,A/V-type ATP synthase,0,1
+111,Glycine cleavage,1,1
+112,Pyrimidine biosynthesis!!!Pyruvate oxidation,0,1
+113,NAD biosynthesis!!!NAD biosynthesis,1,0
+114,tRNA modification!!!Pyrimidine salvagetRNA modification,0,0
+115,Heme biosynthesis!!!Fatty acid biosynthesis!!!Pyrimidine degradation,0,1
+116,Ubiquinone biosynthesis,0,1
+117,"Isoleucine, leucine, valine biosynthesis!!!Aromatic amino acid biosynthesis!!!Aromatic amino acid biosynthesis",0,0
+118,Pentose phosphate pathway,1,0
+119,Pyrimidine salvage!!!RNA polymerase,1,0
+120,Phospholipid biosynthesis!!!Lysine biosynthesis,0,1
+121,Heme biosynthesis!!!Aminoacyl-tRNA synthetases,0,1
+122,Phospholipid biosynthesis!!!Isoprenoid biosynthesis,0,1
+123,Fatty acid biosynthesis!!!Cysteine biosynthesis,0,1
+124,Glutamine biosynthesis!!!Glycine cleavagePyruvate oxidation,1,0
+125,Biotin biosynthesis,1,0
+126,Phospholipid biosynthesis!!!NAD biosynthesis,0,1
+127,Isoprenoid biosynthesis!!!Riboflavin/FAD biosynthesis,0,1
+128,TCA cycle!!!TCA cycle,0,1
+129,Pyruvate oxidation!!!NADH dehydrogenase!!!NADH dehydrogenase!!!2Fe2S,0,1
+130,Folate biosynthesis!!!Mureine biosynthesis,0,1
+131,Translation factors!!!Mureine biosynthesis,0,1
+132,Lysine biosynthesis!!!Mureine biosynthesis,0,1
+133,Thiamine biosynthesis,0,1
+134,16S rRNA modification!!!tRNA modification,0,1
+135,Purine salvage,0,0
+136,tRNA modification!!!Mureine biosynthesis,1,0
+137,RNA polymerase!!!Pyruvate oxidation,1,0
+138,Methionine biosynthesis,2,0
+139,Glutamine biosynthesis!!!Glutamine biosynthesis!!!Glutamine biosynthesis!!!Isoprenoid biosynthesis,1,0
+140,Thiamine biosynthesis!!!Thiamine biosynthesis,0,0
+141,Glutamine biosynthesis!!!NADH dehydrogenase!!!2Fe2S,1,2
+142,Pyrimidine salvage,0,1
+143,Molybdopterin biosynthesis!!!Urea cycle,1,0
+144,Fatty acid biosynthesis!!!Fatty acid biosynthesis!!!Lysine biosynthesis,0,2
+145,Lysine biosynthesisTCA cycle,0,1
+146,Purine biosynthesis!!!Purine biosynthesis,1,0

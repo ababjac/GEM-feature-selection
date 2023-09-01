@@ -1,0 +1,70 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Mureine biosynthesis,2,1
+1,Na+-translocating NADH dehydrogenase,1,2
+2,Glycolysis,2,1
+3,Translation factors,2,0
+4,Photosystem I,1,1
+5,Ribosome 30S subunit,1,2
+6,Glycine cleavage,1,2
+7,NAD biosynthesis,1,2
+8,Histidine biosynthesis,1,2
+9,Thiamine biosynthesis,3,0
+10,"Isoleucine, leucine, valine biosynthesis",1,2
+11,Photosystem II,2,1
+12,"Histidine biosynthesis, Purine biosynthesis",2,1
+13,Proline degradation,2,1
+14,Folate biosynthesis,3,0
+15,A/V-type ATP synthase,0,3
+16,Glycine cleavagePyruvate oxidation,0,3
+17,Thymidylate biosynthesis,2,1
+18,Cysteine biosynthesis,1,2
+19,Threonine biosynthesis,1,2
+20,Purine salvage,3,0
+21,Serine biosynthesis,2,1
+22,FoF1-type ATP synthase,0,2
+23,23S rRNA modification,3,0
+24,Aromatic amino acid biosynthesis,1,2
+25,Pyrimidine salvage,2,1
+26,16S rRNA modification,2,1
+27,Pyridoxal phosphate biosynthesis,1,2
+28,Lysine biosynthesis,2,1
+29,Ubiquinone biosynthesis,2,1
+30,CRISPR-Cas system,2,1
+31,3D,3,0
+32,NADH dehydrogenase,1,2
+33,Riboflavin/FAD biosynthesis,3,0
+34,Isoprenoid biosynthesis,1,1
+35,Fatty acid biosynthesis,1,1
+36,Menaquinone biosynthesis,3,0
+37,Proline biosynthesis,2,1
+38,Aminoacyl-tRNA synthetases,0,3
+39,TCA cycle,0,2
+40,Biotin biosynthesis,1,1
+41,Pyrimidine degradation,2,1
+42,Entner-Doudoroff pathway,1,2
+43,Arginine biosynthesis,2,0
+44,Pyrimidine biosynthesis,2,1
+45,Pentose phosphate pathway,2,0
+46,"TCA cycle, glyoxylate bypass",1,2
+47,Non-phosphorylated Entner-Doudoroff pathway,2,1
+48,Molybdopterin biosynthesis,2,1
+49,tRNA modification,2,1
+50,Asparagine biosynthesis,1,2
+51,Urea cycle,2,0
+52,Lipoate biosynthesis,1,2
+53,Methionine biosynthesis,1,0
+54,Lysine biosynthesisTCA cycle,0,3
+55,Lipid A biosynthesis,2,0
+56,Archaeal ribosomal proteins,0,2
+57,Phospholipid biosynthesis,0,2
+58,Cobalamine/B12 biosynthesis,1,0
+59,2Fe2S,2,0
+60,Pantothenate/CoA biosynthesis,0,0
+61,Ribosome 50S subunit,3,0
+62,Na+-translocating Fd:NADH oxidoreductase,0,3
+63,Purine biosynthesis,3,0
+64,Heme biosynthesis,0,1
+65,Glutamine biosynthesis,0,2
+66,Pyruvate oxidation,2,1
+67,Gluconeogenesis,0,3
+68,Pyrimidine salvagetRNA modification,3,0

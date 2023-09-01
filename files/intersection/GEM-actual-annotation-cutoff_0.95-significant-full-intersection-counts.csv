@@ -1,0 +1,2947 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Alpha-acetolactate decarboxylase,1,0
+1,"Uncharacterized conserved protein, DUF1178 domain",1,0
+2,"DNA replication initiation complex subunit, GINS family",0,1
+3,Fumarate reductase subunit D,2,0
+4,Lipoate synthase,1,2
+5,"Predicted metal-dependent carbohydrate esterase YdaL, contains NodB-like catalytic (CE4) domain",0,2
+6,Putative salt-induced outer membrane protein YdiY,0,2
+7,LPS sulfotransferase NodH,1,0
+8,Putative heme iron utilization protein,1,0
+9,"Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB",0,1
+10,Type III secretion system effector SseC (host membrane pore formation),1,1
+11,Inorganic pyrophosphatase/exopolyphosphatase,0,2
+12,"Outer membrane channel-forming protein BP26/OMP28, SIMPL family",1,0
+13,"Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfA subunit",0,1
+14,"ABC-type Fe3+ transport system, permease component",1,0
+15,"Uncharacterized conserved protein, DUF596 domain",0,1
+16,BRCT domain type II,0,0
+17,Lipoprotein subunit MlaA of the ABC-type intermembrane phospholipid transporter Mla,0,0
+18,Protease II,0,0
+19,PepSY-associated TM region,0,0
+20,"DNA-binding transcriptional regulator, XRE-family HTH domain",0,2
+21,NADH:ubiquinone oxidoreductase 49 kD subunit (chain D),0,0
+22,"Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain",0,1
+23,Sulfur oxidation protein SoxY,0,1
+24,Ribosomal protein L40E,1,0
+25,Seryl-tRNA synthetase,1,0
+26,"Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs",0,2
+27,"Uncharacterized conserved protein, DUF3820 family",0,1
+28,"ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation",0,0
+29,"Uncharacterized conserved protein YxeA, DUF1093 family",1,0
+30,"House-cleaning carbohydrate phosphatase, DUF89 family",2,0
+31,"Colicin E2 tolerance protein CbrC, UPF0167 family",1,0
+32,"Methionine synthase I (cobalamin-dependent), methyltransferase domain",0,0
+33,"Uncharacterized conserved protein, MAPEG superfamily",1,1
+34,"Cobalamin biosynthesis protein CobN, Mg-chelatase",0,1
+35,Murein tripeptide amidase MpaA,0,1
+36,Guanylate kinase,1,0
+37,UDP-N-acetylglucosamine pyrophosphorylase,1,0
+38,"Pyrrolysine biosynthesis ligase PylC and related enzymes, ATP-grasp superfamily",0,0
+39,Type VI protein secretion system component VasA,1,0
+40,"NADH:ubiquinone oxidoreductase, NADH-binding 51 kD subunit (chain F)",1,0
+41,"Chromosome segregation protein Spo0J, contains ParB-like nuclease domain",0,1
+42,"Uncharacterized conserved protein MJ1445, calcineurin-like phosphoesterase superfamily",1,1
+43,"Na+-transporting oxaloacetate/methylmalonyl-CoA decarboxylase, beta subunit",0,1
+44,"Desulfoferrodoxin, superoxide reductase-like (SORL) domain",1,0
+45,"Uncharacterized conserved protein, DUF366 domain",0,1
+46,"Predicted  nucleic acid-binding protein, contains Zn-ribbon domain",0,1
+47,"Protein kinase association domain CaMKII_AD, NTF2-like superfamily",0,1
+48,Homospermidine synthase,0,1
+49,Nucleoside-triphosphatase THEP1,0,1
+50,ATP-dependent helicase/DNAse subunit B,1,1
+51,CRISPR-Cas system type III CSM-effector complex small subunit Csm2,0,0
+52,"Uncharacterized conserved protein, UCP014979 family",1,1
+53,"Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB",1,0
+54,"Iron only hydrogenase large subunit, C-terminal domain",0,1
+55,Steroid 5-alpha reductase family enzyme,1,2
+56,Dienelactone hydrolase,2,0
+57,Transposase (or an inactivated derivative),2,1
+58,"ATP-dependent protease ClpP, protease subunit",1,1
+59,"Histidinol phosphatase/D-glycero-mannoheptose bisphosphatephosphatase, HAD superfamily",0,0
+60,"Lysylphosphatidylglycerol synthetase MprF, lysyl-tRNA-binding C-terminal domain",1,1
+61,"Predicted epimerase YddE/YHI9, PhzF superfamily",0,1
+62,Ketosteroid isomerase homolog YybH,1,0
+63,Fatty-acid desaturase,1,0
+64,"Uncharacterized conserved protein, DUF1778 family",1,1
+65,Hexokinase,0,1
+66,"Uncharacterized conserved protein YdbL, DUF1318 family",1,0
+67,"Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family",1,1
+68,"Uncharacterized conserved protein, UPF0280 family, ApbE superfamily",1,0
+69,2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases,1,0
+70,Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain,0,1
+71,"Membrane-bound acyltransferase YfiQ, involved in biofilm formation",1,0
+72,CTP synthase (UTP-ammonia lyase),2,0
+73,Lantibiotic modifying enzyme,1,2
+74,"Uncharacterized conserved protein, contains CHAT domain",0,2
+75,"Uncharacterized conserved protein, UPF0335 family",0,0
+76,Ribosomal protein S7,1,1
+77,Chitinase,1,0
+78,"YycH protein, regulator of the WalKR two-component signal transduction system",0,0
+79,"Uncharacterized membrane protein YcjF, UPF0283 family",0,1
+80,Protein tyrosine/serine phosphatase Oca4,1,1
+81,"DNA-directed RNA polymerase, subunit N (RpoN/RPB10)",0,1
+82,"Cytochrome oxidase Cu insertion factor, SCO1/SenC/PrrC family",1,0
+83,dsRNA-specific ribonuclease,0,1
+84,"Pilus assembly protein, ATPase of CpaF family",0,1
+85,Glycopeptide antibiotics resistance protein,1,0
+86,"ABC-type Na+ transport system, ATPase component NatA",1,0
+87,"Uncharacterized conserved protein YmfQ in lambdoid prophage, DUF2313 family",0,1
+88,"Uncharacterized protein MTH814, DUF2098 family",0,0
+89,Flavorubredoxin,0,1
+90,"Uncharacterized conserved protein, DUF505 domain",1,0
+91,"Predicted homoserine dehydrogenase, contains C-terminal SAF domain",0,0
+92,"Heterodisulfide reductase, subunit A (polyferredoxin)",0,1
+93,"Flagellar basal body lipoprotein FlgP, LPP20 family",0,0
+94,Glycosyltransferase involved in cell wall bisynthesis,0,2
+95,DNA-binding winged helix-turn-helix (wHTH) domain,1,0
+96,NADH:ubiquinone oxidoreductase subunit 4 (chain M),0,1
+97,"Metal-dependent phosphatase/phosphodiesterase, HD supefamily",0,1
+98,"Predicted RNA-binding protein, contains PUA-like EVE domain",1,1
+99,"Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain",1,0
+100,"ACT domain, ACT-7 family",0,0
+101,Predicted HD phosphohydrolase,0,0
+102,"tRNA U34 5'-hydroxylase TrhO, rhodanese family",1,0
+103,"Uncharacterized conserved protein YfdQ, DUF2303 family",1,1
+104,Uncharacterized domain of signal transduction histidine kinase BarA,0,1
+105,Regulator of RNase E activity RraB,1,1
+106,Flagellum-specific peptidoglycan hydrolase FlgJ,1,0
+107,Preprotein translocase subunit SecD,0,1
+108,Arginine deiminase,2,0
+109,Zn-dependent membrane protease YugP,2,1
+110,Uri superfamily endonuclease,0,0
+111,Methanogenic corrinoid protein MtbC1,1,0
+112,"Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG",0,1
+113,CMP-2-keto-3-deoxyoctulosonic acid synthetase,0,1
+114,"Uncharacterized conserved protein MJ0832_1, predicted component of type IV pili-like system, UPF0333 family",0,2
+115,"Uncharacterized conserved protein, DUF169 family",0,1
+116,Queuine/archaeosine tRNA-ribosyltransferase,0,0
+117,ERCC4-related helicase,0,0
+118,GTP cyclohydrolase FolE2,2,0
+119,"Uncharacterized conserved protein YpmB, contains C-terminal PepSY domain",0,0
+120,"ABC-type thiamine transport system, ATPase component ThiQ",1,1
+121,"CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family",1,1
+122,Predicted secreted endonuclease distantly related to archaeal Holliday junction resolvase,1,0
+123,Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase),0,1
+124,"Type IV secretory pathway, protease TraF",1,0
+125,Low affinity Fe/Cu permease,0,2
+126,Hydrogenase maturation factor HypD,0,0
+127,"Uncharacterized conserved protein YuzB, UPF0349 family",3,0
+128,Polygalacturonase,1,0
+129,Aminoglycoside phosphotransferase family enzyme,1,0
+130,"Cell fate regulator YmcA, YheA/YmcA/DUF963 family (controls sporulation, competence, biofilm development)",1,0
+131,Ferredoxin-fold anticodon binding domain,0,0
+132,"N-hydroxylaminopurine reductase YiiM, contains MOSC domain",1,0
+133,"Chromosome condensin MukBEF, ATPase and DNA-binding subunit MukB",0,1
+134,N-acetylneuraminic acid mutarotase,0,1
+135,Phage head maturation protease,0,0
+136,ATP-dependent Zn proteases,1,0
+137,"Riboflavin transporter RibN, EamA domain",0,1
+138,"ABC-type polysaccharide transport system, permease component",1,0
+139,Transposase,0,1
+140,"Uncharacterized conserved protein, DUF2076 domain",0,0
+141,NADPH-dependent glutamate synthase beta chain or related oxidoreductase,0,1
+142,"Nitric oxide synthase, oxygenase domain",0,1
+143,"Predicted phosphohydrolase YqeG, HAD superfamily",1,0
+144,Molecular chaperone DnaK (HSP70),1,0
+145,Ribosomal protein L29,1,0
+146,"Sulfur transfer protein SufE, Fe-S cluster assembly",0,0
+147,"Aryl-phospho-beta-D-glucosidase BglC, GH1 family",1,0
+148,"Type IV secretory pathway, VirB3 component",0,0
+149,"Uncharacterized conserved protein, DUF1684 family",1,0
+150,"Uncharacterized conserved protein YabN, contains tetrapyrrole methylase and MazG-like pyrophosphatase domain",2,0
+151,Cell division septal protein FtsQ,1,1
+152,S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase),2,0
+153,tRNA A37 threonylcarbamoyladenosine modification protein TsaB,0,1
+154,Cytochrome b561,1,1
+155,Preprotein translocase subunit SecE,0,0
+156,UDP-galactopyranose mutase,0,0
+157,"Coenzyme F420-reducing hydrogenase, alpha subunit",0,1
+158,Na+/phosphate symporter,0,1
+159,tmRNA-binding protein,1,0
+160,"Uncharacterized conserved protein YgiB, UPF0441/DUF1190 family, involved in bioifilm formation",0,2
+161,HPr or related phosphotransfer protein,0,1
+162,PhoPQ-activated pathogenicity-related protein,1,0
+163,"Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family",0,1
+164,Box C/D ribonucleoprotein Nop56/Prp31/SIK1 subunit,0,0
+165,"Cytochrome bd-type quinol oxidase, subunit 2",2,0
+166,Flagellar basal body P-ring protein FlgI,0,0
+167,"Guanine-nucleotide exchange factor YEL1, contains Sec7 domain",0,1
+168,Spermidine/putrescine-binding periplasmic protein,0,0
+169,"Uncharacterized membrane protein YobD, UPF0266 family",2,1
+170,"Uncharacterized membrane protein, DUF1361 domain",0,1
+171,"Uncharacterized conserved protein YebE, UPF0316/DUF2179 family",0,1
+172,3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC and related HAD superfamily phosphatases,1,0
+173,"Predicted glycosyl hydrolase, GH114 family",0,0
+174,"Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family",0,1
+175,"Non-homologous end joining protein Ku, dsDNA break repair",0,1
+176,"Predicted endonuclease, GIY-YIG superfamily",1,1
+177,"Protoporphyrinogen IX oxidase, menaquinone-dependent (flavodoxin domain)",0,0
+178,"Putative negative regulator of RcsB-dependent stress response, UPF0070 family",0,0
+179,Flagellar biosynthesis protein FlhA,0,1
+180,Pantothenate kinase type III,1,0
+181,"Exopolysaccharide biosynthesis protein EpsI, predicted pyruvyl transferase",1,0
+182,TolB amino-terminal domain (function unknown),1,0
+183,Ribosomal protein L20A (L18A),0,1
+184,"Uncharacterized conserved protein, contains FMN-binding domain",3,0
+185,Transposase InsE and inactivated derivatives,0,0
+186,Membrane-bound lytic murein transglycosylase MltF,1,1
+187,"Uncharacterized conserved protein YoxC, contains an MCP-like domain",0,1
+188,Lipopolysaccharide export system protein LptC,1,0
+189,Mu-like prophage FluMu protein gp41,2,0
+190,ATPase components of ABC transporters with duplicated ATPase domains,0,1
+191,"Uncharacterized conserved protein, DUF166 domain",0,1
+192,Chloramphenicol 3-O-phosphotransferase,1,1
+193,Isochorismate hydrolase,1,1
+194,5'-deoxynucleotidase YfbR and related HD superfamily hydrolases,0,1
+195,Ribose 5-phosphate isomerase,0,2
+196,Fe-S-cluster formation regulator IscX/YfhJ,0,1
+197,"Uncharacterized conserved protein, contains ACT domain",0,1
+198,Urease gamma subunit,0,1
+199,Uncharacterized lipoprotein YbaY,0,0
+200,"ATP-utilizing enzyme, PP-loop superfamily",0,1
+201,"Predicted RNA- or ssDNA-binding protein, translin family",0,1
+202,"Phage-related replication protein YjqB, UPF0714/DUF867 family",0,0
+203,"2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes",1,1
+204,"Membrane regulatory protein PfoR, PTS_EIIC_2 domain (does not regulate perfringolysin expression)",1,0
+205,"Uncharacterized conserved protein, contains ParB-like nuclease domain",1,0
+206,Methionyl-tRNA synthetase,0,1
+207,Mevalonate kinase,0,1
+208,"Uncharacterized conserved protein, DUF1284 domain",0,0
+209,ECF-type transporter transmembrane protein EcfT,0,1
+210,Phosphoribosylaminoimidazole-succinocarboxamide synthase,1,0
+211,Shikimate 5-dehydrogenase,1,0
+212,"Predicted Fe2+/Mn2+ transporter, VIT1/CCC1 family",0,2
+213,Succinylarginine dihydrolase,0,1
+214,Argininosuccinate lyase,1,0
+215,Extracellular (periplasmic) sensor domain CHASE (specificity unknown),0,0
+216,Ribosomal protein S19,0,1
+217,Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase,0,1
+218,"Predicted transcriptional regulator, contains two HTH domains",1,0
+219,Recombinational DNA repair protein RecT,1,0
+220,Ribosomal protein S6E (S10),0,1
+221,"Zona occludens toxin, predicted ATPase",1,2
+222,Poly(A) polymerase Pap1,1,0
+223,Phosphohistidine swiveling domain of PEP-utilizing enzymes,0,2
+224,"Predicted metal-dependent membrane protease YhfC, DUF2324 family",0,0
+225,"Uncharacterized conserved protein, DUF2093 domain",0,0
+226,Ribosomal protein L23,0,1
+227,"Predicted selenoprotein, Rdx family",0,1
+228,"Predicted acylesterase/phospholipase RssA, containd patatin domain",0,1
+229,Acetyl-CoA carboxylase beta subunit,0,1
+230,"Membrane protease subunit, stomatin/prohibitin family, contains C-terminal Zn-ribbon domain",0,1
+231,Dipeptidase,0,1
+232,Predicted SAM-depedendent methyltransferase,0,1
+233,4'-phosphopantetheinyl transferase EntD (siderophore biosynthesis),0,1
+234,Periplasmic ligand-binding sensor domain,0,0
+235,"Flagellar motility protein MotE, a chaperone for MotC folding",1,0
+236,"Uncharacterized conserved protein YbgA, DUF1722 family",2,0
+237,Orotate phosphoribosyltransferase,0,1
+238,"Uncharacterized conserved protein, UPF0216 family",0,1
+239,Diphthamide synthase subunit DPH2,0,0
+240,"Predicted DNA-binding transcriptional regulator, ArsR family",1,0
+241,"Inorganic triphosphatase YgiF, contains CYTH and CHAD domains",0,1
+242,3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase,0,1
+243,"Stringent starvation protein B, binds SsrA peptide",1,0
+244,Cobyric acid synthase,0,1
+245,"DNA/RNA endonuclease G, NUC1",1,0
+246,"Predicted triphosphatase or cyclase YjbK, contains CYTH domain",0,1
+247,Poly-beta-hydroxybutyrate synthase,0,1
+248,"DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily",0,0
+249,Lipoate-protein ligase A,0,0
+250,tRNA(Arg) A34 adenosine deaminase TadA,2,0
+251,"Phage terminase-like protein, large subunit, contains N-terminal HTH domain",0,1
+252,Uncharacterized membrane-anchored protein,0,0
+253,Uncharacterized conserved protein related to proFAR isomerase (HisA),0,1
+254,"Phosphotransferase subunit DhaM of the dihydroxyacetone kinase DhaKLM complex, contains PTS-EIIA, HPr, and PEP-utilizing domains",0,1
+255,"Uncharacterized conserved protein YfaS, alpha-2-macroglobulin family",0,1
+256,Urease accessory protein UreF,0,0
+257,"Uncharacterized conserved protein YqcC, DUF446 family",0,1
+258,"Predicted metal-dependent hydrolase, TIM-barrel fold",2,0
+259,"Periplasmic chaperone for outer membrane proteins, Skp family",1,0
+260,Protein chain release factor PrfB,0,1
+261,Ribosomal protein L13,0,0
+262,NAD/NADP transhydrogenase beta subunit,0,0
+263,"Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family",2,0
+264,Ribosomal protein L15E,0,1
+265,"Predicted transcriptional regulator, contains ribbon-helix-helix (RHH_1) domain",0,1
+266,Selenocysteine lyase/Cysteine desulfurase,2,0
+267,Replication protein A (RPA) family protein,1,1
+268,"Phage-related protein, tail assembly protein I",0,1
+269,Ribosomal protein L3,0,1
+270,Uncharacterized membrane protein YeiH,0,1
+271,"Metal-dependent hydrolase, beta-lactamase superfamily II",2,1
+272,"Uncharacterized membrane protein YecN, MAPEG domain",0,1
+273,Ureidoglycolate hydrolase (allantoin degradation),1,1
+274,3-oxoacyl-[acyl-carrier-protein] synthase III,1,0
+275,Predicted extracellular nuclease,1,0
+276,"Archaeal fructose 1,6-bisphosphatase",1,1
+277,"Sulfite reductase, beta subunit (hemoprotein)",1,0
+278,Di- or tripeptidase,3,0
+279,"Excinuclease UvrABC, nuclease subunit",1,0
+280,tRNA isopentenyl-2-thiomethyl-A-37 hydroxylase MiaE (synthesis of 2-methylthio-cis-ribozeatin),0,1
+281,GyrI-like small molecule binding domain,0,1
+282,"c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains",2,0
+283,"Predicted nucleic acid-binding protein, contains PIN domain",1,0
+284,"Predicted DNA-binding transcriptional regulator with XRE-family HTH domain, DUF2089 family",0,0
+285,"ABC-type phosphate/phosphonate transport system, ATPase component",1,0
+286,"Outer membrane lipoprotein LpoA, binds and activates PBP1a",0,0
+287,Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases,0,1
+288,Glucan-binding domain (YG repeat),1,1
+289,"Phosphosulfolactate synthase, CoM biosynthesis protein A",1,1
+290,Nitric oxide reductase activation protein,0,1
+291,Protein-S-isoprenylcysteine O-methyltransferase Ste14,0,0
+292,"Uncharacterized conserved protein, DUF1033 domain",1,0
+293,"Predicted rRNA methylase YqxC, contains S4 and FtsJ domains",0,0
+294,"Predicted archaeal serine protease, S18 family",1,0
+295,"ACT domain-containing protein, UPF0735 family",1,0
+296,"Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains",0,2
+297,Predicted lipoprotein involved in lipopolysaccharide assembly,1,0
+298,"Uncharacterized conserved protein, contains ferredoxin domain",0,1
+299,Orotate phosphoribosyltransferase homolog,0,1
+300,"Uncharacterized conserved protein, DUF2225 family",0,0
+301,"LGFP repeat-containing protein, may be involved in cell wall binding",0,0
+302,"Predicted DNA-binding protein YlxM, UPF0122 family",1,0
+303,tRNA(Ile2) C34 agmatinyltransferase TiaS,0,1
+304,Eukaryotic-type DNA primase,0,1
+305,"Uncharacterized conserved protein YggE, contains kinase-interacting SIMPL domain",0,0
+306,Phosphate/sulfate permease,0,1
+307,"1,2-phenylacetyl-CoA epoxidase, catalytic subunit",1,0
+308,"L-lactate utilization protein LutB, contains a ferredoxin-type domain",1,0
+309,Ribosome biogenesis GTPase RbgA,1,0
+310,mRNA degradation ribonuclease J1/J2,1,1
+311,"Predicted regulator of Ras-like GTPase activity, Roadblock/LC7/MglB family",0,3
+312,Predicted enzyme of the cupin superfamily,1,0
+313,"Uncharacterized conserved protein, UPF0160 family",0,0
+314,"NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit",0,3
+315,Flp pilus assembly protein TadB,0,2
+316,"Dimeric dUTPase, all-alpha-NTP-PPase (MazG) superfamily",1,0
+317,"c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily",0,0
+318,Mu-like prophage protein gpG,1,1
+319,"Predicted membrane flippase AglD2/YbhN, UPF0104 family",1,1
+320,Orotidine-5'-phosphate decarboxylase,0,1
+321,Citrate synthase,0,1
+322,Urease alpha subunit,0,1
+323,"Uncharacterized conserved protein YcgI, DUF1989 family",0,0
+324,"FoF1-type ATP synthase, gamma subunit",0,0
+325,"CubicO group peptidase, beta-lactamase class C family",0,1
+326,"YtpQ protein involved in methylglyoxal resistance, DUF1444/UPF0354 family",0,0
+327,Biotin operon repressor,1,0
+328,"Phage repressor protein C, contains Cro/C1-type HTH and peptisase s24 domains",0,0
+329,"Uncharacterized conserved protein, DUF736 family",0,1
+330,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase, archeal type",2,0
+331,Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid,0,1
+332,Phosphoribosylamine-glycine ligase,0,1
+333,Glutamine synthetase adenylyltransferase,0,0
+334,Predicted secreted acid phosphatase,1,1
+335,L-fucose isomerase or related protein,0,0
+336,"Uncharacterized conserved protein, DUF497 family",1,0
+337,Conjugal transfer/entry exclusion protein,1,1
+338,"Flp pilus assembly protein, pilin Flp",1,1
+339,Uncharacterized membrane protein YjdF,1,0
+340,"Uncharacterized conserved protein, DUF1223 domain",1,0
+341,"Endonuclease V homolog, UPF0215 family",0,1
+342,"Predicted phosphoesterase YmaB, NUDIX family",0,0
+343,"Uncharacterized protein YvbJ, contains N-terminal Zn ribbon domain",1,0
+344,"NTP pyrophosphatase, house-cleaning of non-canonical NTPs",1,0
+345,CO dehydrogenase/acetyl-CoA synthase gamma subunit (corrinoid Fe-S protein),0,1
+346,"EAL domain, c-di-GMP-specific phosphodiesterase class I (or its enzymatically inactive variant)",1,0
+347,"5-chloro-2-hydroxyhydroquinone dehydrochlorinase TtfG, YCII superfamily",0,1
+348,Threonine deaminase,1,0
+349,"Plasmid stability protein StbC1, contains ribbon-helix-helix domain",1,0
+350,Purine-cytosine permease or related protein,1,0
+351,Site-specific DNA recombinase SpoIVCA/DNA invertase PinE,0,0
+352,General stress protein 26 (function unknown),0,0
+353,"Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain",0,1
+354,Uncharacterized conserved protein YdaT,0,1
+355,GTPase SAR1 family domain,2,0
+356,Organic radical activating enzyme NrdG/QueE,1,0
+357,Extracytoplasmic sensor domain CHASE3 (specificity unknown),0,0
+358,Nicotinic acid phosphoribosyltransferase,1,0
+359,"Uncharacterized conserved protein, DUF1365 family",0,0
+360,"Uncharacterized conserved protein, DUF507 domain",1,0
+361,"Uncharacterized conserved protein YjbI, contains pentapeptide repeats",0,1
+362,Ribosomal protein S28E/S33,0,1
+363,"Predicted ABC-type exoprotein transport system, permease component",0,0
+364,Uncharacterized lipoprotein YajG,0,1
+365,"Uncharacterized conserved protein, PKD repeat domain",0,1
+366,Sensor histidine kinase YesM,0,1
+367,"7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)",0,1
+368,"CHAD domain, binds inorganic polyphosphates",0,1
+369,"Aspartate carbamoyltransferase, regulatory subunit",0,2
+370,"Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)",1,0
+371,Excinuclease UvrABC helicase subunit UvrB,1,0
+372,Phage-related protein,1,0
+373,DNA modification methylase,1,0
+374,"Uncharacterized pentameric protein YbjQ, UPF0145 family",0,1
+375,"Uncharacterized conserved protein, DUF1851 domain",0,1
+376,Flagellar basal body-associated protein FliL,0,0
+377,"Glyoxalase ElbB, DJ-1 superfamily",1,0
+378,Trimethylamine:corrinoid methyltransferase,1,1
+379,"Predicted aminoacyl-tRNA deacylase, YbaK-like aminoacyl-tRNA editing domain",0,0
+380,Preprotein translocase subunit SecG (Sec61beta),0,1
+381,"ATP-dependent RNA circularization protein, DNA/RNA ligase (PAB1020)  family",0,1
+382,Predicted transcriptional regulator with an HTH domain,1,1
+383,ERCC4-type crossover junction endonuclease,1,0
+384,"Ribose 1,5-bisphosphate kinase PhnN",0,1
+385,Uncharacterized conserved protein MJ0452,1,0
+386,UTP-glucose-1-phosphate uridylyltransferase,0,1
+387,Predicted molibdopterin-dependent oxidoreductase YjgC,1,0
+388,"Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family",0,1
+389,"Oxalate decarboxylase/archaeal phosphoglucose isomerase, cupin superfamily",1,1
+390,Phenylalanyl-tRNA synthetase alpha subunit,1,0
+391,"Methyl coenzyme M reductase, gamma subunit",0,0
+392,Zn-dependent metalloprotease (Neutral protease B),1,0
+393,Uncharacterized conserved protein YceK,0,0
+394,Threonine aldolase,0,0
+395,"DNA-directed RNA polymerase, beta subunit/140 kD subunit",0,0
+396,Circularly permuted ATP-grasp protein,0,2
+397,"ABC-type lipopolysaccharide export system, ATPase component",1,0
+398,Proline racemase/hydroxyproline epimerase,0,0
+399,Serine/threonine protein kinase,1,0
+400,Pyrrolidone-carboxylate peptidase (N-terminal pyroglutamyl peptidase),0,1
+401,Flagellar biosynthesis/type III secretory pathway chaperone FlgN,1,0
+402,"TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase",1,1
+403,CDP-diglyceride synthetase,0,1
+404,3-polyprenyl-4-hydroxybenzoate decarboxylase,1,1
+405,"Membrane proteinase PrsW, cleaves anti-sigma factor RsiW, M82 family",1,0
+406,Predicted oxidoreductase,0,0
+407,"Uncharacterized conserved protein, DUF2277 domain",0,1
+408,Ribosomal protein L22,1,0
+409,Predicted alpha/beta hydrolase,0,1
+410,SET domain-containing protein (function unknown),1,0
+411,Transcriptional regulator TyrR of aromatic amino acids metabolism,1,0
+412,Predicted hydrolase of the alpha/beta-hydrolase fold,0,1
+413,Carbonic anhydrase,0,1
+414,Muramidase (phage lambda lysozyme),0,1
+415,Folate-dependent tRNA-U54 methylase TrmFO/GidA,1,0
+416,Glutamate 5-kinase,0,0
+417,Capsule polysaccharide modification protein KpsS,0,0
+418,Pyruvate-formate lyase-activating enzyme,0,1
+419,Mg-chelatase subunit ChlI,0,0
+420,TctA family transporter,1,0
+421,"CRISPR/Cas system-associated protein Cas5, RAMP superfamily",1,0
+422,Aspartyl-tRNA synthetase,1,0
+423,"3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily",0,0
+424,Flagellar biogenesis protein FliO,1,0
+425,"Phage-encoded DNA-binding protein ECs1768, contains HTH and DnaT DNA-binding domains",1,0
+426,SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase),2,1
+427,Aminoglycoside N3'-acetyltransferase,0,1
+428,Cell division protein FtsL,0,1
+429,Flagellar hook-capping protein FlgD,1,1
+430,Superfamily I DNA and RNA helicases,0,2
+431,Ribosomal protein S3AE,0,0
+432,"Type II secretory pathway, pseudopilin PulG",1,0
+433,"Predicted lipocalin, contains AttH/CrtC domain",0,1
+434,Nitrate reductase cytochrome c-type subunit NapB,1,0
+435,"WGR domain, predicted DNA-binding domain in MolR",0,0
+436,"rRNA maturation protein Rpf1, contains Brix/IMP4 (anticodon-binding) domain",1,0
+437,"ABC-type arginine transport system, permease component",0,1
+438,Transcriptional antiterminator,1,1
+439,dsDNA-specific endonuclease/ATPase MutS2,0,2
+440,Type IV pilus assembly protein PilE,1,1
+441,"Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains",2,1
+442,"Gamma-glutamyl:cysteine ligase YbdK, ATP-grasp superfamily",0,1
+443,PduX protein involved in propanediol utilization and related proteins,0,1
+444,"Cytochrome c, mono- and diheme variants",0,0
+445,NADH:ubiquinone oxidoreductase subunit 6 (chain J),0,1
+446,"Secreted virulence factor YukE/EsxA, WXG100 family",1,1
+447,"Uncharacterized conserved protein YaaW, UPF0174 family",0,1
+448,"Uncharacterized conserved protein, DUF1704 domain",1,0
+449,Predicted component TssA of the type VI protein secretion system,1,0
+450,PUA domain (predicted RNA-binding domain),2,0
+451,"Nitrate reductase assembly protein NarJ, required for insertion of molybdenum cofactor",1,0
+452,"Predicted DNA-binding protein, potential antitoxin AbrB/MazE fold",1,0
+453,"Tetrahydromethanopterin S-methyltransferase, subunit A",0,1
+454,"Uncharacterized membrane protein YedE/YeeE, contains two sulfur transport domains",1,1
+455,Beta-lactamase class D,0,1
+456,Cytochrome c-type biogenesis protein CcmH/NrfF,0,1
+457,"Ribose/xylose/arabinose/galactoside ABC-type transport system, permease component",1,0
+458,2-phosphoglycerate kinase/Mevalonate-3-phosphate 5-kinase,1,0
+459,RNA-binding protein YhbY,2,0
+460,"Archease, activates RNA ligation by RtcB (tRNA splicing)",2,0
+461,Ribosomal protein S30,0,0
+462,"Poly-D-alanine transfer protein DltD, involved in esterification of teichoic acids",2,0
+463,Valyl-tRNA synthetase,0,0
+464,Acid phosphatase family membrane protein YuiD,1,0
+465,"Uncharacterized membrane protein YuzA, DUF378 family",1,0
+466,Predicted component of the type VI protein secretion system,1,0
+467,Uncharacterized lipoprotein NlpE involved in copper resistance,0,1
+468,Post-segregation antitoxin (ccd killing mechanism protein) encoded by the F plasmid,0,0
+469,"Uncharacterized conserved protein YwlG, UPF0340 family",0,1
+470,Ribosomal protein S11,1,0
+471,"Uncharacterized conserved protein YihD, DUF1040 family",1,0
+472,Imidazoleglycerol phosphate synthase glutamine amidotransferase subunit HisH,0,0
+473,DNA-binding nucleoid-associated protein YbaB/EfbC,1,0
+474,Ferritin-like metal-binding protein YciE,0,1
+475,"Uncharacterized conserved protein, DUF1810 family",1,0
+476,"Endo alpha-1,4 polygalactosaminidase, GH114 family (was erroneously annotated as Cys-tRNA synthetase)",0,2
+477,Bacteriophage protein gp37,0,1
+478,Deoxyhypusine synthase,2,0
+479,Uncharacterized integral membrane protein YrvD,1,0
+480,3-dehydroquinate dehydratase,1,0
+481,"Uncharacterized conserved protein, DUF2218 domain",0,0
+482,"ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA",0,0
+483,"Uncharacterized protein YkgJ, contains CxxCxxCC motif",0,0
+484,"Hemolysin-related protein, contains CBS domains, UPF0053 family",1,0
+485,"Catechol-2,3-dioxygenase",0,0
+486,Predicted N-acetyltransferase YhbS,1,1
+487,Ribosomal protein S17,0,0
+488,Predicted amidohydrolase,0,0
+489,Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase,0,1
+490,"ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components",1,0
+491,"Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family",0,0
+492,DNA repair exonuclease SbcCD ATPase subunit,0,1
+493,"Uncharacterized conserved protein, DUF1794 domain",0,0
+494,Enolase-phosphatase E1 involved in merthionine salvage,0,0
+495,Ribosomal protein S20,1,1
+496,"EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase",1,0
+497,N-terminal domain of uncharacterized protein YciW (function unknown),0,0
+498,Chromate resistance protein ChrB1,0,0
+499,"Cell fate regulator YlbF, YheA/YmcA/DUF963 family (controls sporulation, competence, biofilm development)",0,1
+500,Phosphoribosylanthranilate isomerase,1,0
+501,"Exonuclease VII, large subunit",0,0
+502,"UTP pyrophosphatase, metal-dependent hydrolase family",1,0
+503,DNA-dependent RNA polymerase auxiliary subunit epsilon,1,0
+504,"ABC-type cobalamin transport system, ATPase component BtuD",0,0
+505,"Uncharacterized conserved protein ECs_4300, contains TPR-like domain",0,0
+506,"Predicted RNA-binding protein Jag (SpoIIIJ-associated), conains KH and R3H domains",0,1
+507,"Predicted cysteine peptidase, C39 family",1,0
+508,Xanthine/uracil permease,1,1
+509,"Uncharacterized conserved protein, DUF2125 domain",0,1
+510,Tetrahydrodipicolinate N-succinyltransferase,1,0
+511,"2-phospho-L-lactate guanylyltransferase, coenzyme F420 biosynthesis enzyme, CobY/MobA/RfbA family",0,1
+512,"Signal transduction histidine kinase NtrB, nitrogen specific",0,1
+513,"Methyl coenzyme M reductase, alpha subunit",0,1
+514,"Uncharacterized conserved protein, DUF1853 domain",0,0
+515,Pyoverdine/dityrosine biosynthesis protein Dit1,1,0
+516,"DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif",0,1
+517,"Predicted transcriptional regulator,contains XRE-type HTH domain",2,0
+518,AraC-type DNA-binding domain and AraC-containing proteins,0,0
+519,"Uncharacterized conserved protein, DUF1820 domain",2,1
+520,"Predicted component of the type VI protein secretion system, contains a FHA domain",1,0
+521,SLT domain protein,0,0
+522,"Endogenous inhibitor of DNA gyrase, YacG/DUF329 family",0,1
+523,"Phosphoaspartate phosphatase CheC, specific for CheY-P",1,0
+524,3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase,1,1
+525,"Phage-related protein, tail protein J",1,0
+526,"Kef-type K+ transport system, membrane component KefB",1,0
+527,Primosomal replication protein N'',0,1
+528,Ribosomal protein S24E,1,2
+529,Phage tail collar domain,1,1
+530,DNA segregation ATPase FtsK/SpoIIIE or related protein,0,1
+531,Arginine/lysine/ornithine decarboxylase,0,1
+532,Predicted heme/steroid binding protein,1,0
+533,Hydroxymethylglutaryl-CoA reductase,1,0
+534,"ABC-type methionine transport system, ATPase component",1,0
+535,Nucleotidyltransferase/DNA polymerase DinP involved in DNA repair,0,0
+536,"Uncharacterized conserved protein YccT, UPF0319 family",1,0
+537,"ABC-type histidine transport system, ATPase component",1,0
+538,tRNA-binding EMAP/Myf domain,0,0
+539,"Propanediol dehydratase, large subunit",0,0
+540,"Succinate dehydrogenase/fumarate reductase, flavoprotein subunit",1,1
+541,Protein-arginine kinase activator protein McsA,0,1
+542,"Uncharacterized membrane protein, DUF368 family",1,0
+543,"Uncharacterized conserved protein, DUF362 family",2,0
+544,Uncharacterized membrane protein Smp affecting hemolysin expression,0,0
+545,DNA mismatch repair protein MutH,1,0
+546,"Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster",1,0
+547,"Uncharacterized conserved protein YheU, UPF0270 family",0,1
+548,Mu-like prophage protein gp36,1,0
+549,"Acid resistance membrane protein HdeD, DUF308 family",0,1
+550,"Archaeal DNA polymerase II, small subunit/DNA polymerase delta, subunit B",0,3
+551,"TRAP-type C4-dicarboxylate transport system, large permease component",2,0
+552,Phosphotransferase system cellobiose-specific component IIB,0,0
+553,"Uncharacterized conserved protein, contains thioredoxin-like domain",2,0
+554,"ACT domain, ACT-3 family",0,1
+555,Glycosidase/amylase (phosphorylase),0,1
+556,Uridylate kinase,1,0
+557,Predicted NAD/FAD-dependent oxidoreductase,0,1
+558,Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase,0,1
+559,Peptodoglycan polymerase FtsW/RodA/SpoVE,1,0
+560,Membrane protein insertase Oxa1/YidC/SpoIIIJ,0,0
+561,"Multisubunit Na+/H+ antiporter, MnhE subunit",0,1
+562,Predicted flavoprotein YhiN,1,0
+563,ATP:corrinoid adenosyltransferase,1,0
+564,Catalase,1,0
+565,Ribosome recycling factor,1,1
+566,"Serine protease, subtilisin family",0,1
+567,Phosphoribosyl-dephospho-CoA transferase (holo-ACP synthetase),0,2
+568,Competence transcription factor ComK,2,0
+569,Pseudouridine-5'-phosphate glycosidase (pseudoU degradation),0,0
+570,Truncated hemoglobin YjbI,0,0
+571,"Fe-S cluster assembly scaffold protein IscU, NifU family",1,0
+572,V8-like Glu-specific endopeptidase,1,0
+573,"ABC-type multidrug transport system, ATPase and permease component",0,1
+574,"Uncharacterized conserved protein YybS, DUF2232 family",1,0
+575,"Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family",1,0
+576,"Uncharacterized protein, contains phage Mu head morphogenesis gpF-like domain",0,1
+577,Endonuclease IV,1,0
+578,Uncharacterized MnhB-related membrane protein,0,1
+579,"Uncharacterized conserved protein YeeX, DUF496 family",0,1
+580,"ABC-type nitrate/sulfonate/bicarbonate transport system, permease component",0,1
+581,Energy-converting hydrogenase A subunit M,0,1
+582,"Zn-dependent amino- or carboxypeptidase, M28 family",1,0
+583,"Uncharacterized protein, contains DUF2192 domain",0,1
+584,Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases,0,0
+585,"Uncharacterized protein, contains GIY-YIG domain",1,1
+586,"ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain",0,1
+587,Nitrogen regulatory protein PII,1,0
+588,"C-terminal processing protease CtpA/Prc, contains a PDZ domain",1,2
+589,GAF domain,0,1
+590,sRNA-binding protein ProQ,2,1
+591,Predicted acetyltransferase,0,1
+592,Pantothenate kinase-related protein Tda10 (topoisomerase I damage affected protein),1,0
+593,Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase,0,0
+594,"Uncharacterized conserved protein, radical SAM superfamily",1,0
+595,"Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain",1,0
+596,Uridine phosphorylase,0,0
+597,Chromosomal replication initiation ATPase DnaA,1,0
+598,Alkaline phosphatase,0,0
+599,"Predicted phosphohydrolase, DR1119 family, metallophosphatase superfamily",2,0
+600,"Uncharacterized conserved protein, DUF2149 domain",0,1
+601,"CRISPR/Cas system-associated exonuclease Cas4, RecB family",0,2
+602,Serine/threonine-protein kinase RIO1,0,1
+603,"Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase",1,1
+604,Large-conductance mechanosensitive channel,0,0
+605,Maltooligosyltrehalose synthase,0,1
+606,"ABC-type glucose/galactose transport system, permease component",0,0
+607,Cytochrome oxidase assembly protein ShyY1,1,0
+608,"DNA-binding protein SpoVG, cell septation regulator",0,1
+609,NADPH:quinone reductase or related Zn-dependent oxidoreductase,0,0
+610,Ni/Co/Cd-binding protein CnrX (heavy-metal resistance),1,0
+611,"Uncharacterized Zn-finger containing protein, UPF0148 family",0,0
+612,"Pheromone shutdown protein TraB, contains GTxH motif (function unknown)",0,2
+613,"Formylglycine-generating enzyme, required for sulfatase activity, contains SUMF1/FGE domain",0,1
+614,Cobalamin biosynthesis protein CbiD (cobalt-precorrin-5B C-methyltransferase),0,1
+615,Transposase InsO and inactivated derivatives,0,0
+616,Putative component of the toxin-antitoxin plasmid stabilization module,1,0
+617,"DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation",1,0
+618,Alpha-galactosidase,1,0
+619,Nitrate reductase beta subunit,0,1
+620,"Uncharacterized conserved protein, DUF2193 domain",0,0
+621,"ATPase/GTPase, AAA15 family",0,0
+622,"Iron-guanylylpyridinol (FeGP) cofactor biosynthesis protein, methyltransferase HcgC",2,0
+623,4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase,0,1
+624,HAMP domain,0,0
+625,Predicted GTPase,0,0
+626,"Uncharacterized membrane protein, DUF485 family",0,1
+627,"DNA-directed RNA polymerase specialized sigma subunit, sigma24 family",0,1
+628,Predicted deacetylase,0,0
+629,Ribosome association toxin PasT (RatA) of the RatAB toxin-antitoxin module,1,0
+630,Transcriptional and/or translational regulatory protein YebC/TACO1,0,0
+631,"Uncharacterized conserved protein, contains DUF4213 and DUF364 domains",0,0
+632,"Endo-1,4-beta-xylanase, GH35 family",1,0
+633,"Na+-driven multidrug efflux pump, DinF/NorM/MATE family",1,1
+634,Putative transposon-encoded protein,0,1
+635,Uncharacterized conserved protein,0,1
+636,Glucan phosphorylase,0,2
+637,Fructosamine-3-kinase,0,0
+638,"Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit, BcrC/BadD/HgdB",1,0
+639,Adenosylmethionine-8-amino-7-oxononanoate aminotransferase,1,0
+640,Flp pilus assembly protein CpaB,0,2
+641,Nitrate reductase alpha subunit,0,1
+642,Type II secretory pathway component GspD/PulD (secretin),0,0
+643,Recombination-promoting DNA endonuclease RpnC/YadD,2,0
+644,"ABC-type uncharacterized transport system, ATPase component",1,0
+645,DNA topoisomerase IA,3,0
+646,Energy-converting hydrogenase Eha subunit L,0,1
+647,"Uncharacterized conserved protein YdaU, DUF1376 family",1,0
+648,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD",0,1
+649,Fe-S cluster assembly iron-binding protein IscA,0,1
+650,5'(3')-deoxyribonucleotidase,0,0
+651,Mu-like prophage protein gp45,1,0
+652,"Uncharacterized conserved protein, DUF1697 family",0,1
+653,Phage protein U,0,0
+654,"Uncharacterized coiled-coil protein, contains DUF342 domain",0,2
+655,Riboflavin transporter FmnP,1,0
+656,Archaeal pantoate kinase,0,0
+657,"Uncharacterized conserved protein, DUF2285 domain",0,0
+658,"Predicted DNA modification or repair protein, contains radical SAM and helix-hairpin-helix domains",1,0
+659,Transcription-repair coupling factor (superfamily II helicase),1,0
+660,"Uncharacterized conserved protein MJ0802, methanogenesis marker protein 17, contains DUF2113 domain",0,1
+661,6-pyruvoyl-tetrahydropterin synthase,0,2
+662,"Uncharacterized conserved protein YkvS, DUF2187 family",2,0
+663,Ribosome-binding factor RbfA,0,1
+664,Regulator of sigma D,1,0
+665,"DNA-binding transcriptional regulator, GntR family",0,1
+666,Ribosomal protein S27E,0,0
+667,"ABC-type phosphate transport system, permease component",1,0
+668,D-serine dehydratase,0,1
+669,Glutaredoxin 2,0,1
+670,"Uncharacterized membrane protein YjjP, DUF1212 family",0,1
+671,"DNA-directed RNA polymerase, subunit M/Transcription elongation factor TFIIS",0,1
+672,Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases,1,0
+673,"Uncharacterized conserved protein, DUF1491 domain",0,1
+674,Precorrin-4 methylase,0,1
+675,Type VI protein secretion system component TssL/VasF/DotU,0,1
+676,Fumarylacetoacetate (FAA) hydrolase family protein,0,0
+677,"tRNA C56-2-O'-methylase, SpoU family",0,1
+678,"ASCH domain, putative RNA-binding protein, DUF365 family",2,0
+679,NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K),2,0
+680,CO dehydrogenase/acetyl-CoA synthase beta subunit,1,1
+681,sRNA-binding carbon storage regulator CsrA,0,2
+682,Arginase/agmatinase family enzyme,1,0
+683,Predicted choloylglycine hydrolase,1,0
+684,Extracytoplasmic sensor domain CHASE2 (specificity unknown),1,0
+685,Glutamate racemase,1,0
+686,"Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)",0,0
+687,Spore maturation protein CgeB,1,0
+688,Isopentenyl phosphate kinase,0,1
+689,"Membrane component of predicted Mg2+ transport system, contains DUF4010 domain",0,2
+690,"Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain",1,1
+691,Uncharacterized membrane protein YqjE,0,1
+692,Prophage maintenance system killer protein,0,0
+693,Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit,1,0
+694,"Uncharacterized membrane protein, BrkB/YihY/UPF0761 family (not an RNase)",0,1
+695,Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase,2,0
+696,Copper-binding protein CopC (methionine-rich),0,1
+697,"Predicted dioxygenase, 2-oxoglutarate and Fe-dependent (2OG-Fe) dioxygenase superfamily",1,0
+698,Autotransporter adhesin,0,1
+699,N-acetylglucosamine-6-phosphate deacetylase,0,0
+700,"DNA-directed RNA polymerase, delta subunit",0,1
+701,"Predicted restriction endonuclease, HNH family",0,1
+702,RNA recognition motif (RRM) domain,0,1
+703,"Predicted 5' DNA nuclease, flap endonuclease-1-like, helix-3-turn-helix (H3TH) domain",1,0
+704,"Predicted house-cleaning noncanonical NTP pyrophosphatase, all-alpha NTP-PPase (MazG) superfamily",1,1
+705,Archaeal dephospho-CoA kinase,0,0
+706,"DNA-binding transcriptional regulator, IclR family",0,1
+707,Fumarate hydratase class II,0,0
+708,Inner membrane protein CreD involved in colicin E2 resistance,0,0
+709,"Uncharacterized conserved protein Veg, DUF1021 family",1,0
+710,Na+-NQR maturation protein NqrM,0,0
+711,"Trehalose-6-phosphate synthase, GT20 family",1,0
+712,Glucose-6-phosphate isomerase,1,0
+713,"Peptide antibiotic transporter SbmA/BacA, ABC-type permease family",1,0
+714,"Uncharacterized conserved protein, DUF2145 domain",1,0
+715,"Lysine export protein LysO/YbjE, DUF340 family",0,0
+716,Na+/alanine symporter,1,0
+717,Ribosome-interacting GTPase RBG1,1,1
+718,Muramoyltetrapeptide carboxypeptidase LdcA (peptidoglycan recycling),1,0
+719,"ABC-type antimicrobial peptide transport system, permease component",0,1
+720,"Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)",1,0
+721,Nicotinamide mononucleotide (NMN) deamidase PncC,1,1
+722,Large exoprotein involved in heme utilization or adhesion,1,0
+723,Multidrug transporter EmrE and related cation transporters,0,0
+724,"Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family",2,0
+725,"GrpB domain, predicted nucleotidyltransferase, UPF0157 family",0,1
+726,Glycine cleavage system protein T (aminomethyltransferase),0,1
+727,"Cyclic di-GMP-binding protein YajQ, UPF0234 family",0,0
+728,Biotin-(acetyl-CoA carboxylase) ligase,1,1
+729,"Uncharacterized conserved protein, contains a NRPS condensation (elongation) domain",0,3
+730,"5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain",1,0
+731,"Phosphotransferase system, fructose-specific IIC component",0,0
+732,ATP/ADP translocase,0,0
+733,Adenylosuccinate lyase,1,0
+734,Propanediol utilization protein,1,0
+735,"Lysophospholipase, alpha-beta hydrolase superfamily",1,0
+736,Glutamate dehydrogenase/leucine dehydrogenase,3,0
+737,"Type IV pilus assembly protein PilT, pilus retraction ATPase",0,2
+738,"tRNA (A,G)9-N-methylase TRM10",1,0
+739,"Predicted RNA-binding protein YitL, contains S1 domains, virulence factor B family",1,1
+740,"YqgF/RuvX protein, pre-16S rRNA maturation RNase/Holliday junction resolvase/anti-termination factor",0,0
+741,"Chromatin segregation and condensation protein Rec8/ScpA/Scc1, kleisin family",1,1
+742,"Predicted phosphohydrolase, HAD superfamily",0,1
+743,"Uncharacterized conserved protein, contains DUF2059 domain",1,0
+744,Aspartate 1-decarboxylase,0,1
+745,Superfamily I DNA and/or RNA helicase,1,0
+746,Bacteriophytochrome (light-regulated signal transduction histidine kinase),0,1
+747,Prephenate dehydratase,0,0
+748,"Adenylate cyclase, class I",0,1
+749,Ribosomal protein S10,1,0
+750,"Uncharacterized membrane protein YbaN, DUF454 family",1,0
+751,"Uncharacterized membrane protein, UPF0136 family",2,1
+752,Ferritin,0,1
+753,"Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF",0,0
+754,Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport,1,0
+755,Alanine racemase,1,1
+756,"Zn-dependent oligopeptidase, M3 family",1,0
+757,Site-specific recombinase XerD,0,0
+758,"Alkylhydroperoxidase family enzyme, contains CxxC motif",0,1
+759,Periplasmic catabolite regulation protein CreA (function unknown),2,0
+760,"Uncharacterized HEPN domain protein YutE, UPF0331/DUF86 family",0,0
+761,"Type I site-specific restriction-modification system, R (restriction) subunit and related helicases ...",0,2
+762,"Ubiquinone biosynthesis protein UbiJ, contains SCP2 domain",1,0
+763,Prolipoprotein diacylglyceryltransferase,0,0
+764,Biopolymer transport protein ExbB/TolQ,0,2
+765,Carbamoylphosphate synthase large subunit,0,0
+766,Exopolysaccharide export protein/domain GumC/Wzc1,0,1
+767,5-methylcytosine-specific restriction endonuclease McrA,0,1
+768,Predicted small metal-binding protein,0,2
+769,Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,0,0
+770,"tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA",1,1
+771,Methylglyoxal synthase,1,0
+772,"Uncharacterized membrane protein YdcZ, DUF606 family",1,0
+773,"Arylsulfatase A or related enzyme, AlkP superfamily",1,1
+774,"DNA-binding TFAR19-related protein, PDSD5 family",2,0
+775,Ribosomal protein L39E,0,1
+776,"Uncharacterized protein, contains ferritin-like DUF455 domain",0,0
+777,"Uncharacterized conserved protein YktA, UPF0223 family",0,0
+778,2-hydroxy fatty acid dioxygenase MPO1 (alpha-oxidation of fatty acids),0,1
+779,Formylmethanofuran:tetrahydromethanopterin formyltransferase,1,0
+780,"Cell division septum initiation protein DivIVA, interacts with FtsZ and MinD",2,0
+781,"Mannitol/fructose-specific phosphotransferase system, IIA domain",0,0
+782,Thiamine kinase or a related kinase,1,0
+783,Archaeal shikimate kinase,0,1
+784,"c-di-AMP synthetase DisA, contains DisA_N, linker and DNA-binding domains",0,0
+785,"Uncharacterized conserved protein DfsB/IRC4, DUF1706 (PF08020) domain",0,1
+786,"Uncharacterized conserved protein YloU, alkaline shock protein (Asp23) family",0,0
+787,Cytochrome c2,1,0
+788,Pectate lyase,0,1
+789,Precorrin-3B methylase,0,1
+790,"Uncharacterized conserved protein YeaC, DUF1315 family",0,1
+791,"ABC-type xylose transport system, periplasmic component",0,1
+792,Tellurite resistance protein TehA and related permeases,0,1
+793,"Ni,Fe-hydrogenase III large subunit",0,0
+794,Archaeal/vacuolar-type H+-ATPase subunit E/Vma4,1,2
+795,Predicted ATPase,1,1
+796,"CRISPR-Cas system type III CSM-effector complex subunit Csm5, RAMP superfamily Cas7 group",0,0
+797,Ribosomal protein L15,0,0
+798,"RseA, negative regulator of sigma E activity",1,1
+799,Predicted DNA-binding protein with an HTH domain,0,1
+800,Phage anti-repressor protein Ant,2,0
+801,Homoserine O-succinyltransferase,1,0
+802,Epoxyqueuosine reductase QueH (tRNA modification),0,1
+803,Tryptophan synthase beta chain,1,0
+804,Methenyltetrahydromethanopterin cyclohydrolase,1,0
+805,Spore germination protein GerM,1,1
+806,"Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains",0,1
+807,"Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain",0,0
+808,"Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family",1,0
+809,"ABC-type phosphate transport system, ATPase component",1,0
+810,"ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA",1,0
+811,"Coenzyme F420-reducing hydrogenase, delta subunit",0,1
+812,"MFS-type transporter involved in bile tolerance, Atg22 family",0,0
+813,Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain),0,1
+814,Lipid A disaccharide synthetase,0,1
+815,Hemoglobin-like flavoprotein,0,1
+816,UDP-N-acetyl-D-mannosaminuronate dehydrogenase,0,2
+817,"Uncharacterized conserved protein, DUF1285 family",0,1
+818,"NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family",0,0
+819,"Lipoprotein NlpI, contains TPR repeats",0,1
+820,Hydrogenase maturation factor HypF (carbamoyltransferase),0,0
+821,Replicative superfamily II helicase,1,0
+822,Predicted ATP-binding protein involved in virulence,0,1
+823,"Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein",1,0
+824,Ubiquinone biosynthesis protein COQ9,1,0
+825,"Cytokinesis protein 3, contains TGc (transglutaminase/protease-like) domain",0,1
+826,Membrane-bound lytic murein transglycosylase B,0,2
+827,"O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent",1,0
+828,Cytochrome c553,1,0
+829,"ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain",0,0
+830,tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA,0,0
+831,"CDC48-associated ubiquitin-like protein CUZ1, contains AN1-type Zn-finger (protection from As/Sb toxicity)",1,0
+832,"DNA-binding transcriptional regulator, FadR family",0,1
+833,"DNA-binding transcriptional regulator, Lrp family",0,1
+834,"Uncharacterized conserved protein, DUF1326 domain",0,0
+835,"Uncharacterized conserved protein, DUF971 family",0,2
+836,Biotin synthase or related enzyme,0,0
+837,Fe-S cluster assembly scaffold protein SufB,1,0
+838,Uncharacterized FlgJ-related protein,0,1
+839,Translation elongation factor EF-1beta,1,0
+840,Co/Zn/Cd efflux system component,1,0
+841,"Cyclic di-AMP-specific phosphodiesterase PgpH, HD superfamily",0,1
+842,5-formaminoimidazole-4-carboxamide-1-beta-D-ribofuranosyl 5'-monophosphate synthetase (purine biosynthesis),1,0
+843,3'-phosphoadenosine 5'-phosphosulfate sulfotransferase,1,0
+844,Threonine/homoserine efflux transporter RhtA,1,0
+845,"Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC",2,0
+846,Phosphoserine aminotransferase,0,0
+847,"Archaeal Glu-tRNAGln amidotransferase subunit E, contains GAD domain",1,0
+848,p-Aminobenzoyl-glutamate transporter AbgT,0,1
+849,"Methyl coenzyme M reductase, beta subunit",1,0
+850,"Predicted metal-dependent hydrolase, urease superfamily",0,0
+851,Chloramphenicol O-acetyltransferase,2,0
+852,Adenosine deaminase,1,0
+853,Cell division ATPase FtsE,1,0
+854,Anaerobic C4-dicarboxylate transporter,0,0
+855,Aminopeptidase C,1,1
+856,Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases,2,0
+857,Flagellar hook-length control protein FliK,0,0
+858,"ABC-type transport system involved in cytochrome c biogenesis, ATPase component",0,1
+859,"Uncharacterized protein AQ_414, contains TrkA and USP-like domains",0,1
+860,"Uncharacterized conserved protein, DUF2126 family",0,2
+861,"Formaldehyde-activating enzyme (5,6,7,8-tetrahydromethanopterin hydrolyase)",1,0
+862,"Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD (putrescine degradation), contains GATase1-like domain",0,0
+863,Pectin methylesterase and related acyl-CoA thioesterases,1,0
+864,D-hexose-6-phosphate mutarotase,1,1
+865,"Uncharacterized membrane protein YidH, DUF202 family",0,1
+866,Pyrroloquinoline quinone (PQQ) biosynthesis protein C,0,0
+867,"Type IV pilus assembly protein, tip-associated adhesin PilY1",1,1
+868,"DNA polymerase III, gamma/tau subunits",0,1
+869,"Macrodomain Ter protein organizer, MatP/YcbG family",1,0
+870,Ribosomal protein S25e,0,0
+871,K+ uptake protein Kup,2,1
+872,"Acetyltransferase superfamily protein, DUF1122 family",0,0
+873,23S rRNA U2552 (ribose-2'-O)-methylase RlmE/FtsJ,0,0
+874,Ribosomal protein L14E/L6E/L27E,0,1
+875,"Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfD subunit",0,2
+876,"Uncharacterized lipoprotein YehR, DUF1307 family",0,0
+877,Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase),1,0
+878,"Uncharacterized conserved protein, DUF1013 family",1,0
+879,"Uncharacterized metal-binding protein, DUF2227 family",0,1
+880,CO dehydrogenase/acetyl-CoA synthase alpha subunit,0,0
+881,50S ribosomal subunit-associated GTPase HflX,0,1
+882,Phage baseplate assembly protein W,0,0
+883,4-diphosphocytidyl-2C-methyl-D-erythritol kinase,2,1
+884,"Lyzozyme M1 (1,4-beta-N-acetylmuramidase), GH25 family",1,0
+885,Pyruvoyl-dependent arginine decarboxylase,0,1
+886,Cytochrome c556,1,1
+887,Mu-like prophage host-nuclease inhibitor protein Gam,1,0
+888,Periplasmic beta-glucosidase and related glycosidases,1,2
+889,Transcriptional regulator MetJ (met regulon),0,1
+890,NAD dependent epimerase/dehydratase family enzyme,1,0
+891,Ribosomal protein L10,1,0
+892,N-acetyl-beta-hexosaminidase,0,0
+893,Pterin-4a-carbinolamine dehydratase,1,0
+894,Predicted metal-dependent enzyme of the double-stranded beta helix superfamily,0,1
+895,Uncharacterized conserved protein YraI,0,1
+896,Sarcosine oxidase gamma subunit,0,1
+897,"dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme",0,0
+898,Purine nucleoside permease,1,0
+899,Sugar-specific transcriptional regulator TrmB,0,1
+900,Chromosome segregation and condensation protein ScpB,0,0
+901,"Heavy metal-bindng TRASH/YHS domain, predicted Cu/Ag metallochaperone",0,1
+902,"DNA glycosylase YcaQ, repair of DNA interstrand crosslinks",0,1
+903,Multidrug efflux pump subunit AcrB,0,0
+904,Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase),2,0
+905,Maltose-binding periplasmic protein MalE,0,0
+906,"Glucoamylase (glucan-1,4-alpha-glucosidase), GH15 family",1,0
+907,"Hydroxyethylthiazole kinase, sugar kinase family",0,1
+908,"Phosphoserine phosphatase RsbU, regulator of sigma subunit",1,0
+909,Acyl CoA:acetate/3-ketoacid CoA transferase,0,1
+910,"3'-5' exonuclease KapD, inhibitor of KinA-controlled sporulation",0,0
+911,Proteasome assembly chaperone (PAC2) family protein,0,1
+912,"Aldehyde, CO, or xanthine dehydrogenase, Fe-S subunit, CoxS/CutS family",2,0
+913,"Secreted/periplasmic Zn-dependent peptidases, insulinase-like",1,0
+914,"c-di-AMP synthetase, contains DisA_N domain",0,1
+915,"Iron-binding protein Fra/YdhG, frataxin family (Fe-S cluster biosynthesis)",0,0
+916,DNA recombination-dependent growth factor RdgC,0,0
+917,"Uncharacterized conserved protein RhaS, contains 28 RHS repeats",1,0
+918,Flagellar biosynthesis/type III secretory pathway ATPase FliI,1,0
+919,"Uncharacterized conserved protein, DUF2155 domain",0,1
+920,tRNA1(Val) A37 N6-methylase TrmN6,0,0
+921,"Colicin V production accessory protein CvpA, regulator of purF expression and biofilm formation",0,0
+922,Divalent metal cation (Fe/Co/Zn/Cd) efflux pump,1,0
+923,Myo-inositol-1-phosphate synthase,0,0
+924,Uncharacterized conserved protein involved in sex pheromone biosynthesis,0,0
+925,Bacterioferritin (cytochrome b1),1,1
+926,"Uncharacterized protein, contains RES domain",1,1
+927,"Uncharacterized membrane protein YjfL, UPF0719 family",0,1
+928,3-methyladenine DNA glycosylase AlkD,0,1
+929,"Uncharacterized membrane protein MJ1443, UPF0132 family",1,0
+930,Antitoxin component of the RelBE or YafQ-DinJ toxin-antitoxin module,3,0
+931,"Periplasmic chaperone Spy, Spy/CpxP family",1,1
+932,"Uncharacterized conserved protein, DUF2247 domain",1,0
+933,Arginine repressor,0,1
+934,"RecA-superfamily ATPase, KaiC/GvpD/RAD55 family",0,1
+935,Isopenicillin N synthase and related dioxygenases,1,0
+936,"Predicted phosphohydrolase or phosphomutase, AlkP superfamily",1,1
+937,"6-phosphogluconolactonase, cycloisomerase 2 family",1,0
+938,"ABC-type siderophore export system, fused ATPase and permease components",0,1
+939,Phosphopentomutase,0,1
+940,"Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain",0,0
+941,"Uncharacterized membrane protein, DUF1648 family",1,0
+942,Pyridoxine/pyridoxamine 5'-phosphate oxidase,0,2
+943,Dihydroorotase,1,0
+944,"Predicted acetyltransferase, GNAT family",1,0
+945,UTP:GlnB (protein PII) uridylyltransferase,2,0
+946,Soluble P-type ATPase,0,0
+947,"Glucose dehydrogenase, PQQ-dependent",1,0
+948,Deoxyadenosine/deoxycytidine kinase,0,1
+949,"Global stress regulator YbjN, DUF2299 family",1,0
+950,Glycine/serine hydroxymethyltransferase,1,0
+951,Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase,0,1
+952,Xaa-Pro aminopeptidase,1,0
+953,"Glycyl-tRNA synthetase, alpha subunit",1,0
+954,"Uncharacterized conserved protein, DUF2121 domain",0,1
+955,CRISPR-Cas type I system-associated endonuclease/helicase Cas3,0,1
+956,Negative regulator of flagellin synthesis (anti-sigma28 factor),2,0
+957,Acyl-homoserine lactone (AHL) acylase PvdQ,1,0
+958,"SOS response regulatory protein OraA/RecX, interacts with RecA",0,1
+959,Mg2+/citrate symporter,1,0
+960,"Uncharacterized conserved protein, DUF1150 family",0,0
+961,"ABC-type Fe2+-enterobactin transport system, periplasmic component",0,2
+962,"L-lactate utilization protein LutC, contains LUD domain",1,0
+963,"Cysteine protease, C1A family",0,1
+964,DNA repair enzyme Ada (O6-methylguanine-DNA--protein-cysteine methyltransferase),0,0
+965,"Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains",0,0
+966,"GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)",0,0
+967,"Predicted nucleic acid-binding protein, contains Zn-finger domain",1,1
+968,Ribosomal protein S26e,0,1
+969,Thiamine transporter ThiT,0,1
+970,"Vancomycin resistance protein YoaR (function unknown), contains peptidoglycan-binding and VanW domains",0,1
+971,"Phage terminase, small subunit",0,0
+972,O-Glycosyl hydrolase,0,0
+973,"PIN domain nuclease, a component of toxin-antitoxin system (PIN domain)",0,1
+974,FAD/FMN-containing lactate dehydrogenase/glycolate oxidase,1,0
+975,Peptidyl-tRNA hydrolase,0,0
+976,"mRNA-degrading endonuclease MazF, toxin component of the MazEF toxin-antitoxin module",1,0
+977,"Predicted RNA binding protein with dsRBD fold, UPF0201 family",1,1
+978,Sugar diacid utilization regulator CdaR,1,0
+979,"Uncharacterized membrane protein, DUF2127 domain",0,1
+980,Ribosomal protein L18,0,2
+981,"Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction",0,0
+982,"Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase",0,1
+983,Type IV pilus biogenesis protein CpaD/CtpE,0,0
+984,4-hydroxy-tetrahydrodipicolinate reductase,0,1
+985,D-ribose pyranose/furanose isomerase RbsD,1,0
+986,Predicted lipase,1,1
+987,"Transcriptional regulatory protein LevR, contains PRD, AAA+ and EIIA domains",0,1
+988,Cation-transporting P-type ATPase,1,0
+989,Predicted esterase,0,0
+990,Phage terminase large (ATPase) subunit and inactivated derivatives,1,0
+991,"Type I site-specific restriction endonuclease, part of a restriction-modification system",0,2
+992,Ribosomal protein S14,1,0
+993,Capsule polysaccharide export protein KpsE/RkpR,0,1
+994,"Uncharacterized conserved protein, DUF2390 domain",0,1
+995,"Beta-L-arabinofuranosidase, GH127 family",1,0
+996,"General stress protein YciG, contains tandem KGG domains",0,0
+997,"Type III secretory pathway, EscU/YscU component",0,0
+998,"Uncharacterized conserved protein YjaG, DUF416 family",2,0
+999,PAS domain,0,1
+1000,HD superfamily phosphohydrolase,0,1
+1001,"Uncharacterized conserved protein, conains N-terminal glutamine amidotransferase (GATase1)-like domain",0,0
+1002,Ribosome biogenesis GTPase RsgA,0,1
+1003,Na+/H+ antiporter NhaC/MleN,2,0
+1004,"Fructose-bisphosphate aldolase class Ia, DhnA family",1,1
+1005,"rRNA maturation protein Nop10, contains Zn-ribbon domain",0,0
+1006,"Regulator of sirC expression, contains transglutaminase-like and TPR domains",0,1
+1007,Sugar (pentulose or hexulose) kinase,1,1
+1008,"Putative Ca2+/H+ antiporter, TMEM165/GDT1 family",1,1
+1009,Thioredoxin-related protein SoxW,1,0
+1010,Predicted enzyme involved in methoxymalonyl-ACP biosynthesis,0,0
+1011,Acyl carrier protein phosphodiesterase,0,0
+1012,RNA degradosome component RraA (regulator of RNase E activity),0,0
+1013,Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase,0,0
+1014,"Uncharacterized conserved protein YfbU, UPF0304 family",0,0
+1015,"Transglutaminase-like enzyme, putative cysteine protease",0,1
+1016,"ABC-type arginine transport system, ATPase component",0,2
+1017,"ABC-type Co2+ transport system, permease component",1,0
+1018,Predicted naringenin-chalcone synthase,0,1
+1019,Na+/H+-dicarboxylate symporter,0,1
+1020,Malate/lactate dehydrogenase,0,0
+1021,Adenine deaminase,0,0
+1022,"Sugar or nucleoside kinase, ribokinase family",1,0
+1023,"Uncharacterized membrane protein PF0508, contains N-terminal glycosyltransferase domain of PMT family",2,1
+1024,"23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)",0,1
+1025,"tRNA G26 N,N-dimethylase Trm1",0,1
+1026,Flavodoxin/ferredoxin--NADP reductase,0,0
+1027,"Uncharacterized conserved protein, DUF1850 family",0,0
+1028,"Accessory colonization factor AcfC, contains ABC-type periplasmic domain",1,0
+1029,Preprotein translocase subunit Sec63,0,1
+1030,"Cytoplasmic potassium-binding protein Kbp/XkdP/YgaU, contains LysM domain",0,1
+1031,Lysyl-tRNA synthetase (class II),1,0
+1032,"Chitinase, GH18 family",2,0
+1033,Urease accessory protein UreH,1,0
+1034,Lipoprotein signal peptidase,0,0
+1035,"Sulfatase maturation enzyme AslB, radical SAM superfamily",1,0
+1036,L-lactate permease,0,1
+1037,NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase,2,1
+1038,TPR-like repeat domain,1,2
+1039,Hemerythrin domain,0,1
+1040,"Uncharacterized protein, contains DUF2293 domain",1,0
+1041,"Putative exporter of oligosaccharides and polyketide antibiotics DrrB/NodJ, ABC-2 family",0,0
+1042,"Uncharacterized conserved protein, RmlC-like cupin domain",0,1
+1043,Phosphoglucomutase/phosphomannomutase,1,1
+1044,Archaellin (archaeal flagellin),1,0
+1045,Protoporphyrinogen oxidase HemY/PPOX,1,0
+1046,Broad-specificity NMP kinase,0,0
+1047,"Uncharacterized conserved protein, DUF2304 domain",1,0
+1048,Glycine cleavage system protein H (lipoate-binding),1,0
+1049,"Bacteriophage DNA transposition protein, AAA+ family ATPase",0,2
+1050,Thiamine monophosphate synthase,1,0
+1051,Oligoendopeptidase F,0,0
+1052,"Predicted phosphoesterase, related to the Icc protein",1,1
+1053,5-carboxymethyl-2-hydroxymuconate isomerase,0,1
+1054,"Uncharacterized membrane protein YagU, involved in acid resistance, DUF1440 family",1,0
+1055,"Uncharacterized conserved protein, contains GBA2_N and DUF608 domains",0,0
+1056,Phosphatidylglycerophosphatase A,0,0
+1057,"Predicted Kef-type K+ transport protein, K+/H+ antiporter domain",0,1
+1058,"Type II secretory pathway, PulJ/GspJ component",1,0
+1059,"Predicted transcriptional regulator, lambda repressor-like DNA-binding domain",1,1
+1060,"5-methylthioribulose/5-deoxyribulose/Fuculose 1-phosphate aldolase (methionine salvage, sugar degradation)",0,1
+1061,"Uncharacterized lipoprotein YddW, UPF0748 family",1,0
+1062,Ribosomal protein L20,0,0
+1063,Surface antigen,1,0
+1064,"Aromatic ring-opening dioxygenase, LigB subunit",1,0
+1065,Uncharacterized conserved protein YezD,1,1
+1066,"Uncharacterized conserved protein, contains SIS (Sugar ISomerase) phosphosugar binding domain",0,1
+1067,"Stress-induced protein YlxP, DUF503 family",1,0
+1068,RNA methyltransferase activator Trm112/YbaR,1,1
+1069,Beta-ribofuranosylaminobenzene 5'-phosphate synthase (methanopterin biosynthesis),0,1
+1070,Formylmethanofuran dehydrogenase subunit E,1,1
+1071,"CRISPR/Cas system-associated protein Csx1, contains CARF domain",0,1
+1072,Copper homeostasis protein CutC,0,1
+1073,Lipopolysaccharide biosynthesis protein,1,2
+1074,"Uncharacterized conserved protein, DUF1801 domain",1,0
+1075,"Phosphotransferase system, galactitol-specific IIB component",1,2
+1076,"Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit",1,1
+1077,Archaeal IMP cyclohydrolase,0,1
+1078,"Predicted antitoxin component YuzE of a toxin-antitoxin system, DUF2283 family",1,1
+1079,"Ribonuclease HI-related protein, contains viroplasmin and RNaseH domains",0,0
+1080,"Ferritin-like DNA-binding protein, DPS (DNA Protection under Starvation) family",1,1
+1081,"Uncharacterized conserved protein YutD, DUF1027 family",0,1
+1082,6-phosphofructokinase,0,0
+1083,"Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily",1,0
+1084,Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit,1,0
+1085,Ribosomal protein L19E,0,1
+1086,Fe2+ or Zn2+ uptake regulation protein Fur/Zur,1,0
+1087,Cobalamin synthase CobS (adenosylcobinamide-GDP ribazoletransferase),0,1
+1088,Spermidine synthase (polyamine aminopropyltransferase),0,0
+1089,Biotin carboxyl carrier protein,0,1
+1090,Uncharacterized Zn-ribbon-containing protein,0,1
+1091,"Uncharacterized conserved protein, DUF924 family",1,0
+1092,"Beta-glucanase, GH16 family",1,0
+1093,Glycine cleavage system regulator GcvR,0,2
+1094,"D-threonate/D-erythronate kinase OtnK and related C4-acid sugar kinases, YgbK/DUF1537 family",1,0
+1095,"DNA/RNA endonuclease YhcR, contains UshA esterase domain",0,1
+1096,"Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold",0,1
+1097,Arylamine N-acetyltransferase,0,1
+1098,Negative regulator of replication initiation SeqA,0,1
+1099,Predicted neuraminidase (sialidase),1,0
+1100,UDP-N-acetylmuramyl tripeptide synthase,1,0
+1101,"Uncharacterized conserved protein, DUF885 family",0,1
+1102,Signal transduction histidine kinase regulating C4-dicarboxylate transport system,0,1
+1103,Mg/Co/Ni transporter MgtE (contains CBS domain),0,1
+1104,"ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain",1,0
+1105,"Uncharacterized conserved protein YcfJ, contains glycine zipper 2TM domain",0,2
+1106,"Predicted O-linked N-acetylglucosamine transferase, SPINDLY family",1,0
+1107,Glutathione S-transferase,0,2
+1108,Beta- N-acetylglucosaminidase,0,0
+1109,Branched-chain amino acid permease,1,0
+1110,"Uncharacterized conserved protein YehS, DUF1456 family",0,0
+1111,"AAA+-type ATPase, SpoVK/Ycf46/Vps4 family",1,1
+1112,"Uncharacterized conserved protein YozE, UPF0346 family",1,1
+1113,UDP-3-O-acyl-N-acetylglucosamine deacetylase,0,2
+1114,Ubiquitin,0,2
+1115,CO dehydrogenase/acetyl-CoA synthase delta subunit (corrinoid Fe-S protein),0,1
+1116,Endoglucanase Acf2,0,1
+1117,Translation initiation factor 1 (eIF-1/SUI1),0,0
+1118,"Gentisate 1,2-dioxygenase",0,0
+1119,"Flp pilus assembly protein TadG, includes N-terminal TadE domain",1,0
+1120,Outer membrane translocation and assembly module TamA,1,1
+1121,"Uncharacterized membrane protein YkvA, DUF1232 family",0,0
+1122,"Competence protein CoiA, contains predicted nuclease domain",2,0
+1123,"Mitochondrial translation protein, Rmd1/RMND1/DUF155 family",0,1
+1124,"Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif",0,0
+1125,Formylmethanofuran dehydrogenase subunit D,1,0
+1126,Predicted helicase,1,2
+1127,NAD/NADP transhydrogenase alpha subunit,0,1
+1128,L-2-hydroxyglutarate oxidase LhgO,1,0
+1129,Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O),2,0
+1130,3-isopropylmalate dehydratase small subunit,0,2
+1131,Peptidase E,1,0
+1132,"Translation initiation factor 2, gamma subunit (eIF-2gamma; GTPase)",0,0
+1133,Dipeptidyl aminopeptidase/acylaminoacyl peptidase,1,0
+1134,"Uncharacterized conserved protein YpuA, DUF1002 family",0,1
+1135,"Uncharacterized conserved protein with two CxxC motifs, DUF1111 family",0,1
+1136,"Uncharacterized conserved protein, DUF2153 domain",0,1
+1137,Antitoxin component MazE of the MazEF toxin-antitoxin module,0,0
+1138,DNA-binding response regulator DpiB of citrate/malate metabolism,1,0
+1139,"NAD(P)H-nitrite reductase, large subunit",0,1
+1140,"Type IV secretory pathway, component VirB8",0,3
+1141,"Uncharacterized conserved protein, UPF0210 family",0,1
+1142,"Phosphoenolpyruvate carboxykinase, GTP-dependent",1,0
+1143,"Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit",0,0
+1144,"FoF1-type ATP synthase, membrane subunit a",0,0
+1145,Sulfur carrier protein ThiS (thiamine biosynthesis),1,1
+1146,Predicted Ser/Thr protein kinase,1,0
+1147,Phage head-tail adaptor,1,0
+1148,"Predicted transciptional regulator, contains HTH domain",0,1
+1149,Uncharacterized domain associated with phage/plasmid primase,1,0
+1150,"Rps3 or RNA methylase involved in ribosome biogenesis, SPOUT family",0,1
+1151,Succinylglutamate desuccinylase,1,1
+1152,Predicted nucleotide-binding protein containing TIR -like domain,0,1
+1153,tRNA(His) 5'-end guanylyltransferase,0,1
+1154,"5S rRNA maturation ribonuclease M5, contains TOPRIM domain",1,0
+1155,"Uncharacterized membrane protein YdjX, related to fungal oxalate transporter, TVP38/TMEM64 family",1,0
+1156,"SirA-like two-layered alpha/beta sandwich domain, DUF2249 family",0,0
+1157,Predicted PurR-regulated permease PerM,1,0
+1158,"DNA topoisomerase VI, subunit B",2,0
+1159,"Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains",1,0
+1160,"Uncharacterized conserved protein YqfB, UPF0267 family",1,0
+1161,"Glycogen debranching enzyme (alpha-1,6-glucosidase)",0,1
+1162,"ABC-type taurine transport system, ATPase component",0,1
+1163,Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase PhnM,0,1
+1164,Peptide chain release factor RF-3,0,0
+1165,"Uncharacterized membrane protein, DUF4212 domain",0,2
+1166,Phage integrase/recombinase,0,1
+1167,"Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains",1,1
+1168,23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI,0,1
+1169,"Uncharacterized conserved protein, DUF2199 domain",1,0
+1170,"Uncharacterized conserved protein MJ1244, distantly related to nitrogen regulatory protein PII",2,0
+1171,tRNA nucleotidyltransferase/poly(A) polymerase,1,1
+1172,Cell pole-organizing protein PopZ,0,0
+1173,"tRNA U47 aminocarboxypropyltransferaseTapT/TuaA/ YfiP, DTW domain",1,1
+1174,"Predicted arabinose efflux permease AraJ, MFS family",1,0
+1175,Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnG,1,0
+1176,"Flagellar assembly protein FapA, interacts with EIIAGlc",0,0
+1177,Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation,1,0
+1178,Phosphoketolase,1,0
+1179,Hemin uptake protein HemP,1,1
+1180,B3/B4 domain (DNA/RNA-binding domain of Phe-tRNA-synthetase),1,0
+1181,DNA polymerase B elongation subunit,1,1
+1182,Periplasmic component TolB of the Tol biopolymer transport system,1,0
+1183,3-phosphoglycerate kinase,0,1
+1184,"Glyoxalase superfamily enzyme, possible 3-demethylubiquinone-9 3-methyltransferase",0,0
+1185,"Predicted DNA-binding transcriptional regulator YerC, contains ArsR-like HTH domain",0,1
+1186,"Uncharacterized conserved protein, DUF2000 domain",1,0
+1187,"Uncharacterized conserved protein, DUF371 domain",1,1
+1188,Bacterial lipocalin Blc,0,1
+1189,Outer membrane cobalamin receptor protein BtuB,1,0
+1190,"UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family",0,1
+1191,3-oxoacyl-(acyl-carrier-protein) synthase,0,1
+1192,Glycerol-1-phosphate heptaprenyltransferase,2,0
+1193,Uncharacterized integral membrane protein,1,1
+1194,Predicted ATP-dependent protease,1,0
+1195,tRNA-dihydrouridine synthase,1,0
+1196,"Regulator of T6SS expression TagF, TagF/ImpM/SciT family (unrelated to teichoic acid polymerase TagF of B.subtilis, COG1887)",0,1
+1197,Uncharacterized membrane protein YqhA,1,0
+1198,"Uncharacterized conserved protein, DUF1674 domain",0,1
+1199,Arginine decarboxylase (spermidine biosynthesis),1,0
+1200,Predicted small integral membrane protein,0,1
+1201,"Predicted metal-binding protein, contains CGGC domain",0,2
+1202,Predicted kinase related to galactokinase and mevalonate kinase,1,1
+1203,"Predicted DNA-binding protein, UPF0251 family",0,1
+1204,"Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains",1,0
+1205,Diphthamide synthase (EF-2-diphthine--ammonia ligase),2,0
+1206,"Predicted methyltransferase, contains TPR repeat",1,2
+1207,"Heme/copper-type cytochrome/quinol oxidase, subunit 3",1,0
+1208,"Toxin component of the Txe-Axe toxin-antitoxin module, Txe/YoeB family",1,1
+1209,Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL,1,0
+1210,Phage-related baseplate assembly protein,1,1
+1211,D-arabinose 5-phosphate isomerase GutQ,0,1
+1212,Cupin domain protein related to quercetin dioxygenase,1,0
+1213,Virulence factor SrfC-related protein,2,0
+1214,Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis),0,1
+1215,"Cell division protein DamX, binds to the septal ring, contains C-terminal SPOR domain",1,0
+1216,Proline dehydrogenase,0,0
+1217,Isocitrate dehydrogenase kinase/phosphatase,0,1
+1218,"Predicted metalloprotease, contains C-terminal PDZ domain",1,0
+1219,Signal transduction histidine kinase,1,0
+1220,CTP:molybdopterin cytidylyltransferase MocA,0,1
+1221,"CRISPR-Cas system-associated protein Csm6, contains CARF domain",0,0
+1222,Coproheme decarboxylase/chlorite dismutase,1,0
+1223,"Adenylate cyclase class IV, CYTH domain (includes archaeal enzymes of unknown function)",0,1
+1224,Phosphosulfolactate phosphohydrolase or related enzyme,0,1
+1225,"Uncharacterized conserved protein, DUF452 domain",0,1
+1226,"AIM24 protein, required for mitochondrial respiration",1,0
+1227,Type IV pilus assembly protein PilV,0,1
+1228,Replicative DNA helicase,1,0
+1229,Acyl-CoA-binding protein,1,0
+1230,Cytochrome c5,1,0
+1231,"20S proteasome, alpha and beta subunits",1,1
+1232,"RNase adaptor protein RapZ for GlmZ sRNA degradation, contains a P-loop ATPase domain",0,1
+1233,Predicted periplasmic protein,0,0
+1234,Mu-like prophage tail protein gpP,0,0
+1235,"Stalled ribosome rescue protein Dom34, pelota family",0,0
+1236,Dihydroneopterin aldolase,0,2
+1237,Predicted restriction endonuclease,0,1
+1238,Nitrous oxide reductase accessory protein NosL,0,1
+1239,Phosphotransferase system sorbitol-specific IIB component,0,1
+1240,"Queuosine precursor transporter YhhQ, DUF165 family",0,0
+1241,Triosephosphate isomerase,0,1
+1242,"Uncharacterized conserved protein, UPF0548 family",1,0
+1243,"Ni,Fe-hydrogenase I cytochrome b subunit",0,0
+1244,Peptide chain release factor 1 (eRF1),0,1
+1245,Predicted P-loop ATPase/GTPase,1,0
+1246,"Mannose-6-phosphate isomerase, cupin superfamily",0,1
+1247,Superfamily I DNA or RNA helicase,2,0
+1248,"Lipopolysaccharide biosynthesis protein, LPS:glycosyltransferase",0,1
+1249,"Polynucleotide 5'-kinase, involved in rRNA processing",1,0
+1250,"Nucleoside phosphorylase/nucleosidase, includes 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase MtnN and futalosine hydrolase MqnB",0,0
+1251,"TPP-dependent trihydroxycyclohexane-1,2-dione (THcHDO) dehydratase, myo-inositol metabolism",0,1
+1252,RNase P/RNase MRP subunit POP5,2,0
+1253,Phage capsid protein,0,0
+1254,"Uncharacterized conserved protein, contains Zn-finger domain of CHY type",0,0
+1255,Carboxylesterase type B,0,0
+1256,"Uncharacterized membrane protein YozV, TM2 domain, contains pTyr",1,0
+1257,3-dehydroquinate synthetase,1,2
+1258,Hydrogenase/urease accessory protein HupE,1,0
+1259,Precorrin-6B methylase 1,0,1
+1260,"Uncharacterized conserved protein YlbG, UPF0298 family",0,2
+1261,"Predicted membrane anchor for polysulfide/nitrite-type reductase, PsrC/NrfD syperfamily",1,0
+1262,Glutamate synthase domain 1,0,1
+1263,"Malate/lactate/ureidoglycolate dehydrogenase, LDH2 family",2,0
+1264,"Uncharacterized membrane protein YadS, UPF0324 family",1,0
+1265,"Uncharacterized conserved protein YjfI, DUF2170 family",0,1
+1266,"Methyl coenzyme M reductase, subunit C",2,0
+1267,"Uncharacterized conserved protein, DUF937 domain",1,0
+1268,"ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components",0,0
+1269,Repressor of nif and glnA expression,0,1
+1270,Thymidine phosphorylase,0,1
+1271,"DNA polymerase III, epsilon subunit or related 3'-5' exonuclease",1,0
+1272,"Methanofuran synthetase MfnF, hydantoinase/oxoprolinase family",0,1
+1273,D-mannonate dehydratase,1,1
+1274,"Uncharacterized protein, UPF0437 family",1,0
+1275,Ribosomal protein S8E,1,0
+1276,"Uncharacterized conserved protein YaiL, DUF2058 family",0,1
+1277,"ABC-type branched-chain amino acid transport system, periplasmic component",1,0
+1278,"Sulfate permease or related transporter, MFS superfamily",0,0
+1279,"Integral membrane protein YbhL, putative Ca2+ regulator, Bax inhibitor (BI-1)/TMBIM family",1,0
+1280,"Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family",0,0
+1281,Rad3-related DNA helicase DinG,1,0
+1282,Predicted metal-dependent peptidase,0,0
+1283,"NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, N-terminal domain",1,0
+1284,"Thioredoxin/glutathione peroxidase BtuE, reduces lipid peroxides",1,0
+1285,"Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily",1,0
+1286,"Uncharacterized conserved protein, DUF1737 domain",2,0
+1287,"Taurine dioxygenase, alpha-ketoglutarate-dependent",0,2
+1288,Molybdopterin-binding protein MopI,0,1
+1289,Type III restriction endonuclease,0,1
+1290,"3-dehydroquinate synthase, class II",0,0
+1291,"Tetrahydromethanopterin S-methyltransferase, subunit H",1,0
+1292,"RNA polymerase-interacting regulator, CarD/CdnL/TRCF family",0,0
+1293,Energy-converting hydrogenase Eha subunit F,0,1
+1294,"Uncharacterized conserved protein, DUF1244 family",2,1
+1295,Flagellar motor switch protein FliG,0,0
+1296,Periplasmic Zn/Cd-binding protein ZinT,1,0
+1297,Archaeal DNA repair protein NreA,1,1
+1298,Diphthamide biosynthesis methyltransferase,0,1
+1299,UDP-glucose 6-dehydrogenase,0,0
+1300,"1,4-dihydroxy-6-naphtoate synthase (menaquinone biosynthesis, futalosine pathway)",0,1
+1301,"Microcystin degradation protein MlrC, contains DUF1485 domain",1,1
+1302,"Two-component sensor histidine kinase, HisKA and HATPase domains",1,1
+1303,Homoserine kinase,1,0
+1304,Phosphotransferase system sorbitol-specific IIA component,2,0
+1305,Disulfide bond formation protein DsbB,0,1
+1306,"Uncharacterized conserved protein, DUF2095 family",0,3
+1307,"CRISPR-Cas system type III CSM-effector complex subunit Csm4, RAMP superfamily Cas5 group",0,1
+1308,Formylmethanofuran dehydrogenase subunit B,1,0
+1309,"Uncharacterized conserved protein, DUF2203 domain",1,1
+1310,Protein tyrosine phosphatase,0,1
+1311,Periplasmic Cu and Ag efflux protein CusF,1,0
+1312,Peptidoglycan hydrolase (amidase) enhancer domain SpoIID,0,0
+1313,Mannose-1-phosphate guanylyltransferase,0,2
+1314,Ubiquitin-protein ligase,0,0
+1315,Formamidopyrimidine-DNA glycosylase,1,0
+1316,UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase,1,0
+1317,Phosphopantetheinyl transferase (holo-ACP synthase),0,1
+1318,"ABC-type proline/glycine betaine transport system, permease component",1,1
+1319,Streptomycin 6-kinase,0,1
+1320,"(p)ppGpp synthase/hydrolase, HD superfamily",0,1
+1321,Transcriptional regulator of heat shock response,0,1
+1322,Predicted ester cyclase,2,0
+1323,"Adenine-specific DNA methylase, contains a Zn-ribbon domain",1,0
+1324,"YycI protein, regulator of the WalKR two-component signal transduction system",0,0
+1325,Predicted nucleotidyltransferase YcgL,0,0
+1326,Flagellar basal body rod protein FlgC,0,1
+1327,"Acetyl-CoA carboxylase, carboxyltransferase component",0,1
+1328,"Coenzyme F420-reducing hydrogenase, beta subunit",0,1
+1329,Ribosomal protein S19E (S16A),0,1
+1330,"Regulator of protease activity HflC, stomatin/prohibitin superfamily",0,2
+1331,"Ribonuclease/mRNA interferase VapC, contains PIN domain",0,1
+1332,Mitochondrial fission protein ELM1,0,0
+1333,Translation initiation factor IF-1,1,1
+1334,Cellobiose phosphorylase,0,0
+1335,Acetyl esterase/lipase,1,0
+1336,"Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain",0,1
+1337,"Uncharacterized membrane protein, DUF2061 family",1,0
+1338,"rRNA processing protein Krr1/Pno1, contains KH domain",0,0
+1339,"Membrane protein LiaF, inhibitor of the LiaRS two-component envelope stress sensory system",0,1
+1340,Signal transduction histidine kinase ComP,3,0
+1341,Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase),1,0
+1342,"Succinyl-CoA synthetase, alpha subunit",1,0
+1343,Signal recognition particle subunit SEC65,0,1
+1344,"SspB-like protein, predicted to bind SsrA peptide",1,1
+1345,"Signal recognition particle receptor subunit beta, a GTPase",1,0
+1346,NADP-dependent 3-hydroxy acid dehydrogenase YdfG,0,2
+1347,"Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase",0,1
+1348,"Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain",1,0
+1349,Phage protein D,0,1
+1350,NADH:ubiquinone oxidoreductase NDUFA12 subunit (Leigh syndrome),0,0
+1351,Predicted phage phi-C31 gp36 major capsid-like protein,0,1
+1352,Periplasmic subunit MlaC of the ABC-type intermembrane phospholipid transporter Mla,1,0
+1353,"ATP-dependent protease Clp, ATPase subunit ClpX",0,1
+1354,Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase,0,1
+1355,"Ribosome-associated protein YbcJ, S4-like RNA-binding protein",1,1
+1356,16S rRNA G966 N2-methylase RsmD,3,0
+1357,"Endonuclease, HJR/Mrr/RecB family",0,1
+1358,"Uncharacterized membrane protein YjjB, DUF3815 family",0,1
+1359,"DNA-binding transcriptional regulator, XRE family",0,1
+1360,"Uncharacterized conserved protein YqhQ, DUF1385 family",0,0
+1361,Ribosomal protein S15P/S13E,0,1
+1362,"Phage terminase, large subunit GpA",1,0
+1363,Ribosomal protein S4E,1,0
+1364,Small nuclear ribonucleoprotein (snRNP) homolog,1,0
+1365,"Predicted carbamoyl transferase, NodU family",1,0
+1366,Regulatory P domain of the subtilisin-like proprotein convertases and other proteases,0,0
+1367,"Ca2+-binding protein, EF-hand superfamily",0,1
+1368,"Zn/Ni/Co-binding GTPase YjiA, predicted metallochaperone, CobW/Nha3/YciC family",0,0
+1369,Divalent cation tolerance protein CutA,0,0
+1370,Thioesterase domain of type I polyketide synthase or non-ribosomal peptide synthetase,1,0
+1371,Dolichol kinase,2,1
+1372,Asp/Glu/hydantoin racemase,1,0
+1373,4-hydroxyphenylpyruvate dioxygenase and related hemolysins,0,2
+1374,Folylpolyglutamate synthase/Dihydropteroate synthase,1,1
+1375,Translation elongation factor EF-Ts,0,1
+1376,"Predicted transcriptional regulator, contains XRE-type HTH domain",1,0
+1377,"Uncharacterized conserved protein, DUF2117 domain",1,0
+1378,"Uncharacterized conserved protein, DUF432 domain",0,1
+1379,N-formylglutamate amidohydrolase,2,1
+1380,"ABC-type maltose transport system, permease component MalG",0,1
+1381,Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase,1,1
+1382,"Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family",1,0
+1383,Aspartyl aminopeptidase,0,1
+1384,"Predicted restriction endonuclease, Mrr-cat superfamily",1,1
+1385,"tRNA threonylcarbamoyladenosine modification (KEOPS) complex,  Cgi121 subunit",1,1
+1386,Tellurite resistance protein TerB,0,0
+1387,Archaeal flavoprotein,1,0
+1388,"Methylmalonyl-CoA mutase, N-terminal domain/subunit",0,2
+1389,Gamma-glutamylcysteine synthetase,0,2
+1390,"Endonuclease, Uma2 family (restriction endonuclease fold)",0,1
+1391,Cytochrome b involved in lipid metabolism,0,0
+1392,"Predicted Fe-S protein YdhL, DUF1289 family",3,0
+1393,L-amino acid N-acyltransferase MnaT,0,1
+1394,"Cdc6-related protein, AAA superfamily ATPase",0,2
+1395,"Uncharacterized conserved protein, contains GYD domain",0,1
+1396,"Multimeric flavodoxin WrbA, includes NAD(P)H:quinone oxidoreductase",0,2
+1397,Activator of HSP90 ATPase,0,1
+1398,"Sugar transporter, SemiSWEET family, contains PQ motif",0,1
+1399,Pyruvate-formate lyase,2,0
+1400,Protein translocase subunit YajC,0,0
+1401,Phosphopantetheine adenylyltransferase,1,0
+1402,"Uncharacterized conserved protein YegJ, DUF2314 family",2,1
+1403,Heme-degrading monooxygenase HmoA and related ABM domain proteins,1,0
+1404,Predicted outer membrane lipoprotein,1,0
+1405,Na+/citrate or Na+/malate symporter,1,0
+1406,Enterochelin esterase or related enzyme,0,0
+1407,"Sugar isomerase-related protein YecE, UPF0759/DUF72 family",1,0
+1408,FMN-dependent NADH-azoreductase,0,0
+1409,"ABC-type molybdate transport system, permease component ModB",0,1
+1410,Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC,1,0
+1411,Enoyl-CoA hydratase/carnithine racemase,1,0
+1412,"Type IV secretory pathway, VirJ component",0,1
+1413,"HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)",0,0
+1414,"Alkyl sulfatase BDS1 and related hydrolases, metallo-beta-lactamase superfamily",1,0
+1415,Uncaracterized surface protein containing fasciclin (FAS1) repeats,1,1
+1416,"Uncharacterized conserved protein, DUF2248 family",0,1
+1417,D-alanyl-D-alanine dipeptidase,1,1
+1418,"Uncharacterized conserved protein, DUF2194 domain",1,0
+1419,"ABC-type Mn2+/Zn2+ transport system, permease component",2,0
+1420,"Uncharacterized TerC-related membrane protein, DUF475 domain",0,0
+1421,"Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)",0,0
+1422,Excinuclease UvrABC ATPase subunit,0,1
+1423,Signal peptidase I,0,1
+1424,Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase,0,1
+1425,"Type II secretory pathway, component PulF",0,0
+1426,"Transposase and inactivated derivatives, IS5 family",0,1
+1427,Putative Mn2+ efflux pump MntP,0,1
+1428,"Type II restriction/modification system, endonuclease and methylase domains",1,1
+1429,"Uncharacterized protein CoxE, contains von Willebrand factor type A (vWA) domain",3,0
+1430,"Uncharacterized conserved protein, DUF2164 family",0,1
+1431,"Uncharacterized conserved protein, FlaG/YvyC family",1,0
+1432,23S rRNA maturation mini-RNase III,1,1
+1433,"Uncharacterized conserved protein TM0948, MoaA-related, radical SAM superfamily",1,0
+1434,"Ethanolamine utilization protein EutQ, cupin superfamily (function unknown)",0,1
+1435,"Murein L,D-transpeptidase YafK",0,1
+1436,"Predicted thiol-disulfide oxidoreductase YuxK, DCC family",0,1
+1437,"Uncharacterized conserved protein, contains Extensin-like_C domain",0,1
+1438,"Small heat shock protein IbpA, HSP20 family",1,0
+1439,"2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",0,0
+1440,"Electron transfer flavoprotein, alpha subunit FixB",0,0
+1441,Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein,0,1
+1442,"Predicted methyltransferase MtxX, methanogen marker protein 4",0,1
+1443,"Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to HemY-type protoporphyrinogen oxidase)",1,0
+1444,Secreted protein containing bacterial Ig-like domain and vWFA domain,1,0
+1445,C4-type Zn-finger protein,0,0
+1446,"Predicted membrane protein, encoded in cydAB operon",0,0
+1447,S-formylglutathione hydrolase FrmB,0,1
+1448,Flavin prenyltransferase UbiX,0,2
+1449,"nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs",1,0
+1450,Intermembrane transporter PqiABC subunit PqiB,0,1
+1451,Phosphoenolpyruvate carboxylase,1,0
+1452,"Uncharacterized membrane protein, DUF1616 domain",1,0
+1453,Transposase InsA,0,1
+1454,"Putative translation regulator, IMPACT (imprinted ancient) protein family",1,0
+1455,Membrane-bound inhibitor of C-type lysozyme,1,1
+1456,Malonyl CoA-acyl carrier protein transacylase,1,0
+1457,"Chromosome condensin MukBEF, kleisin-like MukF subunit",1,0
+1458,"Predicted polyhydroxyalkanoate (PHA)-binding protein, phasin family",0,0
+1459,"GAF domain-containing protein, putative methionine-R-sulfoxide reductase",0,2
+1460,4-alpha-glucanotransferase,0,0
+1461,Uncharacterized membrane protein YesL,3,0
+1462,CO dehydrogenase nickel-insertion accessory protein CooC1,0,1
+1463,Flagellin and related hook-associated protein FlgL,0,1
+1464,Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase,0,0
+1465,Phosphorylcholine metabolism protein LicD,0,1
+1466,Methylase of polypeptide chain release factors,0,0
+1467,Lysozyme family protein,0,0
+1468,Thymidylate synthase,0,0
+1469,Cytidine deaminase,0,2
+1470,"6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)",2,0
+1471,Membrane protein implicated in regulation of membrane protease activity,0,0
+1472,Fucose 4-O-acetylase or related acetyltransferase,1,1
+1473,Antitoxin component HicB of the HicAB toxin-antitoxin system,2,0
+1474,"Uncharacterized conserved protein, DUF934 family",1,0
+1475,"Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily",1,0
+1476,"Uncharacterized membrane protein, DMT/DUF486 family",1,0
+1477,"tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family",1,0
+1478,Precorrin-6x reductase,0,0
+1479,"Prefoldin, chaperonin cofactor",0,1
+1480,Peptide methionine sulfoxide reductase MsrA,1,1
+1481,Transcriptional regulator CtsR,0,0
+1482,Uncharacterized conserved protein YcfL,0,1
+1483,"Stage II sporulation protein SpoIIM, component of the engulfment complex",2,0
+1484,CRISPR-Cas system type-II protein Cas9,1,0
+1485,"ABC-type tungstate transport system, permease component TupA",0,0
+1486,"Translation elongation factor EF-G, a GTPase",0,1
+1487,Peroxiredoxin,0,0
+1488,"Membrane-associated enzyme, PAP2 (acid phosphatase) superfamily",1,0
+1489,"2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)",0,0
+1490,Cytochrome c biogenesis protein CcdA,0,0
+1491,Chaperonin GroEL (HSP60 family),0,1
+1492,Galactose-1-phosphate uridylyltransferase,1,0
+1493,"N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit",0,1
+1494,Site-specific recombinase,1,1
+1495,"Dual-topology membrane protein YdgC, GlpM family",0,0
+1496,tRNA 5-hydroxyU34 O-methylase TrmR/YrrM,1,0
+1497,"Type IV secretory pathway, VirB4 component",1,0
+1498,"Uncharacterized conserved protein, DUF2255 domain",2,1
+1499,"Uncharacterized membrane protein YfbV, UPF0208 family",0,1
+1500,"DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains",0,1
+1501,"FMN reductase RutF, DIM6/NTAB family",1,0
+1502,tRNA nucleotidyltransferase (CCA-adding enzyme),0,1
+1503,"Uncharacterized conserved protein, contains von Willebrand factor type A (vWFA) domain",0,0
+1504,Predicted P-loop ATPase and inactivated derivatives,0,0
+1505,Hemolysin activation/secretion protein,0,1
+1506,"Uncharacterized conserved protein, DUF1476 domain",1,0
+1507,"ATP-dependent protease HslVU (ClpYQ), ATPase subunit HslU",1,0
+1508,Cation transport regulator ChaB,0,0
+1509,Cob(II)alamin adenosyltransferase,0,1
+1510,Kojibiose phosphorylase YcjT,1,0
+1511,7-cyano-7-deazaguanine synthase (queuosine biosynthesis),0,0
+1512,Uncharacterized membrane protein,0,1
+1513,"Transcription elongation factor, GreA/GreB family",2,0
+1514,Phospholipase/lecithinase/hemolysin,0,2
+1515,UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase,2,0
+1516,Wobble nucleotide-excising tRNase,1,0
+1517,"ABC-type Fe3+-siderophore transport system, permease component",1,0
+1518,"Membrane protein MutK/YedI, may be involved in DNA repair",0,0
+1519,"Uncharacterized conserved protein, DUF2097 domain",0,1
+1520,"Predicted archaeal cell division protein, SepF family",1,0
+1521,Co-chaperonin GroES (HSP10),0,1
+1522,Membrane carboxypeptidase/penicillin-binding protein,1,0
+1523,Ribosomal protein S12 methylthiotransferase accessory factor YcaO,0,0
+1524,"Uncharacterized protein, contains SWIM-type Zn finger domain",0,1
+1525,4-hydroxybenzoate synthetase (chorismate-pyruvate lyase),1,0
+1526,Phage portal protein BeeE,1,1
+1527,Putative flippase GtrA (transmembrane translocase of bactoprenol-linked glucose),0,1
+1528,"Ferredoxin-thioredoxin reductase, catalytic subunit",1,0
+1529,Cytochrome c oxidase subunit IV,1,0
+1530,"Uncharacterized beta-barrel protein YwiB, DUF1934 family",1,0
+1531,Bacterial nucleoid DNA-binding protein IHF-alpha,1,0
+1532,Very-short-patch-repair endonuclease,1,1
+1533,Uncharacterized conserved protein YegI with protein kinase and helix-hairpin-helix DNA-binding domains,0,1
+1534,Fatty acid-binding protein DegV (function unknown),0,0
+1535,"Uncharacterized Fe-S cluster-containing enzyme, radical SAM superfamily",0,0
+1536,GTPase-interacting Yip1 domain,0,0
+1537,Archaeal S-adenosylmethionine synthetase,0,1
+1538,"Uncharacterized conserved protein, DUF2110 domain",0,0
+1539,"Uncharacterized conserved protein, contains N-terminal Zn-finger domain",0,0
+1540,Uncharacterized membrane protein YiaA,0,0
+1541,Ribonuclease D,0,0
+1542,Cell division protein FtsX,0,2
+1543,"Uncharacterized conserved protein YgiM, contains N-terminal SH3 domain, DUF1202 family",1,0
+1544,CBS-domain-containing membrane protein,1,0
+1545,"DNA-binding transcriptional regulator LsrR, DeoR family",1,0
+1546,Molybdopterin Mo-transferase (molybdopterin biosynthesis),0,0
+1547,"Type IV secretory pathway, VirB6 component",0,0
+1548,"Outer membrane lipoprotein LpoB, binds and activates PBP1b",2,1
+1549,Uncharacterized low-complexity protein,0,2
+1550,ABC-type ATPase fused to a predicted acetyltransferase domain,0,1
+1551,"Uncharacterized membrane permease YidK, sodium:solute symporter family",1,0
+1552,"Uncharacterized conserved protein YrzB, UPF0473 family",0,1
+1553,Predicted metallopeptidase,0,0
+1554,"1,2-phenylacetyl-CoA epoxidase, PaaB subunit",0,0
+1555,"Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family",1,0
+1556,"NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain",0,0
+1557,Ketopantoate hydroxymethyltransferase,0,0
+1558,"HD superfamily phosphodieaserase, includes HD domain of RNase Y",0,1
+1559,RNase P/RNase MRP subunit p30,1,0
+1560,"Cell wall-associated hydrolase, NlpC_P60 family",0,1
+1561,Reverse gyrase,1,1
+1562,"Heme/copper-type cytochrome/quinol oxidase, subunit 4",0,1
+1563,"Endolytic transglycosylase MltG, terminates peptidoglycan polymerization",0,1
+1564,UDP-N-acetylglucosamine 2-epimerase,1,0
+1565,Chromate transport protein ChrA,0,0
+1566,"Uncharacterized protein, contains DUF2272 domain",0,1
+1567,"ssDNA-binding replication factor A, large subunit",1,0
+1568,N-acyl-homoserine lactone synthase LasI (autoinducer biosynthesis),0,1
+1569,Uncharacterized membrane protein YfhO,0,0
+1570,Alpha-tubulin suppressor ATS1 and related RCC1 domain-containing proteins,0,1
+1571,Flagellar motor component MotA,0,1
+1572,Bifunctional DNase/RNase,1,0
+1573,"tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain",0,0
+1574,NAD(P)H-dependent FMN reductase,0,0
+1575,Acyl carrier protein,1,0
+1576,"CRISPR-Cas system type III CMR-effector complex subunit Cmr1, RAMP superfamily Cas7 group",0,1
+1577,"Electron transfer flavoprotein, alpha and beta subunits",1,0
+1578,Phosphate uptake regulator PhoU,1,0
+1579,"Type IV secretory pathway, VirB2 component (pilin)",1,1
+1580,"Uncharacterized conserved protein, DUF2262 domain",0,0
+1581,DNA-binding transcriptional regulator AlpA,0,0
+1582,"Transcriptional regulator, CopY/TcrY family",0,2
+1583,Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake,1,1
+1584,N-glycosylase/DNA lyase (8-oxoguanine DNA glycosylase),0,1
+1585,"ABC-type Mn2+/Zn2+ transport system, ATPase component",0,1
+1586,"mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system",1,0
+1587,ADP-heptose:LPS heptosyltransferase,0,1
+1588,"ABC-type microcin C transport system, permease component YejB",1,2
+1589,"DNA-binding transcriptional regulator GbsR, MarR family",1,0
+1590,Elongation factor P--beta-lysine ligase (EF-P beta-lysylation pathway),0,0
+1591,cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases,0,1
+1592,Septum site-determining protein MinC,1,0
+1593,"DNA-binding transcriptional regulator DnrI/AfsR/EmbR, SARP family, contains BTAD domain",0,1
+1594,"Uncharacterized conserved protein, UPF0147 family",1,0
+1595,"Uncharacterized conserved protein YqfW, HAD superfamily",0,1
+1596,Precorrin-8X methylmutase CbiC/CobH,0,1
+1597,Sirohydrochlorin ferrochelatase,0,0
+1598,"Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family",0,1
+1599,Glycerol kinase,0,0
+1600,Phage P2 baseplate assembly protein gpV,1,0
+1601,Phosphotransferase system IIA component,0,1
+1602,Esterase/lipase superfamily enzyme,1,0
+1603,"Mannose or cellobiose epimerase, N-acyl-D-glucosamine 2-epimerase family",1,0
+1604,"Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific IIC component",1,0
+1605,"Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex",2,0
+1606,"FoF1-type ATP synthase, alpha subunit",1,0
+1607,"Uncharacterized membrane protein YcgQ,  UPF0703/DUF1980 family",0,1
+1608,"Superfamily II helicase, archaea-specific",0,0
+1609,"Uncharacterized membrane protein MJ0419, predicted role in archaeal polysaccharide biosynthesis",0,0
+1610,Nitric oxide reductase large subunit,1,0
+1611,Protein involved in initiation of plasmid replication,0,0
+1612,Putative heme-binding protein PhuW,1,1
+1613,"Iron uptake system EfeUOB, periplasmic (or lipoprotein) component EfeO/EfeM",0,1
+1614,"Type II secretory pathway, component PulL",1,0
+1615,Molybdopterin biosynthesis enzyme MoaB/MogA,0,2
+1616,Competence protein ComGF,0,1
+1617,Ribosomal protein S18 acetylase RimI and related acetyltransferases,1,0
+1618,Urease beta subunit,1,0
+1619,4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC,0,1
+1620,Surface polysaccharide O-acyltransferase WecH,0,1
+1621,Prolyl-tRNA synthetase,0,0
+1622,Integral membrane sensor domain MASE1,0,1
+1623,Rod binding protein domain,0,1
+1624,Molybdopterin synthase sulfur carrier subunit MoaD,1,0
+1625,Enolase,0,2
+1626,"Membrane-associated serine protease, rhomboid family",0,1
+1627,"Uncharacterized membrane protein YphA, DoxX/SURF4 family",1,1
+1628,Na+/glutamate symporter,1,0
+1629,"Uncharacterized conserved protein, DUF1993 domain",0,0
+1630,Protein thiol-disulfide isomerase DsbC,1,0
+1631,Gamma-glutamylcyclotransferase ChaC2 (glutathione degradation),1,0
+1632,Outer membrane lipoprotein SlyB,0,1
+1633,Pyrroline-5-carboxylate reductase,0,0
+1634,Heme oxygenase,0,2
+1635,"Rubrerythrin, includes spore coat protein YhjR",0,1
+1636,"Archaeosine formation enzyme, radical SAM superfamily",1,1
+1637,Heme A synthase,0,0
+1638,"Uncharacterized conserved protein, DUF459 domain",0,0
+1639,tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC,0,1
+1640,STAS domain,1,0
+1641,"CYTH domain, found in class IV adenylate cyclase and various triphosphatases",1,0
+1642,Glutamine cyclotransferase,0,1
+1643,Exonuclease III,1,0
+1644,"Phosphoribosylformylglycinamidine (FGAM) synthase, PurS subunit",1,0
+1645,"Uncharacterized conserved protein YsxB, DUF464 family",1,1
+1646,"Hydrogenase maturation factor HypA/HybF, metallochaperone involved in Ni insertion",0,1
+1647,Secreted protein containing C-terminal beta-propeller domain distantly related to WD-40 repeats,0,1
+1648,"Predicted glycosyl hydrolase, alpha amylase family",0,0
+1649,Na+/melibiose symporter or related transporter,1,0
+1650,Outer membrane receptor for Fe3+-dicitrate,1,0
+1651,Periplasmic regulator RcnB of Ni and Co efflux,0,0
+1652,"tRNA(Ser,Leu) C12 N-acetylase TAN1, contains THUMP domain",1,0
+1653,"Predicted membrane glycosyltransferase AF0583, Arch_YYY/DUF2298 family",1,0
+1654,Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase,0,0
+1655,Ribosomal protein S16,1,0
+1656,Outer membrane protease,0,1
+1657,"Uncharacterized conserved protein AF0170, contains SAB, hemerythrin HHE, and PAS domains",0,0
+1658,"PIWI domain, catalyzes dsRNA-guided hydrolysis of ssRNA, involved in RNA silencing, RNA metabolism and antiviral defense",0,0
+1659,Exonuclease I (degrades ssDNA),1,0
+1660,ATP-dependent DNA ligase,0,1
+1661,"Uncharacterized conserved protein, DUF2274 domain",0,1
+1662,Quinolinate synthase,0,1
+1663,Uncharacterized conserved protein BH1414,0,0
+1664,N-acetylglutamate kinase,1,0
+1665,3’-5’ helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V),1,1
+1666,Enoyl-[acyl-carrier-protein] reductase FabI,1,0
+1667,"Integrase/recombinase, includes phage integrase",0,2
+1668,AICAR transformylase/IMP cyclohydrolase PurH,0,0
+1669,"RNA interferase (RNase) VapC, contains PIN domain",0,1
+1670,"Thiamin phosphate synthase YjbQ, UPF0047 family",0,1
+1671,L-cysteine desulfidase YhaM,0,0
+1672,3-methyladenine DNA glycosylase Mpg,1,0
+1673,Energy-coupling factor transporter ATP-binding protein EcfA2,0,1
+1674,"Glucose/arabinose dehydrogenase, beta-propeller fold",1,0
+1675,"Transcription initiation factor IIE, alpha subunit",1,0
+1676,"Tetrahydromethanopterin S-methyltransferase, subunit E",0,1
+1677,Preprotein translocase subunit SecB,0,1
+1678,"Predicted transcriptional regulator, ArsR family",0,1
+1679,3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase,1,0
+1680,NADH:ubiquinone oxidoreductase subunit 2 (chain N),0,1
+1681,Nicotinate-nucleotide pyrophosphorylase,1,0
+1682,"Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit",1,1
+1683,"DNA-directed RNA polymerase, subunit K/omega",1,0
+1684,"Cyclophilin family protein MJ1412, methanogenesis marker protein 3",0,1
+1685,SpoU rRNA methylase family enzyme,0,0
+1686,"Sialic acid synthase SpsE, contains C-terminal SAF domain",1,0
+1687,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF",0,1
+1688,"Preprotein translocase subunit SecA (ATPase, RNA helicase)",1,0
+1689,"mRNA-degrading endonuclease YafQ (mRNA interferase), toxin component of the YafQ-DinJ toxin-antitoxin module",1,0
+1690,Ketopantoate reductase,1,0
+1691,Deoxyribose-phosphate aldolase,1,0
+1692,"Uncharacterized conserved protein, DUF2344 family",0,0
+1693,Trehalose-6-phosphate phosphatase,1,0
+1694,Dihydrofolate reductase,0,1
+1695,"ADP-ribose pyrophosphatase YjhB, NUDIX family",1,0
+1696,"Predicted RNA-binding protein, associated with RNAse of E/G family, DUF402 domain",0,1
+1697,Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis),1,0
+1698,"Uncharacterized protein, DUF1786 family, actin-like ATPase superfamily",2,1
+1699,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase,1,0
+1700,DNA helicase IV,1,0
+1701,"Uncharacterized conserved protein, glycosyltransferase A (GT-A) superfamily, DUF2064 family",1,0
+1702,Short-chain dehydrogenase,1,0
+1703,"Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit",0,2
+1704,"Ca2+-binding protein, RTX toxin-related",0,1
+1705,"Zn-dependent peptidase ImmA, M78 family",0,0
+1706,ssDNA-specific exonuclease RecJ,0,1
+1707,P2-like prophage tail protein X,0,1
+1708,"Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific",0,1
+1709,"Predicted sugar epimerase, cupin superfamily",2,0
+1710,"Uncharacterized conserved protein, DUF1272 domain",1,0
+1711,"Predicted membrane-bound mannosyltransferase, involved in protein glycosylation",1,0
+1712,"Anion-transporting ATPase, ArsA/GET3 family",0,1
+1713,"ABC-type antimicrobial peptide export system, permease component SapC",0,1
+1714,"Xanthine dehydrogenase, Fe-S cluster and FAD-binding subunit XdhA",1,0
+1715,Ribosomal protein S2,1,2
+1716,RNA polymerase-binding transcription factor DksA,2,1
+1717,"Prophage-encoded protein YbcV, DUF1398 family",2,0
+1718,"Tryptophan 2,3-dioxygenase (vermilion)",1,1
+1719,"Predicted metal-binding protein, contains two cysteine clusters, UPF0179 family",1,0
+1720,"Cell division protein FtsL, interacts with FtsB and FtsQ",0,1
+1721,"Nitroimidazole reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily",1,0
+1722,"Acid stress protein IbaG/YrbA, BolA-like family",1,0
+1723,Ribosomal protein L32,0,0
+1724,"Ribonuclease BN, tRNA processing enzyme",1,0
+1725,"Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB",1,0
+1726,"Na+-translocating membrane potential-generating system subunit MpsC, DUF2294 family",0,1
+1727,"RNA processing exonuclease, beta-lactamase fold, Cft2 family",0,0
+1728,"Succinyl-CoA synthetase, beta subunit",0,2
+1729,Transcriptional regulator NosR of nitric oxide reductase,2,1
+1730,Archaeal phosphopantothenate synthetase,0,0
+1731,Acyl transferase domain in polyketide synthase (PKS) enzymes,0,1
+1732,"Uncharacterized conserved protein containing a Zn-ribbon-like motif, possibly RNA-binding",0,0
+1733,"Heterodisulfide reductase, subunit B",0,0
+1734,"DNA-binding transcriptional regulator YiaG, XRE-type HTH domain",1,0
+1735,"Thymidylate synthase ThyX, FAD-dependent family",1,0
+1736,Ribosomal protein S6,0,1
+1737,"Iron-guanylylpyridinol (FeGP) cofactor biosynthesis protein HcgF, CinA family",0,0
+1738,Amino acid permease,1,1
+1739,"Predicted class III extradiol dioxygenase, MEMO1 family",0,1
+1740,"Phage-related protein, predicted endonuclease",0,0
+1741,"ABC-type sugar transport system, permease component",0,1
+1742,Archaeal histone H3/H4,2,0
+1743,3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase,1,0
+1744,Flagellar motor protein MotB,1,1
+1745,2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase (methionine salvage),1,1
+1746,"Type II secretory pathway, component HofQ",1,0
+1747,O-Methyltransferase involved in polyketide biosynthesis,0,0
+1748,Predicted small secreted protein,2,0
+1749,Ubiquitin-like protein,0,0
+1750,Ammonia channel protein AmtB,0,1
+1751,"Hydroxyacyl-ACP dehydratase HTD2, hotdog domain",0,1
+1752,Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A),0,0
+1753,Cation (Ca2+/Na+/K+)/H+ antiporter ChaA,0,1
+1754,NADH:ubiquinone oxidoreductase 24 kD subunit (chain E),1,0
+1755,Virulence-associated protein VagC (function unknown),1,0
+1756,Peptide methionine sulfoxide reductase MsrB,1,0
+1757,Sensor histidine kinase DipB regulating citrate/malate metabolism,1,0
+1758,"Uncharacterized conserved protein YfaP, DUF2135 family",0,1
+1759,"Predicted nuclease of restriction endonuclease-like (RecB) superfamily, implicated in nucleotide excision repair",1,1
+1760,Flagellar basal body rod protein FlgF,1,0
+1761,"D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family",0,0
+1762,"Uncharacterized conserved protein, DUF531 domain",0,1
+1763,"Fructose-1,6-bisphosphatase",0,0
+1764,L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D,0,0
+1765,Plasmid maintenance system killer protein,1,1
+1766,"Cobalamin biosynthesis protein CbiK, Co2+ chelatase",1,0
+1767,"Ethanolamine ammonia-lyase, large subunit",1,1
+1768,"Uncharacterized conserved protein, DUF2132 family",0,1
+1769,"NADH pyrophosphatase NudC, Nudix superfamily",0,0
+1770,Flagellar motor switch/type III secretory pathway protein FliN,1,0
+1771,"Uncharacterized conserved protein, DUF2264 domain",1,0
+1772,"Permease, similar to cation transporters",0,1
+1773,RIO-like serine/threonine protein kinase fused to N-terminal HTH domain,0,0
+1774,Heme exporter protein D,0,0
+1775,Phosphopantetheinyl transferase,1,1
+1776,CRISPR/Cas system-associated endoribonuclease Cas2,1,0
+1777,"NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate epimerase domain",1,0
+1778,Flagellar biosynthesis protein FliP,2,0
+1779,Propionyl CoA:succinate CoA transferase,1,0
+1780,5-formyltetrahydrofolate cyclo-ligase,0,1
+1781,"Ni,Fe-hydrogenase III small subunit",0,1
+1782,"Heme/copper-type cytochrome/quinol oxidase, subunit 1",0,1
+1783,"Predicted N-acyltransferase, GNAT family",1,0
+1784,Protein-tyrosine phosphatase,1,0
+1785,"Uncharacterized conserved protein YcgG, contains conserved FPC and CPF motifs",0,1
+1786,Flagellar biosynthesis regulator FlaF,0,0
+1787,Gluconate kinase,1,0
+1788,Putative Zn-dependent protease,0,0
+1789,"Uncharacterized conserved protein, DUF1009 family",0,2
+1790,Adenylate kinase or related kinase,0,1
+1791,"Predicted alpha-1,6-mannanase, GH76 family",0,1
+1792,"Uncharacterized conserved protein YabE, contains G5 and tandem DUF348 domains",0,0
+1793,"ABC-type Fe3+ transport system, periplasmic component",1,0
+1794,Sigma54-dependent transcription regulator containing an AAA-type ATPase domain and a DNA-binding domain,0,2
+1795,DnaJ domain-containing protein,0,2
+1796,High-affinity nickel/cobalt permease,0,1
+1797,Fatty acid repression mutant protein (predicted oxidoreductase),0,1
+1798,Sugar lactone lactonase YvrE,0,2
+1799,"Uncharacterized conserved protein YwbE, DUF2196 family",0,2
+1800,Phosphoserine phosphatase,0,1
+1801,"Fe-S cluster assembly protein CyaY, frataxin homolog",0,0
+1802,"Sporulation protein YlmC, YlmC/YmxH family, contains PRC-barrel domain",0,0
+1803,"Serine/threonine protein kinase HipA, toxin component of the HipAB toxin-antitoxin module",0,1
+1804,"Type III secretory pathway, lipoprotein EscJ",0,1
+1805,"Predicted gamma-glutamylamine cyclotransferase YtfP, GGCT/AIG2-like family",0,1
+1806,"Protein N-terminal and lysine N-methylase, NNT1/EFM7 family",1,0
+1807,"Uncharacterized conserved protein YlaN, UPF0358 family",0,1
+1808,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC",0,1
+1809,"Uncharacterized conserved protein YifN, PemK superfamily",2,0
+1810,Carotenoid cleavage dioxygenase or a related enzyme,0,0
+1811,"Type IV secretory pathway, VirD2 component (relaxase)",0,0
+1812,Extracellular substrate-binding protein,1,0
+1813,"ABC-type xylose transport system, permease component",1,0
+1814,GTP:adenosylcobinamide-phosphate guanylyltransferase,0,1
+1815,"ABC-type iron transport system FetAB, permease component",1,0
+1816,"Uncharacterized conserved protein AF1964, DsrE/DsrF-like family",0,1
+1817,Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type),1,0
+1818,"Coproporphyrinogen-III oxidase HemH, oxygen-dependent",0,2
+1819,Transcription antitermination protein NusB,1,0
+1820,Geranylgeranyl pyrophosphate synthase,0,1
+1821,"Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains",0,1
+1822,Phosphatidylethanolamine N-methyltransferase,0,0
+1823,2-keto-3-deoxy-6-phosphogluconate aldolase,0,0
+1824,"Uncharacterized membrane protein, YccA/Bax inhibitor family",0,1
+1825,"16S rRNA C967 or C1407 C5-methylase, RsmB/RsmF family",0,2
+1826,Uncharacterized conserved protein MJ0453,0,2
+1827,"Archaeal YidC/Oxa1-related membrane protein, DUF106 family",0,1
+1828,FoF1-type ATP synthase accessory protein AtpI,1,0
+1829,"Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase",1,0
+1830,"FoF1-type ATP synthase, delta subunit",0,0
+1831,"Uncharacterized conserved protein YpiB, UPF0302 family",0,1
+1832,"Uncharacterized protein, contains Zn-finger domain",1,0
+1833,"Uncharacterized conserved protein, DUF2332 domain",0,1
+1834,"Uncharacterized conserved protein, DUF1015 family",0,2
+1835,"Phage tail tape-measure protein, controls tail length",0,0
+1836,"ABC-type amino acid transport/signal transduction system, periplasmic component/domain",1,1
+1837,"Prolyl endopeptidase PreP, S9A serine peptidase family",0,1
+1838,"Anionic cell wall polymer biosynthesis enzyme TagV/TagU,  LytR-Cps2A-Psr (LCP) family (peptidoglycan teichoic acid transferase)",1,0
+1839,"Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain",1,0
+1840,Adenosine/AMP kinase,0,2
+1841,Uroporphyrinogen-III decarboxylase HemE,0,1
+1842,Arginine utilization protein RocB,0,1
+1843,"TATA-box binding protein (TBP), component of TFIID and TFIIIB",0,1
+1844,"Radical SAM superfamily enzyme YgiQ, UPF0313 family",0,0
+1845,Delta 1-pyrroline-5-carboxylate dehydrogenase,0,1
+1846,Alpha/beta superfamily hydrolase,1,1
+1847,"Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family",0,1
+1848,"Predicted ribonuclease YlaK, contains NYN-type RNase and PhoH-family ATPase domains",1,0
+1849,"Predicted acyltransferase, DUF1624 domain",0,0
+1850,"Protease, Ulp1 family",1,1
+1851,"Membrane-anchored protein YidD, putatitve component of membrane protein insertase Oxa1/YidC/SpoIIIJ",0,1
+1852,Azurin,1,0
+1853,"Predicted carbohydrate-binding protein, contains CBM5 and CBM33 domains",0,0
+1854,"Magnetosome formation protein MamQ, lipoprotein antigen LemA family",2,0
+1855,"Uncharacterized membrane protein YqgA, affects biofilm formation",0,1
+1856,Maltodextrin utilization protein YvdJ (function unknown),1,0
+1857,Nicotinamidase-related amidase,0,2
+1858,"Na+-translocating membrane potential-generating system subunit MpsB, UPF0753/DUF2309 family",0,2
+1859,"Predicted membrane-associated lipid hydrolase, neutral ceramidase superfamily",0,1
+1860,"Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit",0,1
+1861,Outer membrane beta-barrel protein assembly factor BamC,0,1
+1862,Tellurite resistance membrane protein TerC,1,0
+1863,Threonine dehydrogenase or related Zn-dependent dehydrogenase,1,1
+1864,"Predicted ATP-dependent carboligase, ATP-grasp superfamily",0,1
+1865,Alkylated DNA repair dioxygenase AlkB,1,1
+1866,Archaeal/vacuolar-type H+-ATPase subunit C/Vma6,0,2
+1867,3-oxoacyl-ACP reductase domain of yeast-type fatty acid synthase FAS1,0,0
+1868,Anti-sigma-K factor RskA,1,0
+1869,"DNA-binding transcriptional regulator, LacI/PurR family",1,0
+1870,Molybdopterin synthase catalytic subunit MoaE,1,0
+1871,Uncharacterized radical SAM domain-containing protein,0,1
+1872,"Lipid-binding SYLF domain, Ysc84/FYVE family",1,1
+1873,"ECF-type riboflavin transporter, membrane (S) component",1,0
+1874,"Predicted RNase MK1237, contains PIN domain, UPF0278 family",0,1
+1875,"Uncharacterized membrane protein YccF, DUF307 family",0,1
+1876,Protein chain release factor RF1,1,1
+1877,"Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains",0,1
+1878,Mannitol-1-phosphate/altronate dehydrogenases,0,2
+1879,Phage-related tail fiber protein,0,2
+1880,Formyltetrahydrofolate synthetase,0,0
+1881,Phosphoglycerate mutase (BPG-dependent),0,1
+1882,"Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains",0,1
+1883,Predicted secreted protein,0,2
+1884,"Propanediol dehydratase, small subunit",2,0
+1885,"Glycyl-tRNA synthetase, class II",0,1
+1886,"Archaellum biogenesis protein ArlJ/FlaJ, TadC family",0,1
+1887,Protoheme ferro-lyase (ferrochelatase),1,0
+1888,Cytidylate kinase,0,1
+1889,"Predicted DNA binding protein, CopG/RHH family",0,1
+1890,Adenylosuccinate synthase,1,0
+1891,"Restriction endonuclease, type III RM system",0,0
+1892,"Predicted N-acetyltransferase, GNAT superfamily",0,2
+1893,"Chitinase, GH19 family",0,1
+1894,"Mannose-6-phosphate isomerase, class I",1,0
+1895,Replication initiation and membrane attachment protein DnaB,0,1
+1896,Selenophosphate synthase,0,0
+1897,Uncharacterized membrane protein YccC,1,1
+1898,Ribosomal protein S13,0,1
+1899,Flavoprotein (flavin reductase) subunit CysJ of sulfite and N-hydroxylaminopurine reductases,0,1
+1900,Phage terminase large subunit,0,1
+1901,"Predicted RNA-binding protein involved in translation, contains  Zn-ribbon domain, DUF1610 family",2,0
+1902,Molybdopterin-dependent catalytic subunit of periplasmic DMSO/TMAO and protein-methionine-sulfoxide reductases,1,1
+1903,Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I),2,0
+1904,"Nucleoid-associated protein YlxR, Predicted RNA-binding, DUF448 family",1,1
+1905,Dihydroorotate dehydrogenase,1,0
+1906,Fe-S-cluster-containing dehydrogenase component (DMSO reductase),1,0
+1907,Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein),0,2
+1908,Arginyl-tRNA--protein-N-Asp/Glu arginylyltransferase,1,0
+1909,Fatty acid desaturase,0,1
+1910,2-oxo-4-hydroxy-4-carboxy--5-ureidoimidazoline (OHCU) decarboxylase (uric acid degradation),0,0
+1911,DNA-binding transcriptional regulator PaaX (phenylacetic acid degradation),0,1
+1912,"Uncharacterized conserved protein, UPF0303 family",0,1
+1913,Biopolymer transport protein ExbD,0,1
+1914,Acyl-carrier protein (citrate lyase gamma subunit),1,2
+1915,ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V),1,0
+1916,"HEPN domain protein, predicted toxin of MNT-HEPN system",1,0
+1917,Precorrin-2 methylase,0,0
+1918,Predicted protein tyrosine phosphatase,0,1
+1919,"DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain",1,0
+1920,Phosphate starvation-inducible membrane PsiE (function unknown),1,1
+1921,"Methyl coenzyme M reductase, subunit D",1,0
+1922,"L,D-peptidoglycan transpeptidase YkuD, ErfK/YbiS/YcfS/YnhG family",1,0
+1923,"Cytolysin, a secreted calcineurin-like phosphatase",1,0
+1924,tRNA splicing ligase,0,1
+1925,"Uncharacterized conserved protein, contains restriction enzyme R protein N terminal (HSDR_N) domain",0,0
+1926,"ABC-type amino acid transport system, permease component",0,0
+1927,Ser-tRNA(Ala) deacylase AlaX (editing enzyme),0,0
+1928,"Succinate dehydrogenase/fumarate reductase, cytochrome b subunit",0,1
+1929,DNA-binding protein YaaA associated with the oxidative stress response,1,1
+1930,"Predicted DNA-binding protein AF1194, contains HTH domain, DUF2240 family",0,1
+1931,"Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family",1,0
+1932,Cytochrome b subunit of Ni2+-dependent hydrogenase,0,1
+1933,Ribonuclease HI,1,1
+1934,Phage shock protein A,0,1
+1935,"K+/H+ antiporter KhtSTU, c-di-AMP-binding regulatory subunit KhtT, contains RCK_C (TrkA_C) domain",0,0
+1936,"Archaellum component FlaF, FlaF/FlaG flagellin family",2,0
+1937,"Predicted outer membrane protein, contains DUF4142 domain",1,2
+1938,Ascorbate-specific PTS system IIC component UlaA,1,0
+1939,Replication initiaton protein REP (rolling circle plasmid replication),0,0
+1940,Plastocyanin,1,0
+1941,"Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit",0,0
+1942,Archaeal CTP-dependent riboflavin kinase,0,3
+1943,"tRNA threonylcarbamoyladenosine modification (KEOPS) complex,  Pcc1 subunit",1,0
+1944,"Cbb3-type cytochrome oxidase, subunit 1",1,0
+1945,"Uncharacterized conserved protein, DUF1330 family",1,0
+1946,"Predicted RNA-binding protein, contains PUA-like ASCH domain",1,0
+1947,Adenine specific DNA methylase Mod,0,2
+1948,"Exo-beta-1,3-glucanase,  GH17 family",1,0
+1949,Ribonuclease P protein subunit RPR2,1,0
+1950,RNase P/RNase MRP subunit p29,1,0
+1951,Exoribonuclease R,0,1
+1952,Acetate kinase,0,0
+1953,"ABC-type oligopeptide transport system, periplasmic component",0,0
+1954,Malate synthase,1,0
+1955,"5-Methylthioribose/5-deoxyribose kinase, methionine salvage pathway",1,0
+1956,"Ethanolamine utilization protein EutA, possible chaperonin",1,0
+1957,"Uncharacterized conserved protein, DUF4810 domain",0,0
+1958,"Phosphotransferase system, mannitol-specific IIBC component",0,1
+1959,Heat shock protein HspQ,0,1
+1960,DNA relaxase NicK,2,0
+1961,"DNA-binding transcriptional regulator, PucR/PutR family",0,1
+1962,Protein required for attachment to host cells,1,0
+1963,"Flp pilus assembly protein, secretin CpaC",0,2
+1964,Archaeal/vacuolar-type H+-ATPase subunit I/STV1,1,0
+1965,NAD kinase,0,0
+1966,"Uncharacterized phage-associated protein, contains DUF4065 domain",0,1
+1967,Multicopper oxidase with three cupredoxin domains (includes cell division protein FtsP and spore coat protein CotA),0,0
+1968,Cytochrome c-type biogenesis protein CcmH/NrfG,0,0
+1969,"VapC family ribonuclease, contains PIN domain",1,0
+1970,Aspartate oxidase,0,1
+1971,Predicted phosphoribosyltransferase,0,1
+1972,Energy-converting hydrogenase Eha subunit H,0,0
+1973,"Predicted nuclease, RecB family",0,0
+1974,"Predicted phage recombinase, RecA/RadA family",0,1
+1975,Isocitrate lyase,1,0
+1976,Isochorismate synthase EntC,1,0
+1977,Arginine/ornithine N-succinyltransferase beta subunit,1,0
+1978,"Uncharacterized membrane protein YhgE, phage infection protein (PIP) family",1,0
+1979,Ribosomal protein L21E,0,0
+1980,"Cyclic di-AMP synthase regulator CdaR, YbbR domain",0,1
+1981,"DNA-binding transcriptional regulator, MarR family",0,1
+1982,Predicted ferric reductase,1,0
+1983,FAD synthase,0,0
+1984,23S rRNA C2498 (ribose-2'-O)-methylase RlmM,0,0
+1985,"Acetyltransferase, isoleucine patch superfamily",0,1
+1986,Mu-like prophage FluMu protein Com,0,0
+1987,"ABC-type transport system involved in lipoprotein release, permease component LolC",1,0
+1988,Flagellar biosynthesis protein FliR,0,1
+1989,DNA-binding protein Fis (factor for inversion stimulation),1,2
+1990,Uncharacterized phage protein gp47/JayE,1,0
+1991,"Uncharacterized conserved protein YegP, UPF0339 family",0,0
+1992,"N-glycosidase YbiA/RibX (riboflavin biosynthesis, damage control), NADAR superfamily",0,1
+1993,"ABC-type uncharacterized transport system YnjBCD, permease component",0,0
+1994,"DNA polymerase III, alpha subunit (gram-positive type)",1,0
+1995,DNA repair ATPase RecN,0,2
+1996,"Uncharacterized conserved protein MJ0835, predicted component of type IV pili-like system, DUF1515 family",1,1
+1997,Regulator of replication initiation timing YabA,0,1
+1998,Exonuclease VII small subunit,0,0
+1999,Glutaredoxin-related protein,0,1
+2000,Predicted nucleotidyltransferase MJ0435,0,1
+2001,Pantothenate kinase,0,1
+2002,N-acyl-D-aspartate/D-glutamate deacylase,0,0
+2003,"TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component",0,1
+2004,"Predicted ATPase, PP-loop superfamily",0,1
+2005,Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase,2,0
+2006,Predicted dinucleotide-binding enzyme,0,0
+2007,"EndoRNase involved in mRNA decay, NYN (Nedd4-BP1/Rae1/YacP nuclease) family,  contains PIN domain",1,1
+2008,Phosphodiesterase/alkaline phosphatase D,0,3
+2009,"DNA-nicking endonuclease, Smr domain",0,1
+2010,Uncharacterized membrane protein YwaF,1,1
+2011,"Murein L,D-transpeptidase YcbB/YkuD",1,0
+2012,"Putative alpha-1,2-mannosidase",1,0
+2013,Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis),1,0
+2014,"Tyramine-glutamate ligase MfnD (methanofuran biosynthesis), ATP-grasp superfamily",3,0
+2015,Serine protease inhibitor,0,1
+2016,5-(aminomethyl)-3-furanmethanol-phosphate kinase MfnE (methanofuran biosynthesis),0,0
+2017,Transcriptional regulator,1,0
+2018,"Uncharacterized membrane protein YoaK, UPF0700 family",0,1
+2019,"Uncharacterized protein, contains GH25 family domain",0,0
+2020,"Alpha-glucosidase/xylosidase, GH31 family",0,1
+2021,"Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family",1,0
+2022,"Uncharacterized metal-binding protein MJ0455, DUF1847 family",0,0
+2023,Intermembrane transporter PqiABC lipoprotein subunit PqiC,1,0
+2024,tRNA G46 N7-methylase TrmB,1,0
+2025,Predicted N-acyltransferase,0,1
+2026,Phage shock protein PspC (stress-responsive transcriptional regulator),0,1
+2027,Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG,1,0
+2028,Siroheme synthase (precorrin-2 oxidase/ferrochelatase domain),0,1
+2029,"Multisubunit Na+/H+ antiporter, MnhB subunit",0,0
+2030,2-Methylaconitate cis-trans-isomerase PrpF (2-methyl citrate pathway),1,0
+2031,"ABC-type dipeptide/oligopeptide/nickel transport system, permease component",0,0
+2032,"Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family",0,1
+2033,Predicted deacylase,0,1
+2034,"Sucrose-6-phosphate hydrolase SacC, GH32 family",0,1
+2035,"L-fucose mutarotase/ribose pyranase, RbsD/FucU family",0,0
+2036,Cytochrome c oxidase assembly protein CtaG,0,1
+2037,Phosphoribosylaminoimidazole (AIR) synthetase,0,0
+2038,PPE-repeat protein,0,0
+2039,"Predicted nucleic-acid-binding protein, contains Zn-ribbon domain",1,0
+2040,Flagellar basal body L-ring protein FlgH,0,1
+2041,Sortase (surface protein transpeptidase),1,0
+2042,"ABC-type sulfate transport system, permease component",0,1
+2043,sRNA-binding regulator protein Hfq,0,0
+2044,"5-methylcytosine-specific restriction endonuclease McrBC, GTP-binding regulatory subunit McrB",0,0
+2045,Aspartate ammonia-lyase,0,0
+2046,Diaminopimelate decarboxylase,1,0
+2047,"7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily",0,1
+2048,"Thiazole synthase ThiGH, ThiG subunit (thiamin biosynthesis)",1,0
+2049,"Periplasmic protein TonB, links inner and outer membranes",1,0
+2050,Putative heme degradation protein,1,0
+2051,"Predicted RNA-binding protein YlqC, contains KH domain, UPF0109 family",1,0
+2052,"MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain",0,0
+2053,Glycerophosphoryl diester phosphodiesterase,1,0
+2054,Cytoplasmic chaperone NapD for the signal peptide of periplasmic nitrate reductase NapAB,1,0
+2055,Copper oxidase (laccase) domain,1,0
+2056,"Fe-S oxidoreductase, related to NifB/MoaA family",0,0
+2057,"Uncharacterized protein RhuM, Salmonella virulence factor",1,0
+2058,Predicted transcriptional regulator containing CBS domains,1,0
+2059,Predicted CoA-binding protein,1,0
+2060,Transcription termination/antitermination protein NusG,1,0
+2061,"Uncharacterized conserved membrane protein, UPF0127 family",0,0
+2062,N-terminal domain of the PTS fructose-specific IIB component,1,1
+2063,Autotransporter translocation and assembly protein TamB,1,0
+2064,Fructose-bisphosphate aldolase class 1,0,0
+2065,Cytochrome P450,1,0
+2066,Nitrous oxide reductase,0,0
+2067,CO dehydrogenase/acetyl-CoA synthase epsilon subunit,1,2
+2068,"Aspartate carbamoyltransferase, catalytic subunit",0,1
+2069,Uncharacterized conserved protein MTH_862,0,1
+2070,"7,8-dihydroneopterin aldolase MptD (tetrahydrofolate and tetrahydromethanopterin biosynthesis)",0,1
+2071,Choline-glycine betaine transporter,1,0
+2072,"Predicted RNA repair component, a phosphatase of H2Macro superfamily, DUF2263 family",1,2
+2073,Thermostable 8-oxoguanine DNA glycosylase,1,0
+2074,Flagellar biosynthesis GTPase FlhF,2,0
+2075,"Phosphotransferase system, mannose/fructose-specific component IIA",1,1
+2076,"Uncharacterized conserved protein, DUF2075 family",0,0
+2077,Ribosomal protein L19,1,1
+2078,Maltoporin (phage lambda and maltose receptor),0,0
+2079,Glutamate synthase domain 2,1,0
+2080,"Uncharacterized conserved protein, DUF2175 family",2,1
+2081,Twin-arginine protein secretion pathway components TatA and TatB,1,0
+2082,"D-alanyl-lipoteichoic acid acyltransferase DltB, MBOAT superfamily",0,1
+2083,Fumarate reductase subunit C,0,1
+2084,Acyl-CoA dehydratase PaaZ,0,0
+2085,Predicted transporter,1,1
+2086,"Uncharacterized conserved protein, PA2063/DUF2235 family",1,0
+2087,"ABC-type Fe3+-hydroxamate transport system, periplasmic component",0,1
+2088,"Uncharacterized conserved protein associated with RNAses G and E,  UPF0374/DUF402 family",0,1
+2089,rRNA maturation endonuclease Nob1,0,0
+2090,"Uncharacterized conserved protein related to methyl-CoM reductase subunit C, methanogenesis marker protein 7",0,1
+2091,Triphosphoribosyl-dephospho-CoA synthetase,0,1
+2092,"Predicted metal-dependent hydrolase, phosphotriesterase family",1,0
+2093,"Ribonucleotide reductase beta subunit, ferritin-like domain",0,1
+2094,"RNA-binding protein YlmH, contains S4-like domain",1,0
+2095,"NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC",0,1
+2096,"ABC-type transport system involved in cytochrome c biogenesis, permease component",0,0
+2097,"Protocatechuate 3,4-dioxygenase beta subunit",2,0
+2098,"ECF-type transporter of queuosine precursor, membrane (S) component",1,0
+2099,Surfactin synthase thioesterase subunit,1,0
+2100,"Uncharacterized conserved protein, DUF1415 family",1,1
+2101,"Uncharacterized conserved protein YneF, UPF0154 family",0,1
+2102,"Uncharacterized conserved protein, DUF1643 domain",1,0
+2103,Putative aminopeptidase FrvX,0,0
+2104,Phytoene dehydrogenase-related protein,1,0
+2105,"DNA repair protein RadA/Sms, contains AAA+ ATPase domain",0,2
+2106,Recombinational DNA repair protein RecR,0,1
+2107,"Fluoride ion exporter CrcB/FEX, affects chromosome condensation",1,0
+2108,Thymidine kinase,1,0
+2109,"Uncharacterized conserved protein YneR, related to HesB/YadR/YfhF family",0,0
+2110,"Uncharacterized conserved protein YciU, UPF0263 family",1,0
+2111,Mu-like prophage protein gp16,1,0
+2112,"Uncharacterized conserved protein YqgQ, DUF910 family",0,0
+2113,"Uncharacterized conserved protein YycO, NlpC/P60 family",0,1
+2114,Voltage-gated potassium channel Kch,0,1
+2115,ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA,0,0
+2116,"Uncharacterized protein, contains DUF2185 domain",1,0
+2117,"NurA-like predicted nuclease, RNAse H fold",1,0
+2118,"2',3'- and 3',5'-cNMP phosphodiesterase YmdB, calcineurin family",1,0
+2119,"Uncharacterized conserved protein YigA, DUF484 family",0,0
+2120,"Tripartite-type tricarboxylate transporter, extracytoplasmic receptor component TctC",0,0
+2121,"Cell division protein ZapD, interacts with FtsZ",0,0
+2122,Ribosomal protein S8,0,0
+2123,Twin-arginine protein secretion pathway component TatC,1,1
+2124,"GMP synthase, PP-ATPase domain/subunit",1,0
+2125,"2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family",0,1
+2126,Uncharacterized conserved protein containing a metal-binding domain,1,0
+2127,"Uncharacterized conserved protein YqfA, UPF0365 family",0,1
+2128,"Predicted lipid-binding transport protein, Tim44 family",0,0
+2129,"Uncharacterized conserved protein, DUF2184 domain",1,1
+2130,"Type II secretory pathway, component PulC",1,0
+2131,"Uncharacterized conserved protein, DUF211 domain",0,1
+2132,Pyruvate kinase,3,0
+2133,Phosphotransferase system sorbitol-specific IIC component,0,0
+2134,Flagellin-specific chaperone FliS,0,1
+2135,Selenocysteine-specific translation elongation factor SelB,1,0
+2136,"Uncharacterized conserved protein, DUF424 domain",1,0
+2137,"Multisubunit Na+/H+ antiporter, MnhF subunit",1,1
+2138,Threonine/homoserine/homoserine lactone efflux protein,1,0
+2139,Uracil-DNA glycosylase,1,0
+2140,"Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains",1,0
+2141,"Redox-regulated molecular chaperone, HSP33 family",1,0
+2142,"Metal-responsive transcriptional regulator, contains CopG/Arc/MetJ DNA-binding domain",1,0
+2143,"Uncharacterized conserved protein, DUF1489 domain",1,0
+2144,"Eukaryotic-type DNA primase, large subunit",2,0
+2145,NADH:ubiquinone oxidoreductase 27 kD subunit (chain C),1,0
+2146,"Uncharacterized conserved protein YfcZ, UPF0381/DUF406 family",0,0
+2147,Putative N-acetylmannosamine-6-phosphate epimerase,2,0
+2148,tRNA A-37 threonylcarbamoyl transferase component Bud32,0,1
+2149,Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor),0,1
+2150,Ribosomal protein L7/L12,1,1
+2151,"5-hydroxyisourate hydrolase (purine catabolism), transthyretin-related family",1,2
+2152,"FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family",0,0
+2153,Serine/threonine protein phosphatase PrpC,1,0
+2154,"DNA-binding transcriptional regulator WhiA, involved in cell division",1,0
+2155,Rubrerythrin,0,0
+2156,"Transposase and inactivated derivatives, IS1 family",1,0
+2157,"Translation initiation factor 2, beta subunit (eIF-2beta)/eIF-5 N-terminal domain",1,1
+2158,"Predicted antitoxin, CopG family",0,1
+2159,"Uncharacterized conserved protein, DUF2067 domain",0,1
+2160,"Predicted permease, AEC (auxin efflux carrier) family",0,1
+2161,Isopropylmalate/homocitrate/citramalate synthases,1,0
+2162,16S rRNA C1402 (ribose-2'-O) methylase RsmI,0,1
+2163,Putative hemolysin,0,0
+2164,Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO,1,0
+2165,"Reactive chlorine resistance protein RclC/YkgB, DUF417 family",1,1
+2166,Transcription termination factor Rho,2,0
+2167,rRNA processing protein Gar1,0,2
+2168,"Cytochrome bd-type quinol oxidase, subunit 1",3,0
+2169,"N-hydroxylaminopurine reductase subunit YcbX, contains MOSC domain",1,2
+2170,"Transposase and inactivated derivatives, IS30 family",1,0
+2171,"Predicted kinase, contains AAA domain",0,1
+2172,"ABC-type arginine/histidine transport system, permease component",0,1
+2173,Dihydroxyacid dehydratase/phosphogluconate dehydratase,1,0
+2174,"Glycosyltransferase, GT2 family",1,0
+2175,"Uncharacterized conserved protein YecM, predicted metalloenzyme",0,1
+2176,Ribosomal protein S18,0,3
+2177,Ketosteroid isomerase-related protein,0,0
+2178,"Predicted acyltransferase, LPLAT superfamily",1,0
+2179,"FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K",1,0
+2180,"Uncharacterized conserved protein YnzC, UPF0291/DUF896 family",0,0
+2181,NCAIR mutase (PurE)-related protein,1,0
+2182,FAD-dependent dehydrogenase,0,0
+2183,"Coenzyme F420-reducing hydrogenase, gamma subunit",2,1
+2184,Uncharacterized conserved protein related to deoxyribodipyrimidine photolyase,0,1
+2185,Sensor histidine kinase WalK,0,0
+2186,"Uncharacterized conserved protein YbaP, TraB family",1,0
+2187,Phosphotransferase system cellobiose-specific component IIA,0,1
+2188,"1,6-Anhydro-N-acetylmuramate kinase",2,0
+2189,"Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain",0,1
+2190,L-asparagine transporter or related permease,1,1
+2191,CRISPR-Cas system type III CMR-effector complex small subunit Cmr5,0,0
+2192,"Ni,Fe-hydrogenase maturation factor",0,0
+2193,"Predicted membrane transporter YfcC, affects glyoxylate shunt",0,0
+2194,5-oxoprolinase subunit C/Allophanate hydrolase subunit 2,0,0
+2195,"Formate-dependent nitrite reductase, periplasmic cytochrome c552 subunit",0,2
+2196,Panthothenate synthetase,0,1
+2197,"Mevalonate 5-phosphate dehydratase subunit 1, aconitase superfamily (modified mevalonate pathway)",0,1
+2198,"ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component",0,0
+2199,"Acid phosphatase, class B",0,1
+2200,DNA anti-recombination protein (rearrangement mutator) RmuC,0,1
+2201,"Acireductone dioxygenase (methionine salvage), cupin superfamily",0,0
+2202,Ubiquinone biosynthesis accessory factor UbiK,1,0
+2203,RNase P protein component,1,1
+2204,Predicted thioesterase,0,0
+2205,Uroporphyrinogen-III methylase (siroheme synthase),0,1
+2206,"Predicted RNA methylase MTH1, SPOUT superfamily",1,0
+2207,Oligoribonuclease (3'-5' exoribonuclease),0,1
+2208,L-asparaginase II,1,0
+2209,Agmatine/peptidylarginine deiminase,0,1
+2210,"DNA-binding transcriptional regulator, HxlR family",2,0
+2211,Glutamine synthetase,0,1
+2212,Adenylylsulfate kinase or related kinase,1,0
+2213,Imidazolonepropionase or related amidohydrolase,0,1
+2214,"Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)",0,1
+2215,"Uncharacterized conserved protein YceH, UPF0502 family",1,0
+2216,"Transcriptional regulator, contains XRE-family HTH domain",2,1
+2217,"Uncharacterized conserved protein, DUF2118 domain",0,1
+2218,"Oxidoreductase (NAD-binding), involved in siderophore biosynthesis",2,0
+2219,"ABC-type Fe3+-citrate transport system, periplasmic component",0,1
+2220,Ribonuclease G or E,3,1
+2221,"S-ribosylhomocysteine lyase LuxS, autoinducer biosynthesis",0,0
+2222,"Uncharacterized conserved protein, DUF2236 family",0,0
+2223,Murein endopeptidase MepA (D-alanyl-D-alanine-endopeptidase),0,1
+2224,DNA-binding transcriptional regulator of glucitol operon,0,1
+2225,Cell division ATPase FtsA,0,1
+2226,Butyrate kinase,0,1
+2227,DNA-binding transcriptional regulator YbjK,0,0
+2228,"Predicted secreted protein YlbL, contains PDZ domain",0,2
+2229,"MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity",1,0
+2230,tRNA(Ile)-lysidine synthase TilS/MesJ,1,0
+2231,F420-dependent methylenetetrahydromethanopterin dehydrogenase,0,0
+2232,3'->5' ssDNA/RNA exonuclease TatD,0,1
+2233,Protein-L-isoaspartate O-methyltransferase,0,1
+2234,"Uncharacterized conserved protein, DUF473 domain",0,1
+2235,L-ribulose-5-phosphate 3-epimerase UlaE,0,0
+2236,Isocitrate dehydrogenase,0,0
+2237,UDP-N-acetylmuramyl pentapeptide synthase,0,0
+2238,"Uncharacterized membrane protein AF0785, contains DUF389 domain",0,0
+2239,Histidinol dehydrogenase,0,1
+2240,GTPase of the G3E family (not a periplasmic protein kinase),0,1
+2241,"1,4-dihydroxy-2-naphthoate polyprenyltransferase",1,0
+2242,Endo-beta-N-acetylglucosaminidase D,1,0
+2243,ESX protein secretion system component YukC,1,0
+2244,"ABC-type guanosine uptake system NupNOPQ, permease component NupP",1,0
+2245,"DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain",1,0
+2246,"Predicted glycosyl hydrolase, GH43/DUF377 family",0,1
+2247,Predicted oxidoreductase YdhF,1,0
+2248,Multidrug efflux pump subunit AcrA (membrane-fusion protein),0,1
+2249,Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V),0,0
+2250,Antirestriction protein ArdA,1,0
+2251,"ABC-type polysaccharide/polyol phosphate transport system, ATPase component",0,2
+2252,"Uncharacterized conserved protein, DUF2336 family",0,0
+2253,"Phage-related lysozyme (muramidase), GH24 family",0,0
+2254,Plastocyanin domain containing protein,0,0
+2255,"Xanthosine utilization system component, XapX domain",0,1
+2256,"RocR-type transcriptional regulator, contains PAS, AAA-type ATPase, and DNA-binding Fis domains",1,0
+2257,"5-methylthioribose/5-deoxyribulose 1-phosphate isomerase (methionine salvage pathway), a paralog of eIF-2B alpha subunit",0,2
+2258,5-oxoprolinase subunit A,2,0
+2259,Energy-converting hydrogenase Eha subunit A,1,1
+2260,Acylphosphatase,1,0
+2261,"Fermentation-respiration switch esterase FrsA, DUF1100 family",0,1
+2262,"Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily",0,1
+2263,Heme-binding membrane subunit of periplasmic DMSO/TMAO and protein-methionine-sulfoxide reductases,1,0
+2264,Uncharacterized conserved protein YwgA,1,0
+2265,"Predicted ATPase/kinase of ASKHA (acetate and sugar kinases, HSC70, actin) superfamily",2,0
+2266,Predicted glycosyltransferase involved in capsule biosynthesis,1,0
+2267,"Pyruvate dehydrogenase complex, dehydrogenase (E1) component",0,1
+2268,"Predicted butyrate kinase, DUF1464 family",0,0
+2269,Ribosome-associated translation inhibitor RaiA,0,1
+2270,2-keto-3-deoxy-galactonokinase,1,0
+2271,"Signal transduction histidine kinase NarQ, nitrate/nitrite-specific",1,1
+2272,16S rRNA G1207 methylase RsmC,1,0
+2273,"TFIIF-interacting CTD phosphatase, includes NLI-interacting factor",1,2
+2274,"Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain",0,2
+2275,"Uncharacterized conserved protein, contains DUF2130 domain",1,0
+2276,Alkyl hydroperoxide reductase subunit AhpF,1,0
+2277,Glutamine phosphoribosylpyrophosphate amidotransferase,1,0
+2278,"ABC-type antimicrobial peptide export system, ATPase component SapF",0,1
+2279,"Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component",2,0
+2280,"Uncharacterized conserved protein, DUF22 domain",1,1
+2281,"FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)",0,0
+2282,Archaeal/vacuolar-type H+-ATPase subunit D/Vma8,0,0
+2283,"Uncharacterized membrane protein, Fun14 family",0,1
+2284,"Uncharacterized conserved protein, DUF849 family",1,1
+2285,N-acetyl-gamma-glutamylphosphate reductase,1,1
+2286,"Glycerol dehydrogenase or related enzyme, iron-containing ADH family",0,0
+2287,"Uncharacterized conserved protein YaaR, TM1646/DUF327 family",0,0
+2288,"Methionine synthase I, cobalamin-binding domain",0,0
+2289,Cyanophycinase and related exopeptidases,1,0
+2290,"LD-carboxypeptidase LdcB, LAS superfamily",1,0
+2291,"TRAP-type mannitol/chloroaromatic compound transport system, large permease component",0,1
+2292,"PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA",1,0
+2293,"Predicted DNA binding protein, Pae2254/DUF2258 family",0,0
+2294,"Uncharacterized conserved protein, UPF0262 family",1,0
+2295,"Heme-binding protein HbpS, GlcG/HbpS family",1,0
+2296,"Penicillin V acylase or related amidase, Ntn superfamily",0,1
+2297,"GTPase Era, involved in 16S rRNA processing",1,1
+2298,"NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s",0,1
+2299,"P pilus assembly protein, chaperone PapD",0,1
+2300,Predicted Zn-dependent protease,0,1
+2301,"Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit",0,1
+2302,tRNA A58 N-methylase Trm61,0,0
+2303,Formate dehydrogenase maturation protein FdhE,1,0
+2304,Sulfate transporter CysZ,0,1
+2305,"YciI superfamily enzyme, includes 5-CHQ dehydrochlorinase, contains active-site pHis",0,1
+2306,DNA polymerase/3'-5' exonuclease PolX,1,1
+2307,"D-serine deaminase, pyridoxal phosphate-dependent",0,0
+2308,"Periplasmic protein Wza involved in polysaccharide export, contains SLBB domain of the beta-grasp fold",0,0
+2309,"Uncharacterized conserved protein, contains metal-binding DGC domain",2,0
+2310,Cu2+-containing amine oxidase,0,1
+2311,Preprotein translocase subunit SecF,0,1
+2312,"Glycosyltransferase involved in LPS biosynthesis, GR25 family",1,1
+2313,"Chitooligosaccharide deacetylase ChbG, YdjC/CelG family",0,1
+2314,Energy-converting hydrogenase Eha subunit B,0,1
+2315,3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme,0,1
+2316,"Citrate lyase, alpha subunit",0,0
+2317,"rRNA pseudouridine-1189 N-methylase Emg1, Nep1/Mra1 family",0,1
+2318,GTP cyclohydrolase II,0,1
+2319,"ABC-type phosphonate transport system, ATPase component PhnK",0,1
+2320,"Ribosome biogenesis protein, NOL1/NOP2/FMU family",1,0
+2321,"Extracellular solute-binding protein, contains Ig-fold domain",1,0
+2322,"Uncharacterized conserved protein, DUF763 domain",0,0
+2323,"Uncharacterized conserved protein YdgA, DUF945 family",1,0
+2324,DNA endonuclease related to intein-encoded endonucleases,0,0
+2325,tRNA U54 and U55 pseudouridine synthase Pus10,0,0
+2326,Glucuronate isomerase,1,0
+2327,"Histidine phosphotransfer protein ChpT, HPt domain",1,0
+2328,"Predicted nucleotide-binding protein, sugar kinase/HSP70/actin superfamily",0,2
+2329,"Presenilin-like membrane protease, A22 family",0,1
+2330,5-enolpyruvylshikimate-3-phosphate synthase,0,0
+2331,Stress response protein YsnF (function unknown),0,0
+2332,3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase,0,0
+2333,"Uncharacterized conserved protein, DUF2281 domain",1,1
+2334,Myo-inositol catabolism protein LolC,0,1
+2335,Phosphoribosyl-AMP cyclohydrolase,0,1
+2336,Small-conductance mechanosensitive channel MscK,1,0
+2337,"Virulence-associated protein VapD, endoribonuclease",2,0
+2338,"ABC-type sulfate/molybdate transport systems, ATPase component",1,0
+2339,"Predicted membrane metallochaperone YozB (3H, Sco1 fusion), DUF420 family",0,0
+2340,DNA-binding protein H-NS,1,1
+2341,Predicted dioxygenase of extradiol dioxygenase family,1,0
+2342,Stage III sporulation protein SpoIIIAA,1,1
+2343,Outer membrane receptor for monomeric catechols,0,0
+2344,"DNA-binding transcriptional regulator, FrmR family",2,0
+2345,"5,10-methylenetetrahydrofolate reductase",0,1
+2346,"Polyphosphate kinase 2, PPK2 family",0,2
+2347,Carboxysome shell and ethanolamine utilization microcompartment protein CcmK/EutM,0,1
+2348,Archaeal chemotaxis protein CheF,1,0
+2349,"Predicted nuclease, contains PIN domain",1,0
+2350,"Predicted transcriptional regulator, contains C-terminal CBS domains",1,1
+2351,Flagellar motor switch protein FliM,0,1
+2352,"DNA replicative helicase MCM subunit Mcm2, Cdc46/Mcm family",0,1
+2353,"Uncharacterized conserved protein, Alpha-E superfamily",0,0
+2354,"Holliday junction resolvase Hjc, archaeal type",0,0
+2355,"Uncharacterized conserved protein YvlB, contains  DUF4097 and DUF4098 domains",0,1
+2356,Uncharacterized conserved protein related to plant photosystem II stability/assembly factor,0,1
+2357,CBS domain,0,1
+2358,Uncharacterized conserved protein with an alpha/beta hydrolase fold,1,1
+2359,Terpene cyclase SqhC,1,0
+2360,"Uncharacterized periplasmic protein SanA, affects membrane permeability for vancomycin",0,0
+2361,"Predicted histidine transporter YuiF, NhaC family",0,1
+2362,Aldehyde:ferredoxin oxidoreductase,1,0
+2363,"Predicted ATPase, archaeal AAA+ ATPase superfamily",0,1
+2364,Polyhydroxyalkanoate synthesis regulator phasin,1,0
+2365,"Uncharacterized conserved protein YeaH/YhbH, required for sporulation, DUF444 family",1,0
+2366,Biotin transporter BioY,1,0
+2367,Organic hydroperoxide reductase OsmC/OhrA,0,1
+2368,"ABC-type microcin C transport system, permease component YejE",1,0
+2369,Predicted metalloprotease,1,0
+2370,GTP-binding protein EngB required for normal cell division,0,0
+2371,Beta-galactosidase/beta-glucuronidase,0,1
+2372,"Type IV pilus assembly protein, ATPase PilU",0,1
+2373,"Predicted nucleic acid-binding protein, contains SWIM-type Zn-finger domain",1,0
+2374,Alanine dehydrogenase (includes sporulation protein SpoVN),0,2
+2375,"Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase",0,0
+2376,tRNA G37 N-methylase TrmD,1,0
+2377,Porphobilinogen deaminase,2,0
+2378,rRNA-processing protein FCF1,0,1
+2379,2-keto-3-deoxy-L-rhamnonate aldolase RhmA,1,0
+2380,"Uncharacterized protein, contains DUF1214 domain",0,1
+2381,"Predicted oxidoreductase, contains short-chain dehydrogenase (SDR) and DUF2520 domains",0,1
+2382,"Uncharacterized membrane protein YdbS, contains bPH2 (bacterial pleckstrin homology) domain",0,1
+2383,"Adenine-specific DNA methylase, N12 class",0,1
+2384,Aspartate kinase,0,0
+2385,N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase,2,0
+2386,"Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain",0,0
+2387,"ABC-type enterochelin transport system, periplasmic component",0,1
+2388,"Uncharacterized cysteine cluster protein YcgN, CxxCxxCC family",1,1
+2389,"DNA-directed RNA polymerase, beta' subunit/160 kD subunit",2,1
+2390,Translation initiation factor IF-3,0,1
+2391,"Predicted nucleotidyltransferase, MJ0604 family",1,0
+2392,"NADH dehydrogenase, FAD-containing subunit",0,0
+2393,"3,4-dihydroxy-2-butanone 4-phosphate synthase",0,0
+2394,3-keto-L-gulonate-6-phosphate decarboxylase,0,0
+2395,Uncharacterized C-terminal domain of topoisomerase IA,0,0
+2396,Predicted permease,0,0
+2397,Preprotein translocase subunit Sss1,1,0
+2398,Archaeal/vacuolar-type H+-ATPase subunit H,1,0
+2399,"Ribosome-binding ATPase YchF, GTP1/OBG family",0,0
+2400,"Phosphoaspartate phosphatase CheZ, dephosphorylates CheY~P",0,1
+2401,"Uncharacterized conserved protein VgrG, implicated in type VI secretion and phage assembly",0,1
+2402,"Transketolase, N-terminal subunit",1,1
+2403,"Uncharacterized CoxE-like protein,  contains von Willebrand factor type A (vWA) domain",0,0
+2404,"Uncharacterized conserved protein, DUF305 family",0,1
+2405,"Sulfur transfer complex TusBCD TusB component, DsrH family",0,1
+2406,Methyl-accepting chemotaxis protein (MCP),0,1
+2407,"ABC-type hemin transport system, ATPase component",1,0
+2408,Purine nucleoside phosphorylase,0,1
+2409,Uncharacterized membrane protein YkvI,0,1
+2410,Type IV pilus assembly protein PilF/PilW,0,2
+2411,Predicted nucleotidyltransferase AF1967,1,1
+2412,Ubiquitin C-terminal hydrolase,1,0
+2413,Predicted amino acid racemase,0,2
+2414,Predicted membrane GTPase TypA/BipA involved in stress response,0,1
+2415,Protein-arginine kinase McsB,0,2
+2416,"mRNA-degrading endonuclease (mRNA interferase) HigB, toxic component of the HigAB toxin-antitoxin module",1,2
+2417,"Beta-xylosidase, GH43 family",2,0
+2418,"Uncharacterized conserved protein YhhL, DUF1145 family",0,1
+2419,Predicted transcriptional regulator fused phosphomethylpyrimidine kinase (thiamin biosynthesis),1,0
+2420,"Endonuclease NucS, RecB family",0,1
+2421,"Predicted NTPase, NACHT family domain",2,0
+2422,Mn-containing catalase (includes spore coat protein CotJC),0,0
+2423,Predicted phosphatase,3,0
+2424,"3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains",1,0
+2425,Dephospho-CoA kinase,1,0
+2426,"Stage V sporulation protein SpoVR/YcgB, involved in spore cortex formation (function unknown)",0,1
+2427,Leu/Phe-tRNA-protein transferase,0,1
+2428,Cephalosporin-C deacetylase or related acetyl esterase,0,1
+2429,3-deoxy-D-manno-octulosonic-acid transferase,0,0
+2430,"Tellurite resistance protein TehB, SAM-dependent methylase, cupin superfamily",0,0
+2431,Ligand-binding sensor domain,0,0
+2432,"Uncharacterized conserved protein YqeY, may have tRNA amino acid amidase activity",0,1
+2433,Rieske Fe-S protein,0,1
+2434,"ABC-type uncharacterized transport system YnjBCD, ATPase component",0,1
+2435,"DNA polymerase I, 3'-5' exonuclease and polymerase domains",1,0
+2436,Translation elongation factor EF-1alpha (GTPase),0,1
+2437,"Exosome subunit, RNA binding protein with dsRBD fold",0,1
+2438,Signal transduction protein containing GAF and PtsI domains,1,2
+2439,"Uncharacterized conserved protein, DUF488 family",0,1
+2440,Nitroreductase,2,0
+2441,Ribosomal protein L24E,0,1
+2442,Radical SAM superfamily enzyme PflX,0,1
+2443,Fe-S-cluster-containing hydrogenase component 2,1,1
+2444,Carboxysome shell and ethanolamine utilization microcompartment protein CcmL/EutN,0,1
+2445,"Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif",0,1
+2446,"Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit",0,1
+2447,Predicted N-formylglutamate amidohydrolase,2,0
+2448,"Uncharacterized membrane protein YtjA, UPF0391 family",0,1
+2449,Recombinational DNA repair protein RecO (RecF pathway),0,1
+2450,Archaeal adenylate kinase,0,1
+2451,Archaeal riboflavin synthase,0,1
+2452,"Predicted phosphohydrolase, protein tyrosine phosphatase (PTP) superfamily, DUF442 family",0,0
+2453,Polyisoprenoid-binding periplasmic protein YceI,1,0
+2454,"Osmotically-inducible protein OsmY, contains BON domain",1,2
+2455,"S-layer protein MJ0795, predicted component of type IV pili-like system",2,1
+2456,Heme-binding NEAT domain,0,1
+2457,Acetamidase/formamidase,1,0
+2458,"ABC-type sugar transport system, ATPase component",0,2
+2459,Membrane protein involved in the export of O-antigen and teichoic acid,0,0
+2460,"Uncharacterized conserved protein YrrD, contains PRC-barrel domain",0,1
+2461,Phage large terminase packaging protein,1,0
+2462,Predicted glycosyltransferase,0,0
+2463,DNA replication protein DnaD,1,0
+2464,"Uncharacterized conserved protein, DUF2195 domain",0,0
+2465,16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B),1,0
+2466,Various environmental stresses-induced protein Ves (function unknown),0,2
+2467,"Uncharacterized membrane protein, UPF0182 family",1,2
+2468,Uncharacterized SPBc2 prophage-derived protein YoqJ,0,1
+2469,Type IV pilus assembly protein PilO,0,1
+2470,"Spore coat polysaccharide biosynthesis protein SpsG, predicted glycosyltransferase",0,0
+2471,Methionine synthase II (cobalamin-independent),0,1
+2472,"Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB",1,0
+2473,"Predicted Co/Zn/Cd cation transporter, cation efflux family",0,0
+2474,"Uncharacterized conserved protein, DUF58 family, contains vWF domain",1,0
+2475,"Uncharacterized membrane protein YvlD, DUF360 family",0,1
+2476,"Predicted transcriptional regulator, contains an HTH and PUA-like domains",0,0
+2477,"Cell division protein ZapB, interacts with FtsZ",1,0
+2478,"Ribosome assembly protein YihI, activator of Der GTPase",0,2
+2479,"tRNA 2-selenouridine synthase SelU, contains rhodanese domain",1,1
+2480,IMP dehydrogenase/GMP reductase,0,0
+2481,Nitrogenase ATPase subunit NifH/coenzyme F430 biosynthesis subunit CfbC,1,0
+2482,Uncharacterized Fe-S cluster protein,0,1
+2483,"Peptidoglycan-binding domain, expansin YoaJ",1,1
+2484,"PASTA domain, binds beta-lactams",1,1
+2485,GTP cyclohydrolase I,1,1
+2486,O-antigen ligase,0,0
+2487,"Na+-transporting oxaloacetate/methylmalonyl-CoA decarboxylase, gamma subunit",0,1
+2488,"Acyl-CoA thioesterase PaaI, contains HGG motif",1,1
+2489,Lysine/ornithine N-monooxygenase,0,1
+2490,Opacity protein LomR and related surface antigens,1,0
+2491,Uncharacterized membrane protein YczE,0,0
+2492,vWFA (von Willebrand factor type A) domain of Mg and Co chelatases,0,1
+2493,Phage regulatory protein Rha,1,1
+2494,"Predicted P-loop ATPase, KAP-like",0,1
+2495,"ABC-type sulfate transport system, periplasmic component",1,0
+2496,Argininosuccinate synthase,0,1
+2497,"Type IV pilus assembly protein, major pilin PilA",0,1
+2498,Archaeal/vacuolar-type H+-ATPase subunit F/Vma7,0,0
+2499,S-adenosylhomocysteine hydrolase,1,0
+2500,"DNA-directed RNA polymerase, subunit L/RPAC2",1,0
+2501,Metallophosphoesterase superfamily enzyme,1,0
+2502,G:T/U-mismatch repair DNA glycosylase,1,0
+2503,Myosin-crossreactive antigen  (function unknown),1,0
+2504,"Uncharacterized conserved protein YijF, DUF1287 family",1,1
+2505,"Peptidoglycan lytic transglycosylase RlpA, contains C-terminal SPOR domain",1,0
+2506,"Predicted phosphohydrolase, MPP superfamily",1,0
+2507,"Predicted transcriptional regulator YheO, contains PAS and DNA-binding HTH domains",0,1
+2508,Fibrillarin-like rRNA 2'-O-methylase NOP1,1,1
+2509,Predicted TIM-barrel enzyme,0,2
+2510,"DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family",1,1
+2511,"Acetolactate synthase, small subunit",0,0
+2512,Phage-related holin (Lysis protein),2,1
+2513,Citrate lyase synthetase CitC,1,0
+2514,Diacylglycerol kinase,1,0
+2515,Uncharacterized conserved protein MJ1451,2,0
+2516,Primosomal replication protein N,1,0
+2517,"DNA-directed RNA polymerase, subunit E'/Rpb7",0,0
+2518,"Uncharacterized conserved protein YfeS, contains WGR domain",1,0
+2519,Carbon monoxide dehydrogenase subunit CoxG,1,0
+2520,"Zn-dependent peptidase, M16 (insulinase) family",1,1
+2521,Predicted Na+-dependent transporter YfeH,0,1
+2522,"Biotin synthase-related protein, radical SAM superfamily",0,1
+2523,"Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family",1,0
+2524,"Uncharacterized conserved protein YjiS, DUF1127 family",1,0
+2525,Uncharacterized membrane protein YwzB,0,0
+2526,Outer membrane protein assembly factor BamA,0,1
+2527,tRNA U34 5-methylaminomethyl-2-thiouridine-forming methyltransferase MnmC,2,1
+2528,C4-dicarboxylate transporter DcuC,2,0
+2529,"Uncharacterized conserved protein YpbQ, isoprenylcysteine carboxyl methyltransferase (ICMT) family",0,0
+2530,"Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family",0,1
+2531,"Uncharacterized conserved protein YhaN, contains AAA domain",1,1
+2532,"Neuraminidase (sialidase) NanH, contains C-terminal autotransporter domain",1,2
+2533,"Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat",0,0
+2534,Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P lyase PhnJ,0,1
+2535,Periplasmic glucan biosynthesis protein OpgG,0,0
+2536,Molybdopterin or thiamine biosynthesis adenylyltransferase,0,0
+2537,"Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit",0,0
+2538,"Uncharacterized conserved protein YacL, contains PIN and TRAM domains",0,0
+2539,Membrane protein TolA involved in colicin uptake,0,0
+2540,"ACT domain, binds amino acids and other small ligands",0,1
+2541,"Uncharacterized conserved protein YcnI, contains cohesin/reeler-like domain",1,0
+2542,"Type IV secretory pathway, VirB10 component",1,1
+2543,Predicted amino acid dehydrogenase,0,0
+2544,Ribosomal protein L13E,1,0
+2545,Predicted aminopeptidase,1,0
+2546,"Uncharacterized conserved protein, DUF2096 domain",0,1
+2547,"Tetrahydromethanopterin S-methyltransferase, subunit F",1,0
+2548,Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1,0,1
+2549,Zn-dependent alcohol/formaldehyde dehydrogenase,0,1
+2550,Outer membrane usher protein FimD/PapC,0,0
+2551,Ribosomal protein L28,1,1
+2552,Archaellum component ArlD/FlaD/FlaE,1,0
+2553,"Adenylate cyclase, class 3",0,1
+2554,"Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain",0,0
+2555,"Uncharacterized conserved protein YidB, DUF937 family",0,1
+2556,Glutamate-1-semialdehyde aminotransferase,0,1
+2557,Archaeal GTP cyclohydrolase III,0,0
+2558,Trehalose utilization protein,1,0
+2559,Transcription factor homologous to NACalpha-BTF3,1,0
+2560,Archaeal Cys-tRNA synthase (O-phospho-L-seryl-tRNA:Cys-tRNA synthase),0,1
+2561,Permease of the drug/metabolite transporter (DMT) superfamily,0,0
+2562,"Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family",1,0
+2563,Capsular polysaccharide biosynthesis protein,1,0
+2564,"Uncharacterized conserved protein YhbP, UPF0306 family",0,1
+2565,Ribosomal protein S4 or related protein,0,2
+2566,"Uncharacterized conserved protein YjgD, DUF1641 family",2,0
+2567,Predicted metal-binding membrane protein,0,0
+2568,Glutamine synthetase type III,0,1
+2569,Uncharacterized coiled-coil protein SlyX (sensitive to lysis X),0,0
+2570,"Predicted DNA-binding protein, contains ribbon-helix-helix (RHH) domain",1,0
+2571,Spore coat protein CotF,0,1
+2572,Uncharacterized conserved protein with two CxxC motifs,1,0
+2573,Pyridoxal 5'-phosphate synthase subunit PdxS,1,1
+2574,"Bacillithiol/mycothiol S-transferase BstA/DinB, DinB/YfiT family (unrelated to E. coli DinB)",0,0
+2575,Phosphatidate phosphatase APP1,0,1
+2576,Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI,0,1
+2577,"DNAse/DNA nickase specific for phosphorothioated or glycosylated phage DNA, GmrSD/DndB/SspE family, contains DUF262 and HNH nuclease domains",0,0
+2578,"Type II secretory pathway, component PulM",0,2
+2579,O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming),1,1
+2580,3-phytase (myo-inositol-hexaphosphate 3-phosphohydrolase),1,0
+2581,"tRNA-guanine transglycosylase, archaeosine-15-forming, contains TGT and PUA domains",0,0
+2582,"DNA-binding transcriptional regulator, PadR family",1,0
+2583,"Phosphatidylglycerol kinase, diacylglycerol kinase family",0,1
+2584,"Membrane potential modulator PMP3/YqaE, plasma membrane proteolipid 3 (PMP3)/Esi3/RCI2/UPF0057 family",0,1
+2585,"Iron-sulfur cluster repair protein YtfE, RIC family, contains ScdAN and hemerythrin domains",0,1
+2586,"Predicted anti-virus defense system component AQ645, contains DUF2357 and  PD-(D/E)xK nuclease domains",0,1
+2587,Rhodanese-related sulfurtransferase,0,1
+2588,Tyrosine-protein phosphatase YwqE,0,1
+2589,UDP-N-acetylenolpyruvoylglucosamine reductase,2,0
+2590,Mu-like prophage protein gp29,0,1
+2591,"Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit",0,0
+2592,Flagellar biosynthesis regulator FlbT,1,0
+2593,"Uncharacterized conserved protein YqiB, DUF1249 family",0,1
+2594,Malic enzyme,0,0
+2595,NAD(P)H-flavin reductase,0,0
+2596,Class II terpene cyclase family protein AF1543,1,0
+2597,4-hydroxybenzoate polyprenyltransferase,0,1
+2598,Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria),0,1
+2599,"ABC-type multidrug transport system, permease component",1,0
+2600,"Endo-1,4-beta-D-glucanase Y",2,0
+2601,"Predicted transglutaminase-like protease, UPF0252 family",0,1
+2602,Cytochrome b subunit of the bc complex,1,0
+2603,Glutamyl- or glutaminyl-tRNA synthetase,0,0
+2604,Cobalamin biosynthesis cobaltochelatase CobT subunit,0,1
+2605,"Uncharacterized conserved protein, nuclear transport factor 2 (NTF2) superfamily",0,1
+2606,"Magnesium uptake protein YhiD/SapB, involved in acid resistance",1,0
+2607,"Archaeal 2-phospho-L-lactate transferase/Bacterial gluconeogenesis factor, CofD/UPF0052 family",1,0
+2608,"PepSY domain containing protein, regulator of zincin peptidase activity",0,0
+2609,Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase),2,0
+2610,23S rRNA G2445 N2-methylase RlmL,0,0
+2611,Phosphoribosyl-ATP pyrophosphohydrolase,1,0
+2612,"Uncharacterized conserved protein, DUF697 family",1,0
+2613,"Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN",0,0
+2614,"Uncharacterized conserved protein, UPF0248 family",1,0
+2615,"Ethanolamine utilization protein EutP, contains a P-loop NTPase domain",1,0
+2616,"Flp pilus assembly ATPase CpaE/TadZ, contains N-terminal REC/TadZ_N domain",0,0
+2617,"Chromosome condensin MukBEF, MukE localization factor",1,1
+2618,"Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain",0,0
+2619,Flagellar biosynthesis protein FliQ,0,1
+2620,2-methylcitrate dehydratase PrpD,0,0
+2621,Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase,0,1
+2622,Gamma-glutamyl ligase family protein MJ1361,1,0
+2623,Aspartyl/asparaginyl-tRNA synthetase,0,0
+2624,"Mannosyl-3-phosphoglycerate phosphatase YedP/MpgP, HAD superfamily",0,1
+2625,Glucokinase,1,0
+2626,"ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase",0,0
+2627,"Predicted antitoxin, contains HTH domain",1,0
+2628,Uncharacterized Fe-S cluster protein YjdI,0,1
+2629,"Transketolase, C-terminal subunit",0,1
+2630,Predicted nucleotidyltransferase component of viral defense system,0,0
+2631,"Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain",2,0
+2632,"Acetyl/propionyl-CoA carboxylase, alpha subunit",1,0
+2633,Ca2+/Na+ antiporter,0,0
+2634,"DNA-binding transcriptional regulator, LysR family",0,1
+2635,Spore maturation protein SpmB (function unknown),0,0
+2636,"Flp pilus assembly protein TadD, contains TPR repeats",1,1
+2637,"Succinate dehydrogenase, hydrophobic anchor subunit",0,0
+2638,UDP-N-acetylglucosamine enolpyruvyl transferase,0,1
+2639,2-keto-4-pentenoate hydratase,0,0
+2640,DNA-cytosine methylase,0,0
+2641,"Type III secretory pathway, EscT/YscT component",0,2
+2642,Phosphoheptose isomerase,1,0
+2643,Predicted spermidine synthase with an N-terminal membrane domain,0,0
+2644,Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities,0,0
+2645,FKBP-type peptidyl-prolyl cis-trans isomerase,0,0
+2646,Ribosomal protein L1,2,0
+2647,"Transposase and inactivated derivatives, TnpA family",0,0
+2648,"Membrane protein RarD, contains two EamA domains, drug/metabolite transporter family",1,1
+2649,5-oxoprolinase subunit B/Allophanate hydrolase subunit 1,1,0
+2650,Glycogen synthase,1,0
+2651,"Uncharacterized conserved protein MTH_811, UPF0305 family",1,0
+2652,"Iron-guanylylpyridinol (FeGP) cofactor biosynthesis protein HcgB, guanylyltransferase",1,0
+2653,"Predicted phospholipase, patatin/cPLA2 family",0,1
+2654,"Ribulose 1,5-bisphosphate carboxylase, large subunit, or a RuBisCO-like protein",0,0
+2655,Trans-2-enoyl-CoA reductase,0,1
+2656,Streptogramin lyase,1,1
+2657,Cell division protein DedD (periplasmic protein involved in septation),2,0
+2658,"Phage DNA packaging protein, Nu1 subunit of terminase",1,0
+2659,"Tetrahydromethanopterin S-methyltransferase, subunit G",0,3
+2660,"FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase",0,2
+2661,Tetraacyldisaccharide-1-P 4'-kinase (Lipid A 4'-kinase),1,0
+2662,Carbohydrate-binding DOMON domain,0,1
+2663,"Peptidyl-prolyl cis-trans isomerase, FKBP type",0,0
+2664,"tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase",0,0
+2665,Ferredoxin-like protein FixX,0,1
+2666,Starvation-inducible outer membrane lipoprotein Slp,1,0
+2667,Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnH,0,1
+2668,Na+/H+ antiporter NhaD or related arsenite permease,0,0
+2669,"ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components",1,0
+2670,"ABC-type nickel/cobalt efflux system, permease component RcnA",1,0
+2671,"Uncharacterized conserved protein YfaA, DUF2138 family",0,0
+2672,"1-aminocyclopropane-1-carboxylate deaminase/D-cysteine desulfhydrase, PLP-dependent ACC family",1,0
+2673,Cell division protein FtsB,0,2
+2674,Uncharacterized Fe-S cluster-containing protein,1,1
+2675,"K+-transporting ATPase, KdpC subunit",0,1
+2676,"Uncharacterized conserved protein, DUF983 family",0,0
+2677,Phosphoglycerate dehydrogenase or related dehydrogenase,1,1
+2678,Flagellar hook-basal body complex protein FliE,1,0
+2679,Uncharacterized conserved protein MJ0498,1,0
+2680,"ABC-type phosphate transport system, periplasmic component",0,0
+2681,"Uncharacterized protein, contains DUF2156 domain",0,1
+2682,"Uncharacterized conserved protein YjcR, contains N-terminal HTH domain",0,1
+2683,"Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits",1,2
+2684,Dethiobiotin synthetase,0,2
+2685,"Sulfur carrier protein TusA (tRNA thiolation, molybdenum cofactor biosynthesis)",0,1
+2686,N-Dimethylarginine dimethylaminohydrolase,0,1
+2687,"Uncharacterized membrane protein YckC, RDD family",2,0
+2688,Phosphomevalonate kinase,0,1
+2689,"Putative heme iron utilization protein, contains PNPOx domain",0,1
+2690,Long-chain acyl-CoA synthetase (AMP-forming),1,0
+2691,Periplasmic molybdate-binding protein/domain,1,0
+2692,Uncharacterized archaeal Zn-finger protein,1,1
+2693,Shikimate kinase,1,0
+2694,"Uncharacterized metalloenzyme YdcJ, glyoxalase superfamily",0,1
+2695,Ribosomal protein L35AE/L33A,0,1
+2696,DNA topoisomerase IB,1,0
+2697,"Predicted component TssB of the type VI protein secretion system, VipA/VipB/TssB family",1,0
+2698,Pyruvate carboxylase,1,0
+2699,ATP phosphoribosyltransferase,0,1
+2700,Ribosomal protein S12,0,0
+2701,"ABC-type proline/glycine betaine transport system, ATPase component",0,1
+2702,"Uncharacterized membrane protein, contains DUF996 domain",0,1
+2703,Putative cysteine ligase BshC/YllA (bacillithiol biosynthesis),1,0
+2704,Cell division protein FtsN,0,1
+2705,Aminoglycoside phosphotransferase,0,1
+2706,"Type IV secretory pathway, TrbL components",2,1
+2707,"DNA-binding transcriptional regulator, CsgD family",2,0
+2708,"L-ascorbate lactonase UlaG, metallo-beta-lactamase superfamily",2,0
+2709,RecB family exonuclease,0,1
+2710,Glutamate mutase epsilon subunit,0,0
+2711,Hypoxanthine phosphoribosyltransferase,0,1
+2712,"ABC-type antimicrobial peptide export system, ATPase component SapD",1,0
+2713,"Predicted subunit of tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop ATPase domain",0,0
+2714,DNA uptake protein ComE or related DNA-binding protein,1,1
+2715,"Uncharacterized conserved protein, DUF2239 domain",0,0
+2716,Cobalamin biosynthesis protein CbiG,0,2
+2717,"RNA:NAD 2'-phosphotransferase, TPT1/KptA family",1,0
+2718,"Uncharacterized conserved protein, DUF2209 domain",1,0
+2719,Methylase of chemotaxis methyl-accepting proteins,0,0
+2720,Acetyl-CoA carboxylase alpha subunit,1,0
+2721,Cytochrome c oxidase assembly protein Cox11,0,1
+2722,N6-adenosine-specific RNA methylase IME4,0,2
+2723,Cytochrome c551/c552,0,1
+2724,"Uncharacterized conserved protein YbaA, DUF1428 family",1,1
+2725,"Membrane-bound metal-dependent hydrolase YbcI, DUF457 family",0,1
+2726,"ABC-type thiamine/hydroxymethylpyrimidine transport system, permease component",3,0
+2727,L-serine deaminase,0,1
+2728,Anaerobic glycerol-3-phosphate dehydrogenase,0,1
+2729,Ribosomal protein L36,1,0
+2730,Small-conductance mechanosensitive channel,2,0
+2731,"Ribosomal 30S subunit maturation factor RimM, required for 16S rRNA processing",0,0
+2732,"Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain",1,0
+2733,"Uncharacterized conserved protein, DUF302 family",1,0
+2734,Lipopolysaccharide export system protein LptA,1,0
+2735,Cytochrome c biogenesis protein CcmF,0,0
+2736,Monomeric isocitrate dehydrogenase,0,0
+2737,"Isoaspartyl peptidase or L-asparaginase, Ntn-hydrolase superfamily",0,1
+2738,Predicted metal-dependent hydrolase,0,0
+2739,Predicted nuclease (RNAse H fold),1,0
+2740,"Predicted peroxiredoxin, DsrE/DsrF-like family",0,1
+2741,"Fimbrial subunit ScuA/B, ScuA/B/SCPU domain",1,0
+2742,"Ferric iron reductase protein FhuF, involved in iron transport",1,0
+2743,"Predicted membrane channel-forming protein YqfA, hemolysin III family",0,0
+2744,NhaP-type Na+/H+ or K+/H+ antiporter,1,1
+2745,"Transcriptional regulator of competence genes, TfoX/Sxy family",0,1
+2746,Radical SAM superfamily enzyme,0,0
+2747,Membrane-associated phospholipid phosphatase,1,0
+2748,"Polyhydroxyalkanoate (PHA) synthesis regulator protein, binds DNA and PHA",0,0
+2749,Cysteinyl-tRNA synthetase,0,1
+2750,Mu-like prophage major head subunit gpT,1,0
+2751,"Uncharacterized conserved protein YeaO, DUF488 family",1,0
+2752,Phosphotransferase system IIB components,0,0
+2753,"PAB1-binding protein, interacts with poly(A)-binding protein",1,1
+2754,Predicted nucleotidyltransferase,0,1
+2755,Quinol monooxygenase YgiN,0,1
+2756,"Uncharacterized conserved protein, DUF427 family",0,0
+2757,"Uncharacterized conserved protein, DUF2384 family",0,1
+2758,"Membrane-anchored ribosome-binding protein ElaB, inhibits growth in stationary phase, YqjD/DUF883 family",1,0
+2759,"Aminopeptidase N, contains DUF3458 domain",0,1
+2760,"Predicted metal-dependent phosphohydrolase, HD superfamily",0,0
+2761,"Uncharacterized conserved protein, DUF951 family",0,1
+2762,Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase,1,0
+2763,"N-methylhydantoinase B/oxoprolinase/acetone carboxylase, alpha subunit",0,1
+2764,"ABC-type spermidine/putrescine transport system, permease component II",1,0
+2765,"CRISPR/Cas system CMR subunit Cmr6, Cas7 group, RAMP superfamily",1,0
+2766,N-acetylmuramoyl-L-alanine amidase,0,2
+2767,"ABC-type nitrate/sulfonate/bicarbonate transport system, periplasmic component",1,1
+2768,"Periplasmic protein PbgA/YejM, regulator of the LPS biosynthesis, AlkP superfamily",1,0
+2769,Ribosomal protein L18E,0,1
+2770,Allantoicase,1,0
+2771,"Uncharacterized N-terminal domain of tricorn protease, contains WD40 repeats",1,0
+2772,"Uncharacterized conserved protein, DUF2213 domain",0,1
+2773,Cytochrome c biogenesis protein ResB,1,0
+2774,tRNA A37 methylthiotransferase MiaB,0,1
+2775,Outer membrane lipoprotein-sorting protein,0,0
+2776,Outer membrane murein-binding lipoprotein Lpp,0,1
+2777,Predicted alternative tryptophan synthase beta-subunit (paralog of TrpB),2,0
+2778,"Uncharacterized 2Fe-2S and 4Fe-4S clusters-containing protein, contains DUF4445 domain",0,1
+2779,"5-methylcytosine-specific restriction endonuclease McrBC, regulatory subunit McrC",0,2
+2780,"Serine kinase of the HPr protein, regulates carbohydrate metabolism",0,1
+2781,"Uncharacterized protein CV0675, UCP033623 family",0,3
+2782,Type IV pilus assembly protein FimV,1,1
+2783,"Uncharacterized membrane protein YraQ, UPF0718 family",0,1
+2784,"Predicted double-glycine leader peptidase, C39-like (CLD) domain",0,0
+2785,4-(hydroxymethyl)-2-furancarboxaldehyde phosphate synthase MfnB,1,1
+2786,Beta-mannanase,1,0
+2787,ATP sulfurylase (sulfate adenylyltransferase),0,0
+2788,"ABC-type enterochelin transport system, ATPase component",1,0
+2789,Predicted SnoaL-like aldol condensation-catalyzing enzyme,1,0
+2790,D-aminopeptidase,0,0
+2791,"Nitrous oxide reductase accessory protein NosD, contains tandem CASH domains",1,0
+2792,"Translation elongation factor EF-4, membrane-bound GTPase",1,0
+2793,Predicted transglutaminase-like protein,1,1
+2794,"Predicted nucleic-acid-binding protein, contains PIN domain",1,0
+2795,"Uncharacterized conserved protein, DUF799 domain",1,0
+2796,Ribosomal protein L34,2,0
+2797,Uncharacterized membrane protein YhdT,1,0
+2798,H+/Cl- antiporter ClcA,1,0
+2799,"ssDNA abasic site-binding protein YedK/HMCES, SRAP family",0,2
+2800,Monoamine oxidase,1,1
+2801,Heat shock protein HslJ,0,1
+2802,Hemerythrin,2,0
+2803,"Uncharacterized conserved protein YueI, DUF2278 family",0,1
+2804,Capsular polysaccharide biosynthesis protein YveK,0,1
+2805,Glycerol-3-phosphate dehydrogenase,0,2
+2806,Tyrosyl-tRNA synthetase,1,2
+2807,tRNA A37 threonylcarbamoyladenosine dehydratase,1,0
+2808,"Asparagine N-glycosylation enzyme, membrane subunit Stt3",0,2
+2809,"Chagasin-like inhibitor of cysteine peptidase, I42 family",1,0
+2810,"Uncharacterized conserved protein, DUF779 family",0,1
+2811,"ABC-type guanosine uptake system NupNOPQ, ATPase component NupO",0,1
+2812,"Uncharacterized conserved protein, DUF1653 family",0,1
+2813,"Predicted DNA-binding protein with ‘double-wing’ structural motif, MmcQ/YjbR family",0,2
+2814,"Uncharacterized membrane protein YdbT, contains bPH2 (bacterial pleckstrin homology) domain",2,1
+2815,Ribosomal protein L9,2,0
+2816,Ribosome biogenesis protein Tsr3 (rRNA maturation),0,2
+2817,"ATP-dependent Lon protease, bacterial type",0,0
+2818,"Predicted ribosome-associated RNA-binding protein Tma20, contains PUA domain",0,1
+2819,Chorismate mutase AroH,0,1
+2820,"Cell shape-determining ATPase MreB, actin-like superfamily",0,1
+2821,"Two-component response regulator, AmiR/NasT family, consists of REC and RNA-binding antiterminator (ANTAR) domains",0,1
+2822,Capsule polysaccharide export protein KpsC/LpsZ,0,0
+2823,Coproporphyrinogen-III oxidase HemN  (oxygen-independent) or related Fe-S oxidoreductase,0,0
+2824,"Uncharacterized conserved protein AF1501, DUF2226 family",0,0
+2825,3-hydroxy-3-methylglutaryl CoA synthase,1,0
+2826,"DNA-directed RNA polymerase, subunit RPC12/RpoP, contains C4-type Zn-finger",1,0
+2827,"Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family",0,1
+2828,"Uncharacterized conserved protein YibQ, putative polysaccharide deacetylase 2 family",0,2
+2829,Beta-galactosidase GanA,1,0
+2830,"Uncharacterized conserved protein YhjY, contains autotransporter beta-barrel domain",1,0
+2831,"Uncharacterized conserved protein YfiM, DUF2279 family",1,0
+2832,Outer membrane phospholipase A,0,1
+2833,Methionyl-tRNA formyltransferase,1,2
+2834,N-acetylmuramoyl-L-alanine amidase CwlA,1,0
+2835,"Zn-binding Pro-Ala-Ala-Arg (PAAR) domain, involved in Type VI secretion",1,0
+2836,"Cyclopropanoid cyclopropyl hydrolase, GyrI-like domain",1,1
+2837,"FoF1-type ATP synthase AtpZ/Atp1/AtpQ subunit, putative Ca2+/Mg2+ transporter",0,1
+2838,"Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit",1,0
+2839,DNA-directed RNA polymerase specialized sigma subunit,0,1
+2840,"Uncharacterized membrane protein, DUF441 family",0,2
+2841,"Uncharacterized membrane protein YgaE, UPF0421/DUF939 family",1,0
+2842,"Type III secretory pathway, component EscV",0,0
+2843,"Alpha-amylase/alpha-mannosidase, GH57 family",0,1
+2844,"Predicted transcriptional regulator YdeE, contains AraC-type DNA-binding domain",1,0
+2845,"Negative regulator MecA of genetic competence, sporulation and motility",0,1
+2846,GTP-sensing pleiotropic transcriptional regulator CodY,0,1
+2847,"Uncharacterized stationary-phase protein YicC, UPF0701 family",1,0
+2848,UDP-glucose 4-epimerase,0,0
+2849,"Uncharacterized protein, contains short C-terminal (SHOCT) domain",0,0
+2850,"Uncharacterized conserved protein YggL, DUF469 family",0,2
+2851,"Acetolactate synthase small subunit, contains ACT domain",1,0
+2852,Signal recognition particle GTPase FtsY,0,0
+2853,Enoyl reductase domain of yeast-type fatty acid synthase,1,0
+2854,tRNA(Met) C34 N-acetyltransferase TmcA,1,0
+2855,"DNA helicase TIP49, TBP-interacting protein",0,1
+2856,"Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB",0,1
+2857,"Uncharacterized conserved protein YifE, UPF0438 family",0,1
+2858,Polyferredoxin NapH,2,0
+2859,"Mn2+ or Fe2+ transporter, NRAMP family",0,1
+2860,"Lipopolysaccharide biosynthesis regulator YciM/LapB, contains six TPR domains and a C-terminal metal-binding domain",0,1
+2861,Pyridoxine 5'-phosphate synthase PdxJ,0,0
+2862,Histidine ammonia-lyase,0,1
+2863,Choline dehydrogenase or related flavoprotein,0,1
+2864,Nitric oxide response protein NnrS,0,1
+2865,"Mevalonate 5-phosphate dehydratase subunit 2, swiveling domain (modified mevalonate pathway)",0,1
+2866,Nicotinamide mononucleotide adenylyltransferase,0,1
+2867,"DNA primase, phage- or plasmid-associated",0,1
+2868,"NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase",0,0
+2869,"Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain",0,2
+2870,Dipeptide/tripeptide permease,1,1
+2871,ABC-type polysaccharide/teichoic acid/polyol phosphate export permease,0,0
+2872,D-alanyl-D-alanine carboxypeptidase,0,2
+2873,"Eukaryotic-type DNA primase, catalytic (small) subunit",0,1
+2874,DNA replication protein DnaC,1,1
+2875,"Predicted Zn-dependent protease, minimal metalloprotease (MMP)-like domain",1,0
+2876,Disulfide oxidoreductase YuzD,1,0
+2877,"Multisubunit Na+/H+ antiporter, MnhC subunit",1,0
+2878,Uncharacterized conserved protein YaaN involved in tellurite resistance,1,0
+2879,Homoserine dehydrogenase,0,0
+2880,"Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain",0,2
+2881,Selenophosphate synthetase-related protein,1,0
+2882,"Uncharacterized conserved protein, DUF749 domain",1,0
+2883,Predicted acyltransferase,0,0
+2884,Ribulose kinase,1,0
+2885,Predicted lipoprotein with conserved Yx(FWY)xxD motif (function unknown),0,1
+2886,Ribosomal protein L7Ae or related RNA K-turn-binding protein,2,0
+2887,"Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, alpha subunit",1,1
+2888,"Uncharacterized conserved protein, DUF1430 domain",1,0
+2889,"Ribosomal 50S subunit-associated protein YjgA, DUF615 family",0,1
+2890,"Anthranilate phosphoribosyltransferase, glycosyltransferase domain",1,0
+2891,"Predicted hydrocarbon binding protein, contains 4VR domain",0,1
+2892,Endonuclease I,0,0
+2893,"Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains",1,1
+2894,Primase-polymerase (Primpol) domain protein,1,1
+2895,"Stage V sporulation protein SpoVS, predicted DNA-binding, AlbA superfamily",0,2
+2896,"FhlA-type transcriptional regulator, contains GAF, AAA-type ATPase, and DNA-binding Fis domains",0,0
+2897,S-adenosylmethionine:diacylglycerol 3-amino-3-carboxypropyl transferase,0,0
+2898,"Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit",0,0
+2899,"Uncharacterized conserved protein, DUF2111 domain",0,0
+2900,"Putative antitoxin component PasI (RatB) of the RatAB toxin-antitoxin module, ubiquitin-RnfH superfamily",0,0
+2901,"Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily",0,1
+2902,SAM-dependent methyltransferase,1,1
+2903,"Putative transcriptional regulator, AlgH/UPF0301 family",0,1
+2904,"Flavodoxin NrdI, NrdF-interacting activator of class Ib ribonucleotide reductase",0,0
+2905,"Uncharacterized membrane protein YjgN, DUF898 family",0,1
+2906,"Membrane-anchored glycerophosphoryl diester phosphodiesterase (GDPDase), membrane domain",0,1
+2907,"MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase",1,0
+2908,Ribonuclease I,0,1
+2909,Alanyl-tRNA synthetase,2,0
+2910,Cystathionine beta-lyase family protein involved in aluminum resistance,0,1
+2911,"Membrane-anchored lipoprotein Tpp15, major membrane immunogen",1,0
+2912,Formiminotetrahydrofolate cyclodeaminase,0,0
+2913,Undecaprenyl pyrophosphate phosphatase,1,0
+2914,"Vitamin K epoxide reductase (VKOR) family protein, predicted involvement in disulfide bond formation",0,1
+2915,"Predicted acyltransferase, contains DUF342 domain",0,1
+2916,"Phosphatidate phosphatase PAH1, contains Lipin and LNS2 domains. can be involved in plasmid maintenance",1,0
+2917,"Uncharacterized conserved protein, DUF501 family",0,1
+2918,dGTP triphosphohydrolase,1,0
+2919,Glyoxylate carboligase,1,1
+2920,Elongation factor P hydroxylase EpmC (EF-P beta-lysylation pathway),2,0
+2921,Ribosomal protein L31E,0,2
+2922,Lipoprotein-anchoring transpeptidase ErfK/SrfK,2,0
+2923,Mu-like prophage FluMu protein gp28,0,0
+2924,Transaldolase/fructose-6-phosphate aldolase,0,3
+2925,Nitrogenase Mo-Fe protein NifD/coenzyme F430 biosynthesis subunit CfbD,1,0
+2926,Choline kinase,0,1
+2927,"Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits",1,0
+2928,"Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605",0,1
+2929,"DNA polymerase III, psi subunit",0,1
+2930,Nitrogen fixation protein FixH,0,1
+2931,Putative NADPH-quinone reductase (modulator of drug activity B),1,0
+2932,Fucose permease,0,0
+2933,"Serine transporter YbeC, amino acid:H+ symporter family",1,0
+2934,Predicted regulatory domain of a methyltransferase,0,1
+2935,"Nucleoside diphosphatase, GDA1/CD39 family",0,0
+2936,Multidrug resistance efflux pump EmrA,0,1
+2937,Lysozyme inhibitor LprI,0,1
+2938,"Uncharacterized protein, contains DUF1512 domain",0,0
+2939,"Uncharacterized conserved protein YacL, UPF0231 family",1,0
+2940,Histidinol phosphatase or related hydrolase of the PHP family,0,1
+2941,K+-sensing histidine kinase KdpD,1,0
+2942,Thiosulfate reductase cytochrome b subunit,0,1
+2943,"Uncharacterized conserved protein, DUF2161 domain",1,0
+2944,Na+/proline symporter,0,1
+2945,"ABC-type multidrug transport system, ATPase component",0,2

@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Pyrimidine biosynthesis,0,2
+1,Lipoate biosynthesis,2,0
+2,Aminoacyl-tRNA synthetases,2,0
+3,Threonine biosynthesis,0,2
+4,Pyridoxal phosphate biosynthesis,1,1
+5,Menaquinone biosynthesis,0,1
+6,"TCA cycle, glyoxylate bypass",2,1
+7,Thiamine biosynthesis,0,3
+8,Cobalamine/B12 biosynthesis,0,2
+9,Glycolysis,3,0
+10,Purine biosynthesis,2,0
+11,tRNA modification,2,0
+12,2Fe2S,0,3
+13,Proline biosynthesis,2,0
+14,Pentose phosphate pathway,0,1
+15,Proline degradation,3,0
+16,Glycine cleavagePyruvate oxidation,2,1
+17,Asparagine biosynthesis,0,2
+18,TCA cycle,1,1
+19,NAD biosynthesis,0,2
+20,Heme biosynthesis,1,1
+21,Pyrimidine salvage,1,1
+22,Unannotated,0,2
+23,Fatty acid biosynthesis,1,1
+24,Mureine biosynthesis,2,0
+25,Aromatic amino acid biosynthesis,0,2
+26,Thymidylate biosynthesis,0,2
+27,Glycine cleavage,0,3
+28,Pyruvate oxidation,1,1
+29,Gluconeogenesis,1,2
+30,Serine biosynthesis,1,1
+31,Lysine biosynthesisTCA cycle,1,1
+32,23S rRNA modification,1,2
+33,RNA polymerase,1,1
+34,Ubiquinone biosynthesis,2,0
+35,Ribosome 50S subunit,3,0
+36,NADH dehydrogenase,3,0
+37,Pyrimidine degradation,0,2
+38,Urea cycle,1,0
+39,FoF1-type ATP synthase,2,0
+40,Purine salvage,0,1
+41,Molybdopterin biosynthesis,3,0
+42,Isoprenoid biosynthesis,2,0
+43,CRISPR-Cas system,1,1
+44,Pantothenate/CoA biosynthesis,2,1
+45,Translation factors,0,2
+46,Non-phosphorylated Entner-Doudoroff pathway,1,2
+47,Folate biosynthesis,2,0
+48,"Histidine biosynthesis, Purine biosynthesis",0,2
+49,A/V-type ATP synthase,0,2
+50,Biotin biosynthesis,1,1
+51,Cysteine biosynthesis,0,1
+52,Glutamine biosynthesis,0,3
+53,Riboflavin/FAD biosynthesis,0,1
+54,16S rRNA modification,0,2
+55,Arginine biosynthesis,1,1
+56,Histidine biosynthesis,2,1
+57,Na+-translocating NADH dehydrogenase,0,1
+58,Lipid A biosynthesis,0,3
+59,Entner-Doudoroff pathway,2,0
+60,3D,1,2
+61,Unknown,0,3
+62,Archaeal ribosomal proteins,1,2
+63,Lysine biosynthesis,2,1
+64,Methionine biosynthesis,1,2
+65,Ribosome 30S subunit,1,1
+66,"Isoleucine, leucine, valine biosynthesis",2,1
+67,Phospholipid biosynthesis,2,1
+68,Pyrimidine salvagetRNA modification,2,1
+69,Na+-translocating Fd:NADH oxidoreductase,1,1

@@ -1,0 +1,70 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Ubiquinone biosynthesis,2,4
+1,Non-phosphorylated Entner-Doudoroff pathway,2,4
+2,Lipid A biosynthesis,3,3
+3,Biotin biosynthesis,2,2
+4,Heme biosynthesis,1,2
+5,Pantothenate/CoA biosynthesis,1,1
+6,Lysine biosynthesis,4,2
+7,Pyridoxal phosphate biosynthesis,3,3
+8,Serine biosynthesis,3,3
+9,Photosystem I,3,2
+10,NADH dehydrogenase,3,3
+11,Cysteine biosynthesis,2,3
+12,2Fe2S,4,1
+13,Ribosome 50S subunit,5,1
+14,Folate biosynthesis,3,3
+15,Proline degradation,5,2
+16,Aromatic amino acid biosynthesis,2,4
+17,Translation factors,4,1
+18,Mureine biosynthesis,2,3
+19,Proline biosynthesis,2,4
+20,Menaquinone biosynthesis,4,2
+21,CRISPR-Cas system,4,1
+22,Pyruvate oxidation,3,3
+23,Arginine biosynthesis,4,0
+24,FoF1-type ATP synthase,3,2
+25,Urea cycle,4,1
+26,Gluconeogenesis,3,4
+27,"Histidine biosynthesis, Purine biosynthesis",6,1
+28,Fatty acid biosynthesis,2,3
+29,Purine salvage,3,3
+30,TCA cycle,1,4
+31,Aminoacyl-tRNA synthetases,0,6
+32,Pyrimidine degradation,2,1
+33,Pyrimidine biosynthesis,5,1
+34,Pyrimidine salvagetRNA modification,6,0
+35,Molybdopterin biosynthesis,4,2
+36,Thiamine biosynthesis,5,2
+37,Riboflavin/FAD biosynthesis,4,2
+38,"Isoleucine, leucine, valine biosynthesis",2,4
+39,Isoprenoid biosynthesis,2,3
+40,Photosystem II,4,3
+41,Phospholipid biosynthesis,1,5
+42,Cobalamine/B12 biosynthesis,1,0
+43,Lipoate biosynthesis,3,3
+44,23S rRNA modification,4,2
+45,"TCA cycle, glyoxylate bypass",1,5
+46,Na+-translocating Fd:NADH oxidoreductase,1,5
+47,Glycine cleavage,3,3
+48,Thymidylate biosynthesis,3,3
+49,tRNA modification,3,4
+50,Asparagine biosynthesis,1,5
+51,Na+-translocating NADH dehydrogenase,4,2
+52,Pentose phosphate pathway,3,2
+53,Glycine cleavagePyruvate oxidation,1,6
+54,Pyrimidine salvage,4,1
+55,Lysine biosynthesisTCA cycle,1,5
+56,Glycolysis,3,3
+57,Ribosome 30S subunit,3,3
+58,Threonine biosynthesis,2,3
+59,16S rRNA modification,4,2
+60,Purine biosynthesis,5,2
+61,Methionine biosynthesis,2,1
+62,NAD biosynthesis,2,3
+63,Entner-Doudoroff pathway,3,4
+64,3D,6,0
+65,Histidine biosynthesis,2,5
+66,Archaeal ribosomal proteins,2,3
+67,Glutamine biosynthesis,1,4
+68,A/V-type ATP synthase,1,6

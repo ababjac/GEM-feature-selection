@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,RNA polymerase,1,0
+1,Gluconeogenesis,2,1
+2,Ribosome 50S subunit,3,0
+3,"TCA cycle, glyoxylate bypass",2,0
+4,Thymidylate biosynthesis,2,1
+5,Pyrimidine salvage,2,0
+6,Fatty acid biosynthesis,2,1
+7,Lipoate biosynthesis,1,1
+8,Cysteine biosynthesis,2,0
+9,Arginine biosynthesis,0,3
+10,Photosystem II,2,1
+11,Pyridoxal phosphate biosynthesis,0,2
+12,Menaquinone biosynthesis,0,3
+13,Na+-translocating Fd:NADH oxidoreductase,2,1
+14,Glycine cleavagePyruvate oxidation,2,1
+15,Glycolysis,0,3
+16,Lysine biosynthesis,1,2
+17,Entner-Doudoroff pathway,1,2
+18,Archaeal ribosomal proteins,1,2
+19,Purine biosynthesis,1,2
+20,Non-phosphorylated Entner-Doudoroff pathway,2,1
+21,Lysine biosynthesisTCA cycle,0,2
+22,Proline biosynthesis,2,1
+23,Aromatic amino acid biosynthesis,1,2
+24,Pentose phosphate pathway,3,0
+25,Pyruvate oxidation,3,0
+26,A/V-type ATP synthase,1,2
+27,Pyrimidine degradation,0,3
+28,Folate biosynthesis,0,3
+29,NAD biosynthesis,0,1
+30,Riboflavin/FAD biosynthesis,0,1
+31,Urea cycle,0,3
+32,16S rRNA modification,1,0
+33,Pantothenate/CoA biosynthesis,3,0
+34,CRISPR-Cas system,0,2
+35,3D,3,0
+36,Na+-translocating NADH dehydrogenase,2,1
+37,Biotin biosynthesis,3,0
+38,Molybdopterin biosynthesis,2,1
+39,Heme biosynthesis,2,1
+40,Asparagine biosynthesis,3,0
+41,Thiamine biosynthesis,2,1
+42,Phospholipid biosynthesis,2,1
+43,Threonine biosynthesis,1,2
+44,FoF1-type ATP synthase,3,0
+45,Mureine biosynthesis,0,1
+46,Isoprenoid biosynthesis,1,1
+47,Lipid A biosynthesis,1,2
+48,Aminoacyl-tRNA synthetases,3,0
+49,Glycine cleavage,2,1
+50,Proline degradation,2,1
+51,Histidine biosynthesis,1,2
+52,TCA cycle,1,2
+53,"Isoleucine, leucine, valine biosynthesis",1,2
+54,Translation factors,2,1
+55,2Fe2S,1,2
+56,Pyrimidine biosynthesis,2,1
+57,Photosystem I,0,3
+58,Serine biosynthesis,3,0
+59,NADH dehydrogenase,1,2
+60,Purine salvage,3,0
+61,Pyrimidine salvagetRNA modification,1,2
+62,"Histidine biosynthesis, Purine biosynthesis",2,0
+63,Cobalamine/B12 biosynthesis,1,2
+64,23S rRNA modification,2,0
+65,Ribosome 30S subunit,0,2
+66,tRNA modification,2,1
+67,Glutamine biosynthesis,2,1
+68,Methionine biosynthesis,1,1
+69,Ubiquinone biosynthesis,1,2

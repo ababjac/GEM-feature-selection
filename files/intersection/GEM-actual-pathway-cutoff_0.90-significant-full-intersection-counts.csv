@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,3D,2,1
+1,Glycine cleavagePyruvate oxidation,2,2
+2,Pentose phosphate pathway,0,4
+3,2Fe2S,3,0
+4,Na+-translocating NADH dehydrogenase,1,2
+5,A/V-type ATP synthase,2,1
+6,Folate biosynthesis,3,0
+7,Na+-translocating Fd:NADH oxidoreductase,2,1
+8,Urea cycle,2,1
+9,Archaeal ribosomal proteins,3,1
+10,tRNA modification,0,4
+11,Isoprenoid biosynthesis,1,1
+12,CRISPR-Cas system,0,3
+13,Aromatic amino acid biosynthesis,0,3
+14,Menaquinone biosynthesis,1,1
+15,NAD biosynthesis,1,2
+16,Ribosome 50S subunit,0,4
+17,Gluconeogenesis,1,1
+18,Unknown,4,0
+19,Ubiquinone biosynthesis,4,0
+20,Pyrimidine salvagetRNA modification,2,0
+21,Non-phosphorylated Entner-Doudoroff pathway,0,3
+22,Purine biosynthesis,0,3
+23,Cobalamine/B12 biosynthesis,3,0
+24,Heme biosynthesis,0,4
+25,Aminoacyl-tRNA synthetases,2,2
+26,Riboflavin/FAD biosynthesis,0,3
+27,Lysine biosynthesisTCA cycle,1,2
+28,Pyrimidine biosynthesis,0,3
+29,Phospholipid biosynthesis,2,2
+30,Ribosome 30S subunit,3,0
+31,Threonine biosynthesis,1,3
+32,Entner-Doudoroff pathway,3,1
+33,Serine biosynthesis,2,2
+34,"Histidine biosynthesis, Purine biosynthesis",0,3
+35,Pantothenate/CoA biosynthesis,2,0
+36,Glutamine biosynthesis,0,2
+37,Molybdopterin biosynthesis,2,2
+38,Unannotated,3,1
+39,Asparagine biosynthesis,2,1
+40,Arginine biosynthesis,2,2
+41,Cysteine biosynthesis,1,3
+42,FoF1-type ATP synthase,0,3
+43,23S rRNA modification,0,3
+44,TCA cycle,1,2
+45,Lipoate biosynthesis,0,4
+46,Biotin biosynthesis,0,3
+47,Proline degradation,0,3
+48,Methionine biosynthesis,2,2
+49,Pyrimidine salvage,2,2
+50,Mureine biosynthesis,2,1
+51,Translation factors,0,2
+52,Glycine cleavage,4,0
+53,Lysine biosynthesis,3,1
+54,Pyrimidine degradation,1,2
+55,RNA polymerase,3,0
+56,Proline biosynthesis,1,2
+57,Thymidylate biosynthesis,2,2
+58,16S rRNA modification,0,3
+59,Histidine biosynthesis,3,0
+60,Purine salvage,1,2
+61,Glycolysis,1,2
+62,"TCA cycle, glyoxylate bypass",0,2
+63,"Isoleucine, leucine, valine biosynthesis",3,0
+64,Pyruvate oxidation,1,2
+65,NADH dehydrogenase,0,3
+66,Lipid A biosynthesis,1,3
+67,Thiamine biosynthesis,2,2
+68,Pyridoxal phosphate biosynthesis,3,1
+69,Fatty acid biosynthesis,4,0

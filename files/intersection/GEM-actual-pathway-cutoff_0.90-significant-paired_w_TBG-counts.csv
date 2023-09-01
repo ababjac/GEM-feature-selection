@@ -1,0 +1,71 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,tRNA modification,0,4
+1,Methionine biosynthesis,2,2
+2,Thymidylate biosynthesis,2,2
+3,Heme biosynthesis,0,4
+4,Mureine biosynthesis,2,1
+5,Molybdopterin biosynthesis,2,2
+6,Cobalamine/B12 biosynthesis,3,0
+7,NAD biosynthesis,1,2
+8,Na+-translocating Fd:NADH oxidoreductase,2,1
+9,Unannotated,3,1
+10,Ribosome 30S subunit,3,0
+11,Urea cycle,2,1
+12,Riboflavin/FAD biosynthesis,0,3
+13,Archaeal ribosomal proteins,3,1
+14,Fatty acid biosynthesis,4,0
+15,Pantothenate/CoA biosynthesis,2,0
+16,Serine biosynthesis,2,2
+17,Phospholipid biosynthesis,2,2
+18,Glycine cleavage,4,0
+19,3D,2,1
+20,RNA polymerase,3,0
+21,Biotin biosynthesis,0,3
+22,Pyridoxal phosphate biosynthesis,3,1
+23,Purine salvage,1,2
+24,Purine biosynthesis,0,3
+25,16S rRNA modification,0,3
+26,Pyruvate oxidation,1,2
+27,Cysteine biosynthesis,1,3
+28,Pyrimidine salvagetRNA modification,2,0
+29,Lysine biosynthesis,3,1
+30,Non-phosphorylated Entner-Doudoroff pathway,0,3
+31,Aminoacyl-tRNA synthetases,2,2
+32,Isoprenoid biosynthesis,1,1
+33,NADH dehydrogenase,0,3
+34,Glycolysis,1,2
+35,CRISPR-Cas system,0,3
+36,Thiamine biosynthesis,2,2
+37,Pyrimidine biosynthesis,0,3
+38,FoF1-type ATP synthase,0,3
+39,23S rRNA modification,0,3
+40,"TCA cycle, glyoxylate bypass",0,2
+41,"Isoleucine, leucine, valine biosynthesis",3,0
+42,Lipoate biosynthesis,0,4
+43,Threonine biosynthesis,1,3
+44,Glycine cleavagePyruvate oxidation,2,2
+45,"Histidine biosynthesis, Purine biosynthesis",0,3
+46,Asparagine biosynthesis,2,1
+47,A/V-type ATP synthase,2,1
+48,Menaquinone biosynthesis,1,1
+49,Glutamine biosynthesis,0,2
+50,Translation factors,0,2
+51,Entner-Doudoroff pathway,3,1
+52,Arginine biosynthesis,2,2
+53,2Fe2S,3,0
+54,Aromatic amino acid biosynthesis,0,3
+55,Gluconeogenesis,1,1
+56,Proline degradation,0,3
+57,Ribosome 50S subunit,0,4
+58,Lipid A biosynthesis,1,3
+59,Folate biosynthesis,3,0
+60,Unknown,4,0
+61,Histidine biosynthesis,3,0
+62,Pyrimidine salvage,2,2
+63,TCA cycle,1,2
+64,Proline biosynthesis,1,2
+65,Ubiquinone biosynthesis,4,0
+66,Na+-translocating NADH dehydrogenase,1,2
+67,Pyrimidine degradation,1,2
+68,Pentose phosphate pathway,0,4
+69,Lysine biosynthesisTCA cycle,1,2

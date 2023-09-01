@@ -1,0 +1,70 @@
+,feature_name,cultured_feature_counts,uncultured_feature_counts
+0,Mureine biosynthesis,2,1
+1,2Fe2S,2,0
+2,3D,3,0
+3,Lysine biosynthesis,2,1
+4,Archaeal ribosomal proteins,0,2
+5,"Histidine biosynthesis, Purine biosynthesis",2,1
+6,Translation factors,2,0
+7,Arginine biosynthesis,2,0
+8,Proline biosynthesis,2,1
+9,Entner-Doudoroff pathway,1,2
+10,Folate biosynthesis,3,0
+11,Pyrimidine biosynthesis,2,1
+12,16S rRNA modification,2,1
+13,Thiamine biosynthesis,3,0
+14,NADH dehydrogenase,1,2
+15,Menaquinone biosynthesis,3,0
+16,Pyrimidine salvage,2,1
+17,CRISPR-Cas system,2,1
+18,"Isoleucine, leucine, valine biosynthesis",1,2
+19,Fatty acid biosynthesis,1,1
+20,Pyrimidine degradation,2,1
+21,Ribosome 30S subunit,1,2
+22,Methionine biosynthesis,1,0
+23,Ribosome 50S subunit,3,0
+24,Pyrimidine salvagetRNA modification,3,0
+25,Asparagine biosynthesis,1,2
+26,Na+-translocating NADH dehydrogenase,1,2
+27,Riboflavin/FAD biosynthesis,3,0
+28,Aminoacyl-tRNA synthetases,0,3
+29,Lipid A biosynthesis,2,0
+30,Proline degradation,2,1
+31,Cysteine biosynthesis,1,2
+32,Cobalamine/B12 biosynthesis,1,0
+33,Purine salvage,3,0
+34,Purine biosynthesis,3,0
+35,Serine biosynthesis,2,1
+36,Ubiquinone biosynthesis,2,1
+37,Isoprenoid biosynthesis,1,1
+38,Glycolysis,2,1
+39,Threonine biosynthesis,1,2
+40,TCA cycle,0,2
+41,Lipoate biosynthesis,1,2
+42,23S rRNA modification,3,0
+43,Molybdopterin biosynthesis,2,1
+44,Lysine biosynthesisTCA cycle,0,3
+45,A/V-type ATP synthase,0,3
+46,Pentose phosphate pathway,2,0
+47,Thymidylate biosynthesis,2,1
+48,Glutamine biosynthesis,0,2
+49,Pyridoxal phosphate biosynthesis,1,2
+50,FoF1-type ATP synthase,0,2
+51,Glycine cleavagePyruvate oxidation,0,3
+52,Photosystem I,1,1
+53,Glycine cleavage,1,2
+54,Gluconeogenesis,0,3
+55,Heme biosynthesis,0,1
+56,"TCA cycle, glyoxylate bypass",1,2
+57,Histidine biosynthesis,1,2
+58,Urea cycle,2,0
+59,Na+-translocating Fd:NADH oxidoreductase,0,3
+60,Pantothenate/CoA biosynthesis,0,0
+61,Non-phosphorylated Entner-Doudoroff pathway,2,1
+62,Pyruvate oxidation,2,1
+63,Photosystem II,2,1
+64,Biotin biosynthesis,1,1
+65,Phospholipid biosynthesis,0,2
+66,NAD biosynthesis,1,2
+67,Aromatic amino acid biosynthesis,1,2
+68,tRNA modification,2,1
