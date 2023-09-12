@@ -1,0 +1,13 @@
+,Shuffled,Phylum Name,AUC,Accuracy,Precision,Recall
+0,No,Firmicutes,0.875,0.667,0.5,0.5
+1,No,Actinobacteriota,0.734,0.81,0.4,0.667
+2,No,Proteobacteria,0.918,0.93,0.794,0.9
+3,No,Cyanobacteria,1.0,1.0,1.0,1.0
+4,No,Thermoproteota,1.0,0.667,1.0,0.5
+5,No,Deinococcota,1.0,0.9,0.857,1.0
+6,Yes,Proteobacteria,0.573,0.566,0.242,0.5
+7,Yes,Actinobacteriota,0.47,0.595,0.077,0.167
+8,Yes,Firmicutes,0.5,0.333,0.0,0.0
+9,Yes,Deinococcota,0.458,0.7,0.714,0.833
+10,Yes,Thermoproteota,0.0,0.0,0.0,0.0
+11,Yes,Cyanobacteria,0.308,0.857,0.0,0.0

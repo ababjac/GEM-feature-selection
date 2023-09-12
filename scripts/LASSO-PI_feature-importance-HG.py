@@ -116,8 +116,8 @@ if __name__ == '__main__':
 
     phylum_list = set(list(data['phylum']))
 
-    print(phylum_list)
-    print(data)
+    #print(phylum_list)
+    #print(data)
     full_df = pd.DataFrame(columns=['phylum_name', 'feature_name', 'coef', 'coef_sd', 'lower_95', 'upper_95', 'count', 'significant', 'permutation_importance'])
     for phylum in phylum_list:
         if pd.isna(phylum):
@@ -125,22 +125,24 @@ if __name__ == '__main__':
 
         data1 = data[data['phylum'] == phylum]
 
+        label_strings = data1['cultured_level']
         print(phylum, ':', data1.shape)
         if data1.shape[0] < 10:
-            print('not enough data')
+            print('Cultured:  ', sum(label_strings == 'species'), 'Uncultured: ', sum(label_strings != 'species'))
+            print()
+     #       print('not enough data')
             continue
 
-        label_strings = data1['cultured_level']
         n_neighbors = 3
         
         print('Cultured:  ', sum(label_strings == 'species'), 'Uncultured: ', sum(label_strings != 'species'))
         print()
 
         if 'species' not in set(list(label_strings)):
-        #    print('Cultured:  0, Uncultured: ', len(label_strings))
-        #    print()
+            print('Cultured:  0, Uncultured: ', len(label_strings))
+            print()
             continue
-
+'''
         if (sum(label_strings == 'species') < 5) or (sum(label_strings != 'species') < 5):
             n_neighbors = 1
 
@@ -203,3 +205,4 @@ if __name__ == '__main__':
         full_df = full_df.append(LASSO_stats)
 
     full_df.to_csv(curr_dir+'/files/cutoff_0.95/HG/HG-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
+'''

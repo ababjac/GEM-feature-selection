@@ -1,0 +1,17 @@
+,Shuffled,Phylum Name,AUC,Accuracy,Precision,Recall
+0,No,Campylobacterota,0.0,0.5,0.667,0.667
+1,No,Firmicutes_C,0.743,0.751,0.983,0.753
+2,No,Verrucomicrobiota,1.0,1.0,1.0,1.0
+3,No,Firmicutes,0.887,0.959,0.995,0.964
+4,No,Actinobacteriota,0.964,0.956,0.993,0.958
+5,No,Firmicutes_A,0.852,0.844,0.945,0.863
+6,No,Bacteroidota,0.845,0.961,0.991,0.969
+7,No,Proteobacteria,0.924,0.981,0.992,0.988
+8,Yes,Verrucomicrobiota,0.115,0.629,0.975,0.639
+9,Yes,Proteobacteria,0.506,0.909,0.972,0.933
+10,Yes,Actinobacteriota,0.511,0.21,0.903,0.149
+11,Yes,Bacteroidota,0.572,0.209,1.0,0.191
+12,Yes,Campylobacterota,0.0,0.5,0.667,0.667
+13,Yes,Firmicutes_A,0.506,0.504,0.832,0.509
+14,Yes,Firmicutes,0.589,0.489,0.99,0.488
+15,Yes,Firmicutes_C,0.562,0.328,0.967,0.307

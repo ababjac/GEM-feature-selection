@@ -1,0 +1,43 @@
+Loading data...
+Fusobacteriota : (7, 84)
+Cultured:   5 Uncultured:  2
+
+Campylobacterota : (18, 84)
+Cultured:   12 Uncultured:  6
+
+Desulfobacterota_I : (8, 84)
+Cultured:   7 Uncultured:  1
+
+Firmicutes : (7102, 84)
+Cultured:   7018 Uncultured:  84
+
+Patescibacteria : (1, 84)
+Cultured:   0 Uncultured:  1
+
+Proteobacteria : (5409, 84)
+Cultured:   5258 Uncultured:  151
+
+Verrucomicrobiota : (306, 84)
+Cultured:   303 Uncultured:  3
+
+Bacteroidota : (3443, 84)
+Cultured:   3368 Uncultured:  75
+
+Firmicutes_C : (2007, 84)
+Cultured:   1919 Uncultured:  88
+
+Firmicutes_B : (6, 84)
+Cultured:   6 Uncultured:  0
+
+Actinobacteriota : (6188, 84)
+Cultured:   5638 Uncultured:  550
+
+Methanobacteriota : (1, 84)
+Cultured:   1 Uncultured:  0
+
+Cyanobacteria : (16, 84)
+Cultured:   0 Uncultured:  16
+
+Firmicutes_A : (7765, 84)
+Cultured:   6496 Uncultured:  1269
+
