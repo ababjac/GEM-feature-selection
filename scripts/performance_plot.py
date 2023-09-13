@@ -16,6 +16,7 @@ for f in files:
     df = pd.read_csv(f, index_col=0)
     sns.barplot(data=df, x='AUC', y='Phylum Name', hue='Shuffled', capsize=0.2, orient="h")
     plt.title('AUC Performance - '+data+' '+typ)
+    plt.legend(bbox_to_anchor=(1.02, 0.55), loc='upper left', borderaxespad=0)
     plt.tight_layout()
     plt.savefig(f.partition('.csv')[0].replace('files', 'figures')+'.png')
     plt.close()
