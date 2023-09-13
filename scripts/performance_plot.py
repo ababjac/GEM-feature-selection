@@ -11,5 +11,5 @@ for f in files:
     print(f)
     df = pd.read_csv(f, index_col=0)
     sns.barplot(data=df, x='Phylum Name', y='AUC', hue='Shuffled', capsize=0.2)
-    plt.savefig(f.partition('.csv')[0]+'.png')
+    plt.savefig(f.partition('.csv')[0].replace('files', 'figures')+'.png')
     plt.close()
