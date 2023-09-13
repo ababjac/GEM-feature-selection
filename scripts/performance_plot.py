@@ -11,6 +11,7 @@ for f in files:
     #print(f)
 
     data, _, typ = f.split('-')
+    data = data.split('/')[-1]
     typ = typ.partition('.')[0]
     df = pd.read_csv(f, index_col=0)
     sns.barplot(data=df, x='AUC', y='Phylum Name', hue='Shuffled', capsize=0.2, orient="h")
