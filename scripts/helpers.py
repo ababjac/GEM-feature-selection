@@ -66,8 +66,8 @@ def clean_data(data):
 
 #--------------------------------------------------------------------------------------------------#
 
-def split_and_scale_data(features, labels, test_size=0.3):
-    X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=test_size, stratify=labels, random_state=5)
+def split_and_scale_data(features, labels, test_size=0.3, random_state=5):
+    X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=test_size, stratify=labels, random_state=random_state)
     X_train_scaled, X_test_scaled = minmax_scale(X_train, X_test)
 
     return X_train_scaled, X_test_scaled, y_train, y_test

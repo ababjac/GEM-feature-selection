@@ -1,0 +1,280 @@
+Actinobacteriota:
+AUC: 0.982
+Accuracy: 0.981
+Precision: 0.996
+Recall: 0.982
+
+
+Actinobacteriota:
+AUC: 0.986
+Accuracy: 0.979
+Precision: 0.993
+Recall: 0.984
+
+
+Actinobacteriota:
+AUC: 0.951
+Accuracy: 0.981
+Precision: 0.988
+Recall: 0.99
+
+
+Actinobacteriota:
+AUC: 0.987
+Accuracy: 0.982
+Precision: 0.994
+Recall: 0.987
+
+
+Actinobacteriota:
+AUC: 0.992
+Accuracy: 0.985
+Precision: 0.995
+Recall: 0.989
+
+
+Bacteroidota:
+AUC: 0.929
+Accuracy: 0.993
+Precision: 0.996
+Recall: 0.997
+
+
+Bacteroidota:
+AUC: 0.963
+Accuracy: 0.99
+Precision: 0.994
+Recall: 0.996
+
+
+Bacteroidota:
+AUC: 0.931
+Accuracy: 0.991
+Precision: 0.996
+Recall: 0.996
+
+
+Bacteroidota:
+AUC: 0.925
+Accuracy: 0.98
+Precision: 0.994
+Recall: 0.985
+
+
+Bacteroidota:
+AUC: 0.929
+Accuracy: 0.985
+Precision: 0.996
+Recall: 0.99
+
+
+Proteobacteria:
+AUC: 0.927
+Accuracy: 0.982
+Precision: 0.996
+Recall: 0.985
+
+
+Proteobacteria:
+AUC: 0.961
+Accuracy: 0.984
+Precision: 0.993
+Recall: 0.99
+
+
+Proteobacteria:
+AUC: 0.961
+Accuracy: 0.979
+Precision: 0.998
+Recall: 0.98
+
+
+Proteobacteria:
+AUC: 0.972
+Accuracy: 0.966
+Precision: 0.997
+Recall: 0.968
+
+
+Proteobacteria:
+AUC: 0.943
+Accuracy: 0.982
+Precision: 0.996
+Recall: 0.985
+
+
+Firmicutes_A:
+AUC: 0.968
+Accuracy: 0.967
+Precision: 0.978
+Recall: 0.983
+
+
+Firmicutes_A:
+AUC: 0.983
+Accuracy: 0.974
+Precision: 0.988
+Recall: 0.982
+
+
+Firmicutes_A:
+AUC: 0.975
+Accuracy: 0.974
+Precision: 0.986
+Recall: 0.982
+
+
+Firmicutes_A:
+AUC: 0.981
+Accuracy: 0.975
+Precision: 0.984
+Recall: 0.986
+
+
+Firmicutes_A:
+AUC: 0.969
+Accuracy: 0.969
+Precision: 0.979
+Recall: 0.985
+
+
+Verrucomicrobiota:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Verrucomicrobiota:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Verrucomicrobiota:
+AUC: 0.992
+Accuracy: 0.984
+Precision: 1.0
+Recall: 0.984
+
+
+Verrucomicrobiota:
+AUC: 0.992
+Accuracy: 0.984
+Precision: 1.0
+Recall: 0.984
+
+
+Verrucomicrobiota:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Firmicutes_C:
+AUC: 0.948
+Accuracy: 0.963
+Precision: 0.984
+Recall: 0.977
+
+
+Firmicutes_C:
+AUC: 0.841
+Accuracy: 0.968
+Precision: 0.979
+Recall: 0.987
+
+
+Firmicutes_C:
+AUC: 0.952
+Accuracy: 0.955
+Precision: 0.987
+Recall: 0.966
+
+
+Firmicutes_C:
+AUC: 0.995
+Accuracy: 0.955
+Precision: 1.0
+Recall: 0.953
+
+
+Firmicutes_C:
+AUC: 0.869
+Accuracy: 0.96
+Precision: 0.984
+Recall: 0.974
+
+
+Campylobacterota:
+AUC: 0.667
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.667
+
+
+Campylobacterota:
+AUC: 1.0
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.667
+
+
+Campylobacterota:
+AUC: 0.667
+Accuracy: 0.5
+Precision: 0.667
+Recall: 0.667
+
+
+Campylobacterota:
+AUC: 1.0
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+
+
+Campylobacterota:
+AUC: 0.5
+Accuracy: 0.5
+Precision: 0.667
+Recall: 0.667
+
+
+Firmicutes:
+AUC: 0.866
+Accuracy: 0.975
+Precision: 0.994
+Recall: 0.981
+
+
+Firmicutes:
+AUC: 0.89
+Accuracy: 0.976
+Precision: 0.994
+Recall: 0.981
+
+
+Firmicutes:
+AUC: 0.814
+Accuracy: 0.986
+Precision: 0.995
+Recall: 0.991
+
+
+Firmicutes:
+AUC: 0.783
+Accuracy: 0.985
+Precision: 0.993
+Recall: 0.992
+
+
+Firmicutes:
+AUC: 0.926
+Accuracy: 0.979
+Precision: 0.996
+Recall: 0.983
+
+

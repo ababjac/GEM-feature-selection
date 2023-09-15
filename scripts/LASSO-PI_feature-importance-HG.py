@@ -22,7 +22,8 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
     model = BaggingRegressor(base_estimator=lasso, n_estimators=50, bootstrap=True, verbose=0, random_state=random_state)
 
     model.fit(X_train_scaled, y_train)
-
+    return model
+'''
     feature_names = list(set(X_train.columns.tolist()))
     counts = dict.fromkeys(feature_names, 0)
     coefs = dict(zip(feature_names, ([] for _ in feature_names)))
@@ -83,18 +84,19 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
        LASSO_test = X_test_scaled
 
     return LASSO_train, LASSO_test, output, model
-
+'''
 
 #--------------------------------------------------------------------------------------------------#
 
-SHUF = 'actual'
-DATA = 'pathway'
+SHUF = 'shuffled'
+DATA = 'annotation'
 
 if __name__ == '__main__':
 
     print('Loading data...')
-    f = open('./files/cutoff_0.95/HG/HG-{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
+    #f = open('./files/cutoff_0.95/HG/HG-{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
     curr_dir = os.getcwd()
+    f = open(curr_dir+'/files/benchmarking/EHG-{}-{}.txt'.format(SHUF, DATA), 'w+')
 
     meta_file = curr_dir+'/data/human_gut_data/COG_counts/early_human_gut_cultured_level_taxa.csv'
     path_file = curr_dir+'/data/human_gut_data/COG_counts/early_human_gut_pathway_count.csv'
@@ -118,7 +120,7 @@ if __name__ == '__main__':
 
     #print(phylum_list)
     #print(data)
-    full_df = pd.DataFrame(columns=['phylum_name', 'feature_name', 'coef', 'coef_sd', 'lower_95', 'upper_95', 'count', 'significant', 'permutation_importance'])
+    #full_df = pd.DataFrame(columns=['phylum_name', 'feature_name', 'coef', 'coef_sd', 'lower_95', 'upper_95', 'count', 'significant', 'permutation_importance'])
     for phylum in phylum_list:
         if pd.isna(phylum):
             continue
@@ -128,21 +130,21 @@ if __name__ == '__main__':
         label_strings = data1['cultured_level']
         print(phylum, ':', data1.shape)
         if data1.shape[0] < 10:
-            print('Cultured:  ', sum(label_strings == 'species'), 'Uncultured: ', sum(label_strings != 'species'))
-            print()
+       #     print('Cultured:  ', sum(label_strings == 'species'), 'Uncultured: ', sum(label_strings != 'species'))
+       #     print()
      #       print('not enough data')
             continue
 
         n_neighbors = 3
         
-        print('Cultured:  ', sum(label_strings == 'species'), 'Uncultured: ', sum(label_strings != 'species'))
-        print()
+      #  print('Cultured:  ', sum(label_strings == 'species'), 'Uncultured: ', sum(label_strings != 'species'))
+      #  print()
 
         if 'species' not in set(list(label_strings)):
-            print('Cultured:  0, Uncultured: ', len(label_strings))
-            print()
+    #        print('Cultured:  0, Uncultured: ', len(label_strings))
+     #       print()
             continue
-'''
+
         if (sum(label_strings == 'species') < 5) or (sum(label_strings != 'species') < 5):
             n_neighbors = 1
 
@@ -179,30 +181,31 @@ if __name__ == '__main__':
         if SHUF == 'shuffled':
             features = shuffle(features) #do random shuffle
 
-        print('Pre-preprocessing data...')
-        features = helpers.clean_data(features)
-        X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels, test_size=0.2)
-        X_train, y_train = helpers.perform_SMOTE(X_train, y_train, k_neighbors=n_neighbors)
+        for i in range(10002, 10007):
+            print('Pre-preprocessing data...')
+            features = helpers.clean_data(features)
+            X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels, test_size=0.2, random_state=i)
+            X_train, y_train = helpers.perform_SMOTE(X_train, y_train, k_neighbors=n_neighbors)
 
-        print('Running LASSO...')
-        X_train_reduced, X_test_reduced, LASSO_stats, model = run_LASSO(X_train, X_test, y_train, y_test, phylum)
-        LASSO_stats.sort_values('permutation_importance', ascending=False, ignore_index=True, inplace=True)
-        y_pred = model.predict(X_test)
-        y_pred_binary = [0 if elem <= 0.5 else 1 for elem in y_pred]
+            print('Running LASSO...')
+            #X_train_reduced, X_test_reduced, LASSO_stats, 
+            model = run_LASSO(X_train, X_test, y_train, y_test, phylum)
+            #LASSO_stats.sort_values('permutation_importance', ascending=False, ignore_index=True, inplace=True)
+            y_pred = model.predict(X_test)
+            y_pred_binary = [0 if elem <= 0.5 else 1 for elem in y_pred]
 
-        auc = roc_auc_score(y_test, y_pred)
-        acc = accuracy_score(y_test, y_pred_binary)
-        prec = precision_score(y_test, y_pred_binary)
-        rec = recall_score(y_test, y_pred_binary)
+            auc = roc_auc_score(y_test, y_pred)
+            acc = accuracy_score(y_test, y_pred_binary)
+            prec = precision_score(y_test, y_pred_binary)
+            rec = recall_score(y_test, y_pred_binary)
 
-        f.write(phylum+':\n')
-        f.write('AUC: '+str(round(auc, 3))+'\n')
-        f.write('Accuracy: '+str(round(acc, 3))+'\n')
-        f.write('Precision: '+str(round(prec, 3))+'\n')
-        f.write('Recall: '+str(round(rec, 3))+'\n')
-        f.write('\n\n')
+            f.write(phylum+':\n')
+            f.write('AUC: '+str(round(auc, 3))+'\n')
+            f.write('Accuracy: '+str(round(acc, 3))+'\n')
+            f.write('Precision: '+str(round(prec, 3))+'\n')
+            f.write('Recall: '+str(round(rec, 3))+'\n')
+            f.write('\n\n')
 
-        full_df = full_df.append(LASSO_stats)
+        #full_df = full_df.append(LASSO_stats)
 
-    full_df.to_csv(curr_dir+'/files/cutoff_0.95/HG/HG-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
-'''
+    #full_df.to_csv(curr_dir+'/files/cutoff_0.95/HG/HG-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))

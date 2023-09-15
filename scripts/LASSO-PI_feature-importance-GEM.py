@@ -22,7 +22,8 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
     model = BaggingRegressor(base_estimator=lasso, n_estimators=50, bootstrap=True, verbose=0, random_state=random_state)
 
     model.fit(X_train_scaled, y_train)
-
+    return model
+'''
     feature_names = list(set(X_train.columns.tolist()))
     counts = dict.fromkeys(feature_names, 0)
     coefs = dict(zip(feature_names, ([] for _ in feature_names)))
@@ -83,7 +84,7 @@ def run_LASSO(X_train_scaled, X_test_scaled, y_train, y_test, phylum=None, param
        LASSO_test = X_test_scaled
 
     return LASSO_train, LASSO_test, output, model
-
+'''
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -94,7 +95,8 @@ if __name__ == '__main__':
 
     print('Loading data...')
     curr_dir = os.getcwd()
-    f = open(curr_dir+'/files/cutoff_0.90/GEM/GEM-{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
+    #f = open(curr_dir+'/files/cutoff_0.90/GEM/GEM-{}-by-phylum-{}-LASSO-metrics-SMOTE.log.txt'.format(SHUF, DATA), 'w+') #open log file
+    f = open(curr_dir+'/files/benchmarking/GEM-{}-{}.txt'.format(SHUF, DATA), 'w+')
 
     meta_file = curr_dir+'/data/GEM_data/GEM_metadata.tsv'
     path_file = curr_dir+'/data/GEM_data/pathway_features_counts_wide.tsv'
@@ -114,7 +116,7 @@ if __name__ == '__main__':
 
     phylum_list = set(list(data['phylum']))
 
-    full_df = pd.DataFrame(columns=['phylum_name', 'feature_name', 'coef', 'coef_sd', 'lower_95', 'upper_95', 'count', 'significant', 'permutation_importance'])
+    #full_df = pd.DataFrame(columns=['phylum_name', 'feature_name', 'coef', 'coef_sd', 'lower_95', 'upper_95', 'count', 'significant', 'permutation_importance'])
     for phylum in phylum_list:
         if pd.isna(phylum):
             continue
@@ -160,29 +162,31 @@ if __name__ == '__main__':
         if SHUF == 'shuffled':
             features = shuffle(features) #do random shuffle
 
-        print('Pre-preprocessing data...')
-        features = helpers.clean_data(features)
-        X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels, test_size=0.2)
-        X_train, y_train = helpers.perform_SMOTE(X_train, y_train)
+        for i in range(10002, 10007): #5 benchmarking runs
+            print('Pre-preprocessing data...')
+            features = helpers.clean_data(features)
+            X_train, X_test, y_train, y_test = helpers.split_and_scale_data(features, labels, test_size=0.2, random_state=i)
+            X_train, y_train = helpers.perform_SMOTE(X_train, y_train)
 
-        print('Running LASSO...')
-        X_train_reduced, X_test_reduced, LASSO_stats, model = run_LASSO(X_train, X_test, y_train, y_test, phylum)
-        LASSO_stats.sort_values('permutation_importance', ascending=False, ignore_index=True, inplace=True)
-        y_pred = model.predict(X_test)
-        y_pred_binary = [0 if elem <= 0.5 else 1 for elem in y_pred]
+            print('Running LASSO...')
+            #X_train_reduced, X_test_reduced, LASSO_stats, 
+            model = run_LASSO(X_train, X_test, y_train, y_test, phylum)
+            #LASSO_stats.sort_values('permutation_importance', ascending=False, ignore_index=True, inplace=True)
+            y_pred = model.predict(X_test)
+            y_pred_binary = [0 if elem <= 0.5 else 1 for elem in y_pred]
 
-        auc = roc_auc_score(y_test, y_pred)
-        acc = accuracy_score(y_test, y_pred_binary)
-        prec = precision_score(y_test, y_pred_binary)
-        rec = recall_score(y_test, y_pred_binary)
+            auc = roc_auc_score(y_test, y_pred)
+            acc = accuracy_score(y_test, y_pred_binary)
+            prec = precision_score(y_test, y_pred_binary)
+            rec = recall_score(y_test, y_pred_binary)
 
-        f.write(phylum+':\n')
-        f.write('AUC: '+str(round(auc, 3))+'\n')
-        f.write('Accuracy: '+str(round(acc, 3))+'\n')
-        f.write('Precision: '+str(round(prec, 3))+'\n')
-        f.write('Recall: '+str(round(rec, 3))+'\n')
-        f.write('\n\n')
+            f.write(phylum+':\n')
+            f.write('AUC: '+str(round(auc, 3))+'\n')
+            f.write('Accuracy: '+str(round(acc, 3))+'\n')
+            f.write('Precision: '+str(round(prec, 3))+'\n')
+            f.write('Recall: '+str(round(rec, 3))+'\n')
+            f.write('\n\n')
 
-        full_df = full_df.append(LASSO_stats)
+        #full_df = full_df.append(LASSO_stats)
 
-    full_df.to_csv(curr_dir+'/files/cutoff_0.90/GEM/GEM-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
+    #full_df.to_csv(curr_dir+'/files/cutoff_0.90/GEM/GEM-{}-bootstrapped-by-phylum-{}-LASSO-stats-SMOTE.csv'.format(SHUF, DATA))
